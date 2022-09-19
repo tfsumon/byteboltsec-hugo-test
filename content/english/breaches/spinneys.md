@@ -1,0 +1,16 @@
+---
+date: "2022-07-21"
+title: "Spinneys"
+image: "images/blog/Breaches.png"
+author: "Breachsense Support"
+draft: false
+---
+
+| Data Breach Report           |              | 
+| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Victim      | spinneys.com      | 
+| Threat Actor      | CL0P      | 
+| Date Discovered      | Jul 21, 2022      | 
+| Description      | Spinneys is a multinational supermarket chain active in the United Arab Emirates, Egypt, Qatar, Lebanon, Oman and Pakistan.       | 
+| Leak Size      | N/A      | 
+

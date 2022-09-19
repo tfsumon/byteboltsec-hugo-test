@@ -1,0 +1,16 @@
+---
+date: "2022-09-14"
+title: "Hudson Contract"
+image: "images/blog/Breaches.png"
+author: "Breachsense Support"
+draft: false
+---
+
+| Data Breach Report           |              | 
+| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Victim      | hudsoncontract.co.uk      | 
+| Threat Actor      | LockBit      | 
+| Date Discovered      | Sep 14, 2022      | 
+| Description      | Audit and CIS contract services      | 
+| Leak Size      | 120GB      | 
+

@@ -1,0 +1,16 @@
+---
+date: "2022-03-21"
+title: "danubius-exim.ro"
+image: "images/blog/Breaches.png"
+author: "Breachsense Support"
+draft: false
+---
+
+| Data Breach Report         |              | 
+| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Victim    | danubius-exim.ro      | 
+| Threat Actor    | LockBit      | 
+| Date Discovered    | Mar 21, 2022      | 
+| Description    | N/A      | 
+| Leak Size    | N/A      | 
+

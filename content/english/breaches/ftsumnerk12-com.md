@@ -1,0 +1,16 @@
+---
+date: "2022-05-29"
+title: "Fort Sumner Municipal Schools"
+image: "images/blog/Breaches.png"
+author: "Breachsense Support"
+draft: false
+---
+
+| Data Breach Report         |              | 
+| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Victim    | ftsumnerk12.com      | 
+| Threat Actor    | CL0P      | 
+| Date Discovered    | May 29, 2022      | 
+| Description    | N/A      | 
+| Leak Size    | N/A      | 
+

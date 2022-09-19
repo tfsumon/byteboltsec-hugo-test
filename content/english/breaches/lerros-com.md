@@ -1,0 +1,16 @@
+---
+date: "2022-04-11"
+title: "lerros.com"
+image: "images/blog/Breaches.png"
+author: "Breachsense Support"
+draft: false
+---
+
+| Data Breach Report         |              | 
+| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Victim    | lerros.com      | 
+| Threat Actor    | LockBit      | 
+| Date Discovered    | Apr 11, 2022      | 
+| Description    | N/A      | 
+| Leak Size    | N/A      | 
+

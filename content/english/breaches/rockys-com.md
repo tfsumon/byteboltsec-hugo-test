@@ -1,0 +1,16 @@
+---
+date: "2021-06-30"
+title: "rockys.com"
+image: "images/blog/Breaches.png"
+author: "Breachsense Support"
+draft: false
+---
+
+| Data Breach Report         |              | 
+| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Victim    | rockys.com      | 
+| Threat Actor    | Hive      | 
+| Date Discovered    | Jun 30, 2021      | 
+| Description    | N/A      | 
+| Leak Size    | N/A      | 
+

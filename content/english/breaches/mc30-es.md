@@ -1,0 +1,16 @@
+---
+date: "2022-02-26"
+title: "mc30.es"
+image: "images/blog/Breaches.png"
+author: "Breachsense Support"
+draft: false
+---
+
+| Data Breach Report         |              | 
+| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Victim    | mc30.es      | 
+| Threat Actor    | ALPHV      | 
+| Date Discovered    | Feb 26, 2022      | 
+| Description    | N/A      | 
+| Leak Size    | N/A      | 
+

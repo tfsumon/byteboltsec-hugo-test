@@ -1,0 +1,16 @@
+---
+date: "2021-09-25"
+title: "careersportal.ie"
+image: "images/blog/Breaches.png"
+author: "Breachsense Support"
+draft: false
+---
+
+| Data Breach Report         |              | 
+| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Victim    | careersportal.ie      | 
+| Threat Actor    | RaidForums      | 
+| Date Discovered    | Sep 25, 2021      | 
+| Description    | N/A      | 
+| Leak Size    | N/A      | 
+

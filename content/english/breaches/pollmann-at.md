@@ -1,0 +1,16 @@
+---
+date: "2022-03-27"
+title: "pollmann.at"
+image: "images/blog/Breaches.png"
+author: "Breachsense Support"
+draft: false
+---
+
+| Data Breach Report         |              | 
+| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Victim    | pollmann.at      | 
+| Threat Actor    | HiveLeaks      | 
+| Date Discovered    | Mar 27, 2022      | 
+| Description    | N/A      | 
+| Leak Size    | N/A      | 
+

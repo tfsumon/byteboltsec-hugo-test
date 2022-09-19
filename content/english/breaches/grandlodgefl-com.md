@@ -1,0 +1,16 @@
+---
+date: "2020-08-06"
+title: "grandlodgefl.com"
+image: "images/blog/Breaches.png"
+author: "Breachsense Support"
+draft: false
+---
+
+| Data Breach Report         |              | 
+| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Victim    | grandlodgefl.com      | 
+| Threat Actor    | Pysa      | 
+| Date Discovered    | Aug 06, 2020      | 
+| Description    | N/A      | 
+| Leak Size    | N/A      | 
+

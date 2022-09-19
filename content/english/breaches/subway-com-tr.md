@@ -1,0 +1,16 @@
+---
+date: "2021-08-12"
+title: "subway.com.tr"
+image: "images/blog/Breaches.png"
+author: "Breachsense Support"
+draft: false
+---
+
+| Data Breach Report         |              | 
+| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Victim    | subway.com.tr      | 
+| Threat Actor    | RaidForums      | 
+| Date Discovered    | Aug 12, 2021      | 
+| Description    | N/A      | 
+| Leak Size    | N/A      | 
+

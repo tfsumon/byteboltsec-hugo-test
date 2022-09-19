@@ -1,0 +1,16 @@
+---
+date: "2022-09-04"
+title: "Baers"
+image: "images/blog/Breaches.png"
+author: "Breachsense Support"
+draft: false
+---
+
+| Data Breach Report           |              | 
+| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Victim      | baers.com      | 
+| Threat Actor      | BianLian      | 
+| Date Discovered      | Sep 04, 2022      | 
+| Description      | Founded in 1945, Baer’s is a furniture retail company. They provide different brands of home products, including furniture, mattresses, outdoor furniture, and other products.      | 
+| Leak Size      | N/A      | 
+

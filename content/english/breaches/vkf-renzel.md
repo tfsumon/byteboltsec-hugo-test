@@ -1,0 +1,16 @@
+---
+date: "2022-07-07"
+title: "VKF Renzel"
+image: "images/blog/Breaches.png"
+author: "Breachsense Support"
+draft: false
+---
+
+| Data Breach Report           |              | 
+| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Victim      | vkf-renzel.com      | 
+| Threat Actor      |  BlackBasta     | 
+| Date Discovered      | Jul 07, 2022      | 
+| Description      | VKF Renzel GmbH has over 30 years worth of experience and expertise throughout the entire sales promotion industry.      | 
+| Leak Size      | N/A      | 
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Breachsense - Illuminate the Dark Web</title>
+    <link>https://www.breachsense.io/blog/</link>
+    <description>Recent content in Blogs on Breachsense - Illuminate the Dark Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copywrite © 2022</copyright>
+    <lastBuildDate>Sun, 17 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.breachsense.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Monitoring the Dark Web</title>
+      <link>https://www.breachsense.io/blog/monitoring-the-dark-web/</link>
+      <pubDate>Sun, 17 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.breachsense.io/blog/monitoring-the-dark-web/</guid>
+      <description>Your firewalls, WAFs and IDSes are locked down. Your annual pen testing came out clean.</description>
+    </item>
+    
+  </channel>
+</rss>

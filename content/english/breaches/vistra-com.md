@@ -1,0 +1,16 @@
+---
+date: "2021-01-28"
+title: "vistra.com"
+image: "images/blog/Breaches.png"
+author: "Breachsense Support"
+draft: false
+---
+
+| Data Breach Report         |              | 
+| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Victim    | vistra.com      | 
+| Threat Actor    | Conti      | 
+| Date Discovered    | Jan 28, 2021      | 
+| Description    | N/A      | 
+| Leak Size    | N/A      | 
+

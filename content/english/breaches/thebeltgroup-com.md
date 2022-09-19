@@ -1,0 +1,16 @@
+---
+date: "2021-01-25"
+title: "thebeltgroup.com"
+image: "images/blog/Breaches.png"
+author: "Breachsense Support"
+draft: false
+---
+
+| Data Breach Report         |              | 
+| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Victim    | thebeltgroup.com      | 
+| Threat Actor    | Conti      | 
+| Date Discovered    | Jan 25, 2021      | 
+| Description    | N/A      | 
+| Leak Size    | N/A      | 
+

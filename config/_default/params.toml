@@ -1,0 +1,106 @@
+#################### default parameters ################################
+# favicon
+favicon = "images/favicon.png"
+# logo
+logo = "images/logo.png"
+# use `x` with logo_width, example: "100x"
+logo_width = "240x"
+# logo text will only show when logo is missing.
+logo_text = "Breachsense"
+# image gallery shortcode
+image_gallery = true
+
+# footer information
+#footer_info = "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat."
+
+# contact form action
+#contact_form_action = "https://formspree.io/f/xgernlzd" # contact form works with https://formspree.io
+contact_form_action = "https://api.breachsense.io/reg" # contact form works with https://formspree.io
+
+# career form action
+career_form_action = "#" # career form works with https://formspree.io
+
+# custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
+custom_script= "" 
+
+# Main Sections
+mainSections= ["blog"]
+breachSections= ["breaches"]
+
+# contact information
+
+# imaging processing
+[imaging]
+# Default JPEG or WebP quality setting. Default is 100.
+quality = 100
+
+# Preloader
+[preloader]
+enable = true
+preloader = "images/favicon.png" # use jpg, png, svg or gif format.
+
+# Navigation button
+[navigation_button]
+enable = false
+label = "Get a demo"
+link = "contact/"
+
+# seo meta data for OpenGraph / Twitter Card
+[metadata]
+keywords = ["data breach monitoring", "ransomware prevention", "Breachsense"]
+description = "Illuminating the criminal underground"
+author = "Breachsense"
+
+# matomo tracking: see https://matomo.org/
+[matomo]
+enable = false
+url = "" # your matomo url
+id = "" # your matomo id
+
+# baidu analytics: see https://tongji.baidu.com/
+[baidu]
+enable = false
+analytics_id = "" # Your ID
+
+# plausible analytics: see https://plausible.io/
+[plausible]
+enable = false
+domain = "" # yourdomain.com
+
+# counter analytics: see https://counter.dev/setup.html
+[counter]
+enable = false
+username = "" # your username
+
+# site verifications
+[site_verification]
+google = "" # Your verification code
+bing = "" # Your verification code
+baidu = "" # Your verification code
+facebook = "" # Your verification code
+
+# cookies
+[cookies]
+enable = false
+expire_days = 2
+content = "This site uses cookies. By continuing to use this website, you agree to their use."
+button = "I Accept"
+
+# call-to-action
+[cta]
+enable = false
+title = "Helping teams in the world with focus"
+content = "ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
+button = "Download The Theme"
+button_link = "/"
+
+############################# social site ########################
+#[[social]]
+#title = "AndromedaTweet"
+#icon = "lab la-twitter" # https://icons8.com/line-awesome
+#link = "#!"
+
+#[[social]]
+#title = "AndromedaIn"
+#icon = "lab la-linkedin-in" # https://icons8.com/line-awesome
+#link = "#!"

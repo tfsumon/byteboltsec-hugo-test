@@ -1,0 +1,46 @@
+[build]
+  publish = "public"
+  command = "hugo --minify --gc"
+  
+[build.environment]
+  HUGO_VERSION = "0.87.0"
+  HUGO_BASEURL = "/"
+  HUGO_ENVIRONMENT = "production"
+[[headers]]
+  for = "/*" # This defines which paths this specific [[headers]] block will cover.
+
+[headers.values]
+  X-Frame-Options = "DENY"
+  X-XSS-Protection = "1; mode=block"
+  Referrer-Policy = "same-origin"
+  Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
+
+[[redirects]]
+  from = "/creds"
+  to = "https://api.breachsense.io/creds"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/darkweb"
+  to = "https://api.breachsense.io/darkweb"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/stealer"
+  to = "https://api.breachsense.io/stealer"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/api"
+  to = "https://api.breachsense.io/creds"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/api3"
+  to = "https://api.breachsense.io/api3"
+  status = 301
+  force = false

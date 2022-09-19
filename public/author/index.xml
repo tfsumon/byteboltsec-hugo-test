@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Breachsense - Illuminate the Dark Web</title>
+    <link>https://www.breachsense.io/author/</link>
+    <description>Recent content in Authors on Breachsense - Illuminate the Dark Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copywrite © 2022</copyright><atom:link href="https://www.breachsense.io/author/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Josh Amishav</title>
+      <link>https://www.breachsense.io/author/josh-amishav/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.breachsense.io/author/josh-amishav/</guid>
+      <description>Founder of Breachsense, because everyone deserve&amp;rsquo;s good internet security. Previously a pen tester, red teamer &amp;amp; FOSS developer.</description>
+    </item>
+    
+  </channel>
+</rss>

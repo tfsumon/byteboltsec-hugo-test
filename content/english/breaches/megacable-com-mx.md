@@ -1,0 +1,16 @@
+---
+date: "2022-02-13"
+title: "megacable.com.mx"
+image: "images/blog/Breaches.png"
+author: "Breachsense Support"
+draft: false
+---
+
+| Data Breach Report         |              | 
+| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Victim    | megacable.com.mx      | 
+| Threat Actor    | RaidForums      | 
+| Date Discovered    | Feb 13, 2022      | 
+| Description    | N/A      | 
+| Leak Size    | N/A      | 
+

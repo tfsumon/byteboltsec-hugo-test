@@ -1,0 +1,16 @@
+---
+date: "2022-07-06"
+title: "Sinclair Wilson"
+image: "images/blog/Breaches.png"
+author: "Breachsense Support"
+draft: false
+---
+
+| Data Breach Report           |              | 
+| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Victim      | sinclairwilson.com.au      | 
+| Threat Actor      | ALPHV      | 
+| Date Discovered      | Jul 06, 2022      | 
+| Description      | Sinclair Wilson is a premier Accounting and Wealth Management Services firm.      | 
+| Leak Size      | 282GB      | 
+

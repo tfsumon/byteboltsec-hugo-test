@@ -1,0 +1,16 @@
+---
+date: "2022-09-06"
+title: "ZS"
+image: "images/blog/Breaches.png"
+author: "Breachsense Support"
+draft: false
+---
+
+| Data Breach Report           |              | 
+| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Victim      | zs.com      | 
+| Threat Actor      | ALPHV      | 
+| Date Discovered      | Sep 06, 2022      | 
+| Description      | ZS is a management consulting and technology firm focused on transforming global healthcare and beyond. Insights.      | 
+| Leak Size      | N/A      | 
+

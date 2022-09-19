@@ -1,0 +1,17 @@
+---
+date: "2022-06-03"
+title: "Acorn Recruitment"
+image: "images/blog/Breaches.png"
+author: "Breachsense Support"
+draft: false
+---
+
+| Data Breach Report         |              | 
+| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Victim    | acornpeople.com      | 
+| Threat Actor    | Vice Society      | 
+| Date Discovered    | Jun 03, 2022      | 
+| Description    | Acorn Recruitment, founded in 1992, is a recruitment and training company. They offer employers permanent, temporary and contract staffing solutions as well as super-price staffing solutions.
+    | 
+| Leak Size    | N/A      | 
+

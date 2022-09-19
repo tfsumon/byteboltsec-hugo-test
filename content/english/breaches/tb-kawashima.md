@@ -1,0 +1,16 @@
+---
+date: "2022-06-20"
+title: "TB Kawashima"
+image: "images/blog/Breaches.png"
+author: "Breachsense Support"
+draft: false
+---
+
+| Data Breach Report           |              | 
+| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Victim      | tb-kawashima.co.jp      | 
+| Threat Actor      | LockBit      | 
+| Date Discovered      | Jun 20, 2022      | 
+| Description      | Comprehensive interior material manufacturer.      | 
+| Leak Size      | N/A      | 
+

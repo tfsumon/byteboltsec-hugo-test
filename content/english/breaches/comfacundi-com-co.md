@@ -1,0 +1,16 @@
+---
+date: "2021-11-19"
+title: "comfacundi.com.co"
+image: "images/blog/Breaches.png"
+author: "Breachsense Support"
+draft: false
+---
+
+| Data Breach Report         |              | 
+| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Victim    | comfacundi.com.co      | 
+| Threat Actor    | LockBit      | 
+| Date Discovered    | Nov 19, 2021      | 
+| Description    | N/A      | 
+| Leak Size    | N/A      | 
+

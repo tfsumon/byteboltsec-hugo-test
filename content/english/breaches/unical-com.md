@@ -1,0 +1,16 @@
+---
+date: "2022-02-27"
+title: "unical.com"
+image: "images/blog/Breaches.png"
+author: "Breachsense Support"
+draft: false
+---
+
+| Data Breach Report         |              | 
+| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Victim    | unical.com      | 
+| Threat Actor    | AvosLocker      | 
+| Date Discovered    | Feb 27, 2022      | 
+| Description    | N/A      | 
+| Leak Size    | N/A      | 
+

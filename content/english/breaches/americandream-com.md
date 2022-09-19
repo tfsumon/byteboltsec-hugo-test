@@ -1,0 +1,16 @@
+---
+date: "2021-12-29"
+title: "americandream.com"
+image: "images/blog/Breaches.png"
+author: "Breachsense Support"
+draft: false
+---
+
+| Data Breach Report         |              | 
+| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Victim    | americandream.com      | 
+| Threat Actor    | Conti      | 
+| Date Discovered    | Dec 29, 2021      | 
+| Description    | N/A      | 
+| Leak Size    | N/A      | 
+

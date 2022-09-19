@@ -1,0 +1,16 @@
+---
+date: "2022-04-19"
+title: "ssi-steel.com"
+image: "images/blog/Breaches.png"
+author: "Breachsense Support"
+draft: false
+---
+
+| Data Breach Report         |              | 
+| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Victim    | ssi-steel.com      | 
+| Threat Actor    | LockBit      | 
+| Date Discovered    | Apr 19, 2022      | 
+| Description    | N/A      | 
+| Leak Size    | N/A      | 
+
