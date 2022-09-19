@@ -63,27 +63,6 @@
 </section>
 <!-- end of blog-details -->
 
-<!-- start of blog-section -->
-<section class="section pt-5">
-  <div class="container">
-    <div class="row justify-content-center" data-aos="fade-in">
-      <div class="col-12">
-        <div class="section-title text-center">
-          <h2 class="title">{{i18n `related_articles`}}</h2>
-        </div>
-      </div>
-      
-      {{ $related := (where site.RegularPages "Section" "in" site.Params.mainSections) | intersect (where site.RegularPages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) }}
-      {{ range first 2 $related }}
-      <div class="col-lg-5">
-        {{ .Render "article" }}
-      </div>
-      {{ end }}
-    </div>
-  </div>
-</section>
-<!-- end of blog-section -->
-
 <!-- regular page -->
 {{ else }}
 {{ partial "components/page-header.html" . }}
