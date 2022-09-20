@@ -1,6 +1,6 @@
 ---
 date: "2022-09-20"
-title: "Cremo"
+title: "Franck Beun"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | cremo.ch      | 
-| Threat Actor      | BlackBasta      | 
+| Victim      | franckbeun.fr      | 
+| Threat Actor      | LockBit      | 
 | Date Discovered      | Sep 20, 2022      | 
-| Description      | Cremo innovates, creates, processes, manufactures and markets consumer dairy products.      | 
+| Description      | Building and construction      | 
 | Leak Size      | N/A      | 
 

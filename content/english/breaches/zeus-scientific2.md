@@ -1,6 +1,6 @@
 ---
 date: "2022-09-20"
-title: "Cremo"
+title: "ZEUS Scientific"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | cremo.ch      | 
-| Threat Actor      | BlackBasta      | 
+| Victim      | zeusscientific.com      | 
+| Threat Actor      | AvosLocker      | 
 | Date Discovered      | Sep 20, 2022      | 
-| Description      | Cremo innovates, creates, processes, manufactures and markets consumer dairy products.      | 
+| Description      | Zeus Scientific, Inc. manufactures clinical diagnostic solutions. The Company offers flexible solutions for autoimmune and infectious disease testing.       | 
 | Leak Size      | N/A      | 
 

@@ -1,6 +1,6 @@
 ---
 date: "2022-09-20"
-title: "Cremo"
+title: "PSI"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | cremo.ch      | 
-| Threat Actor      | BlackBasta      | 
+| Victim      | psi.com.tw      | 
+| Threat Actor      | LockBit      | 
 | Date Discovered      | Sep 20, 2022      | 
-| Description      | Cremo innovates, creates, processes, manufactures and markets consumer dairy products.      | 
+| Description      | Phoenix Silicon International was established in 1997, and was started from Wafer Reclaim Department. Then, it developed to Wafer Thinning Department and Wafer Integration Department.      | 
 | Leak Size      | N/A      | 
 

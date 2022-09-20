@@ -1,6 +1,6 @@
 ---
 date: "2022-09-20"
-title: "Cremo"
+title: "Hering & Heinz"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | cremo.ch      | 
-| Threat Actor      | BlackBasta      | 
+| Victim      | hering-heinz.de      | 
+| Threat Actor      | LockBit      | 
 | Date Discovered      | Sep 20, 2022      | 
-| Description      | Cremo innovates, creates, processes, manufactures and markets consumer dairy products.      | 
+| Description      | Your specialists for plumbing, heating, bathroom design and much more.      | 
 | Leak Size      | N/A      | 
 

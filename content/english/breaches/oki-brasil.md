@@ -1,6 +1,6 @@
 ---
 date: "2022-09-20"
-title: "Cremo"
+title: "OKI Brasil"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | cremo.ch      | 
-| Threat Actor      | BlackBasta      | 
+| Victim      | okibrasil.com      | 
+| Threat Actor      | LockBit      | 
 | Date Discovered      | Sep 20, 2022      | 
-| Description      | Cremo innovates, creates, processes, manufactures and markets consumer dairy products.      | 
+| Description      | OKI Brasil is the banking automation, business automation, and IT services company of the Japanese OKI group in Latin America and Europe.      | 
 | Leak Size      | N/A      | 
 
