@@ -1,6 +1,6 @@
 ---
-date: "2022-09-23"
-title: "Web Nordeste"
+date: "2022-09-28"
+title: "Bankok Eagle Wings"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | webnordeste.com.br      | 
+| Victim      | bew.co.th      | 
 | Threat Actor      | LockBit      | 
-| Date Discovered      | Sep 23, 2022      | 
-| Description      | Web Nordeste manufactures equipment and provides services for the Oil & Gas industry, according to API standards.      | 
+| Date Discovered      | Sep 28, 2022      | 
+| Description      | Bankok Eagle Wings is an automotive parts manufacturer      | 
 | Leak Size      | N/A      | 
 
