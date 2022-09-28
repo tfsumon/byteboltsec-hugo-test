@@ -47,6 +47,7 @@ layout: "elements"
 | <a href="http://ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion.ws">BLUE SKY </a>     | Tor     | ONLINE     |
 | <a href="http://bonacifryrxr4siz6ptvokuihdzmjzpveruklxumflz5thmkgauty2qd.onion.ws">BONACI GROUP</a>     | Tor     | OFFLINE     |
 | <a href="http://rwiajgajdr4kzlnrj5zwebbukpcbrjhupjmk6gufxv6tg7myx34iocad.onion.ws">CHEERS</a>     | Tor     | ONLINE     |
+| <a href="http://z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid.onion.ws/login">CHILE LOCKER </a>     | Tor     | ONLINE     |
 | <a href="http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion.ws">CLOP</a>     | Tor     | ONLINE     |
 | <a href="http://ekbgzchl6x2ias37.onion.ws">CLOP </a>     | Tor     | OFFLINE     |
 | <a href="http://continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion.ws">CONTI/RYUK </a>     | Tor     | OFFLINE     |
@@ -79,7 +80,7 @@ layout: "elements"
 | <a href="http://ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion.ws/blog.php">HARON</a>     | Tor     | OFFLINE     |
 | <a href="http://3r6n77mpe737w4sbxxxrpc5phbluv6xhtdl5ujpnlvmck5tc7blq2rqd.onion.ws">HELLO KITTY</a>     | Tor     | OFFLINE     |
 | <a href="http://hitleransomware.cf">HITLER</a>     | Clearnet     | OFFLINE     |
-| <a href="http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion.ws">HIVE</a>     | Tor     | OFFLINE     |
+| <a href="http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion.ws">HIVE</a>     | Tor     | ONLINE     |
 | <a href="http://hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion.ws">HIVE </a>     | Tor     | ONLINE     |
 | <a href="http://matmq3z3hiovia3voe2tix2x54sghc3tszj74xgdy4tqtypoycszqzqd.onion.ws">HOLYGHOST</a>     | Tor     | OFFLINE     |
 | <a href="http://r6d636w47ncnaukrpvlhmtdbvbeltc6enfcuuow3jclpmyga7cz374qd.onion.ws">HOTARUS</a>     | Tor     | OFFLINE     |
