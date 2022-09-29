@@ -12,5 +12,5 @@ draft: false
 | Threat Actor      | AvosLocker      | 
 | Date Discovered      | Sep 28, 2022      | 
 | Description      | Cosmopoint College Group (Cosmopoint College) was established in 1992 and includes 11 Colleges located throughout Malaysia.      | 
-| Leak Size      | N/A      | 
+| Leak Size      | 80GB      | 
 
