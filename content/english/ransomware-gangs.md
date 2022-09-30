@@ -58,6 +58,7 @@ layout: "elements"
 | <a href="http://7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion.ws">CRYP70N1C0D3</a>     | Tor     | OFFLINE     |
 | <a href="http://cuba4mp6ximo2zlo.onion.ws">CUBA </a>     | Tor     | OFFLINE     |
 | <a href="http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion.ws">CUBA</a>     | Tor     | ONLINE     |
+| <a href="http://dgnh6p5uq234zry7qx7bh73hj5ht3jqisgfet6s7j7uyas5i46xfdkyd.onion.ws">DAGON LOCKER </a>     | Tor     | ONLINE     |
 | <a href="http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion.ws">DAIXIN</a>     | Tor     | ONLINE     |
 | <a href="https://wemo2ysyeq6km2nqhcrz63dkdhez3j25yw2nvn7xba2z4h7v7gyrfgid.onion.ws">DARK ANGELS</a>     | Tor     | OFFLINE     |
 | <a href="https://darkrypt.io">DARKRYPT</a>     | Clearnet     | OFFLINE     |
@@ -160,6 +161,7 @@ layout: "elements"
 | <a href="http://landxxeaf2hoyl2jvcwuazypt6imcsbmhb7kx3x33yhparvtmkatpaad.onion.ws">REVIL </a>     | Tor     | ONLINE     |
 | <a href="https://robinhoodleaks.tumblr.com">ROBINHOOD</a>     | Clearnet     | OFFLINE     |
 | <a href="http://gamol6n6p2p4c3ad7gxmx3ur7wwdwlywebo2azv3vv5qlmjmole2zbyd.onion.ws">ROOK</a>     | Tor     | OFFLINE     |
+| <a href="http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion.ws">ROYAL </a>     | Tor     | ONLINE     |
 | <a href="http://t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion.ws/check_payment_form">RRANSOM </a>     | Tor     | ONLINE     |
 | <a href="http://sekhmet.top">SEKHMET</a>     | Clearnet     | OFFLINE     |
 | <a href="http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion.ws/index.php">SNATCH </a>     | Tor     | ONLINE     |
