@@ -11,6 +11,6 @@ draft: false
 | Victim      | multicareinc.com      | 
 | Threat Actor      | Everest      | 
 | Date Discovered      | Oct 02, 2022      | 
-| Description      | Home health TADesc personal care services      | 
+| Description      | Home health & personal care services      | 
 | Leak Size      | 120GB      | 
 

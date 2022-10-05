@@ -11,6 +11,6 @@ draft: false
 | Victim      | solarcraft.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Sep 29, 2022      | 
-| Description      | Solar for Homes TADesc Businesses in Northern California      | 
+| Description      | Solar for Homes & Businesses in Northern California      | 
 | Leak Size      | N/A      | 
 
