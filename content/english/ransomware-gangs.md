@@ -144,6 +144,7 @@ layout: "elements"
 | <a href="http://promethw27cbrcot.onion.ws/blog">PROMETHEUS</a>     | Tor     | OFFLINE     |
 | <a href="http://pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion.ws/partners.html">PYSA</a>     | Tor     | OFFLINE     |
 | <a href="http://ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd.onion.ws">QILIN</a>     | Tor     | ONLINE     |
+| <a href="http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion.ws/">QILIN DLS</a>     | Tor     | ONLINE     |
 | <a href="http://gvka2m4qt5fod2fltkjmdk4gxh5oxemhpgmnmtjptms6fkgfzdd62tad.onion.ws">QLOCKER</a>     | Tor     | ONLINE     |
 | <a href="http://quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion.ws">QUANTUM</a>     | Tor     | ONLINE     |
 | <a href="http://p6o7m73ujalhgkiv.onion.ws">RAGNAR LOCKER</a>     | Tor     | OFFLINE     |
