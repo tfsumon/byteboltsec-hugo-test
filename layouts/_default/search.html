@@ -1,0 +1,91 @@
+{{define "main"}}
+
+{{ partial "components/page-header.html" . }}
+
+{{with .Params.features}}
+{{if .enable}}
+<section class="section features overflow-hidden">
+  <div class="container">
+    {{with .features_blocks}}
+    <div class="row">
+      <div class="col-lg-12" data-aos="fade-left" data-aos-delay="200">
+        <div class="features-carousel row">
+          {{range .}}
+          <div class="col-lg-6 col-md-6">
+            <div class="features-card">
+              <div class="icon text-primary">
+                <i class="las la-users"></i>
+              </div>
+              <h3 class="title" id="usr">{{.title | markdownify}}</h3>
+              <p class="mb-0">{{.content | markdownify}}</p>
+            </div>
+          </div>
+          <div class="col-lg-6 col-md-6">
+            <div class="features-card">
+              <div class="icon text-primary">
+                <i class="las la-university"></i>
+              </div>
+              <h3 class="title" id="emp">{{.title | markdownify}}</h3>
+              <p class="mb-0">{{.content | markdownify}}</p>
+            </div>
+          </div>
+          {{end}}
+        </div>
+      </div>
+    </div>
+    {{end}}
+  </div>
+
+  <div class="container">
+    <div class="row justify-content-center" data-aos="fade-in">
+      <div class="col-lg-4 col-md-10 order-1 order-lg-0 mt-5 mt-lg-0">
+        <div class="mb-0">
+          <h3 class="text-primary mb-4">Search another domain</h3>
+        </div>
+        <div class="content">
+          <form action="" method="GET" class="needs-validation" novalidate>
+          <div class="form-group mb-4">
+            <input class="form-control shadow-none" id="domain" name="domain" type="domain" placeholder="Domain Address" required>
+            <p class="font-weight-bold invalid-feedback"></p>
+            <button class="btn btn-primary w-100 mt-4" type="submit" aria-label="Search">Search</button>
+          </div>
+          </form>
+        </div>
+      </div>
+      <div class="col-lg-7 col-md-10 order-0 order-lg-1">
+        <div class="pl-0 pl-lg-5">
+          <h3 class="text-primary mb-4">Get a demo</h3>
+          <div class="content">
+        <form id="contact-form" action="https://api.breachsense.io/report" method="POST" class="needs-validation" novalidate>
+        <p id=form-status class=form-status></p>
+          <div class="form-group mb-4">
+            <input class="form-control shadow-none" id="email" name="email" type="email" placeholder="Work Email Address" required>
+            <p class="font-weight-bold invalid-feedback">{{i18n `email_re`}}</p>
+          <button class="btn btn-primary w-100 mt-4" type="submit" aria-label="Book Time">Connect with Breachsense</button>
+          </div>
+        </form>
+	<script>var form=document.getElementById('contact-form');async function handleSubmit(a){var b,c;a.preventDefault(),b=document.getElementById("form-status"),c=new FormData(a.target),fetch(a.target.action,{method:form.method,body:c,headers:{Accept:'application/json'}}).then(a=>{b.innerHTML="Thanks for your submission!",form.reset()}).catch(a=>{b.innerHTML="Oops! There was a problem submitting your form"})}form.addEventListener("submit",handleSubmit)</script>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<script>
+search = window.location.search.replace("?domain=","")
+fetch("https://api.breachsense.io/stats?s=" + search)
+.then(function (response) {
+return response.json();
+})
+.then(function (JSON) {
+		document.querySelector("#usr").innerHTML = "Customer Exposure<br><br>" + JSON.usr + " users";
+		document.querySelector("#emp").innerHTML = "Company Exposure <br><br>" + JSON.emp + " employees";
+})
+.catch(function (error) {
+console.log("Error: " + error);
+});
+</script>
+{{end}}
+
+{{end}}
+{{end}}

@@ -39,24 +39,31 @@ hasChildren = true
   name = "Documentation"
   url = "documentation/"
   weight = 1
+  
+[[main]]
+  parent = "Resources"
+  name = "Check your exposure"
+  url = "search/"
+  weight = 3
+  
 
   [[main]]
   parent = "Resources"
   name = "Ransomware Gangs"
   url = "ransomware-gangs/"
-  weight = 2
+  weight = 4
   
   [[main]]
   parent = "Resources"
   name = "Monitoring the Dark Web"
   url = "/blog/monitoring-the-dark-web/"
-  weight = 3
+  weight = 5
 
   [[main]]
   parent = "Resources"
   name = "Podcast"
   url = "podcast/"
-  weight = 4
+  weight = 6
 
 [[main]]
 weight = 15

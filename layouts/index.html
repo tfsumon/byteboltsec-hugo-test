@@ -8,21 +8,18 @@
         <div class="block row justify-content-center no-gutters" data-aos="fade-up">
           <div class="col-lg-10 px-0 px-xl-4" data-rellax-speed="-3">
             <h1 class="mb-4" data-aos="fade-up">{{.title | markdownify}}</h1>
-            <h6 class="text">{{.subtitle | markdownify}}<h6>
             <p>{{.description | markdownify}}</p>
-            <a href="{{.button_link}}" class="btn btn-primary" data-aos="fade-up" data-aos-delay="200">{{.button}}</a>
-          </div>
-        </div>
-
-        {{with .image}}
-        <div class="banner-image" data-aos="fade-up" data-aos-delay="300">
-          <div class="row justify-content-center">
-            <div class="col-lg-10">
-              {{ partial "images/image.html" (dict "Src" . )}}
+	    <div class="content">
+              <form action="/search" method="GET" class="needs-validation" novalidate>
+                <div class="form-group mb-4">
+                  <input class="form-control shadow-none w-50" style="display:block; margin : 0 auto;" id="domain" name="domain" type="domain" placeholder="Domain Address" required>
+                  <p class="font-weight-bold invalid-feedback"></p>
+                  <button class="btn btn-primary w-50 mt-4" type="submit" aria-label="Search">Check your company's breach exposure</button>
+                </div>
+              </form>
             </div>
           </div>
         </div>
-        {{end}}
 
         <div class="has-circle">
           <span class="circle-1 ratio-32" data-rellax-speed="-2"></span>
