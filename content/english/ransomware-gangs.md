@@ -63,7 +63,6 @@ layout: "elements"
 | <a href="https://wemo2ysyeq6km2nqhcrz63dkdhez3j25yw2nvn7xba2z4h7v7gyrfgid.onion.ws">DARK ANGELS</a>     | Tor     | OFFLINE     |
 | <a href="https://darkrypt.io">DARKRYPT</a>     | Clearnet     | OFFLINE     |
 | <a href="http://darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion.ws">DARKSIDE</a>     | Tor     | OFFLINE     |
-| <a href="https://sbc2zv2qnz5vubwtx3aobfpkeao6l4igjegm3xx7tk5suqhjkp5jxtqd.onion.ws">DONUT BLOG</a>     | Tor     | ONLINE     |
 | <a href="https://doq32rjiuomfghm5a4lyf3lwwakt2774tkv4ppsos6ueo5mhx7662gid.onion.ws">DONUT DLS</a>     | Tor     | ONLINE     |
 | <a href="http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion.ws">DOPPLE PAYMER</a>     | Tor     | OFFLINE     |
 | <a href="http://adminavf4cikzbv6mbbp7ujpwhygnn2t3egiz2pswldj32krrml42wyd.onion.ws">DOTADMIN</a>     | Tor     | OFFLINE     |
