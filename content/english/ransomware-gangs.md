@@ -63,6 +63,7 @@ layout: "elements"
 | <a href="https://wemo2ysyeq6km2nqhcrz63dkdhez3j25yw2nvn7xba2z4h7v7gyrfgid.onion.ws">DARK ANGELS</a>     | Tor     | OFFLINE     |
 | <a href="https://darkrypt.io">DARKRYPT</a>     | Clearnet     | OFFLINE     |
 | <a href="http://darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion.ws">DARKSIDE</a>     | Tor     | OFFLINE     |
+| <a href="https://sbc2zv2qnz5vubwtx3aobfpkeao6l4igjegm3xx7tk5suqhjkp5jxtqd.onion.ws">DONUT BLOG</a>     | Tor     | ONLINE     |
 | <a href="https://doq32rjiuomfghm5a4lyf3lwwakt2774tkv4ppsos6ueo5mhx7662gid.onion.ws">DONUT DLS</a>     | Tor     | ONLINE     |
 | <a href="http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion.ws">DOPPLE PAYMER</a>     | Tor     | OFFLINE     |
 | <a href="http://adminavf4cikzbv6mbbp7ujpwhygnn2t3egiz2pswldj32krrml42wyd.onion.ws">DOTADMIN</a>     | Tor     | OFFLINE     |
@@ -153,7 +154,8 @@ layout: "elements"
 | <a href="http://u67aylig7i6l657wxmp274eoilaowhp3boljowa6bli63rxyzfzsbtyd.onion.ws">RANSOM CARTEL </a>     | Tor     | OFFLINE     |
 | <a href="http://cartelraqonekult2cxbzzz2ukiff7v6cav3w373uuhenybgqulxm5id.onion.ws">RANSOM CARTEL </a>     | Tor     | ONLINE     |
 | <a href="http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion.ws">RANSOMEXX</a>     | Tor     | ONLINE     |
-| <a href="http://xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion.ws">RANSOM HOUSE</a>     | Tor     | ONLINE     |
+| <a href="http://xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion.ws">RANSOM HOUSE</a>     | Tor     | OFFLINE     |
+| <a href="http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion.ws">RANSOM HOUSE</a>     | Tor     | ONLINE     |
 | <a href="http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion.ws">RANZY/AKO</a>     | Tor     | OFFLINE     |
 | <a href="http://blog2hkbm6gogpv2b3uytzi3bj5d5zmc4asbybumjkhuqhas355janyd.onion.ws">REDALERT</a>     | Tor     | ONLINE     |
 | <a href="http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion.ws">REVIL </a>     | Tor     | OFFLINE     |
