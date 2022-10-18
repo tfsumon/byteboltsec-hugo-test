@@ -11,6 +11,6 @@ draft: false
 | Victim    | solvi.com      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Mar 20, 2022      | 
-| Description    | N/A      | 
-| Leak Size    | N/A      | 
+| Description    |  Solvi offers solutions in waste, sanitation and energy recovery, operating and managing concessions and contracts for public and private customers     | 
+| Leak Size    |  N/A      | 
 
