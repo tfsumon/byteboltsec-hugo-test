@@ -11,6 +11,6 @@ draft: false
 | Victim      | makereadyexperience.com      | 
 | Threat Actor      | Karakurt      | 
 | Date Discovered      | Oct 18, 2022      | 
-| Description      | Makeready is a place maker company specializing in branding,design & operations of hotels,restaurants,retail TADesc other experiential platforms.       | 
+| Description      | Makeready is a place maker company specializing in branding,design & operations of hotels,restaurants,retail & other experiential platforms.       | 
 | Leak Size      | N/A      | 
 
