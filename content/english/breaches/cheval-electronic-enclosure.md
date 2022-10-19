@@ -1,6 +1,6 @@
 ---
 date: "2022-10-19"
-title: "Rewash"
+title: "Cheval Electronic Enclosure"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | rewash.com      | 
+| Victim      | chevalgrp.com      | 
 | Threat Actor      | Karakurt      | 
 | Date Discovered      | Oct 19, 2022      | 
-| Description      | Rewash is a retailer of affordable apparel, outwear, and denim - designed to inspire customers to feel exceptional in clothing      | 
-| Leak Size      |  N/A     | 
+| Description      | Cheval is a global leader in the design and manufacture of Server Racks, Network Racks and related ICT products.      | 
+| Leak Size      | 360GB      | 
 

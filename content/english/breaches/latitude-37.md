@@ -1,6 +1,6 @@
 ---
 date: "2022-10-19"
-title: "Rewash"
+title: "Latitude 37"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | rewash.com      | 
+| Victim      | l37.com.au      | 
 | Threat Actor      | Karakurt      | 
 | Date Discovered      | Oct 19, 2022      | 
-| Description      | Rewash is a retailer of affordable apparel, outwear, and denim - designed to inspire customers to feel exceptional in clothing      | 
-| Leak Size      |  N/A     | 
+| Description      | Latitude 37 designs and builds luxury homes across Melbourne's East, South East and Bayside areas and the Mornington Peninsula.      | 
+| Leak Size      | 35GB      | 
 
