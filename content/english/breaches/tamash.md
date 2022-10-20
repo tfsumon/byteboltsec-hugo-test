@@ -1,6 +1,6 @@
 ---
 date: "2022-10-20"
-title: "Order Express"
+title: "Tamash "
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | orderexpress.com.mx      | 
-| Threat Actor      | CL0P      | 
+| Victim      | tamhash.co.il       | 
+| Threat Actor      | LockBit      | 
 | Date Discovered      | Oct 20, 2022      | 
-| Description      | Order Express is a money facilitation company and in the financial services industry.       | 
+| Description      | Tamash company specializes in the development, production and sale of electric cabinets and various metal products.       | 
 | Leak Size      | N/A      | 
 

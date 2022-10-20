@@ -1,6 +1,6 @@
 ---
 date: "2022-10-20"
-title: "Order Express"
+title: "Kernet"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | orderexpress.com.mx      | 
-| Threat Actor      | CL0P      | 
+| Victim      | kemet.com      | 
+| Threat Actor      | ALPHV      | 
 | Date Discovered      | Oct 20, 2022      | 
-| Description      | Order Express is a money facilitation company and in the financial services industry.       | 
+| Description      | Founded in 1919, KEMET Electronics Corporation is a global supplier of electronic components.      | 
 | Leak Size      | N/A      | 
 

@@ -1,6 +1,6 @@
 ---
 date: "2022-10-20"
-title: "Order Express"
+title: "RecordTV "
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | orderexpress.com.mx      | 
-| Threat Actor      | CL0P      | 
+| Victim      | recordtv.r7.com      | 
+| Threat Actor      | ALPHV      | 
 | Date Discovered      | Oct 20, 2022      | 
-| Description      | Order Express is a money facilitation company and in the financial services industry.       | 
+| Description      | RecordTV, formerly known as Rede Record, is a Brazilian free-to-air television network.       | 
 | Leak Size      | N/A      | 
 

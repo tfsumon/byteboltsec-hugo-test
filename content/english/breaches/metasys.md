@@ -1,6 +1,6 @@
 ---
 date: "2022-10-20"
-title: "Order Express"
+title: "METASYS"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | orderexpress.com.mx      | 
-| Threat Actor      | CL0P      | 
+| Victim      | metasys.com      | 
+| Threat Actor      | BlackBasta      | 
 | Date Discovered      | Oct 20, 2022      | 
-| Description      | Order Express is a money facilitation company and in the financial services industry.       | 
+| Description      | METASYS has established itself worldwide as a producer of high quality dental products.       | 
 | Leak Size      | N/A      | 
 
