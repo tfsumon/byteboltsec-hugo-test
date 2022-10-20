@@ -9,6 +9,7 @@ layout: "elements"
 
 | Name           | Tor / Clearnet             | Status     |
 | :-----------: | :-------------:     |:-------------:   
+| <a href="https://www.ransomlook.io/">RANSOMWARE GROUPS MONITORING TOOL</a>     | Clearnet     | ONLINE     |
 | <a href="http://54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion.ws/blog">54bb47h</a>     | Tor     | OFFLINE     |
 | <a href="http://omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion.ws">0mega </a>     | Tor     | ONLINE     |
 | <a href="http://54bb47h.blog">54bb47h</a>     | Clearnet     | OFFLINE     |
@@ -148,7 +149,7 @@ layout: "elements"
 | <a href="http://gvka2m4qt5fod2fltkjmdk4gxh5oxemhpgmnmtjptms6fkgfzdd62tad.onion.ws">QLOCKER</a>     | Tor     | ONLINE     |
 | <a href="http://quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion.ws">QUANTUM</a>     | Tor     | ONLINE     |
 | <a href="http://p6o7m73ujalhgkiv.onion.ws">RAGNAR LOCKER</a>     | Tor     | OFFLINE     |
-| <a href="http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion.ws">RAGNAR LOCKER</a>     | Tor     | OFFLINE     |
+| <a href="http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion.ws">RAGNAR LOCKER</a>     | Tor     | ONLINE     |
 | <a href="http://sushlnty2j7qdzy64qnvyb6ajkwg7resd3p6agc2widnawodtcedgjid.onion.ws">RAGNAROK</a>     | Tor     | OFFLINE     |
 | <a href="http://wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion.ws">RAGNAROK</a>     | Tor     | OFFLINE     |
 | <a href="http://u67aylig7i6l657wxmp274eoilaowhp3boljowa6bli63rxyzfzsbtyd.onion.ws">RANSOM CARTEL </a>     | Tor     | OFFLINE     |
@@ -181,6 +182,9 @@ layout: "elements"
 | <a href="http://4hzyuotli6maqa4u.onion.ws">VICE SOCIETY</a>     | Tor     | OFFLINE     |
 | <a href="http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion.ws">VICE SOCIETY</a>     | Tor     | ONLINE     |
 | <a href="http://ecdmr42a34qovoph557zotkfvth4fsz56twvwgiylstjup4r5bpc4oad.onion.ws">VICE SOCIETY</a>     | Tor     | ONLINE     |
+| <a href="http://ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion.ws">VICE SOCIETY</a>     | Tor     | ONLINE     |
+| <a href="http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion.ws">VICE SOCIETY</a>     | Tor     | ONLINE     |
+| <a href="http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion.ws">VICE SOCIETY</a>     | Tor     | ONLINE     |
 | <a href="http://mrdxtxy6vqeqbmb4rvbvueh2kukb3e3mhu3wdothqn7242gztxyzycid.onion.ws">VSOP </a>     | Tor     | ONLINE     |
 | <a href="http://nalr2uqsave7y2r235am5jsfiklfjh5h4jc5nztu3rzvmhklwt5j6kid.onion.ws">X001XS</a>     | Tor     | ONLINE     |
 | <a href="http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion.ws">XING LOCKER</a>     | Tor     | OFFLINE     |
