@@ -11,6 +11,6 @@ draft: false
 | Victim      | lycra.com      | 
 | Threat Actor      | Cuba      | 
 | Date Discovered      | Oct 21, 2022      | 
-| Description      | LYCRA Company innovates and produces fiber and technology solutions for the apparel and personal care industries.       | 
+| Description      | Lycra Company innovates and produces fiber and technology solutions for the apparel and personal care industries.       | 
 | Leak Size      | N/A      | 
 

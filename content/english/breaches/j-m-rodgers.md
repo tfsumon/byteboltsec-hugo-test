@@ -1,6 +1,6 @@
 ---
 date: "2022-10-21"
-title: "Berding-Weil"
+title: "J.M. Rodgers Co."
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,8 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | berding-weil.com      | 
-| Threat Actor      | Cuba      | 
+| Victim      | jmrodgers.com      | 
+| Threat Actor      | BlackBasta      | 
 | Date Discovered      | Oct 21, 2022      | 
-| Description      | Berding Weil is the largest and most experienced construction defect and common interest development law firm in California.       |
+| Description      | J.M. Rodgers Co. Inc specializes in customs brokerage, duty drawback, freight forwarding and freight management with a focus on high-tech and high-touch solutions.      | 
 | Leak Size      | N/A      | 
+

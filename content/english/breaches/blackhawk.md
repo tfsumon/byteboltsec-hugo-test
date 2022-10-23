@@ -1,6 +1,6 @@
 ---
 date: "2022-10-21"
-title: "BlackHawk "
+title: "BlackHawk"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -9,7 +9,7 @@ draft: false
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
 | Victim      | bhid.com      | 
-| Threat Actor      |       | 
+| Threat Actor      | Cuba      | 
 | Date Discovered      | Oct 21, 2022      | 
 | Description      | BlackHawk is the #1 choice for industrial manufacturers who are in need of Technical Service and Production Savings.      | 
 | Leak Size      | N/A      | 

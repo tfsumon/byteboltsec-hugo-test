@@ -1,6 +1,6 @@
 ---
 date: "2022-10-21"
-title: "Berding-Weil"
+title: "Stone & Company"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,8 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | berding-weil.com      | 
-| Threat Actor      | Cuba      | 
+| Victim      | stoneconcrete.com      | 
+| Threat Actor      | BlackBasta      | 
 | Date Discovered      | Oct 21, 2022      | 
-| Description      | Berding Weil is the largest and most experienced construction defect and common interest development law firm in California.       |
+| Description      | Stone & Company is a supplier of ready-mix concrete and building materials. Connellsville, Pennsylvania, United States.      | 
 | Leak Size      | N/A      | 
+
