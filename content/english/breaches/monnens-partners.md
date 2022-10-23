@@ -1,6 +1,6 @@
 ---
 date: "2022-09-06"
-title: "Monnens & Partners "
+title: "Monnens & Partners"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false

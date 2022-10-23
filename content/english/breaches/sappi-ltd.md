@@ -1,6 +1,6 @@
 ---
 date: "2022-10-18"
-title: "Sappi Ltd "
+title: "Sappi Ltd"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false

@@ -1,6 +1,6 @@
 ---
-date: "2022-10-19"
-title: "Weidmüller"
+date: "2022-10-23"
+title: "Weidmuller"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | weidmueller.com      | 
+| Victim      | weidmuller.com      | 
 | Threat Actor      | Snatch      | 
-| Date Discovered      | Oct 19, 2022      | 
-| Description      | As experienced experts, we support our customers and partners around the world with products, solutions, and services in the industrial environment of power, signal, and data.      | 
+| Date Discovered      | Oct 23, 2022      | 
+| Description      | Our industrial environment is full of connections that need to be connected, controlled and optimised. We are absolutely committed to always providing the best connection possible.       | 
 | Leak Size      | N/A      | 
 

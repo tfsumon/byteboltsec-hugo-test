@@ -1,6 +1,6 @@
 ---
 date: "2022-10-18"
-title: "Energy Transfer Durafin Tubes "
+title: "Energy Transfer Durafin Tubes"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false

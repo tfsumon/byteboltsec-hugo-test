@@ -1,6 +1,6 @@
 ---
 date: "2022-10-18"
-title: "Tanzania Telecommunications Company Limited "
+title: "Tanzania Telecommunications Company Limited"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false

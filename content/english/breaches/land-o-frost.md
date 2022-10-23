@@ -1,6 +1,6 @@
 ---
 date: "2022-10-21"
-title: "CLE International"
+title: "Land O’Frost"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | cle.com      | 
+| Victim      | landofrost.com      | 
 | Threat Actor      | Cuba      | 
 | Date Discovered      | Oct 21, 2022      | 
-| Description      | CLE International has been a provider of continuing professional education programs throughout the United States and Canada since 1983.      | 
+| Description      | Land O'Frost is a manufacturer of pre-sliced meats, breakfast meats and specialty hot dogs and sausages.      | 
 | Leak Size      | N/A      | 
 

@@ -1,6 +1,6 @@
 ---
 date: "2022-07-17"
-title: "Wallwork "
+title: "Wallwork"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false

@@ -1,6 +1,6 @@
 ---
 date: "2022-10-20"
-title: "Tamash "
+title: "Tamash"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false

@@ -1,6 +1,6 @@
 ---
 date: "2022-10-20"
-title: "A G Equipment "
+title: "A G Equipment"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false

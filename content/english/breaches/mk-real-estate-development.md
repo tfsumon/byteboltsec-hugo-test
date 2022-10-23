@@ -1,6 +1,6 @@
 ---
 date: "2022-10-21"
-title: "MK REAL ESTATE DEVELOPMENT"
+title: "MK Real Estate Development"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false

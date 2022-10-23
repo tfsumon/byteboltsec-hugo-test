@@ -1,6 +1,6 @@
 ---
 date: "2022-10-21"
-title: "Lycra "
+title: "Lycra"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -11,6 +11,6 @@ draft: false
 | Victim      | lycra.com      | 
 | Threat Actor      | Cuba      | 
 | Date Discovered      | Oct 21, 2022      | 
-| Description      | Lycra Company innovates and produces fiber and technology solutions for the apparel and personal care industries.       | 
+| Description      | LYCRA Company innovates and produces fiber and technology solutions for the apparel and personal care industries.       | 
 | Leak Size      | N/A      | 
 

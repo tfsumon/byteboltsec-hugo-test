@@ -1,6 +1,6 @@
 ---
 date: "2022-10-18"
-title: "Bay Crane "
+title: "Bay Crane"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false

@@ -1,6 +1,6 @@
 ---
 date: "2022-10-20"
-title: "RecordTV "
+title: "RecordTV"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false

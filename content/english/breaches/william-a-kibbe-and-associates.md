@@ -1,6 +1,6 @@
 ---
 date: "2022-10-18"
-title: "William A. Kibbe VictimName Associates"
+title: "William A. Kibbe & Associates"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false

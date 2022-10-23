@@ -1,6 +1,6 @@
 ---
 date: "2022-10-18"
-title: "Hiersun Jewelry Co Ltd "
+title: "Hiersun Jewelry Co Ltd"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false

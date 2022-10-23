@@ -1,6 +1,6 @@
 ---
 date: "2022-10-18"
-title: "Michael David Winery "
+title: "Michael David Winery"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false

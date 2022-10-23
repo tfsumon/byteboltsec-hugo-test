@@ -1,6 +1,6 @@
 ---
 date: "2022-07-22"
-title: "Taylor, Stafford, Clithero & Harris "
+title: "Taylor, Stafford, Clithero & Harris"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false

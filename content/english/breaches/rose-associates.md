@@ -1,6 +1,6 @@
 ---
 date: "2022-10-21"
-title: "Rose Associates "
+title: "Rose Associates"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
