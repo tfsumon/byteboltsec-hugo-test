@@ -1,6 +1,6 @@
 ---
 date: "2022-10-21"
-title: "Cosmopoint College"
+title: "Lightbank"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | cosmopointcolledge.edu      | 
+| Victim      | lightbank.com      | 
 | Threat Actor      |       | 
 | Date Discovered      | Oct 21, 2022      | 
-| Description      | Cosmopoint college is an educational institution in Malaysia.       | 
-| Leak Size      | 80GB      | 
+| Description      | Lightbank is a financial organization that specializes in making venture capital investments in "disruptive" technology companies in the United States.      | 
+| Leak Size      | 150GB      | 
 

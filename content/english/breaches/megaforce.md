@@ -1,6 +1,6 @@
 ---
 date: "2022-10-21"
-title: "Cosmopoint College"
+title: "Megaforce "
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | cosmopointcolledge.edu      | 
-| Threat Actor      |       | 
+| Victim      | megaforce.de      | 
+| Threat Actor      | Cuba      | 
 | Date Discovered      | Oct 21, 2022      | 
-| Description      | Cosmopoint college is an educational institution in Malaysia.       | 
-| Leak Size      | 80GB      | 
+| Description      | Megaforce specializes for stage, event construction and special designs      | 
+| Leak Size      | N/A      | 
 

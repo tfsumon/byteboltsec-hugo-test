@@ -1,6 +1,6 @@
 ---
 date: "2022-10-21"
-title: "Cosmopoint College"
+title: "BlackHawk "
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | cosmopointcolledge.edu      | 
+| Victim      | bhid.com      | 
 | Threat Actor      |       | 
 | Date Discovered      | Oct 21, 2022      | 
-| Description      | Cosmopoint college is an educational institution in Malaysia.       | 
-| Leak Size      | 80GB      | 
+| Description      | BlackHawk is the #1 choice for industrial manufacturers who are in need of Technical Service and Production Savings.      | 
+| Leak Size      | N/A      | 
 

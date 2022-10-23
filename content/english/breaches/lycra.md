@@ -1,6 +1,6 @@
 ---
 date: "2022-10-21"
-title: "Cosmopoint College"
+title: "Lycra "
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | cosmopointcolledge.edu      | 
-| Threat Actor      |       | 
+| Victim      | lycra.com      | 
+| Threat Actor      | Cuba      | 
 | Date Discovered      | Oct 21, 2022      | 
-| Description      | Cosmopoint college is an educational institution in Malaysia.       | 
-| Leak Size      | 80GB      | 
+| Description      | LYCRA Company innovates and produces fiber and technology solutions for the apparel and personal care industries.       | 
+| Leak Size      | N/A      | 
 
