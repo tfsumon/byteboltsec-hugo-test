@@ -1,6 +1,6 @@
 ---
 date: "2022-10-23"
-title: "Weidmuller"
+title: "Weidmüller"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
