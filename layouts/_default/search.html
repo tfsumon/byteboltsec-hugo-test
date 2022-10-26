@@ -74,7 +74,7 @@
 <script>
 qS = window.location.search;
 uP= new URLSearchParams(qS);
-domain = uP.get('domain');
+domain = encodeURI(uP.get('domain'));
 fetch("https://api.breachsense.io/stats?s=" + domain)
 .then(function (response) {
 return response.json();
