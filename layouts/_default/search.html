@@ -7,6 +7,7 @@
 <section class="section features overflow-hidden">
   <div class="container">
     {{with .features_blocks}}
+    <h3 class="title" id="dom"></h3>
     <div class="row">
       <div class="col-lg-12" data-aos="fade-left" data-aos-delay="200">
         <div class="features-carousel row">
@@ -71,12 +72,15 @@
   </div>
 </section>
 <script>
-search = window.location.search.replace("?domain=","")
-fetch("https://api.breachsense.io/stats?s=" + search)
+qS = window.location.search;
+uP= new URLSearchParams(qS);
+domain = uP.get('domain');
+fetch("https://api.breachsense.io/stats?s=" + domain)
 .then(function (response) {
 return response.json();
 })
 .then(function (JSON) {
+		document.querySelector("#dom").innerHTML = "Results for " +domain;
 		document.querySelector("#usr").innerHTML = "Customer Exposure<br><br>" + JSON.usr + " users";
 		document.querySelector("#emp").innerHTML = "Company Exposure <br><br>" + JSON.emp + " employees";
 })
