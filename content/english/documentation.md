@@ -36,6 +36,15 @@ layout: "elements"
 | **update**      | return the Unix timestamp the creds database was last updated      |
 | **uniq**      | return a list of all unique email addresses and plaintext passwords      |
 | **unixtime**      | display the import date in unixtime (aliases: <i>unix</i>,<i>epoch</i>      |
+
+### Output :
+| JSON Key           | Value             |
+| :-----------: | :-------------:     |:-------------:    | :-----:|
+| eml      | The email address used to authenticate      |
+| pwd      | The password used to authenticate      |
+| src      | The name of the breached website or collection      |
+| atr      | The attribution data associated with the breach     |
+| imp      | The date (in YYYYMMDD format) the breach was found      |
   {{< /tab >}}
 
   {{< tab "Darkweb API" >}}
@@ -54,6 +63,15 @@ layout: "elements"
 | **search**      | search term - accepts a domain name      | 
 | **update**      | return the Unix timestamp the darkweb database was last updated      |
 | **unixtime**      | display the import date in unixtime (aliases: <i>unix</i>,<i>epoch</i>      |
+
+### Output :
+| JSON Key           | Value             |
+| :-----------: | :-------------:     |:-------------:    | :-----:|
+| src      | A URL containing data associated with the target      |
+| site      | The name of the threat actor      |
+| data      | The domain name associated with the victim      |
+| found      | The date the data was indexed (in YYYYMMDD format)      |
+ 
   {{< /tab >}}
 
   {{< tab "Sessions API" >}}
@@ -72,6 +90,17 @@ layout: "elements"
 | **search**      | search term - accepts a domain name, email address or IP address     | 
 | **update**      | return the Unix timestamp the stealer database was last updated      |
 | **unixtime**      | display the import date in unixtime (aliases: <i>unix</i>,<i>epoch</i>      |
+
+### Output :
+| JSON Key           | Value             |
+| :-----------: | :-------------:     |:-------------:    | :-----:|
+| dom      | The domain name associated with the victim      |
+| name      | The name of the cookie      |
+| val      | The value of the cookie      |
+| path      | The cookie path     |
+| expires      | The date (in unixtime) that the cookie is set to expire      |
+| fnd      | The date the data was found (in YYYYMMDD format)      |
+ 
   {{< /tab >}}
 
   {{< tab "Stealer API" >}}
@@ -90,6 +119,18 @@ layout: "elements"
 | **search**      | search term - accepts a domain name, email address or IP address     | 
 | **update**      | return the Unix timestamp the stealer database was last updated      |
 | **unixtime**      | display the import date in unixtime (aliases: <i>unix</i>,<i>epoch</i>      |
+
+### Output :
+| JSON Key           | Value             |
+| :-----------: | :-------------:     |:-------------:    | :-----:|
+| usr      | The username used to authenticate      |
+| pwd      | The password used to authenticate      |
+| src      | The target URL or IP that the victim authenticated to      |
+| hid      | The hardware ID of the infected device     |
+| iip      | The IP address of the infected device      |
+| inf      | The date the machine was infected on (in unixtime)      |
+| mal      | The type of malware infected on the device      |
+| fnd      | The date the credential was found      |
   {{< /tab >}}
 
 {{< /tabs >}}
