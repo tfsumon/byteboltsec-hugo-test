@@ -1,6 +1,6 @@
 ---
 date: "2022-10-28"
-title: "R1 Group"
+title: "ipb Baggenstos Montagen"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | r1group.it      | 
+| Victim      | ipb.ch      | 
 | Threat Actor      | Karakurt      | 
 | Date Discovered      | Oct 28, 2022      | 
-| Description      | 1 Group is a company that operates in the Information Technology and Services industry.      | 
-| Leak Size      | 50GB      | 
+| Description      | ipb Baggenstos Montagen is a computer networking company based out of Buzibachstrasse 31 West, Rothenburg, Canton of Lucerne, Switzerland.      | 
+| Leak Size      | 200GB      | 
 

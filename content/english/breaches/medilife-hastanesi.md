@@ -1,6 +1,6 @@
 ---
 date: "2022-10-28"
-title: "R1 Group"
+title: "Medilife Hastanesi"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | r1group.it      | 
+| Victim      | medilife.com.tr      | 
 | Threat Actor      | Karakurt      | 
 | Date Discovered      | Oct 28, 2022      | 
-| Description      | 1 Group is a company that operates in the Information Technology and Services industry.      | 
-| Leak Size      | 50GB      | 
+| Description      | Medilife Hastanesi is a company that operates in the Restaurants industry.      | 
+| Leak Size      | 195GB      | 
 

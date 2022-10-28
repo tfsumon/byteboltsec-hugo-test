@@ -1,6 +1,6 @@
 ---
 date: "2022-10-28"
-title: "R1 Group"
+title: "Bergamo Metal "
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | r1group.it      | 
+| Victim      | bergamometal.com      | 
 | Threat Actor      | Karakurt      | 
 | Date Discovered      | Oct 28, 2022      | 
-| Description      | 1 Group is a company that operates in the Information Technology and Services industry.      | 
-| Leak Size      | 50GB      | 
+| Description      | Bergamo metal operates in the production and use of gypsum board and plaster corner profiles and profile accessories, which are the basic needs of the metal building sector.      | 
+| Leak Size      | 15GB      | 
 
