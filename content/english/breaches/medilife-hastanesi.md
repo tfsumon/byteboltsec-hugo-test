@@ -11,6 +11,6 @@ draft: false
 | Victim      | medilife.com.tr      | 
 | Threat Actor      | Karakurt      | 
 | Date Discovered      | Oct 28, 2022      | 
-| Description      | Medilife Hastanesi is a company that operates in the Restaurants industry.      | 
+| Description      | Medilife Hastanesi is a company that operates in the restaurants industry.      | 
 | Leak Size      | 195GB      | 
 
