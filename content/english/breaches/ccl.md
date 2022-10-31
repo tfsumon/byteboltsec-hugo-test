@@ -9,7 +9,7 @@ draft: false
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
 | Victim      | cclint.com      | 
-| Threat Actor      | Karakurt      | 
+| Threat Actor      | BlackByte      | 
 | Date Discovered      | Oct 27, 2022      | 
 | Description      | CCL provides specialised engineered solutions and construction techniques for structures around the world.      | 
 | Leak Size      | N/A      | 
