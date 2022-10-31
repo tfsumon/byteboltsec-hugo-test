@@ -55,8 +55,8 @@ hasChildren = true
   
   [[main]]
   parent = "Resources"
-  name = "Monitoring the Dark Web"
-  url = "/blog/monitoring-the-dark-web/"
+  name = "Dark Web Monitoring"
+  url = "/blog/dark-web-monitoring/"
   weight = 5
 
   [[main]]
