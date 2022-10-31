@@ -9,8 +9,8 @@ draft: false
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
 | Victim      | macrotel.com.ar      | 
-| Threat Actor      |       | 
+| Threat Actor      |  Lockbit     | 
 | Date Discovered      | Oct 31, 2022      | 
 | Description      | Macrotel develops innovative technological solutions for financial and telecommunications.      | 
-| Leak Size      | N/A      | 
+| Leak Size      | 15GB     | 
 
