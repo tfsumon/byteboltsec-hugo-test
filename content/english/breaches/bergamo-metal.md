@@ -1,6 +1,6 @@
 ---
 date: "2022-10-28"
-title: "Bergamo Metal "
+title: "Bergamo Metal"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false

@@ -1,6 +1,6 @@
 ---
 date: "2022-10-27"
-title: "Municipio de Chihuahua "
+title: "Municipio de Chihuahua"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false

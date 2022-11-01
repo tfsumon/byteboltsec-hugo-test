@@ -1,6 +1,6 @@
 ---
 date: "2022-10-31"
-title: "Caçula "
+title: "Caçula"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
