@@ -1,6 +1,6 @@
 ---
 date: "2022-11-02"
-title: "Bitron"
+title: "Unidad Medica Angloamericana"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | bitron.com      | 
-| Threat Actor      |       | 
+| Victim      | unidadmedica.com      | 
+| Threat Actor      | ViceSociety      | 
 | Date Discovered      | Nov 02, 2022      | 
-| Description      | Bitron is a global privately held company leader in research, development and manufacturing of mechatronic devices and systems for the automotive, appliance, HVAC and energy industries.      | 
+| Description      | Unidad Médica Angloamericana is multilingual medical clinic in Madrid where all the professional staff are English speaking.      | 
 | Leak Size      | N/A      | 
 

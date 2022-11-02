@@ -1,6 +1,6 @@
 ---
 date: "2022-11-02"
-title: "Bitron"
+title: "YMCA of Metropolitan Washington"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | bitron.com      | 
-| Threat Actor      |       | 
+| Victim      | ymcadc.org      | 
+| Threat Actor      | ViceSociety      | 
 | Date Discovered      | Nov 02, 2022      | 
-| Description      | Bitron is a global privately held company leader in research, development and manufacturing of mechatronic devices and systems for the automotive, appliance, HVAC and energy industries.      | 
+| Description      | YMCA of Metropolitan Washington is a social service agency that provides opportunities in wellness, aquatics, youth sports, summer camp and childcare.      | 
 | Leak Size      | N/A      | 
 

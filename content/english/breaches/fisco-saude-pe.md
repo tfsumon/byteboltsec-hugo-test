@@ -1,6 +1,6 @@
 ---
 date: "2022-11-02"
-title: "Bitron"
+title: "Fisco Saude-Pe"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | bitron.com      | 
-| Threat Actor      |       | 
+| Victim      | fiscosaudepe.com.br      | 
+| Threat Actor      | LockBit      | 
 | Date Discovered      | Nov 02, 2022      | 
-| Description      | Bitron is a global privately held company leader in research, development and manufacturing of mechatronic devices and systems for the automotive, appliance, HVAC and energy industries.      | 
+| Description      | Fisco Saude-Pe is an insurance company based out of R Da Aurora, 1443, Sala 01, Recife, Pernambuco, Brazil.      | 
 | Leak Size      | N/A      | 
 

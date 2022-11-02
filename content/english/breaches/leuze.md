@@ -1,6 +1,6 @@
 ---
 date: "2022-11-02"
-title: "Bitron"
+title: "Leuze"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | bitron.com      | 
-| Threat Actor      |       | 
+| Victim      | leuze.com      | 
+| Threat Actor      | Snatch      | 
 | Date Discovered      | Nov 02, 2022      | 
-| Description      | Bitron is a global privately held company leader in research, development and manufacturing of mechatronic devices and systems for the automotive, appliance, HVAC and energy industries.      | 
+| Description      | Leuze is an international sensor expert for automation technology.      | 
 | Leak Size      | N/A      | 
 
