@@ -11,6 +11,6 @@ draft: false
 | Victim      | whitneyoilco.com      | 
 | Threat Actor      | Royal      | 
 | Date Discovered      | Nov 04, 2022      | 
-| Description      | Whitney Oil & gas exploration TADesc production company headquartered in Houston.      | 
+| Description      | Whitney Oil & gas exploration & production company headquartered in Houston.      | 
 | Leak Size      | N/A      | 
 
