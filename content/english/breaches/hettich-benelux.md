@@ -1,6 +1,6 @@
 ---
 date: "2022-11-04"
-title: "Läderach"
+title: "Hettich Benelux"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | laderach.com      | 
-| Threat Actor      | BianLian      | 
+| Victim      | hettichbenelux.com      | 
+| Threat Actor      | LockBit      | 
 | Date Discovered      | Nov 04, 2022      | 
-| Description      | Läderach is a Swiss chocolate manufacturer based in Ennenda (Glarus).      | 
+| Description      | Hettich Benelux is a manufacturer of laboratory equipment such as centrifuges, concentrators, automation and incubators.      | 
 | Leak Size      | N/A      | 
 

@@ -1,6 +1,6 @@
 ---
 date: "2022-11-04"
-title: "Läderach"
+title: "Landi Renzo"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | laderach.com      | 
-| Threat Actor      | BianLian      | 
+| Victim      | landirenzo.com      | 
+| Threat Actor      | Hive      | 
 | Date Discovered      | Nov 04, 2022      | 
-| Description      | Läderach is a Swiss chocolate manufacturer based in Ennenda (Glarus).      | 
+| Description      | Landi Renzo has become a world leader in the design and construction of systems for vehicles powered by LPG and CNG.      | 
 | Leak Size      | N/A      | 
 

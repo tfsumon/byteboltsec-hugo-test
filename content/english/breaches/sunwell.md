@@ -1,6 +1,6 @@
 ---
 date: "2022-11-04"
-title: "Läderach"
+title: "Sunwell"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | laderach.com      | 
-| Threat Actor      | BianLian      | 
+| Victim      | sunwell.com      | 
+| Threat Actor      | Royal      | 
 | Date Discovered      | Nov 04, 2022      | 
-| Description      | Läderach is a Swiss chocolate manufacturer based in Ennenda (Glarus).      | 
+| Description      | Sunwell is the leading global provider of advanced food preservation and cooling technology to industry leaders around the world.      | 
 | Leak Size      | N/A      | 
 

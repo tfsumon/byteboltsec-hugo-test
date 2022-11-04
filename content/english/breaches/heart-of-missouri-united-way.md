@@ -1,6 +1,6 @@
 ---
 date: "2022-11-04"
-title: "Läderach"
+title: "Heart of Missouri United Way"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | laderach.com      | 
-| Threat Actor      | BianLian      | 
+| Victim      | uwheartmo.org      | 
+| Threat Actor      | Royal      | 
 | Date Discovered      | Nov 04, 2022      | 
-| Description      | Läderach is a Swiss chocolate manufacturer based in Ennenda (Glarus).      | 
+| Description      | The Heart of Missouri United Way fights to improve lives in our community.      | 
 | Leak Size      | N/A      | 
 

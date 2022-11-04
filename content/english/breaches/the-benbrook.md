@@ -1,6 +1,6 @@
 ---
 date: "2022-11-04"
-title: "Läderach"
+title: "The Benbrook "
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | laderach.com      | 
-| Threat Actor      | BianLian      | 
+| Victim      | benbrooklibrary.org      | 
+| Threat Actor      | Royal      | 
 | Date Discovered      | Nov 04, 2022      | 
-| Description      | Läderach is a Swiss chocolate manufacturer based in Ennenda (Glarus).      | 
+| Description      | The Benbrook Public Library provides free services to all residents living within the Benbrook city boundaries, as well as non-residents.      | 
 | Leak Size      | N/A      | 
 
