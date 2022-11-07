@@ -1,0 +1,16 @@
+---
+date: "2022-11-07"
+title: "CRVictimNameR"
+image: "images/blog/Breaches.png"
+author: "Breachsense Support"
+draft: false
+---
+
+| Data Breach Report           |              | 
+| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Victim      | crrwasteservices.com      | 
+| Threat Actor      | LockBit      | 
+| Date Discovered      | Nov 07, 2022      | 
+| Description      | CR&R Incorporated is one of Southern California's most innovative and successful waste and recycling collection companies.      | 
+| Leak Size      | N/A      | 
+
