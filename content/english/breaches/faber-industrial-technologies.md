@@ -1,6 +1,6 @@
 ---
-date: "BlogDate"
-title: "VictimName"
+date: "2021-09-05"
+title: "Faber Industrial Technologies"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | VictimURL      | 
-| Threat Actor      | ThreatActor      | 
-| Date Discovered      | Found      | 
-| Description      | &      | 
-| Leak Size      | NLFiles      | 
+| Victim      | faberinc.com      | 
+| Threat Actor      | LockBit      | 
+| Date Discovered      | Sep 09, 2021      | 
+| Description      | Faber Industrial Technologies is a leading results-oriented distributor/manufacturer's representative specializing in complete sales, support and engineering.      | 
+| Leak Size      | N/A      | 
 

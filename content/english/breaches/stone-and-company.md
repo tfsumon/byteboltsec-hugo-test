@@ -1,6 +1,6 @@
 ---
 date: "2022-10-21"
-title: "Stone VictimName Company"
+title: "Stone & Company"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
