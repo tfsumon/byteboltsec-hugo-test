@@ -11,6 +11,6 @@ draft: false
 | Victim      | mitconindia.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Nov 07, 2022      | 
-| Description      | MITCON Consultancy & Engineering Services Limited is a renowned Indian Technical Consulting Organization (TCO) offering One Stop Solution for all your technical, marketing TADesc financial business requirements.      | 
+| Description      | MITCON Consultancy & Engineering Services Limited is a renowned Indian Technical Consulting Organization (TCO) offering One Stop Solution for all your technical, marketing & financial business requirements.      | 
 | Leak Size      | N/A      | 
 
