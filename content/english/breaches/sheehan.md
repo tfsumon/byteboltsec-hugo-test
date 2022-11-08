@@ -1,0 +1,16 @@
+---
+date: "2022-11-08"
+title: "Sheehan"
+image: "images/blog/Breaches.png"
+author: "Breachsense Support"
+draft: false
+---
+
+| Data Breach Report           |              | 
+| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Victim      | sheehanfamilycompanies.com      | 
+| Threat Actor      | Royal      | 
+| Date Discovered      | Nov 08, 2022      | 
+| Description      | Sheehan is a wine & spirits company that provides beers, ciders, and artisanal spirits.      | 
+| Leak Size      | N/A      | 
+
