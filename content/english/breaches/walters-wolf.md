@@ -1,6 +1,6 @@
 ---
 date: "2022-11-09"
-title: "Walters VictimName Wolf"
+title: "Walters & Wolf"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
