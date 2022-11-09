@@ -9,7 +9,7 @@ draft: false
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
 | Victim      | crrwasteservices.com      | 
-| Threat Actor      | LockBit      | 
+| Threat Actor      | Vice Society      | 
 | Date Discovered      | Nov 07, 2022      | 
 | Description      | CR&R Incorporated is one of Southern California's most innovative and successful waste and recycling collection companies.      | 
 | Leak Size      | N/A      | 
