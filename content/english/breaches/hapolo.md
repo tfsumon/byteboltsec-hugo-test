@@ -1,6 +1,6 @@
 ---
 date: "2022-11-11"
-title: "Unicity"
+title: "Hapolo"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | unicity.com      | 
+| Victim      | hapolo.com.br      | 
 | Threat Actor      | Snatch      | 
 | Date Discovered      | Nov 11, 2022      | 
-| Description      | Unicity International, Inc. is a nutritional networking and marketing company that offers both nutritional supplements and business development services.      | 
-| Leak Size      | 24GB      | 
+| Description      | Hapolo is an app-based platform providing fleet tracking services.      | 
+| Leak Size      | N/A      | 
 
