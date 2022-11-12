@@ -1,8 +1,8 @@
 ---
 # banner
 banner:
-  title: "Hackers don't break in <br> They log in"
-  subtitle: "Gain visibility into your breached data before it's used against you"
+  title: "Monitor Your Company for Data Breaches in Real Time"
+  subtitle: "Never get burned by stolen credentials again"
   button: "Request a Demo"
   button_link: "/contact"
   #image: "images/BSStats.png"

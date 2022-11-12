@@ -48,7 +48,7 @@ link = "contact/"
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
 keywords = ["data breach monitoring", "ransomware prevention", "Breachsense"]
-description = "Illuminating the criminal underground"
+description = "Monitor You Company for Data Breaches in Real Time"
 author = "Breachsense"
 
 # matomo tracking: see https://matomo.org/
