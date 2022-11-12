@@ -41,7 +41,7 @@ stats:
 # brands
 brands_carousel:
   enable: true
-  title: "A few of our happy customers"
+  #title: "A few of our happy customers"
   brand_images:
   - "images/brands/TW.png"
   - "images/brands/PP.png"

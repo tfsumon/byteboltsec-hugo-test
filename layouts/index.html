@@ -29,6 +29,44 @@
 </section>
 {{end}}
 
+{{with .Params.brands_carousel}}
+{{if .enable}}
+<section class="overflow-hidden">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12" data-aos="fade-left">
+        <div class="section-title text-center" data-aos="fade-in">
+          <p class="text-uppercase">{{.subtitle | markdownify}}</p>
+          <h2>{{.title | markdownify}}</h2>
+        </div>
+        <div class="brand-carousel swiper-container">
+          <div class="swiper-wrapper">
+            {{range .brand_images}}
+            {{ if fileExists (add `assets/` .) }}
+            <div class="swiper-slide">
+              <div class="brand-item">
+                {{$img:= resources.Get . }}
+                {{$img_width := $img.Width }}
+
+                {{$img_orginal := add (add (string $img_width) "x") " " }}
+                {{$img_src := ($img.Resize $img_orginal).RelPermalink }}
+
+                {{$imgWebp := add (add (string $img_width) "x") " webp" }}
+                {{$imgWebp_src := ($img.Resize $imgWebp).RelPermalink }}
+                <img loading="lazy" decoding="async" class="img-fluid" width="{{$img_width}}" height="{{$img.Height}}" src="{{$imgWebp_src}}" alt="Brand Image" onerror="this.onerror=null;this.src='{{$img_src}}'">
+              </div>
+            </div>
+            {{end}}
+            {{end}}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{end}}
+{{end}}
+
 {{with .Params.features}}
 {{if .enable}}
 <section class="section features overflow-hidden">
@@ -89,42 +127,5 @@
 {{end}}
 {{end}}
 
-{{with .Params.brands_carousel}}
-{{if .enable}}
-<section class="overflow-hidden">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12" data-aos="fade-left">
-        <div class="section-title text-center" data-aos="fade-in">
-          <p class="text-uppercase">{{.subtitle | markdownify}}</p>
-          <h2>{{.title | markdownify}}</h2>
-        </div>
-        <div class="brand-carousel swiper-container">
-          <div class="swiper-wrapper">
-            {{range .brand_images}}
-            {{ if fileExists (add `assets/` .) }}
-            <div class="swiper-slide">
-              <div class="brand-item">
-                {{$img:= resources.Get . }}
-                {{$img_width := $img.Width }}
-
-                {{$img_orginal := add (add (string $img_width) "x") " " }}
-                {{$img_src := ($img.Resize $img_orginal).RelPermalink }}
-
-                {{$imgWebp := add (add (string $img_width) "x") " webp" }}
-                {{$imgWebp_src := ($img.Resize $imgWebp).RelPermalink }}
-                <img loading="lazy" decoding="async" class="img-fluid" width="{{$img_width}}" height="{{$img.Height}}" src="{{$imgWebp_src}}" alt="Brand Image" onerror="this.onerror=null;this.src='{{$img_src}}'">
-              </div>
-            </div>
-            {{end}}
-            {{end}}
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-{{end}}
-{{end}}
 
 {{end}}
