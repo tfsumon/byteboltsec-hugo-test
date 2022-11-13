@@ -1,7 +1,7 @@
 ---
 # banner
 banner:
-  title: "Monitor Your Company for Data Breaches in Real Time"
+  title: "Monitor Your Company for<br> Data Breaches in Real Time"
   subtitle: "Never get burned by stolen credentials again"
   button: "Request a Demo"
   button_link: "/contact"
