@@ -1,6 +1,6 @@
 ---
 date: "2022-11-14"
-title: "Saurer"
+title: "Nissan of Las Cruces"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | saurer.com      | 
-| Threat Actor      | Snatch      | 
+| Victim      | nissanoflascruces.com      | 
+| Threat Actor      | Lorenz      | 
 | Date Discovered      | Nov 14, 2022      | 
-| Description      | Saurer is a leading globally operating technology company focusing on innovations for the processing of fibre and yarn, including machinery, components and software.      | 
+| Description      | Nissan of Las Cruces is a car dealership located in Las Cruces, NM.      | 
 | Leak Size      | N/A      | 
 

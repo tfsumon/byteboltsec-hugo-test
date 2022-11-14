@@ -1,6 +1,6 @@
 ---
 date: "2022-11-14"
-title: "Saurer"
+title: "YASH Technologies"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | saurer.com      | 
+| Victim      | yash.com      | 
 | Threat Actor      | Snatch      | 
 | Date Discovered      | Nov 14, 2022      | 
-| Description      | Saurer is a leading globally operating technology company focusing on innovations for the processing of fibre and yarn, including machinery, components and software.      | 
+| Description      | YASH Technologies is a leading technology integrator specializing in helping clients reimagine operating models, enhance competitiveness, optimize costs, foster exceptional stakeholder experiences and drive business transformation.       | 
 | Leak Size      | N/A      | 
 

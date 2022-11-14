@@ -1,6 +1,6 @@
 ---
 date: "2022-11-14"
-title: "Saurer"
+title: "Salud"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | saurer.com      | 
-| Threat Actor      | Snatch      | 
+| Victim      | saludclinic.org      | 
+| Threat Actor      | Lorenz      | 
 | Date Discovered      | Nov 14, 2022      | 
-| Description      | Saurer is a leading globally operating technology company focusing on innovations for the processing of fibre and yarn, including machinery, components and software.      | 
+| Description      | Salud is a Federally Qualified Health Center (FQHC), 501(c)3 nonprofit, operating 13 clinic locations, 11 school sites and a mobile unit.      | 
 | Leak Size      | N/A      | 
 

@@ -1,6 +1,6 @@
 ---
 date: "2022-11-14"
-title: "Saurer"
+title: "Brazilian Pet Foods"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | saurer.com      | 
-| Threat Actor      | Snatch      | 
+| Victim      | brazilianpetfoods.com.br      | 
+| Threat Actor      | LV      | 
 | Date Discovered      | Nov 14, 2022      | 
-| Description      | Saurer is a leading globally operating technology company focusing on innovations for the processing of fibre and yarn, including machinery, components and software.      | 
+| Description      | Brazilian Pet Foods is a company that operates in the pet food industry      | 
 | Leak Size      | N/A      | 
 
