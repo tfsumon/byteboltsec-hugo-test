@@ -9,11 +9,13 @@ layout: "elements"
 
 | Name           | Tor / Clearnet             | Status     |
 | :-----------: | :-------------:     |:-------------:   
+| <a href="https://ecrime.ch">eCrime Services</a>     | Clearnet     | ONLINE     |
 | <a href="https://www.ransomlook.io/">RANSOMWARE GROUPS MONITORING TOOL</a>     | Clearnet     | ONLINE     |
 | <a href="http://54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion.ws/blog">54bb47h</a>     | Tor     | OFFLINE     |
 | <a href="http://omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion.ws">0mega </a>     | Tor     | ONLINE     |
 | <a href="http://54bb47h.blog">54bb47h</a>     | Clearnet     | OFFLINE     |
 | <a href="http://54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion.ws">54bb47h </a>     | Tor     | OFFLINE     |
+| <a href="http://abrahamm32umasogaqojib3ey2w2nwoafffrguq43tsyke4s3fz3w4yd.onion.ws">Abrahams Ax</a>     | Tor     | ONLINE     |
 | <a href="http://giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion.ws">AgainstTheWest</a>     | Tor     | OFFLINE     |
 | <a href="http://kwvhrdibgmmpkhkidrby4mccwqpds5za6uo2thcw5gz75qncv7rbhyad.onion.ws">AKO</a>     | Tor     | OFFLINE     |
 | <a href="http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion.ws">ALPHV </a>     | Tor     | OFFLINE     |
@@ -88,11 +90,12 @@ layout: "elements"
 | <a href="http://r6d636w47ncnaukrpvlhmtdbvbeltc6enfcuuow3jclpmyga7cz374qd.onion.ws">HOTARUS</a>     | Tor     | OFFLINE     |
 | <a href="http://kf6x3mjeqljqxjznaw65jixin7dpcunfxbbakwuitizytcpzn4iy5bad.onion.ws/board/leak_list/">ICEFIRE</a>     | Tor     | OFFLINE     |
 | <a href="http://spyarea23ttlty6qav3ecmbclpqym3p32lksanoypvrqm6j5onstsjad.onion.ws">INDUSTRIAL SPY</a>     | Tor     | ONLINE     |
+| <a href="https://justice-blade.io">JUSTICE BLADE</a>     | Clearnet     | ONLINE     |
 | <a href="https://lhxxtrqraokn63f3nubhbjrzxkrgduq3qogp3yr424tkpvh3z7n4kcyd.onion.ws">KARAKURT </a>     | Tor     | OFFLINE     |
 | <a href="https://omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion.ws">KARAKURT </a>     | Tor     | ONLINE     |
 | <a href="https://3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion.ws">KARAKURT </a>     | Tor     | ONLINE     |
 | <a href="http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion.ws">KARMA</a>     | Tor     | OFFLINE     |
-| <a href="https://kelvinsecteamcyber.wixsite.com/my-site/items">KELVIN SECURITY</a>     | Clearnet     | OFFLINE     |
+| <a href="https://vipsuscription.org">KELVIN SECURITY</a>     | Clearnet     | ONLINE     |
 | <a href="http://yeuajcizwytgmrntijhxphs6wn5txp2prs6rpndafbsapek3zd4ubcid.onion.ws">LILITH</a>     | Tor     | OFFLINE     |
 | <a href="http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion.ws">LOCKBIT 2.0 </a>     | Tor     | REBRANDED TO LB 3     |
 | <a href="http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion.ws">LOCKBIT 2.0 </a>     | Tor     | REBRANDED TO LB 3     |
@@ -113,11 +116,14 @@ layout: "elements"
 | <a href="http://lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd.onion.ws">LOCKBIT 3.0 </a>     | Tor     | ONLINE     |
 | <a href="http://lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion.ws">LOCKBIT 3.0 </a>     | Tor     | ONLINE     |
 | <a href="http://lockbit7z2jwcskxpbokpemdxmltipntwlkmidcll2qirbu7ykg46eyd.onion.ws">LOCKBIT 3.0 </a>     | Tor     | ONLINE     |
+| <a href="http://lockbitfile2tcudkcqqt2ve6btssyvqwlizbpv5vz337lslmhff2uad.onion.ws">LOCKBIT 3.0 </a>     | Tor     | ONLINE     |
+| <a href="http://lockbitnotexk2vnf2q2zwjefsl3hjsnk4u74vq4chxrqpjclfydk4ad.onion.ws">LOCKBIT 3.0 </a>     | Tor     | ONLINE     |
 | <a href="http://lockbitkodidilol.onion.ws">LOCKBIT</a>     | Tor     | OFFLINE     |
 | <a href="http://zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion.ws">LOCKFILE </a>     | Tor     | OFFLINE     |
 | <a href="http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion.ws">LORENZ</a>     | Tor     | ONLINE     |
 | <a href="http://rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion.ws">LV </a>     | Tor     | OFFLINE     |
 | <a href="http://4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion.ws">LV </a>     | Tor     | OFFLINE     |
+| <a href="http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion.ws">MALLOX</a>     | Tor     | ONLINE     |
 | <a href="http://g5sbltooh2okkcb2.onion.ws">MARKETO </a>     | Tor     | OFFLINE     |
 | <a href="http://jvdamsif53dqjycuozlaye2s47p7xij4x6hzwzwhzrqmv36gkyzohhqd.onion.ws">MARKETO </a>     | Tor     | OFFLINE     |
 | <a href="http://fvki3hj7uxuirxpeop6chgqoczanmebutznt2mkzy6waov6w456vjuid.onion.ws">MARKETO </a>     | Tor     | OFFLINE     |
@@ -159,12 +165,14 @@ layout: "elements"
 | <a href="http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion.ws">RANSOM HOUSE</a>     | Tor     | ONLINE     |
 | <a href="http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion.ws">RANZY/AKO</a>     | Tor     | OFFLINE     |
 | <a href="http://blog2hkbm6gogpv2b3uytzi3bj5d5zmc4asbybumjkhuqhas355janyd.onion.ws">REDALERT</a>     | Tor     | ONLINE     |
+| <a href="https://relic5zqwemjnu4veilml6prgyedj6phs7de3udhicuq53z37klxm6qd.onion.ws.pet">RELIC</a>     | Tor     | ONLINE     |
 | <a href="http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion.ws">REVIL </a>     | Tor     | OFFLINE     |
 | <a href="http://blogxxu75w63ujqarv476otld7cyjkq4yoswzt4ijadkjwvg3vrvd5yd.onion.ws/Blog">REVIL </a>     | Tor     | ONLINE     |
 | <a href="http://landxxeaf2hoyl2jvcwuazypt6imcsbmhb7kx3x33yhparvtmkatpaad.onion.ws">REVIL </a>     | Tor     | ONLINE     |
 | <a href="https://robinhoodleaks.tumblr.com">ROBINHOOD</a>     | Clearnet     | OFFLINE     |
 | <a href="http://gamol6n6p2p4c3ad7gxmx3ur7wwdwlywebo2azv3vv5qlmjmole2zbyd.onion.ws">ROOK</a>     | Tor     | OFFLINE     |
 | <a href="http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion.ws">ROYAL </a>     | Tor     | ONLINE     |
+| <a href="http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion.ws">ROYAL</a>     | Tor     | ONLINE     |
 | <a href="http://t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion.ws/check_payment_form">RRANSOM </a>     | Tor     | ONLINE     |
 | <a href="http://sekhmet.top">SEKHMET</a>     | Clearnet     | OFFLINE     |
 | <a href="http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion.ws/index.php">SNATCH </a>     | Tor     | ONLINE     |
