@@ -15,7 +15,7 @@ layout: "elements"
 | <a href="http://omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion.ws">0mega </a>     | Tor     | ONLINE     |
 | <a href="http://54bb47h.blog">54bb47h</a>     | Clearnet     | OFFLINE     |
 | <a href="http://54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion.ws">54bb47h </a>     | Tor     | OFFLINE     |
-| <a href="http://abrahamm32umasogaqojib3ey2w2nwoafffrguq43tsyke4s3fz3w4yd.onion.ws">Abrahams Ax</a>     | Tor     | ONLINE     |
+| <a href="http://abrahamm32umasogaqojib3ey2w2nwoafffrguq43tsyke4s3fz3w4yd.onion.ws">Abrahams Ax </a>     | Tor     | ONLINE     |
 | <a href="http://giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion.ws">AgainstTheWest</a>     | Tor     | OFFLINE     |
 | <a href="http://kwvhrdibgmmpkhkidrby4mccwqpds5za6uo2thcw5gz75qncv7rbhyad.onion.ws">AKO</a>     | Tor     | OFFLINE     |
 | <a href="http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion.ws">ALPHV </a>     | Tor     | OFFLINE     |
@@ -71,6 +71,7 @@ layout: "elements"
 | <a href="http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion.ws">DOPPLE PAYMER</a>     | Tor     | OFFLINE     |
 | <a href="http://adminavf4cikzbv6mbbp7ujpwhygnn2t3egiz2pswldj32krrml42wyd.onion.ws">DOTADMIN</a>     | Tor     | OFFLINE     |
 | <a href="http://veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion.ws">ECH0RAIX</a>     | Tor     | OFFLINE     |
+| <a href="http://h44jyyfomcbnnw5dha7zgwgkvpzbzbdyx2onu4fxaa5smxrgbjgq7had.onion.ws/">ENDURANCE</a>     | Tor     | ONLINE     |
 | <a href="https://egregornews.com">EGREGOR</a>     | Clearnet     | OFFLINE     |
 | <a href="http://leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion.ws">ENTROPY</a>     | Tor     | OFFLINE     |
 | <a href="http://dg5fyig37abmivryrxlordrczn6d6r5wzcfe2msuo5mbbu2exnu46fid.onion.ws">EP918</a>     | Tor     | OFFLINE     |
