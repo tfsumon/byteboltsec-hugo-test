@@ -7,20 +7,14 @@
 <section class="section features overflow-hidden">
   <div class="container">
     {{with .features_blocks}}
+<table border="0" width="100%"><tr><td>
     <h3 class="title" id="dom"></h3>
+</td><td align="right">
+		<a href="https://calendly.com/joshamishav/15min" class="btn btn-primary aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Schedule a demo</a></td></tr></table>
     <div class="row">
       <div class="col-lg-12" data-aos="fade-left" data-aos-delay="200">
         <div class="features-carousel row">
           {{range .}}
-          <div class="col-lg-6 col-md-6">
-            <div class="features-card">
-              <div class="icon text-primary">
-                <i class="las la-users"></i>
-              </div>
-              <h3 class="title" id="usr">{{.title | markdownify}}</h3>
-              <p class="mb-0">{{.content | markdownify}}</p>
-            </div>
-          </div>
           <div class="col-lg-6 col-md-6">
             <div class="features-card">
               <div class="icon text-primary">
@@ -30,40 +24,91 @@
               <p class="mb-0">{{.content | markdownify}}</p>
             </div>
           </div>
+          <div class="col-lg-6 col-md-6">
+            <div class="features-card">
+              <div class="icon text-primary">
+                <i class="las la-users"></i>
+              </div>
+              <h3 class="title" id="usr">{{.title | markdownify}}</h3>
+              <p class="mb-0">{{.content | markdownify}}</p>
+            </div>
+          </div>
           {{end}}
         </div>
       </div>
     </div>
     {{end}}
   </div>
-
+  <section class="section features overflow-hidden">
+    <div class="container">
+      <div class="col-lg-12" data-aos="fade-left" data-aos-delay="200">
+        <h3 class="title" id="usr"><i class="las la-exclamation-triangle"></i>What risk does this expose?</i></h3>
+	<p class="mb-0"><i>Company exposure</i> refers to the number of employees associated with the searched domain who have had their credentials leaked. <i>Customer exposure</i> refers to the number of target's customer accounts that are publicly available.</p><br>
+		<p class="mb-0">Hackers don't need to break in when they can log in. The easiest way for attackers to gain initial access to your network is by using valid usernames and passwords. 2-Factor authentication can often be bypassed as well when valid session tokens are leaked due to malware infected machines.</p></br>
+	<p class="mb-0">Monitoring your organization for breached data helps security teams mitigate one of the primary initial attack vectors attackers use to gain access to your network. By indexing millions of breached records daily, we enable security teams to protect their staff as well as their customers from cyber attacks, account fraud and unauthorized purchases.</p>
+      </div>
+    </div>
+  </section>
+  <section class="section features overflow-hidden">
+    <div class="container">
+      <div class="row">
+	      <h3 class="title" id="tips">Tips to secure your breached accounts</h3>
+      </div>
+        <div class="col-lg-12" data-aos="fade-left" data-aos-delay="200">
+          <div class="features-carousel row">
+            <div class="col-lg-4 col-md-6">
+              <div class="features-card">
+                <div class="icon text-primary">
+                  <i class="las la-fingerprint"></i>
+                </div>
+                <h3 class="title" id="usr">Use Unique & Strong Passwords</h3>
+                <p class="mb-0">Passwords should never be reused anywhere. Each password should be unique for a given app.</p>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+              <div class="features-card">
+                <div class="icon text-primary">
+                  <i class="las la-sms"></i>
+                </div>
+                <h3 class="title" id="emp">Enable Two-Factor Authentication</h3>
+                <p class="mb-0">Enabling a second layer of authentication (also refered to as MFA) helps prevent attackers exploiting leaked passwords.</p>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+              <div class="features-card">
+                <div class="icon text-primary">
+                  <i class="las la-lock-open"></i>
+                </div>
+                <h3 class="title" id="emp">Always Use A Password Manager</h3>
+                <p class="mb-0">Generate all of your passwords using a password manager. Memorize only the password to unlock your password vault.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
   <div class="container">
     <div class="row justify-content-center" data-aos="fade-in">
       <div class="col-lg-4 col-md-10 order-1 order-lg-0 mt-5 mt-lg-0">
         <div class="mb-0">
-          <h3 class="text-primary mb-4">Search another domain</h3>
         </div>
+      </div>
+      <div class="col-lg-9 col-md-10 order-0 order-lg-1">
+        <div class="pl-0 pl-lg-9">
+          <h3 class="text-primary mb-4">Search another domain</h3>
+         </div>
         <div class="content">
           <form action="" method="GET" class="needs-validation" novalidate>
           <div class="form-group mb-4">
             <input class="form-control shadow-none" id="domain" name="domain" type="domain" placeholder="Domain Address" required>
             <p class="font-weight-bold invalid-feedback"></p>
-            <button class="btn btn-primary w-100 mt-4" type="submit" aria-label="Search">Search</button>
+            <button class="btn btn-primary w-100 mt-4" type="submit" aria-label="Search">Go</button>
           </div>
           </form>
         </div>
-      </div>
-      <div class="col-lg-7 col-md-10 order-0 order-lg-1">
-        <div class="pl-0 pl-lg-5">
-          <h3 class="text-primary mb-4">Get a demo</h3>
-          <div class="content">
-        <form id="contact-form" action="https://api.breachsense.io/report" method="POST" class="needs-validation" novalidate>
-        <p id=form-status class=form-status></p>
-          <div class="form-group mb-4">
-            <input class="form-control shadow-none" id="email" name="email" type="email" placeholder="Work Email Address" required>
-          <button class="btn btn-primary w-100 mt-4" type="submit" aria-label="Book Time">Connect with Breachsense</button>
-          </div>
-        </form>
+
+
 	<script>var form=document.getElementById('contact-form');async function handleSubmit(a){var b,c;a.preventDefault(),b=document.getElementById("form-status"),c=new FormData(a.target),fetch(a.target.action,{method:form.method,body:c,headers:{Accept:'application/json'}}).then(a=>{b.innerHTML="Thanks for your submission!",form.reset()}).catch(a=>{b.innerHTML="Oops! There was a problem submitting your form"})}form.addEventListener("submit",handleSubmit)</script>
           </div>
         </div>
@@ -80,9 +125,20 @@ fetch("https://api.breachsense.io/stats?s=" + domain)
 return response.json();
 })
 .then(function (JSON) {
-		document.querySelector("#dom").innerHTML = "Results for " +domain;
+		if (domain == 'null') { 
+			header = "Please enter a domain name below" 
+		} else { 
+			header = "Results for " +domain
+		}
+		if (domain == 'null') { 
+			tgt = "the searched domain" 
+		} else { 
+			tgt = domain
+		}
+		document.querySelector("#dom").innerHTML = header;
 		document.querySelector("#usr").innerHTML = "Customer Exposure<br><br>" + JSON.usr + " users";
 		document.querySelector("#emp").innerHTML = "Company Exposure <br><br>" + JSON.emp + " employees";
+		document.querySelector("#target").innerHTML = tgt;
 })
 .catch(function (error) {
 console.log("Error: " + error);
@@ -92,3 +148,4 @@ console.log("Error: " + error);
 
 {{end}}
 {{end}}
+
