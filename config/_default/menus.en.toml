@@ -43,7 +43,7 @@ hasChildren = true
 [[main]]
   parent = "Resources"
   name = "Check your exposure"
-  url = "search/"
+  url = "dark-web-monitoring/"
   weight = 3
   
 
@@ -56,7 +56,7 @@ hasChildren = true
   [[main]]
   parent = "Resources"
   name = "Dark Web Monitoring"
-  url = "/blog/dark-web-monitoring/"
+  url = "/blog/monitoring-dark-web/"
   weight = 5
 
   [[main]]
