@@ -1,6 +1,6 @@
 ---
 date: "2022-11-21"
-title: "Motivating Graphics"
+title: "Air Asia"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | motivatingraphics.com      | 
-| Threat Actor      |       | 
+| Victim      | airasia.com      | 
+| Threat Actor      | Daixin      | 
 | Date Discovered      | Nov 21, 2022      | 
-| Description      | Motivating Graphics is a printing company providing technical manual printing and corrugated packaging services.      | 
+| Description      | AirAsia is a Malaysian multinational low-cost airline headquartered near Kuala Lumpur, Malaysia.      | 
 | Leak Size      | N/A      | 
 

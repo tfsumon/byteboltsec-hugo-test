@@ -1,6 +1,6 @@
 ---
 date: "2022-11-21"
-title: "Motivating Graphics"
+title: "Norseman"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | motivatingraphics.com      | 
-| Threat Actor      |       | 
+| Victim      | norseman.ca      | 
+| Threat Actor      | LockBit      | 
 | Date Discovered      | Nov 21, 2022      | 
-| Description      | Motivating Graphics is a printing company providing technical manual printing and corrugated packaging services.      | 
+| Description      | Norseman is the largest supplier and manufacturer of industrial fabric and foam products in North America.      | 
 | Leak Size      | N/A      | 
 

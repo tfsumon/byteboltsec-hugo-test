@@ -1,6 +1,6 @@
 ---
 date: "2022-11-21"
-title: "Motivating Graphics"
+title: "Virginia Farm Bureau"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | motivatingraphics.com      | 
-| Threat Actor      |       | 
+| Victim      | vafb.com      | 
+| Threat Actor      | Royal      | 
 | Date Discovered      | Nov 21, 2022      | 
-| Description      | Motivating Graphics is a printing company providing technical manual printing and corrugated packaging services.      | 
+| Description      | Virginia Farm Bureau Insurance is an insurance company specializing in Auto Insurance, Home Insurance, Life Insurance, and Health Insurance.      | 
 | Leak Size      | N/A      | 
 

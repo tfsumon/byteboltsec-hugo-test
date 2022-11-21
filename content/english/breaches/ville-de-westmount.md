@@ -1,6 +1,6 @@
 ---
 date: "2022-11-21"
-title: "Klamoya Casino"
+title: "Ville de Westmount"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | klamoyacasino.com      | 
-| Threat Actor      |       | 
+| Victim      | westmount.org      | 
+| Threat Actor      | LockBit      | 
 | Date Discovered      | Nov 21, 2022      | 
-| Description      | The Klamoya Casino is a tribal-owned gambling establishment located in Klamath County, Oregon.      | 
-| Leak Size      | N/A      | 
+| Description      | Ville de Westmount is a government administration.      | 
+| Leak Size      | 14TB      | 
 
