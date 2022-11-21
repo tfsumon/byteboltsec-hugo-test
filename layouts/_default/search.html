@@ -10,7 +10,7 @@
 <table border="0" width="100%"><tr><td>
     <h3 class="title" id="dom"></h3>
 </td><td align="right">
-		<a href="https://calendly.com/joshamishav/15min" class="btn btn-primary aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Schedule a demo</a></td></tr></table>
+	<a href="https://calendly.com/joshamishav/15min" class="btn btn-primary aos-init aos-animate" data-aos="fade-up" data-aos-delay="200"><b>Get a Demo</b></a></td></tr></table>
     <div class="row">
       <div class="col-lg-12" data-aos="fade-left" data-aos-delay="200">
         <div class="features-carousel row">
@@ -43,9 +43,7 @@
     <div class="container">
       <div class="col-lg-12" data-aos="fade-left" data-aos-delay="200">
         <h3 class="title" id="usr"><i class="las la-exclamation-triangle"></i>What risk does this expose?</i></h3>
-	<p class="mb-0"><i>Company exposure</i> refers to the number of employees associated with the searched domain who have had their credentials leaked. <i>Customer exposure</i> refers to the number of the target's customer accounts that are publicly available.</p><br>
-		<p class="mb-0">Hackers don't need to break in when they can log in. The easiest way for attackers to gain initial access to your network is by using valid usernames and passwords. 2-Factor authentication can often be bypassed as well when valid session tokens are leaked due to malware infected machines.</p><br>
-	<p class="mb-0">Monitoring your organization for breached data helps security teams mitigate one of the primary initial attack vectors malicious users exploit to gain access to your network. By indexing millions of breached records daily, we enable security teams to protect their staff as well as their customers from cyber attacks, account fraud and unauthorized purchases.</p>
+	<p class="mb-0">Monitoring your organization for breached data helps security teams mitigate one of the primary initial attack vectors attackers use to gain access to your network. By indexing millions of breached records daily, we enable security teams to protect their staff as well as their customers from cyber attacks, account fraud and unauthorized purchases.</p>
       </div>
     </div>
   </section>
@@ -136,8 +134,8 @@ return response.json();
 			tgt = domain
 		}
 		document.querySelector("#dom").innerHTML = header;
-		document.querySelector("#usr").innerHTML = "Customer Exposure<br><br>" + JSON.usr + " users";
-		document.querySelector("#emp").innerHTML = "Company Exposure <br><br>" + JSON.emp + " employees";
+		document.querySelector("#emp").innerHTML = JSON.emp + " employee<br><br>credentials have leaked";
+		document.querySelector("#usr").innerHTML = JSON.usr + " customer <br><br>credentials have leaked";
 		document.querySelector("#target").innerHTML = tgt;
 })
 .catch(function (error) {
