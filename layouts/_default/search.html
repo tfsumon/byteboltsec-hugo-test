@@ -10,7 +10,7 @@
 <table border="0" width="100%"><tr><td>
     <h3 class="title" id="dom"></h3>
 </td><td align="right">
-	<a href="https://calendly.com/joshamishav/15min" class="btn btn-primary aos-init aos-animate" data-aos="fade-up" data-aos-delay="200"><b>Get a Demo</b></a></td></tr></table>
+	<a href="https://calendly.com/joshamishav/15min"><button class="btn btn-primary w-100 mt-4" style="background-color: blue;" type="submit" aria-label="Search">Get a Demo</button></a></td></tr></table>
     <div class="row">
       <div class="col-lg-12" data-aos="fade-left" data-aos-delay="200">
         <div class="features-carousel row">
@@ -39,14 +39,6 @@
     </div>
     {{end}}
   </div>
-  <section class="section features overflow-hidden">
-    <div class="container">
-      <div class="col-lg-12" data-aos="fade-left" data-aos-delay="200">
-        <h3 class="title" id="usr"><i class="las la-exclamation-triangle"></i>What risk does this expose?</i></h3>
-	<p class="mb-0">Monitoring your organization for breached data helps security teams mitigate one of the primary initial attack vectors attackers use to gain access to your network. By indexing millions of breached records daily, we enable security teams to protect their staff as well as their customers from cyber attacks, account fraud and unauthorized purchases.</p>
-      </div>
-    </div>
-  </section>
   <section class="section features overflow-hidden">
     <div class="container">
       <div class="row">
@@ -105,8 +97,6 @@
           </div>
           </form>
         </div>
-
-
 	<script>var form=document.getElementById('contact-form');async function handleSubmit(a){var b,c;a.preventDefault(),b=document.getElementById("form-status"),c=new FormData(a.target),fetch(a.target.action,{method:form.method,body:c,headers:{Accept:'application/json'}}).then(a=>{b.innerHTML="Thanks for your submission!",form.reset()}).catch(a=>{b.innerHTML="Oops! There was a problem submitting your form"})}form.addEventListener("submit",handleSubmit)</script>
           </div>
         </div>
@@ -114,6 +104,28 @@
     </div>
   </div>
 </section>
+<section class="section features overflow-hidden">
+  <div class="container">
+    <div class="row justify-content-center" data-aos="fade-in">
+      <div class="col-lg-4 col-md-10 order-1 order-lg-0 mt-5 mt-lg-0">
+        <div class="mb-0">
+        </div>
+      </div>
+      <div class="col-lg-9 col-md-10 order-0 order-lg-1">
+        <div class="pl-0 pl-lg-9">
+          <h3 class="text-primary mb-4">What Makes Breachsense Different?</h3>
+         </div>
+        <div class="content">
+	<p class="mb-0">Monitoring your organization for breached data helps security teams mitigate one of the primary initial attack vectors attackers exploit to gain access to your network. By indexing millions of breached records daily, we enable security teams to protect their staff as well as their customers from cyber attacks, account fraud and unauthorized purchases.</p><br>
+	<p class="mb-0">Breachsense maintains the largest database of breached data of its kind. This enables us to protect businesses from cyberattacks, ransomware infections and prevent consumer fraud. By indexing breached data from the darknet, hacker forums, paste sites and underground channels, our proprietary engine analyzes billions of leaked data records each month. This results in delivering unparalleled cyber threat intelligence to combat account takeover attacks and online fraud as well as power incident response investigations.</p><br>
+	<p class="mb-0">We work with B2B companies around the globe, including government agencies and some of the most advanced ecommerce, financial services, and offensive security companies in the world.</p><br>
+	<p class="mb-0">We created Breachsense to help people stay safe online. By disrupting the criminal underground, we're able to help prevent cyber attacks long before the stolen data can be exploited. With Breachsense, businesses can automate solutions to prevent cyber attacks from day one.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 <script>
 qS = window.location.search;
 uP= new URLSearchParams(qS);
@@ -141,6 +153,7 @@ return response.json();
 .catch(function (error) {
 console.log("Error: " + error);
 });
+
 </script>
 {{end}}
 
