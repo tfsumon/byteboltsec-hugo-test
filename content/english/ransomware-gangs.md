@@ -79,6 +79,7 @@ layout: "elements"
 | <a href="http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion.ws">EVILCORP</a>     | Tor     | OFFLINE     |
 | <a href="http://7iulpt5i6whht6zo2r52f7vptxtjxs3vfcdxxazllikrtqpupn4epnqd.onion.ws">EXORCIST</a>     | Tor     | OFFLINE     |
 | <a href="http://gcbejm2rcjftouqbxuhimj5oroouqcuxb2my4raxqa7efkz5bd5464id.onion.ws">FREE CIVILIAN </a>     | Tor     | ONLINE     |
+| <a href="http://hkk62og3s2tce2gipcdxg3m27z4b62mrmml6ugctzdxs25o26q3a4mid.onion.ws">FS-TEAM</a>     | Tor     | ONLINE     |
 | <a href="http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion.ws">GRIEF</a>     | Tor     | OFFLINE     |
 | <a href="http://ws3dh6av66sjbxxkjpw5ao3wqzmtejnkzheswm4dz5rrwvular7xvkqd.onion.ws">GROOVE</a>     | Tor     | OFFLINE     |
 | <a href="http://ixltdyumdlthrtgx.onion.ws">HADES</a>     | Tor     | OFFLINE     |
