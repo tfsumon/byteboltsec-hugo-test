@@ -149,6 +149,8 @@ layout: "elements"
 | <a href="http://vbfqeh5nugm6r2u2qvghsdxm3fotf5wbxb5ltv6vw77vus5frdpuaiid.onion.ws">PANDORA</a>     | Tor     | OFFLINE     |
 | <a href="http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion.ws">PAY2KEY</a>     | Tor     | OFFLINE     |
 | <a href="http://vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion.ws">PAYLOAD.BIN </a>     | Tor     | OFFLINE     |
+| <a href="http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion.ws">PLAY</a>     | Tor     | ONLINE     |
+| <a href="http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion.ws">PLAY</a>     | Tor     | ONLINE     |
 | <a href="http://msaoyrayohnp32tcgwcanhjouetb5k54aekgnwg7dcvtgtecpumrxpqd.onion.ws">PROLOCK</a>     | Tor     | OFFLINE     |
 | <a href="http://promethw27cbrcot.onion.ws/blog">PROMETHEUS</a>     | Tor     | OFFLINE     |
 | <a href="http://pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion.ws/partners.html">PYSA</a>     | Tor     | OFFLINE     |
