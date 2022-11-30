@@ -1,6 +1,6 @@
 ---
 date: "2022-11-29"
-title: "Kenosha Unified School District"
+title: "Cates"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | kusd.edu      | 
-| Threat Actor      | REvil      | 
+| Victim      | cates.com      | 
+| Threat Actor      | Royal      | 
 | Date Discovered      | Nov 29, 2022      | 
-| Description      | Kenosha Unified School District is comprised of elementary schools, middle schools, and high schools.      | 
+| Description      | Cates Control Systems, Inc. is a full service, system solutions provider.      | 
 | Leak Size      | N/A      | 
 
