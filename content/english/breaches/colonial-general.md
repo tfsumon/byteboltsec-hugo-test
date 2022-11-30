@@ -1,6 +1,6 @@
 ---
 date: "2022-11-30"
-title: "Stibbs"
+title: "Colonial General"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | stibbsco.com      | 
-| Threat Actor      | ALPHV      | 
+| Victim      | colonialgeneral.com      | 
+| Threat Actor      | LockBit      | 
 | Date Discovered      | Nov 30, 2022      | 
-| Description      | Stibbs & Co. attorneys are known for providing “big firm” expertise with practical solutions.      | 
-| Leak Size      | 631GB      | 
+| Description      | Colonial General Insurance Agency, Inc. operates as an insurance agency.      | 
+| Leak Size      | N/A      | 
 
