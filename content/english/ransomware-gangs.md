@@ -75,7 +75,7 @@ layout: "elements"
 | <a href="https://egregornews.com">EGREGOR</a>     | Clearnet     | OFFLINE     |
 | <a href="http://leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion.ws">ENTROPY</a>     | Tor     | OFFLINE     |
 | <a href="http://dg5fyig37abmivryrxlordrczn6d6r5wzcfe2msuo5mbbu2exnu46fid.onion.ws">EP918</a>     | Tor     | OFFLINE     |
-| <a href="http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion.ws.ly">EVEREST</a>     | Tor     | ONLINE     |
+| <a href="http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion.ws">EVEREST</a>     | Tor     | ONLINE     |
 | <a href="http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion.ws">EVILCORP</a>     | Tor     | OFFLINE     |
 | <a href="http://7iulpt5i6whht6zo2r52f7vptxtjxs3vfcdxxazllikrtqpupn4epnqd.onion.ws">EXORCIST</a>     | Tor     | OFFLINE     |
 | <a href="http://gcbejm2rcjftouqbxuhimj5oroouqcuxb2my4raxqa7efkz5bd5464id.onion.ws">FREE CIVILIAN </a>     | Tor     | ONLINE     |
@@ -133,6 +133,7 @@ layout: "elements"
 | <a href="http://xembshruusobgbvxg4tcjs3jpdnks6xrr6nbokfxadcnlc53yxir22ad.onion.ws">MBC</a>     | Tor     | OFFLINE     |
 | <a href="http://qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion.ws">MEDUSA LOCKER</a>     | Tor     | ONLINE     |
 | <a href="http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion.ws">MEDUSA - Victims Page</a>     | Tor     | ONLINE     |
+| <a href="http://woqjumaahi662ka26jzxyx7fznbp4kg3bsjar4b52tqkxgm2pylcjlad.onion.ws/">?NO NAME SPECIFIED</a>     | Tor     | ONLINE     |
 | <a href="http://midasbkic5eyfox4dhnijkzc7v7e4hpmsb2qgux7diqbpna4up4rtdad.onion.ws/blog.php">MIDAS/HARON</a>     | Tor     | OFFLINE     |
 | <a href="http://dfpc7yvle5kxmgg6sbcp5ytggy3oeob676bjgwcwhyr2pwcrmbvoilqd.onion.ws">MINDWARE</a>     | Tor     | OFFLINE     |
 | <a href="http://mosesstaffm7hptp.onion.ws">Moses Staff </a>     | Tor     | OFFLINE     |
@@ -201,5 +202,5 @@ layout: "elements"
 | <a href="http://nalr2uqsave7y2r235am5jsfiklfjh5h4jc5nztu3rzvmhklwt5j6kid.onion.ws">X001XS</a>     | Tor     | ONLINE     |
 | <a href="http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion.ws">XING LOCKER</a>     | Tor     | OFFLINE     |
 | <a href="http://wj3b2wtj7u2bzup75tzhnso56bin6bnvsxcbwbfcuvzpc4vcixbywlid.onion.ws">XINOF</a>     | Tor     | OFFLINE     |
-| <a href="http://jukswsxbh3jsxuddvidrjdvwuohtsy4kxg2axbppiyclomt2qciyfoad.onion.ws">YANLUOWANG</a>     | Tor     | ONLINE     |
+| <a href="http://jukswsxbh3jsxuddvidrjdvwuohtsy4kxg2axbppiyclomt2qciyfoad.onion.ws">YANLUOWANG</a>     | Tor     | OFFLINE     |
 | <a href="http://zeonrefpbompx6rwdqa5hxgtp2cxgfmoymlli3azoanisze33pp3x3yd.onion.ws">ZEON </a>     | Tor     | OFFLINE     |
