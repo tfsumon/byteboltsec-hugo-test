@@ -133,6 +133,7 @@ layout: "elements"
 | <a href="http://xembshruusobgbvxg4tcjs3jpdnks6xrr6nbokfxadcnlc53yxir22ad.onion.ws">MBC</a>     | Tor     | OFFLINE     |
 | <a href="http://qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion.ws">MEDUSA LOCKER</a>     | Tor     | ONLINE     |
 | <a href="http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion.ws">MEDUSA - Victims Page</a>     | Tor     | ONLINE     |
+| <a href="http://mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid.onion.ws">MONTI</a>     | Tor     | ONLINE     |
 | <a href="http://woqjumaahi662ka26jzxyx7fznbp4kg3bsjar4b52tqkxgm2pylcjlad.onion.ws/">?NO NAME SPECIFIED</a>     | Tor     | ONLINE     |
 | <a href="http://midasbkic5eyfox4dhnijkzc7v7e4hpmsb2qgux7diqbpna4up4rtdad.onion.ws/blog.php">MIDAS/HARON</a>     | Tor     | OFFLINE     |
 | <a href="http://dfpc7yvle5kxmgg6sbcp5ytggy3oeob676bjgwcwhyr2pwcrmbvoilqd.onion.ws">MINDWARE</a>     | Tor     | OFFLINE     |
