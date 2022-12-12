@@ -1,6 +1,6 @@
 ---
 date: "2022-12-12"
-title: "Warren County Community College"
+title: "Amazing Global de Venezuela"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | warren.edu      | 
-| Threat Actor      | ALPHV      | 
+| Victim      | amazing-global.com      | 
+| Threat Actor      | LockBit      | 
 | Date Discovered      | Dec 12, 2022      | 
-| Description      | Warren County Community College is a 2-year, public college of art.      | 
+| Description      | Amazing Global de Venezuela is a company working in the field of information technology and services.      | 
 | Leak Size      | N/A      | 
 

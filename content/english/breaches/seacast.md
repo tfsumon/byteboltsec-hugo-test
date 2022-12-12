@@ -1,6 +1,6 @@
 ---
 date: "2022-12-12"
-title: "Warren County Community College"
+title: "SeaCast"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | warren.edu      | 
-| Threat Actor      | ALPHV      | 
+| Victim      | seacast.com      | 
+| Threat Actor      | BlackBasta      | 
 | Date Discovered      | Dec 12, 2022      | 
-| Description      | Warren County Community College is a 2-year, public college of art.      | 
+| Description      | SeaCast, Inc. provides investment casting foundries.      | 
 | Leak Size      | N/A      | 
 

@@ -1,6 +1,6 @@
 ---
 date: "2022-12-12"
-title: "Warren County Community College"
+title: "Radhakrishna Foodland"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | warren.edu      | 
-| Threat Actor      | ALPHV      | 
+| Victim      | rkfoodland.com      | 
+| Threat Actor      | LockBit      | 
 | Date Discovered      | Dec 12, 2022      | 
-| Description      | Warren County Community College is a 2-year, public college of art.      | 
+| Description      | Radhakrishna Foodland is one of India's leading supply chain companies serving the food and near food industry over the last few decades.      | 
 | Leak Size      | N/A      | 
 

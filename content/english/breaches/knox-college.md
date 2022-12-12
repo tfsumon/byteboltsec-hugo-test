@@ -1,6 +1,6 @@
 ---
 date: "2022-12-12"
-title: "Warren County Community College"
+title: "Knox College"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | warren.edu      | 
+| Victim      | knox.edu      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Dec 12, 2022      | 
-| Description      | Warren County Community College is a 2-year, public college of art.      | 
+| Description      | Knox College is a private liberal arts college in Galesburg, Illinois.      | 
 | Leak Size      | N/A      | 
 

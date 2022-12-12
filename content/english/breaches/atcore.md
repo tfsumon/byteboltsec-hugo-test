@@ -1,6 +1,6 @@
 ---
 date: "2022-12-12"
-title: "Warren County Community College"
+title: "Atcore"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | warren.edu      | 
-| Threat Actor      | ALPHV      | 
+| Victim      | atcoretec.com      | 
+| Threat Actor      | BlackBasta      | 
 | Date Discovered      | Dec 12, 2022      | 
-| Description      | Warren County Community College is a 2-year, public college of art.      | 
+| Description      | Atcore is a technology group specialising in software and services for the leisure travel sector.      | 
 | Leak Size      | N/A      | 
 

@@ -1,0 +1,16 @@
+---
+date: "2022-12-12"
+title: "Hawana Salalah"
+image: "images/blog/Breaches.png"
+author: "Breachsense Support"
+draft: false
+---
+
+| Data Breach Report           |              | 
+| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Victim      | hawanasalalah.com      | 
+| Threat Actor      | LockBit      | 
+| Date Discovered      | Dec 12, 2022      | 
+| Description      | Hawana Salalah is Oman’s largest and fastest growing tourism destination. Freehold homes, hotels, dining, activities and more spread across 7km of beautiful sandy white beaches, creating a life that is Exceptional Everyday.       | 
+| Leak Size      | N/A      | 
+

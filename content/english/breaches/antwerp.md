@@ -1,6 +1,6 @@
 ---
 date: "2022-12-12"
-title: "Hilldrup"
+title: "Antwerp"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | hilldrup.com      | 
+| Victim      | antwerpen.be      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Dec 12, 2022      | 
-| Description      | Hilldrup is a family-owned moving, storage, relocation and logistics company started in 1903.      | 
-| Leak Size      | N/A      | 
+| Description      | Antwerp is the largest city in Belgium by area at 204.51 square kilometres (78.96 sq mi) and the capital of Antwerp Province in the Flemish Region.      | 
+| Leak Size      | 557GB      | 
 

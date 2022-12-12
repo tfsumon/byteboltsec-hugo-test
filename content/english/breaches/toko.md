@@ -1,6 +1,6 @@
 ---
 date: "2022-12-12"
-title: "Warren County Community College"
+title: "TOKO"
 image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
@@ -8,9 +8,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | warren.edu      | 
-| Threat Actor      | ALPHV      | 
+| Victim      | k-toko.com      | 
+| Threat Actor      | LockBit      | 
 | Date Discovered      | Dec 12, 2022      | 
-| Description      | Warren County Community College is a 2-year, public college of art.      | 
+| Description      | TOKO CO., LTD. is a manufacturer engaged in the design, manufacture and sale of a system line for hydraulic cutters, vacuum-forming machines and various punching dies.      | 
 | Leak Size      | N/A      | 
 
