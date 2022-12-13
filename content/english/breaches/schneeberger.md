@@ -1,0 +1,16 @@
+---
+date: "2022-12-13"
+title: "Schneeberger"
+image: "images/blog/Breaches.png"
+author: "Breachsense Support"
+draft: false
+---
+
+| Data Breach Report           |              | 
+| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Victim      | schneeberger.com      | 
+| Threat Actor      | ALPHV      | 
+| Date Discovered      | Dec 13, 2022      | 
+| Description      | Schneeberger, Inc. manufactures fabricated metal and hardware.      | 
+| Leak Size      | N/A      | 
+
