@@ -43,7 +43,7 @@ hasChildren = true
 [[main]]
   parent = "Resources"
   name = "Check your exposure"
-  url = "dark-web-monitoring/"
+  url = "check-your-exposure/"
   weight = 3
   
 
