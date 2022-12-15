@@ -1,7 +1,7 @@
 ---
 date: "2022-07-12"
 title: "The Royal Commission for Riyadh City (RCRC)"
-image: "images/blog/Breaches.png"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2022-09-02"
 title: "Moscone Center"
-image: "images/blog/Breaches.png"
+image: "images/blog/Quantum.png"
 author: "Breachsense Support"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2022-01-15"
 title: "superfund.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/Cuba.png"
 author: "Breachsense Support"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2022-02-24"
 title: "ebmpapst.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/HiveLeaks.png"
 author: "Breachsense Support"
 draft: false
 ---

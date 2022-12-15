@@ -1,7 +1,7 @@
 ---
 date: "2021-07-26"
 title: "labo-rivadis.fr"
-image: "images/blog/Breaches.png"
+image: "images/blog/HiveLeaks.png"
 author: "Breachsense Support"
 draft: false
 ---

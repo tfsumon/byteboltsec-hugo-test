@@ -1,7 +1,7 @@
 ---
 date: "2021-12-12"
 title: "wolsey.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/HiveLeaks.png"
 author: "Breachsense Support"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2022-02-05"
 title: "ci.hercules.ca.us"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2021-11-29"
 title: "metro.us"
-image: "images/blog/Breaches.png"
+image: "images/blog/HiveLeaks.png"
 author: "Breachsense Support"
 draft: false
 ---

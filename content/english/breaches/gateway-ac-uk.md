@@ -1,7 +1,7 @@
 ---
 date: "2021-10-10"
 title: "gateway.ac.uk"
-image: "images/blog/Breaches.png"
+image: "images/blog/Vice.png"
 author: "Breachsense Support"
 draft: false
 ---

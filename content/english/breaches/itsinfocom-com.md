@@ -1,7 +1,7 @@
 ---
 date: "2022-01-25"
 title: "itsinfocom.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/HiveLeaks.png"
 author: "Breachsense Support"
 draft: false
 ---

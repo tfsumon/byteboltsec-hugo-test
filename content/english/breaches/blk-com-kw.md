@@ -1,7 +1,7 @@
 ---
 date: "2022-05-04"
 title: "blk.com.kw"
-image: "images/blog/Breaches.png"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---

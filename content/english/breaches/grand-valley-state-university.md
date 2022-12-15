@@ -1,7 +1,7 @@
 ---
 date: "2022-06-14"
 title: "Grand Valley State University"
-image: "images/blog/Breaches.png"
+image: "images/blog/Vice.png"
 author: "Breachsense Support"
 draft: false
 ---

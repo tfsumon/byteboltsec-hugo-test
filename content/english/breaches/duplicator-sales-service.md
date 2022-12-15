@@ -1,7 +1,7 @@
 ---
 date: "2022-12-05"
 title: "Duplicator Sales & Service"
-image: "images/blog/Breaches.png"
+image: "images/blog/Royal.png"
 author: "Breachsense Support"
 draft: false
 ---

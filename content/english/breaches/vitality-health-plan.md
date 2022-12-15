@@ -1,7 +1,7 @@
 ---
 date: "2022-09-28"
 title: "Vitality Health Plan"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

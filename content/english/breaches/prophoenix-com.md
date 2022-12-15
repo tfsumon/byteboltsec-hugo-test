@@ -1,7 +1,7 @@
 ---
 date: "2022-04-17"
 title: "prophoenix.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/Cuba.png"
 author: "Breachsense Support"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2021-01-10"
 title: "multifeeder.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/Lorenz.png"
 author: "Breachsense Support"
 draft: false
 ---

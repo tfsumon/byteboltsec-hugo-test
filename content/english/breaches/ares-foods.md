@@ -1,7 +1,7 @@
 ---
 date: "2022-07-19"
 title: "Ares Foods"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

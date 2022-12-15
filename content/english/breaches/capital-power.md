@@ -1,7 +1,7 @@
 ---
 date: "2022-11-02"
 title: "Capital Power"
-image: "images/blog/Breaches.png"
+image: "images/blog/Quantum.png"
 author: "Breachsense Support"
 draft: false
 ---

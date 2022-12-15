@@ -1,7 +1,7 @@
 ---
 date: "2022-03-30"
 title: "partnershiphp.org"
-image: "images/blog/Breaches.png"
+image: "images/blog/HiveLeaks.png"
 author: "Breachsense Support"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2022-03-13"
 title: "senado.gob.ar"
-image: "images/blog/Breaches.png"
+image: "images/blog/Vice.png"
 author: "Breachsense Support"
 draft: false
 ---

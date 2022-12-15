@@ -1,7 +1,7 @@
 ---
 date: "2022-08-25"
 title: "Baton Rouge General"
-image: "images/blog/Breaches.png"
+image: "images/blog/HiveLeaks.png"
 author: "Breachsense Support"
 draft: false
 ---

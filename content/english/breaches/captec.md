@@ -1,7 +1,7 @@
 ---
 date: "2022-08-31"
 title: "Captec"
-image: "images/blog/Breaches.png"
+image: "images/blog/BianLian.png"
 author: "Breachsense Support"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2022-11-14"
 title: "Nissan of Las Cruces"
-image: "images/blog/Breaches.png"
+image: "images/blog/Lorenz.png"
 author: "Breachsense Support"
 draft: false
 ---

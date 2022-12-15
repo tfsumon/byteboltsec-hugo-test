@@ -1,7 +1,7 @@
 ---
 date: "2022-11-08"
 title: "Sohnen"
-image: "images/blog/Breaches.png"
+image: "images/blog/Royal.png"
 author: "Breachsense Support"
 draft: false
 ---

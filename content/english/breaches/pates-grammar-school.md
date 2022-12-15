@@ -1,7 +1,7 @@
 ---
 date: "2022-10-24"
 title: "Pates Grammar School"
-image: "images/blog/Breaches.png"
+image: "images/blog/Vice.png"
 author: "Breachsense Support"
 draft: false
 ---

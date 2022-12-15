@@ -1,7 +1,7 @@
 ---
 date: "2022-07-25"
 title: "AST"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

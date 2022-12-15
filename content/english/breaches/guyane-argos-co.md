@@ -1,7 +1,7 @@
 ---
 date: "2022-03-29"
 title: "guyane.argos.co"
-image: "images/blog/Breaches.png"
+image: "images/blog/Vice.png"
 author: "Breachsense Support"
 draft: false
 ---

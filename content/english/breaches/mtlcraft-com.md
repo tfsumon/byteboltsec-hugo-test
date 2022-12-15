@@ -1,7 +1,7 @@
 ---
 date: "2022-01-18"
 title: "mtlcraft.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/Cuba.png"
 author: "Breachsense Support"
 draft: false
 ---

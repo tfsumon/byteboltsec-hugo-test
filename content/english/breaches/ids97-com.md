@@ -1,7 +1,7 @@
 ---
 date: "2022-02-11"
 title: "ids97.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/Cuba.png"
 author: "Breachsense Support"
 draft: false
 ---

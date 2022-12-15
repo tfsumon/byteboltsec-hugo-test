@@ -1,7 +1,7 @@
 ---
 date: "2022-12-06"
 title: "AV Solutions"
-image: "images/blog/Breaches.png"
+image: "images/blog/BianLian.png"
 author: "Breachsense Support"
 draft: false
 ---

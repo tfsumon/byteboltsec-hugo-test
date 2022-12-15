@@ -1,7 +1,7 @@
 ---
 date: "2021-09-24"
 title: "www.axley.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/Cuba.png"
 author: "Breachsense Support"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2022-10-06"
 title: "Willemen Groep"
-image: "images/blog/Breaches.png"
+image: "images/blog/Basta.png"
 author: "Breachsense Support"
 draft: false
 ---

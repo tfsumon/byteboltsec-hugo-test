@@ -1,7 +1,7 @@
 ---
 date: "2022-12-07"
 title: "Skoda Praha"
-image: "images/blog/Breaches.png"
+image: "images/blog/Play.png"
 author: "Breachsense Support"
 draft: false
 ---

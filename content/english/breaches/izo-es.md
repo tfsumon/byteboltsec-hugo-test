@@ -1,7 +1,7 @@
 ---
 date: "2022-01-31"
 title: "izo.es"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

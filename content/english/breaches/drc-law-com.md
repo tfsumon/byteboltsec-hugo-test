@@ -1,7 +1,7 @@
 ---
 date: "2022-04-25"
 title: "Dymond • Reagor - DRC Law"
-image: "images/blog/Breaches.png"
+image: "images/blog/CL0P.png"
 author: "Breachsense Support"
 draft: false
 ---

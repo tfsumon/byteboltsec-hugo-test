@@ -1,7 +1,7 @@
 ---
 date: "2022-01-12"
 title: "bc3.edu"
-image: "images/blog/Breaches.png"
+image: "images/blog/Vice.png"
 author: "Breachsense Support"
 draft: false
 ---

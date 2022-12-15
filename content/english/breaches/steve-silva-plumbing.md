@@ -1,7 +1,7 @@
 ---
 date: "2022-08-28"
 title: "Steve Silva Plumbing"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

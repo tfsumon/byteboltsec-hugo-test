@@ -1,7 +1,7 @@
 ---
 date: "2022-03-23"
 title: "icehotel.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/Vice.png"
 author: "Breachsense Support"
 draft: false
 ---

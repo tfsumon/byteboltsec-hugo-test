@@ -1,7 +1,7 @@
 ---
 date: "2022-01-15"
 title: "aulss6.veneto.it"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2022-10-02"
 title: "Rick Shipman Construction"
-image: "images/blog/Breaches.png"
+image: "images/blog/Basta.png"
 author: "Breachsense Support"
 draft: false
 ---

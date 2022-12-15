@@ -1,7 +1,7 @@
 ---
 date: "2022-10-05"
 title: "Peter Duffy Limited"
-image: "images/blog/Breaches.png"
+image: "images/blog/BianLian.png"
 author: "Breachsense Support"
 draft: false
 ---

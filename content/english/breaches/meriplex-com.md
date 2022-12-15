@@ -1,7 +1,7 @@
 ---
 date: "2021-09-14"
 title: "meriplex.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/Cuba.png"
 author: "Breachsense Support"
 draft: false
 ---

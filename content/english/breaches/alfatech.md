@@ -1,7 +1,7 @@
 ---
 date: "2022-10-12"
 title: "AlfaTech"
-image: "images/blog/Breaches.png"
+image: "images/blog/Basta.png"
 author: "Breachsense Support"
 draft: false
 ---

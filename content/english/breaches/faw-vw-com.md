@@ -1,7 +1,7 @@
 ---
 date: "2022-05-05"
 title: "faw-vw.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/HiveLeaks.png"
 author: "Breachsense Support"
 draft: false
 ---

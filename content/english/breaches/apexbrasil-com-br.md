@@ -1,7 +1,7 @@
 ---
 date: "2021-12-22"
 title: "apexbrasil.com.br"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

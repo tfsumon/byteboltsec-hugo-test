@@ -1,7 +1,7 @@
 ---
 date: "2022-11-14"
 title: "Q.E.P."
-image: "images/blog/Breaches.png"
+image: "images/blog/Royal.png"
 author: "Breachsense Support"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2022-08-16"
 title: "South Staffs Water"
-image: "images/blog/Breaches.png"
+image: "images/blog/CL0P.png"
 author: "Breachsense Support"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2022-06-28"
 title: "Bonnville Collections"
-image: "images/blog/Breaches.png"
+image: "images/blog/Lorenz.png"
 author: "Breachsense Support"
 draft: false
 ---

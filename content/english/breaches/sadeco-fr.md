@@ -1,7 +1,7 @@
 ---
 date: "2022-04-10"
 title: "sadeco.fr"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

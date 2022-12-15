@@ -1,7 +1,7 @@
 ---
 date: "2022-08-09"
 title: "Freyr Solutions"
-image: "images/blog/Breaches.png"
+image: "images/blog/Quantum.png"
 author: "Breachsense Support"
 draft: false
 ---

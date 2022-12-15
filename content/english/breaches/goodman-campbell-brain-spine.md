@@ -1,7 +1,7 @@
 ---
 date: "2022-06-09"
 title: "Goodman Campbell Brain Spine"
-image: "images/blog/Breaches.png"
+image: "images/blog/HiveLeaks.png"
 author: "Breachsense Support"
 draft: false
 ---

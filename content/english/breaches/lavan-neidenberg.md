@@ -1,7 +1,7 @@
 ---
 date: "2022-07-21"
 title: "LaVan & Neidenberg"
-image: "images/blog/Breaches.png"
+image: "images/blog/HiveLeaks.png"
 author: "Breachsense Support"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2022-01-29"
 title: "gome.com.cn"
-image: "images/blog/Breaches.png"
+image: "images/blog/HiveLeaks.png"
 author: "Breachsense Support"
 draft: false
 ---

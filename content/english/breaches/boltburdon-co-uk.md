@@ -1,7 +1,7 @@
 ---
 date: "2022-05-16"
 title: "boltburdon.co.uk"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

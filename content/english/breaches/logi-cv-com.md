@@ -1,7 +1,7 @@
 ---
 date: "2021-11-05"
 title: "logi-cv.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

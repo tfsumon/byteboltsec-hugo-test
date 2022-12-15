@@ -1,7 +1,7 @@
 ---
 date: "2022-11-25"
 title: "Harry Rosen"
-image: "images/blog/Breaches.png"
+image: "images/blog/BianLian.png"
 author: "Breachsense Support"
 draft: false
 ---

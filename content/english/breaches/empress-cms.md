@@ -1,7 +1,7 @@
 ---
 date: "2022-07-27"
 title: "Empress CMS"
-image: "images/blog/Breaches.png"
+image: "images/blog/HiveLeaks.png"
 author: "Breachsense Support"
 draft: false
 ---

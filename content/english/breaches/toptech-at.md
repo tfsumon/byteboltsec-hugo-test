@@ -1,7 +1,7 @@
 ---
 date: "2021-04-13"
 title: "toptech.at"
-image: "images/blog/Breaches.png"
+image: "images/blog/Lorenz.png"
 author: "Breachsense Support"
 draft: false
 ---

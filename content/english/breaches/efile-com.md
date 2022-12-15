@@ -1,7 +1,7 @@
 ---
 date: "2022-02-14"
 title: "efile.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

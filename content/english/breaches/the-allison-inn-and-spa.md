@@ -1,7 +1,7 @@
 ---
 date: "2022-06-15"
 title: "The Allison Inn & Spa"
-image: "images/blog/Breaches.png"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---

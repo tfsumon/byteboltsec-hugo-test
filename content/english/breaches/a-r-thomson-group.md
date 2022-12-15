@@ -1,7 +1,7 @@
 ---
 date: "2022-12-12"
 title: "A.R. Thomson Group"
-image: "images/blog/Breaches.png"
+image: "images/blog/Basta.png"
 author: "Breachsense Support"
 draft: false
 ---

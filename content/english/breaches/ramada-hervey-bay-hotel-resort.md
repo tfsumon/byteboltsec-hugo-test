@@ -1,7 +1,7 @@
 ---
 date: "2022-08-31"
 title: "Ramada Hervey Bay Hotel Resort"
-image: "images/blog/Breaches.png"
+image: "images/blog/BianLian.png"
 author: "Breachsense Support"
 draft: false
 ---

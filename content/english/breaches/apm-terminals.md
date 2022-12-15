@@ -1,7 +1,7 @@
 ---
 date: "2022-11-08"
 title: "APM Terminals"
-image: "images/blog/Breaches.png"
+image: "images/blog/HiveLeaks.png"
 author: "Breachsense Support"
 draft: false
 ---

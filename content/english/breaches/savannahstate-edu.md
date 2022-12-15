@@ -1,7 +1,7 @@
 ---
 date: "2022-01-09"
 title: "savannahstate.edu"
-image: "images/blog/Breaches.png"
+image: "images/blog/Vice.png"
 author: "Breachsense Support"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2022-08-19"
 title: "Shaw & Slavsky"
-image: "images/blog/Breaches.png"
+image: "images/blog/Quantum.png"
 author: "Breachsense Support"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2022-04-24"
 title: "valoores.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

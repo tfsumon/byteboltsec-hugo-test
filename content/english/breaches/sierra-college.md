@@ -1,7 +1,7 @@
 ---
 date: "2022-09-21"
 title: "Sierra College"
-image: "images/blog/Breaches.png"
+image: "images/blog/Vice.png"
 author: "Breachsense Support"
 draft: false
 ---

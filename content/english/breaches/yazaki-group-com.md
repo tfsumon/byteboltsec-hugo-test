@@ -1,7 +1,7 @@
 ---
 date: "2021-08-18"
 title: "yazaki-group.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

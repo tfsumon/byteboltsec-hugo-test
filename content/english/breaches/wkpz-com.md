@@ -1,7 +1,7 @@
 ---
 date: "2022-04-02"
 title: "wkpz.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---

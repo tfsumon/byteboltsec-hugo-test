@@ -1,7 +1,7 @@
 ---
 date: "2021-09-05"
 title: "faberinc.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

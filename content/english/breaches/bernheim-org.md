@@ -1,7 +1,7 @@
 ---
 date: "2022-01-20"
 title: "bernheim.org"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

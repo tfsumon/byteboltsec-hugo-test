@@ -1,7 +1,7 @@
 ---
 date: "2022-10-20"
 title: "Marcel Solution"
-image: "images/blog/Breaches.png"
+image: "images/blog/CL0P.png"
 author: "Breachsense Support"
 draft: false
 ---

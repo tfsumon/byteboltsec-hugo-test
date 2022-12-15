@@ -1,7 +1,7 @@
 ---
 date: "2022-02-03"
 title: "royallaser.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---

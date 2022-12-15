@@ -1,7 +1,7 @@
 ---
 date: "2022-07-14"
 title: "BioThane"
-image: "images/blog/Breaches.png"
+image: "images/blog/Lorenz.png"
 author: "Breachsense Support"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2022-10-17"
 title: "Murphy Family Ventures"
-image: "images/blog/Breaches.png"
+image: "images/blog/Cuba.png"
 author: "Breachsense Support"
 draft: false
 ---

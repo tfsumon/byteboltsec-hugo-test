@@ -1,7 +1,7 @@
 ---
 date: "2022-09-23"
 title: "SOAS University of London"
-image: "images/blog/Breaches.png"
+image: "images/blog/Vice.png"
 author: "Breachsense Support"
 draft: false
 ---

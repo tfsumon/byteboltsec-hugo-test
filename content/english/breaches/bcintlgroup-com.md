@@ -1,7 +1,7 @@
 ---
 date: "2022-04-04"
 title: "bcintlgroup.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/Cuba.png"
 author: "Breachsense Support"
 draft: false
 ---

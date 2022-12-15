@@ -1,7 +1,7 @@
 ---
 date: "2022-08-31"
 title: "Meiji Seika Singapore"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

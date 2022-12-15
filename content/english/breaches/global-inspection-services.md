@@ -1,7 +1,7 @@
 ---
 date: "2022-09-28"
 title: "Global Inspection Services"
-image: "images/blog/Breaches.png"
+image: "images/blog/Cuba.png"
 author: "Breachsense Support"
 draft: false
 ---

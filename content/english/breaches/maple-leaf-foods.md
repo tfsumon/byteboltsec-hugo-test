@@ -1,7 +1,7 @@
 ---
 date: "2022-11-28"
 title: "Maple Leaf Foods"
-image: "images/blog/Breaches.png"
+image: "images/blog/Basta.png"
 author: "Breachsense Support"
 draft: false
 ---

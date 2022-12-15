@@ -1,7 +1,7 @@
 ---
 date: "2022-08-05"
 title: "Liftow"
-image: "images/blog/Breaches.png"
+image: "images/blog/Quantum.png"
 author: "Breachsense Support"
 draft: false
 ---

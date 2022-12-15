@@ -1,7 +1,7 @@
 ---
 date: "2022-11-11"
 title: "Main & Main"
-image: "images/blog/Breaches.png"
+image: "images/blog/Lorenz.png"
 author: "Breachsense Support"
 draft: false
 ---

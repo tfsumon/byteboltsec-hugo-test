@@ -1,7 +1,7 @@
 ---
 date: "2022-03-04"
 title: "pan-energy.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/HiveLeaks.png"
 author: "Breachsense Support"
 draft: false
 ---

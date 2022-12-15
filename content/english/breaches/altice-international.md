@@ -1,7 +1,7 @@
 ---
 date: "2022-08-26"
 title: "Altice International"
-image: "images/blog/Breaches.png"
+image: "images/blog/HiveLeaks.png"
 author: "Breachsense Support"
 draft: false
 ---

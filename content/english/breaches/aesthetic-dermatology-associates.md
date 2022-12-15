@@ -1,7 +1,7 @@
 ---
 date: "2022-10-02"
 title: "Aesthetic Dermatology Associates"
-image: "images/blog/Breaches.png"
+image: "images/blog/BianLian.png"
 author: "Breachsense Support"
 draft: false
 ---

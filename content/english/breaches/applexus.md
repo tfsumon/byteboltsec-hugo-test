@@ -1,7 +1,7 @@
 ---
 date: "2022-07-26"
 title: "Applexus"
-image: "images/blog/Breaches.png"
+image: "images/blog/CL0P.png"
 author: "Breachsense Support"
 draft: false
 ---

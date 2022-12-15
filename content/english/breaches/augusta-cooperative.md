@@ -1,7 +1,7 @@
 ---
 date: "2022-09-07"
 title: "Augusta Cooperative"
-image: "images/blog/Breaches.png"
+image: "images/blog/Basta.png"
 author: "Breachsense Support"
 draft: false
 ---

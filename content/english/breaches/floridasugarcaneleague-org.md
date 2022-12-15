@@ -1,7 +1,7 @@
 ---
 date: "2021-07-01"
 title: "floridasugarcaneleague.org"
-image: "images/blog/Breaches.png"
+image: "images/blog/HiveLeaks.png"
 author: "Breachsense Support"
 draft: false
 ---

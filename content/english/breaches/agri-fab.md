@@ -1,7 +1,7 @@
 ---
 date: "2022-11-16"
 title: "Agri-Fab"
-image: "images/blog/Breaches.png"
+image: "images/blog/HiveLeaks.png"
 author: "Breachsense Support"
 draft: false
 ---

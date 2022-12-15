@@ -1,7 +1,7 @@
 ---
 date: "2022-09-05"
 title: "Elmbrook Schools"
-image: "images/blog/Breaches.png"
+image: "images/blog/Vice.png"
 author: "Breachsense Support"
 draft: false
 ---

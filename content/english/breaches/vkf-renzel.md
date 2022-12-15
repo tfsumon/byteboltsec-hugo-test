@@ -1,7 +1,7 @@
 ---
 date: "2022-07-07"
 title: "VKF Renzel"
-image: "images/blog/Breaches.png"
+image: "images/blog/Basta.png"
 author: "Breachsense Support"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2022-05-19"
 title: "escola.mpu.mp.br"
-image: "images/blog/Breaches.png"
+image: "images/blog/Vice.png"
 author: "Breachsense Support"
 draft: false
 ---

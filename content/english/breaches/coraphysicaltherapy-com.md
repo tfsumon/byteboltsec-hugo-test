@@ -1,7 +1,7 @@
 ---
 date: "2022-05-02"
 title: "coraphysicaltherapy.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---

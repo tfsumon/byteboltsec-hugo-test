@@ -1,7 +1,7 @@
 ---
 date: "2022-11-28"
 title: "Ministry of Transport and Public Works of Uruguay"
-image: "images/blog/Breaches.png"
+image: "images/blog/Play.png"
 author: "Breachsense Support"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2022-12-02"
 title: "Landau Media"
-image: "images/blog/Breaches.png"
+image: "images/blog/Cuba.png"
 author: "Breachsense Support"
 draft: false
 ---

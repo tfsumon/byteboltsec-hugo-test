@@ -1,7 +1,7 @@
 ---
 date: "2022-06-22"
 title: "Ospedale Macedonio Melloni"
-image: "images/blog/Breaches.png"
+image: "images/blog/Vice.png"
 author: "Breachsense Support"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2022-11-17"
 title: "Lake Charles Memorial Health System"
-image: "images/blog/Breaches.png"
+image: "images/blog/HiveLeaks.png"
 author: "Breachsense Support"
 draft: false
 ---

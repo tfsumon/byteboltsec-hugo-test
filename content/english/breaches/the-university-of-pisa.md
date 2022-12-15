@@ -1,7 +1,7 @@
 ---
 date: "2022-06-12"
 title: "The University of Pisa"
-image: "images/blog/Breaches.png"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---

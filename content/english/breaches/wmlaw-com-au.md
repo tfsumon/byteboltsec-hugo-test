@@ -1,7 +1,7 @@
 ---
 date: "2021-10-20"
 title: "wmlaw.com.au"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2022-07-03"
 title: "Hansa Kontakt"
-image: "images/blog/Breaches.png"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---

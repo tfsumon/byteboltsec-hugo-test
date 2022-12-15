@@ -1,7 +1,7 @@
 ---
 date: "2021-10-24"
 title: "xacbank.mn"
-image: "images/blog/Breaches.png"
+image: "images/blog/HiveLeaks.png"
 author: "Breachsense Support"
 draft: false
 ---

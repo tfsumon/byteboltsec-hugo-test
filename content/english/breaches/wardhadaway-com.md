@@ -1,7 +1,7 @@
 ---
 date: "2022-03-14"
 title: "wardhadaway.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/Lorenz.png"
 author: "Breachsense Support"
 draft: false
 ---

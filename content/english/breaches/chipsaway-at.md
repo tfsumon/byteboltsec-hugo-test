@@ -1,7 +1,7 @@
 ---
 date: "2021-10-07"
 title: "chipsaway.at"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

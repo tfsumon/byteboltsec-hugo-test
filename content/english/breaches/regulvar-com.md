@@ -1,7 +1,7 @@
 ---
 date: "2021-12-13"
 title: "regulvar.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/Cuba.png"
 author: "Breachsense Support"
 draft: false
 ---

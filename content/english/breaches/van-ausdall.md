@@ -1,7 +1,7 @@
 ---
 date: "2022-07-15"
 title: "Van Ausdall & Farrar"
-image: "images/blog/Breaches.png"
+image: "images/blog/Lorenz.png"
 author: "Breachsense Support"
 draft: false
 ---

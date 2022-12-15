@@ -1,7 +1,7 @@
 ---
 date: "2021-12-09"
 title: "murrayscheese.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

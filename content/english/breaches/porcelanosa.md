@@ -1,7 +1,7 @@
 ---
 date: "2022-08-18"
 title: "Porcelanosa"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

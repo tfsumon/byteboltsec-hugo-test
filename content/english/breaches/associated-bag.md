@@ -1,7 +1,7 @@
 ---
 date: "2022-09-28"
 title: "Associated Bag"
-image: "images/blog/Breaches.png"
+image: "images/blog/Basta.png"
 author: "Breachsense Support"
 draft: false
 ---

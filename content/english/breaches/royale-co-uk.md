@@ -1,7 +1,7 @@
 ---
 date: "2021-11-16"
 title: "Royale international"
-image: "images/blog/Breaches.png"
+image: "images/blog/Royal.png"
 author: "Breachsense Support"
 draft: false
 ---

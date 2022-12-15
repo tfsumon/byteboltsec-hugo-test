@@ -1,7 +1,7 @@
 ---
 date: "2022-08-24"
 title: "Moskowitz Mandell Salim"
-image: "images/blog/Breaches.png"
+image: "images/blog/Quantum.png"
 author: "Breachsense Support"
 draft: false
 ---

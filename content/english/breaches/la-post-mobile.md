@@ -1,7 +1,7 @@
 ---
 date: "2022-07-08"
 title: "La Post Mobile"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

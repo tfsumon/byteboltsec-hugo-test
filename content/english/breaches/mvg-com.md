@@ -1,7 +1,7 @@
 ---
 date: "2021-07-29"
 title: "mvg.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/Lorenz.png"
 author: "Breachsense Support"
 draft: false
 ---

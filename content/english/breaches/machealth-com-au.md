@@ -1,7 +1,7 @@
 ---
 date: "2021-09-25"
 title: "machealth.com.au"
-image: "images/blog/Breaches.png"
+image: "images/blog/HiveLeaks.png"
 author: "Breachsense Support"
 draft: false
 ---

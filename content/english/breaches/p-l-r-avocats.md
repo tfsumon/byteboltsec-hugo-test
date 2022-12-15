@@ -1,7 +1,7 @@
 ---
 date: "2022-07-03"
 title: "P L R Avocats"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

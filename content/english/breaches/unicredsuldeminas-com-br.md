@@ -1,7 +1,7 @@
 ---
 date: "2021-11-22"
 title: "unicredsuldeminas.com.br"
-image: "images/blog/Breaches.png"
+image: "images/blog/HiveLeaks.png"
 author: "Breachsense Support"
 draft: false
 ---

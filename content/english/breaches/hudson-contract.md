@@ -1,7 +1,7 @@
 ---
 date: "2022-09-14"
 title: "Hudson Contract"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

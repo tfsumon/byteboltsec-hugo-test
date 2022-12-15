@@ -1,7 +1,7 @@
 ---
 date: "2022-04-21"
 title: "baugeschaeft-boltin.de"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

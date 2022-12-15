@@ -1,7 +1,7 @@
 ---
 date: "2022-05-19"
 title: "clublinks.com.au"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

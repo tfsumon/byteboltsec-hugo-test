@@ -1,7 +1,7 @@
 ---
 date: "2021-12-05"
 title: "effectual.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

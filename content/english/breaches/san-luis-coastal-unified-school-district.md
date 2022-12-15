@@ -1,7 +1,7 @@
 ---
 date: "2022-07-20"
 title: "San Luis Coastal Unified School District"
-image: "images/blog/Breaches.png"
+image: "images/blog/Vice.png"
 author: "Breachsense Support"
 draft: false
 ---

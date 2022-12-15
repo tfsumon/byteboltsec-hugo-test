@@ -1,7 +1,7 @@
 ---
 date: "2022-07-19"
 title: "Young and Pratt"
-image: "images/blog/Breaches.png"
+image: "images/blog/Basta.png"
 author: "Breachsense Support"
 draft: false
 ---

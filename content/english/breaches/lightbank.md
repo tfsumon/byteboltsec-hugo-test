@@ -1,7 +1,7 @@
 ---
 date: "2022-10-21"
 title: "Lightbank"
-image: "images/blog/Breaches.png"
+image: "images/blog/Quantum.png"
 author: "Breachsense Support"
 draft: false
 ---

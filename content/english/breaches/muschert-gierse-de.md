@@ -1,7 +1,7 @@
 ---
 date: "2021-12-01"
 title: "muschert-gierse.de"
-image: "images/blog/Breaches.png"
+image: "images/blog/CL0P.png"
 author: "Breachsense Support"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2022-01-19"
 title: "enprecis.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/CL0P.png"
 author: "Breachsense Support"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2022-07-17"
 title: "Veritas Solicitors"
-image: "images/blog/Breaches.png"
+image: "images/blog/BianLian.png"
 author: "Breachsense Support"
 draft: false
 ---

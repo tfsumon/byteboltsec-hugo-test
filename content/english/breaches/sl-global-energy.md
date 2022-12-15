@@ -1,7 +1,7 @@
 ---
 date: "2022-06-12"
 title: "SL Global Energy"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

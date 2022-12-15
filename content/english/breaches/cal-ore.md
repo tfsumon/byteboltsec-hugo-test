@@ -1,7 +1,7 @@
 ---
 date: "2022-09-07"
 title: "Cal-Ore"
-image: "images/blog/Breaches.png"
+image: "images/blog/HiveLeaks.png"
 author: "Breachsense Support"
 draft: false
 ---

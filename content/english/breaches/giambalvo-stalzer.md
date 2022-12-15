@@ -1,7 +1,7 @@
 ---
 date: "2022-11-18"
 title: "Giambalvo, Stalzer & Company"
-image: "images/blog/Breaches.png"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---

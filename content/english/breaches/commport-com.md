@@ -1,7 +1,7 @@
 ---
 date: "2020-12-20"
 title: "commport.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/Lorenz.png"
 author: "Breachsense Support"
 draft: false
 ---

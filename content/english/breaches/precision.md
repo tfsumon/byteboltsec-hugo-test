@@ -1,7 +1,7 @@
 ---
 date: "2022-09-01"
 title: "Precision"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2022-07-20"
 title: "CR Brands"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

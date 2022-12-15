@@ -1,7 +1,7 @@
 ---
 date: "2022-10-13"
 title: "Nelson's Autohaus"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

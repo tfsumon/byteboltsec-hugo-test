@@ -1,7 +1,7 @@
 ---
 date: "2021-07-24"
 title: "emco.es"
-image: "images/blog/Breaches.png"
+image: "images/blog/HiveLeaks.png"
 author: "Breachsense Support"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2022-09-18"
 title: "Suffolk County Government"
-image: "images/blog/Breaches.png"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---

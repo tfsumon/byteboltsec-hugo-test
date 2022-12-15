@@ -1,7 +1,7 @@
 ---
 date: "2022-06-20"
 title: "Rhenus Logistics"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

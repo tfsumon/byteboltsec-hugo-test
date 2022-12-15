@@ -1,7 +1,7 @@
 ---
 date: "2022-07-05"
 title: "Allen & Unwin"
-image: "images/blog/Breaches.png"
+image: "images/blog/HiveLeaks.png"
 author: "Breachsense Support"
 draft: false
 ---

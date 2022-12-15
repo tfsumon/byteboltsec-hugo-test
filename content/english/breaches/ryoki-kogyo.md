@@ -1,7 +1,7 @@
 ---
 date: "2022-11-22"
 title: "RYOKI KOGYO"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

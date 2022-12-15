@@ -1,7 +1,7 @@
 ---
 date: "2022-08-03"
 title: "Tekinox"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2022-12-02"
 title: "pro office Büro + Wohnkultur"
-image: "images/blog/Breaches.png"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---

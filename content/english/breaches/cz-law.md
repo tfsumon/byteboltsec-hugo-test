@@ -1,7 +1,7 @@
 ---
 date: "2022-02-26"
 title: "cz.law"
-image: "images/blog/Breaches.png"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---

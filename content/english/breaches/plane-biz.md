@@ -1,7 +1,7 @@
 ---
 date: "2022-02-26"
 title: "plane.biz"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

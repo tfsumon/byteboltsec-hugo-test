@@ -1,7 +1,7 @@
 ---
 date: "2021-10-18"
 title: "grupo5.net"
-image: "images/blog/Breaches.png"
+image: "images/blog/HiveLeaks.png"
 author: "Breachsense Support"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2022-09-13"
 title: "Bandeira Frigoríficos"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2022-04-06"
 title: "goldbet.it"
-image: "images/blog/Breaches.png"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---

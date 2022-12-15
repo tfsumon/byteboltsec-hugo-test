@@ -1,7 +1,7 @@
 ---
 date: "2022-02-17"
 title: "alexim.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/CL0P.png"
 author: "Breachsense Support"
 draft: false
 ---

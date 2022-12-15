@@ -1,7 +1,7 @@
 ---
 date: "2022-11-21"
 title: "McAndrews Law Offices"
-image: "images/blog/Breaches.png"
+image: "images/blog/Royal.png"
 author: "Breachsense Support"
 draft: false
 ---

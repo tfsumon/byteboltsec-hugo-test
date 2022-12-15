@@ -1,7 +1,7 @@
 ---
 date: "2022-10-20"
 title: "METASYS"
-image: "images/blog/Breaches.png"
+image: "images/blog/Basta.png"
 author: "Breachsense Support"
 draft: false
 ---

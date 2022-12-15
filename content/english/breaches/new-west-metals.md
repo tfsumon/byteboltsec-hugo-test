@@ -1,7 +1,7 @@
 ---
 date: "2022-08-07"
 title: "New West Metals"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

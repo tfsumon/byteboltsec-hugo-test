@@ -1,7 +1,7 @@
 ---
 date: "2022-07-13"
 title: "AII"
-image: "images/blog/Breaches.png"
+image: "images/blog/Quantum.png"
 author: "Breachsense Support"
 draft: false
 ---

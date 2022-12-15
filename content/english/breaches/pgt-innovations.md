@@ -1,7 +1,7 @@
 ---
 date: "2022-12-05"
 title: "PGT Innovations"
-image: "images/blog/Breaches.png"
+image: "images/blog/Royal.png"
 author: "Breachsense Support"
 draft: false
 ---

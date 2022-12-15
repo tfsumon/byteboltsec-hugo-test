@@ -1,7 +1,7 @@
 ---
 date: "2022-08-21"
 title: "RAC"
-image: "images/blog/Breaches.png"
+image: "images/blog/HiveLeaks.png"
 author: "Breachsense Support"
 draft: false
 ---

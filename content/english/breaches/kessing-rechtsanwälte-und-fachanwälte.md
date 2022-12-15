@@ -1,7 +1,7 @@
 ---
 date: "2022-11-14"
 title: "Kessing Rechtsanwälte und Fachanwälte"
-image: "images/blog/Breaches.png"
+image: "images/blog/Basta.png"
 author: "Breachsense Support"
 draft: false
 ---

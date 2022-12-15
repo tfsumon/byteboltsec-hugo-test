@@ -1,7 +1,7 @@
 ---
 date: "2022-07-28"
 title: "Cheung Woh"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

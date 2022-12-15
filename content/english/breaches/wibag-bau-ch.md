@@ -1,7 +1,7 @@
 ---
 date: "2021-12-25"
 title: "wibag-bau.ch"
-image: "images/blog/Breaches.png"
+image: "images/blog/HiveLeaks.png"
 author: "Breachsense Support"
 draft: false
 ---

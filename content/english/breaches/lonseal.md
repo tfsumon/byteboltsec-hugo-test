@@ -1,7 +1,7 @@
 ---
 date: "2022-06-28"
 title: "Lonseal"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

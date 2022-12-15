@@ -1,7 +1,7 @@
 ---
 date: "2022-03-22"
 title: "haltonhills.ca"
-image: "images/blog/Breaches.png"
+image: "images/blog/Cuba.png"
 author: "Breachsense Support"
 draft: false
 ---

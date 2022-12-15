@@ -1,7 +1,7 @@
 ---
 date: "2022-04-26"
 title: "reitzner.de"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2022-09-14"
 title: "Tri Supply"
-image: "images/blog/Breaches.png"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---

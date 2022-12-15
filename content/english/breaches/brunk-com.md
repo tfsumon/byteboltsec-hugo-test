@@ -1,7 +1,7 @@
 ---
 date: "2022-05-17"
 title: "brunk.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/Lorenz.png"
 author: "Breachsense Support"
 draft: false
 ---

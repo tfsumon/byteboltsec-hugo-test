@@ -1,7 +1,7 @@
 ---
 date: "2021-09-15"
 title: "suenco.co.th"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

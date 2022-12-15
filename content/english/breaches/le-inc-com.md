@@ -1,7 +1,7 @@
 ---
 date: "2021-10-30"
 title: "le-inc.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

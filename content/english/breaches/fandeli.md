@@ -1,7 +1,7 @@
 ---
 date: "2022-07-29"
 title: "Fandeli"
-image: "images/blog/Breaches.png"
+image: "images/blog/Lorenz.png"
 author: "Breachsense Support"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2022-02-21"
 title: "ackmo.be"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

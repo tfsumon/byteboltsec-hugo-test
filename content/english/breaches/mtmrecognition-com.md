@@ -1,7 +1,7 @@
 ---
 date: "2021-10-08"
 title: "mtmrecognition.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/CL0P.png"
 author: "Breachsense Support"
 draft: false
 ---

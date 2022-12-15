@@ -1,7 +1,7 @@
 ---
 date: "2022-04-11"
 title: "Orbit Industries"
-image: "images/blog/Breaches.png"
+image: "images/blog/CL0P.png"
 author: "Breachsense Support"
 draft: false
 ---

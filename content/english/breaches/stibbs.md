@@ -1,7 +1,7 @@
 ---
 date: "2022-11-30"
 title: "Stibbs"
-image: "images/blog/Breaches.png"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---

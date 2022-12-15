@@ -1,7 +1,7 @@
 ---
 date: "2022-06-27"
 title: "Medizinische Universität Innsbruck"
-image: "images/blog/Breaches.png"
+image: "images/blog/Vice.png"
 author: "Breachsense Support"
 draft: false
 ---

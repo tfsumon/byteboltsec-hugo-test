@@ -1,7 +1,7 @@
 ---
 date: "2022-05-04"
 title: "apu.edu.my"
-image: "images/blog/Breaches.png"
+image: "images/blog/Vice.png"
 author: "Breachsense Support"
 draft: false
 ---

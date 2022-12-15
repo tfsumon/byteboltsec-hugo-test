@@ -1,7 +1,7 @@
 ---
 date: "2022-09-12"
 title: "Center Hospitalier Sud Francilien"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

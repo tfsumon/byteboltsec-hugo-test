@@ -1,7 +1,7 @@
 ---
 date: "2022-09-04"
 title: "Baers"
-image: "images/blog/Breaches.png"
+image: "images/blog/BianLian.png"
 author: "Breachsense Support"
 draft: false
 ---

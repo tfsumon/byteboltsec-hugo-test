@@ -1,7 +1,7 @@
 ---
 date: "2022-09-07"
 title: "Marco Polo Hotels"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

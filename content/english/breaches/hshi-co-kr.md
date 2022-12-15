@@ -1,7 +1,7 @@
 ---
 date: "2022-02-05"
 title: "hshi.co.kr"
-image: "images/blog/Breaches.png"
+image: "images/blog/HiveLeaks.png"
 author: "Breachsense Support"
 draft: false
 ---

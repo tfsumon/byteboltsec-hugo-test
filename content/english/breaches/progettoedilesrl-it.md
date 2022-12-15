@@ -1,7 +1,7 @@
 ---
 date: "2022-03-29"
 title: "progettoedilesrl.it"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

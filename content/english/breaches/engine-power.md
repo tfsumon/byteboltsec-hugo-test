@@ -1,7 +1,7 @@
 ---
 date: "2022-08-24"
 title: "Engine Power"
-image: "images/blog/Breaches.png"
+image: "images/blog/Lorenz.png"
 author: "Breachsense Support"
 draft: false
 ---

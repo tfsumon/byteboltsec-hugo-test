@@ -1,7 +1,7 @@
 ---
 date: "2022-03-25"
 title: "trant.co.uk"
-image: "images/blog/Breaches.png"
+image: "images/blog/Cuba.png"
 author: "Breachsense Support"
 draft: false
 ---

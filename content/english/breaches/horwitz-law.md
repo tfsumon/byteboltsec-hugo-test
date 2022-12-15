@@ -1,7 +1,7 @@
 ---
 date: "2022-06-14"
 title: "Horwitz Law"
-image: "images/blog/Breaches.png"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---

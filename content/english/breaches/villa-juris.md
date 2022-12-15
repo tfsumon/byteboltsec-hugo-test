@@ -1,7 +1,7 @@
 ---
 date: "2022-10-25"
 title: "Villa Juris"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

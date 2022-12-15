@@ -1,7 +1,7 @@
 ---
 date: "2022-02-28"
 title: "blueocean.consulting"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

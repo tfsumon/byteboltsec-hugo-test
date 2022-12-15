@@ -1,7 +1,7 @@
 ---
 date: "2022-05-29"
 title: "Fort Sumner Municipal Schools"
-image: "images/blog/Breaches.png"
+image: "images/blog/CL0P.png"
 author: "Breachsense Support"
 draft: false
 ---

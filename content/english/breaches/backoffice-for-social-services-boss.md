@@ -1,7 +1,7 @@
 ---
 date: "2022-12-02"
 title: "BackOffice for Social Services (BOSS)"
-image: "images/blog/Breaches.png"
+image: "images/blog/Cuba.png"
 author: "Breachsense Support"
 draft: false
 ---

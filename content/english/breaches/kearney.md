@@ -1,7 +1,7 @@
 ---
 date: "2022-11-07"
 title: "Kearney"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

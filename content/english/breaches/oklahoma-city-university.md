@@ -1,7 +1,7 @@
 ---
 date: "2022-08-11"
 title: "Oklahoma City University"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

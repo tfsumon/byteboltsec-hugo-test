@@ -1,7 +1,7 @@
 ---
 date: "2022-12-05"
 title: "Austria Presse Agentur"
-image: "images/blog/Breaches.png"
+image: "images/blog/Play.png"
 author: "Breachsense Support"
 draft: false
 ---

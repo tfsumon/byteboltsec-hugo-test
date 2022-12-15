@@ -1,7 +1,7 @@
 ---
 date: "2021-09-29"
 title: "dykman.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

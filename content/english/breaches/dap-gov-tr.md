@@ -1,7 +1,7 @@
 ---
 date: "2022-02-07"
 title: "dap.gov.tr"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

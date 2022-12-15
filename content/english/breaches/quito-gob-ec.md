@@ -1,7 +1,7 @@
 ---
 date: "2021-11-07"
 title: "quito.gob.ec"
-image: "images/blog/Breaches.png"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---

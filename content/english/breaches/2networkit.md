@@ -1,7 +1,7 @@
 ---
 date: "2022-12-15"
 title: "2NetworkIT"
-image: "images/blog/Breaches.png"
+image: "images/blog/Cuba.png"
 author: "Breachsense Support"
 draft: false
 ---

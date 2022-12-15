@@ -1,7 +1,7 @@
 ---
 date: "2022-05-18"
 title: "legal.fronteousa.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/Cuba.png"
 author: "Breachsense Support"
 draft: false
 ---

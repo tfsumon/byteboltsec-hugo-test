@@ -1,7 +1,7 @@
 ---
 date: "2021-11-08"
 title: "immodelaet.be"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

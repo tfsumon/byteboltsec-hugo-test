@@ -1,7 +1,7 @@
 ---
 date: "2022-04-29"
 title: "lic-sl.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/Vice.png"
 author: "Breachsense Support"
 draft: false
 ---

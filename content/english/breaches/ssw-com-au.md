@@ -1,7 +1,7 @@
 ---
 date: "2022-04-01"
 title: "ssw.com.au"
-image: "images/blog/Breaches.png"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---

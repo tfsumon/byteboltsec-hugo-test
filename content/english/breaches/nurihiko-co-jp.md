@@ -1,7 +1,7 @@
 ---
 date: "2021-11-16"
 title: "nurihiko.co.jp"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

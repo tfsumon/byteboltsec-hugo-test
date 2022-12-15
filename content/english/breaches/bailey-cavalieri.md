@@ -1,7 +1,7 @@
 ---
 date: "2022-12-15"
 title: "Bailey Cavalieri"
-image: "images/blog/Breaches.png"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2022-07-13"
 title: "IIS"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

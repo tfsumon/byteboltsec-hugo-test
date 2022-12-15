@@ -1,7 +1,7 @@
 ---
 date: "2022-08-21"
 title: "BSA Hospice of the Southwest"
-image: "images/blog/Breaches.png"
+image: "images/blog/Vice.png"
 author: "Breachsense Support"
 draft: false
 ---

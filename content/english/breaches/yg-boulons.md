@@ -1,7 +1,7 @@
 ---
 date: "2022-08-29"
 title: "YG Boulons"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

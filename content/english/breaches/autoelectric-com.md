@@ -1,7 +1,7 @@
 ---
 date: "2021-08-23"
 title: "autoelectric.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

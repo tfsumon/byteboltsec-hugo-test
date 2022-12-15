@@ -1,7 +1,7 @@
 ---
 date: "2022-11-25"
 title: "Los Angeles Business Journal"
-image: "images/blog/Breaches.png"
+image: "images/blog/Royal.png"
 author: "Breachsense Support"
 draft: false
 ---

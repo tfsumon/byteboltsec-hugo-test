@@ -1,7 +1,7 @@
 ---
 date: "2021-07-18"
 title: "sardinhafamilytrust.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/HiveLeaks.png"
 author: "Breachsense Support"
 draft: false
 ---

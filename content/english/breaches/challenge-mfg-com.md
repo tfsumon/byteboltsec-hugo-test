@@ -1,7 +1,7 @@
 ---
 date: "2021-05-11"
 title: "challenge-mfg.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/Lorenz.png"
 author: "Breachsense Support"
 draft: false
 ---

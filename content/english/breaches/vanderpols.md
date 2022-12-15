@@ -1,7 +1,7 @@
 ---
 date: "2022-06-16"
 title: "Vanderpols"
-image: "images/blog/Breaches.png"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---

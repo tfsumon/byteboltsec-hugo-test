@@ -1,7 +1,7 @@
 ---
 date: "2021-10-21"
 title: "boltonusa.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/CL0P.png"
 author: "Breachsense Support"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2021-10-18"
 title: "watermarkbeachresort.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

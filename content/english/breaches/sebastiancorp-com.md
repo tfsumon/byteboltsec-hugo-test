@@ -1,7 +1,7 @@
 ---
 date: "2021-08-10"
 title: "sebastiancorp.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/Lorenz.png"
 author: "Breachsense Support"
 draft: false
 ---

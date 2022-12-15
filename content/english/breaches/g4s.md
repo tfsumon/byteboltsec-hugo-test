@@ -1,7 +1,7 @@
 ---
 date: "2022-12-07"
 title: "G4S"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

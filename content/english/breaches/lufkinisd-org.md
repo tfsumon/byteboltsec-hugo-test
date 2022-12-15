@@ -1,7 +1,7 @@
 ---
 date: "2021-10-24"
 title: "lufkinisd.org"
-image: "images/blog/Breaches.png"
+image: "images/blog/Vice.png"
 author: "Breachsense Support"
 draft: false
 ---

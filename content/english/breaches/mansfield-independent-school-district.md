@@ -1,7 +1,7 @@
 ---
 date: "2022-10-02"
 title: "Mansfield Independent School District"
-image: "images/blog/Breaches.png"
+image: "images/blog/HiveLeaks.png"
 author: "Breachsense Support"
 draft: false
 ---

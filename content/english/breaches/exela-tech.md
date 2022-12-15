@@ -1,7 +1,7 @@
 ---
 date: "2022-07-14"
 title: "Exela Tech"
-image: "images/blog/Breaches.png"
+image: "images/blog/HiveLeaks.png"
 author: "Breachsense Support"
 draft: false
 ---

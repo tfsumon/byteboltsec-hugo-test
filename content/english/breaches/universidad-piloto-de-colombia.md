@@ -1,7 +1,7 @@
 ---
 date: "2022-10-27"
 title: "Universidad Piloto de Colombia"
-image: "images/blog/Breaches.png"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---

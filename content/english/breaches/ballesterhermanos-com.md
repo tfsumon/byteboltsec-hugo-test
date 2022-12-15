@@ -1,7 +1,7 @@
 ---
 date: "2021-12-24"
 title: "ballesterhermanos.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---

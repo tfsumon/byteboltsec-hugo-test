@@ -1,7 +1,7 @@
 ---
 date: "2021-12-28"
 title: "snop.eu"
-image: "images/blog/Breaches.png"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---

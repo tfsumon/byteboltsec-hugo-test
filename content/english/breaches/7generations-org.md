@@ -1,7 +1,7 @@
 ---
 date: "2022-05-01"
 title: "7generations.org"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

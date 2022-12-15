@@ -1,7 +1,7 @@
 ---
 date: "2021-01-15"
 title: "squamish.net"
-image: "images/blog/Breaches.png"
+image: "images/blog/Cuba.png"
 author: "Breachsense Support"
 draft: false
 ---

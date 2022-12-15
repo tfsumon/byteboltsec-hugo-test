@@ -1,7 +1,7 @@
 ---
 date: "2022-07-05"
 title: "Massy Distribution"
-image: "images/blog/Breaches.png"
+image: "images/blog/HiveLeaks.png"
 author: "Breachsense Support"
 draft: false
 ---

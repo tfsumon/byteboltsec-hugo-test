@@ -1,7 +1,7 @@
 ---
 date: "2022-02-22"
 title: "centralia.edu"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

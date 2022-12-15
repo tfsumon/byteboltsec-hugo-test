@@ -1,7 +1,7 @@
 ---
 date: "2022-06-30"
 title: "Avante"
-image: "images/blog/Breaches.png"
+image: "images/blog/Quantum.png"
 author: "Breachsense Support"
 draft: false
 ---

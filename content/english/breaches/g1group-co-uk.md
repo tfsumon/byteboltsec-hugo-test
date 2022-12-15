@@ -1,7 +1,7 @@
 ---
 date: "2021-12-15"
 title: "g1group.co.uk"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

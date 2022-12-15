@@ -1,7 +1,7 @@
 ---
 date: "2022-06-21"
 title: "Sigma Alimentos"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

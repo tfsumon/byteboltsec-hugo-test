@@ -1,7 +1,7 @@
 ---
 date: "2022-09-15"
 title: "Orion Innovation"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2022-12-02"
 title: "Panolam"
-image: "images/blog/Breaches.png"
+image: "images/blog/Basta.png"
 author: "Breachsense Support"
 draft: false
 ---

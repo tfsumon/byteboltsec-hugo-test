@@ -1,7 +1,7 @@
 ---
 date: "2022-02-13"
 title: "codisel.com.mx"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

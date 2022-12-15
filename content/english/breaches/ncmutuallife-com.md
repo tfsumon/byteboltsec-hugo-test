@@ -1,7 +1,7 @@
 ---
 date: "2021-12-09"
 title: "ncmutuallife.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/Cuba.png"
 author: "Breachsense Support"
 draft: false
 ---

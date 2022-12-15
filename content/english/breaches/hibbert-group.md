@@ -1,7 +1,7 @@
 ---
 date: "2022-10-11"
 title: "The Hibbert Group"
-image: "images/blog/Breaches.png"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---

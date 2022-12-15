@@ -1,7 +1,7 @@
 ---
 date: "2022-10-26"
 title: "Cadeploy"
-image: "images/blog/Breaches.png"
+image: "images/blog/Basta.png"
 author: "Breachsense Support"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2021-03-29"
 title: "bcda.gov.ph"
-image: "images/blog/Breaches.png"
+image: "images/blog/Lorenz.png"
 author: "Breachsense Support"
 draft: false
 ---

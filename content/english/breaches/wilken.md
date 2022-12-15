@@ -1,7 +1,7 @@
 ---
 date: "2022-11-08"
 title: "Wilken"
-image: "images/blog/Breaches.png"
+image: "images/blog/Basta.png"
 author: "Breachsense Support"
 draft: false
 ---

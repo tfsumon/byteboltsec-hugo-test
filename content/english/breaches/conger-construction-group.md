@@ -1,7 +1,7 @@
 ---
 date: "2022-09-23"
 title: "Conger Construction Group"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

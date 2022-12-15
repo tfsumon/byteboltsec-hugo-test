@@ -1,7 +1,7 @@
 ---
 date: "2022-10-27"
 title: "Miracapo"
-image: "images/blog/Breaches.png"
+image: "images/blog/Lorenz.png"
 author: "Breachsense Support"
 draft: false
 ---

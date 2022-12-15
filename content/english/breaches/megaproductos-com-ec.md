@@ -1,7 +1,7 @@
 ---
 date: "2022-03-20"
 title: "megaproductos.com.ec"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

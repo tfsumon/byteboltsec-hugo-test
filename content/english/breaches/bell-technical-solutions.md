@@ -1,7 +1,7 @@
 ---
 date: "2022-09-15"
 title: "Bell Technical Solutions"
-image: "images/blog/Breaches.png"
+image: "images/blog/HiveLeaks.png"
 author: "Breachsense Support"
 draft: false
 ---

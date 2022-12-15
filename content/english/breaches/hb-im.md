@@ -1,7 +1,7 @@
 ---
 date: "2021-12-24"
 title: "hb.im"
-image: "images/blog/Breaches.png"
+image: "images/blog/Vice.png"
 author: "Breachsense Support"
 draft: false
 ---

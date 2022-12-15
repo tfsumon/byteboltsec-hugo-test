@@ -1,7 +1,7 @@
 ---
 date: "2022-11-28"
 title: "ITS Group"
-image: "images/blog/Breaches.png"
+image: "images/blog/Play.png"
 author: "Breachsense Support"
 draft: false
 ---

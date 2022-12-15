@@ -1,7 +1,7 @@
 ---
 date: "2022-07-12"
 title: "UPPCO"
-image: "images/blog/Breaches.png"
+image: "images/blog/Lorenz.png"
 author: "Breachsense Support"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2021-11-14"
 title: "rijeka-airport.hr"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

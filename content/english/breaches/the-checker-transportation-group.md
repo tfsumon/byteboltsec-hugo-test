@@ -1,7 +1,7 @@
 ---
 date: "2022-09-09"
 title: "The Checker Transportation Group"
-image: "images/blog/Breaches.png"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---

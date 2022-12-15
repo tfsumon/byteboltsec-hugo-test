@@ -1,7 +1,7 @@
 ---
 date: "2022-07-17"
 title: "Carrol's Irish Gifts"
-image: "images/blog/Breaches.png"
+image: "images/blog/HiveLeaks.png"
 author: "Breachsense Support"
 draft: false
 ---

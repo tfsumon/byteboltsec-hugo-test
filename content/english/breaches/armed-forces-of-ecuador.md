@@ -1,7 +1,7 @@
 ---
 date: "2022-10-27"
 title: "Armed Forces of Ecuador"
-image: "images/blog/Breaches.png"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---

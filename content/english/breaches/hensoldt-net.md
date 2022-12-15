@@ -1,7 +1,7 @@
 ---
 date: "2022-01-12"
 title: "hensoldt.net"
-image: "images/blog/Breaches.png"
+image: "images/blog/Lorenz.png"
 author: "Breachsense Support"
 draft: false
 ---

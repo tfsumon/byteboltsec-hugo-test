@@ -1,7 +1,7 @@
 ---
 date: "2022-07-28"
 title: "John A Bodziak Architect"
-image: "images/blog/Breaches.png"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---

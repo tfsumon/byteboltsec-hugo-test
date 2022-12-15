@@ -1,7 +1,7 @@
 ---
 date: "2020-11-27"
 title: "tntorello.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---

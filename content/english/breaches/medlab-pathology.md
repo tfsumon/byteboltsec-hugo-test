@@ -1,7 +1,7 @@
 ---
 date: "2022-06-15"
 title: "Medlab Pathology"
-image: "images/blog/Breaches.png"
+image: "images/blog/Quantum.png"
 author: "Breachsense Support"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2022-05-16"
 title: "Perbit"
-image: "images/blog/Breaches.png"
+image: "images/blog/CL0P.png"
 author: "Breachsense Support"
 draft: false
 ---

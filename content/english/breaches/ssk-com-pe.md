@@ -1,7 +1,7 @@
 ---
 date: "2022-04-27"
 title: "ssk.com.pe"
-image: "images/blog/Breaches.png"
+image: "images/blog/HiveLeaks.png"
 author: "Breachsense Support"
 draft: false
 ---

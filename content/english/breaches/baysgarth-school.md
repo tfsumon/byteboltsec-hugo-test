@@ -1,7 +1,7 @@
 ---
 date: "2022-11-15"
 title: "Baysgarth School"
-image: "images/blog/Breaches.png"
+image: "images/blog/Vice.png"
 author: "Breachsense Support"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2022-10-21"
 title: "USAirports"
-image: "images/blog/Breaches.png"
+image: "images/blog/Cuba.png"
 author: "Breachsense Support"
 draft: false
 ---

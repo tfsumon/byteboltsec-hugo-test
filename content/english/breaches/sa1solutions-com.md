@@ -1,7 +1,7 @@
 ---
 date: "20202-02-24"
 title: "sa1solutions.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/CL0P.png"
 author: "Breachsense Support"
 draft: false
 ---

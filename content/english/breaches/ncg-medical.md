@@ -1,7 +1,7 @@
 ---
 date: "2022-09-01"
 title: "NCG Medical"
-image: "images/blog/Breaches.png"
+image: "images/blog/HiveLeaks.png"
 author: "Breachsense Support"
 draft: false
 ---

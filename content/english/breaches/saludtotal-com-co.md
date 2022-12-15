@@ -1,7 +1,7 @@
 ---
 date: "2022-05-12"
 title: "saludtotal.com.co"
-image: "images/blog/Breaches.png"
+image: "images/blog/Vice.png"
 author: "Breachsense Support"
 draft: false
 ---
