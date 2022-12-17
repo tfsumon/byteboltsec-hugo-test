@@ -1,7 +1,7 @@
 ---
 date: "2022-12-06"
 title: "Glutz"
-image: "images/blog/Vice.png"
+image: "images/blog/ViceSociety.png"
 author: "Breachsense Support"
 draft: false
 ---

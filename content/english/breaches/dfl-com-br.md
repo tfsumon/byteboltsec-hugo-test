@@ -1,7 +1,7 @@
 ---
 date: "2021-12-24"
 title: "dfl.com.br"
-image: "images/blog/Vice.png"
+image: "images/blog/ViceSociety.png"
 author: "Breachsense Support"
 draft: false
 ---
@@ -9,7 +9,7 @@ draft: false
 | Data Breach Report         |              | 
 | :-----------: | :-------------:   |:-------------:    | :-----:|
 | Victim    | dfl.com.br      | 
-| Threat Actor    | Vice Society      | 
+| Threat Actor    | ViceSociety      | 
 | Date Discovered    | Dec 24, 2021      | 
 | Description    | N/A      | 
 | Leak Size    | N/A      | 

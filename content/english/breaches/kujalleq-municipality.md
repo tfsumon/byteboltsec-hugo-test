@@ -1,7 +1,7 @@
 ---
 date: "2022-10-31"
 title: "Kujalleq Municipality"
-image: "images/blog/Vice.png"
+image: "images/blog/ViceSociety.png"
 author: "Breachsense Support"
 draft: false
 ---

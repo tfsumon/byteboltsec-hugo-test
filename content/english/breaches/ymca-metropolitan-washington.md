@@ -1,7 +1,7 @@
 ---
 date: "2022-11-02"
 title: "YMCA of Metropolitan Washington"
-image: "images/blog/Vice.png"
+image: "images/blog/ViceSociety.png"
 author: "Breachsense Support"
 draft: false
 ---

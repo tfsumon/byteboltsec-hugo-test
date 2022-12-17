@@ -1,7 +1,7 @@
 ---
 date: "2022-11-25"
 title: "Cincinnati State"
-image: "images/blog/Vice.png"
+image: "images/blog/ViceSociety.png"
 author: "Breachsense Support"
 draft: false
 ---

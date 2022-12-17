@@ -1,7 +1,7 @@
 ---
 date: "2022-06-09"
 title: "Palermo"
-image: "images/blog/Vice.png"
+image: "images/blog/ViceSociety.png"
 author: "Breachsense Support"
 draft: false
 ---
@@ -9,7 +9,7 @@ draft: false
 | Data Breach Report         |              | 
 | :-----------: | :-------------:   |:-------------:    | :-----:|
 | Victim    | comune.palermo.it      | 
-| Threat Actor    | Vice Society      | 
+| Threat Actor    | ViceSociety      | 
 | Date Discovered    | Jun 09, 2022      | 
 | Description    | Palermo functions as Sicilys chief port and centre of government.       | 
 | Leak Size    | N/A      | 

@@ -1,7 +1,7 @@
 ---
 date: "2022-10-24"
 title: "TMShipping LLC"
-image: "images/blog/Vice.png"
+image: "images/blog/ViceSociety.png"
 author: "Breachsense Support"
 draft: false
 ---

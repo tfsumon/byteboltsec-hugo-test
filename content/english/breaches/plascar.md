@@ -1,7 +1,7 @@
 ---
 date: "2022-11-30"
 title: "Plascar"
-image: "images/blog/Vice.png"
+image: "images/blog/ViceSociety.png"
 author: "Breachsense Support"
 draft: false
 ---

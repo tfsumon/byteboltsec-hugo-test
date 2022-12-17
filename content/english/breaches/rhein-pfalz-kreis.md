@@ -1,7 +1,7 @@
 ---
 date: "2022-11-11"
 title: "Rhein-Pfalz-Kreis"
-image: "images/blog/Vice.png"
+image: "images/blog/ViceSociety.png"
 author: "Breachsense Support"
 draft: false
 ---

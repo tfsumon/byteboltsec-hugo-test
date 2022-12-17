@@ -1,7 +1,7 @@
 ---
 date: "2022-11-10"
 title: "Hartnell"
-image: "images/blog/Vice.png"
+image: "images/blog/ViceSociety.png"
 author: "Breachsense Support"
 draft: false
 ---

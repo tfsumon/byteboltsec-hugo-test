@@ -1,7 +1,7 @@
 ---
 date: "2021-10-10"
 title: "barlowhospital.org"
-image: "images/blog/Vice.png"
+image: "images/blog/ViceSociety.png"
 author: "Breachsense Support"
 draft: false
 ---
@@ -9,7 +9,7 @@ draft: false
 | Data Breach Report         |              | 
 | :-----------: | :-------------:   |:-------------:    | :-----:|
 | Victim    | barlowhospital.org      | 
-| Threat Actor    | Vice Society      | 
+| Threat Actor    | ViceSociety      | 
 | Date Discovered    | Oct 10, 2021      | 
 | Description    | N/A      | 
 | Leak Size    | N/A      | 

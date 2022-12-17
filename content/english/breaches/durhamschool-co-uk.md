@@ -1,7 +1,7 @@
 ---
 date: "2022-01-12"
 title: "durhamschool.co.uk"
-image: "images/blog/Vice.png"
+image: "images/blog/ViceSociety.png"
 author: "Breachsense Support"
 draft: false
 ---
@@ -9,7 +9,7 @@ draft: false
 | Data Breach Report         |              | 
 | :-----------: | :-------------:   |:-------------:    | :-----:|
 | Victim    | durhamschool.co.uk      | 
-| Threat Actor    | Vice Society      | 
+| Threat Actor    | ViceSociety      | 
 | Date Discovered    | Jan 12, 2022      | 
 | Description    | N/A      | 
 | Leak Size    | N/A      | 
