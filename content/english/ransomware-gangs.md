@@ -156,8 +156,8 @@ layout: "elements"
 | <a href="http://msaoyrayohnp32tcgwcanhjouetb5k54aekgnwg7dcvtgtecpumrxpqd.onion.ws">PROLOCK</a>     | Tor     | OFFLINE     |
 | <a href="http://promethw27cbrcot.onion.ws/blog">PROMETHEUS</a>     | Tor     | OFFLINE     |
 | <a href="http://pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion.ws/partners.html">PYSA</a>     | Tor     | OFFLINE     |
-| <a href="http://ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd.onion.ws">QILIN</a>     | Tor     | ONLINE     |
-| <a href="http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion.ws/">QILIN DLS</a>     | Tor     | ONLINE     |
+| <a href="http://ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd.onion.ws">QILIN </a>     | Tor     | ONLINE     |
+| <a href="http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion.ws/">QILIN</a>     | Tor     | ONLINE     |
 | <a href="http://gvka2m4qt5fod2fltkjmdk4gxh5oxemhpgmnmtjptms6fkgfzdd62tad.onion.ws">QLOCKER</a>     | Tor     | ONLINE     |
 | <a href="http://quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion.ws">QUANTUM</a>     | Tor     | ONLINE     |
 | <a href="http://p6o7m73ujalhgkiv.onion.ws">RAGNAR LOCKER</a>     | Tor     | OFFLINE     |
@@ -171,7 +171,7 @@ layout: "elements"
 | <a href="http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion.ws">RANSOM HOUSE</a>     | Tor     | ONLINE     |
 | <a href="http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion.ws">RANZY/AKO</a>     | Tor     | OFFLINE     |
 | <a href="http://blog2hkbm6gogpv2b3uytzi3bj5d5zmc4asbybumjkhuqhas355janyd.onion.ws">REDALERT</a>     | Tor     | ONLINE     |
-| <a href="https://relic5zqwemjnu4veilml6prgyedj6phs7de3udhicuq53z37klxm6qd.onion.ws.pet">RELIC</a>     | Tor     | ONLINE     |
+| <a href="https://relic5zqwemjnu4veilml6prgyedj6phs7de3udhicuq53z37klxm6qd.onion.ws">RELIC</a>     | Tor     | ONLINE     |
 | <a href="http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion.ws">REVIL </a>     | Tor     | OFFLINE     |
 | <a href="http://blogxxu75w63ujqarv476otld7cyjkq4yoswzt4ijadkjwvg3vrvd5yd.onion.ws/Blog">REVIL </a>     | Tor     | ONLINE     |
 | <a href="http://landxxeaf2hoyl2jvcwuazypt6imcsbmhb7kx3x33yhparvtmkatpaad.onion.ws">REVIL </a>     | Tor     | ONLINE     |
