@@ -2,7 +2,7 @@
 # banner
 banner:
   title: "Monitor Your Company for Data Breaches in Real Time"
-  content: "Protect your organization & staff from data breaches. Breachsense monitors the dark web, private hacker forums, and marketplaces to detect data breaches in real time. This way, you can prevent cyber threats before they happen."
+  content: "Protect your organization & staff from data breaches. Breachsense monitors the dark web, private hacker forums, and criminal marketplaces to detect data breaches in real time enabling you to prevent cyber threats before they happen."
   image: "images/BSStats.png"
   book_a_demo_button: true
 
@@ -50,10 +50,10 @@ detect_data_breaches:
     * Track open, deep, and dark web sources such as Tor websites, private ransomware IRC and Telegram channels, criminal forums, and cybercrime marketplaces.
     <br/>
 
-    * Continuous monitoring enables to to uncover data breaches related to your VIPs, executive team members, employees as well as clients.
+    * Continuous monitoring enables your team to uncover data breaches related to your VIPs, executive team members, employees as well as clients.
     <br/>
 
-    * Find exposed user credentials, personal staff information leaks, and ransomware data leaks being sold or traded on criminal marketplaces and private ransomware forums.
+    * Find exposed user & employee credentials, ransomware leaks as well as exposed company data being sold or traded on criminal marketplaces and private ransomware forums.
 
 
 # Prevent Cybercrime
@@ -61,7 +61,7 @@ prevent_cybercrime:
   enable: true
   title: "Prevent Cybercrime Before It Happens"
   content: >-
-    Breachsense continuously monitors the web for mentions of sensitive company information such as account credentials, personal information, and others. your brand, staff personal information, and any other type of data leak. The moment such information is found anywhere on the web, we notify your security team, allowing you to respond instantly and prevent potential cybercrime.
+    Breachsense continuously monitors the internet for sensitive company information such as account credentials, employee details, leaked company data, session tokens, 3rd party data leaks, and more. When relevant information is identified, we notify your security team, allowing you to respond instantly and prevent potential cybercrime.
 
   prevent_points:
     - title: "Prevent Fraudulent Purchases"
