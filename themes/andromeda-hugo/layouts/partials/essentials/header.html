@@ -5,7 +5,7 @@
      <div class="row">
         <div class="col-12">
            <nav class="navbar navbar-expand-lg navbar-light p-0">
-              <a class="navbar-brand" href="{{ site.BaseURL | relLangURL }}/">
+              <a class="navbar-brand" href="/">
                 {{ partial "images/logo.html" . }}
                 
               </a>
@@ -40,7 +40,7 @@
               </div>
 
               <div class="collapse navbar-collapse" id="navHeader">
-                <ul class="navbar-nav mx-auto">                  
+                <ul class="navbar-nav mr-auto mr-lg-0 ml-auto">                  
                   {{ $currentPage := . }}
                   {{ range site.Menus.main }}
                   {{ $menuURL := .URL | absLangURL }}
@@ -103,7 +103,7 @@
                   {{ end }}
 
                   {{ if site.Params.navigation_button.enable }}
-                  <a href="{{ site.Params.navigation_button.link | relURL }}" class="btn btn-primary">{{ site.Params.navigation_button.label }}</a>
+                  <a href="{{ site.Params.navigation_button.link | relURL }}" class="btn btn-primary ml-0 ml-md-3">{{ site.Params.navigation_button.label }}</a>
                   {{ end }}
                 </div>
               </div>

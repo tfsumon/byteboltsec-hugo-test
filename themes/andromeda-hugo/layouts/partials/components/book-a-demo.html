@@ -1,0 +1,3 @@
+{{ with site.Params.book_a_demo}}
+<a class="btn btn-primary" href="{{.link}}">{{.label | markdownify}}</a>
+{{ end }}

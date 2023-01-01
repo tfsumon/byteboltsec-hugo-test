@@ -3,7 +3,7 @@ body {
   background-color: $white;
   font-family: $font-primary;
   font-weight: 400;
-  font-size: .9rem;
+  font-size: 1rem;
   line-height: 1.7;
 }
 
@@ -41,8 +41,8 @@ body {
 .container-xxl {
   max-width: 1440px;
   width: 100%;
-  padding-right: .9rem;
-  padding-left: .9rem;
+  padding-right: 0.9rem;
+  padding-left: 0.9rem;
   margin-right: auto;
   margin-left: auto;
 
@@ -98,22 +98,20 @@ body {
   }
 }
 
-
 // swiper
 .swiper-wrapper {
   cursor: grab;
-  transition-timing-function: cubic-bezier(.165, .84, .44, 1) !important;
+  transition-timing-function: cubic-bezier(0.165, 0.84, 0.44, 1) !important;
 }
 
 .swiper-pagination-bullet {
-  height: .9rem;
-  width: .9rem;
+  height: 0.9rem;
+  width: 0.9rem;
 }
 
 .swiper-pagination-bullet-active {
   background: $primary-color !important;
 }
-
 
 // aos background animation
 .has-bg-anim {
@@ -125,24 +123,23 @@ body {
     left: 0;
     top: 0;
     z-index: -2;
-    background-color: rgba($primary-color, .1);
+    background-color: rgba($primary-color, 0.1);
     transform: scale(0);
     border-radius: 1.8rem;
-    transition: 1.5s cubic-bezier(.105, .84, .44, 1);
+    transition: 1.5s cubic-bezier(0.105, 0.84, 0.44, 1);
   }
 
   &.aos-animate::before {
     transform: scale(1);
-    background-color: rgba($primary-color, .05);
+    background-color: rgba($primary-color, 0.05);
   }
 }
-
 
 // social-links
 .social-links {
   a {
     font-size: 1.125rem;
-    color: rgba($black, .8);
+    color: rgba($black, 0.8);
     border: 1px solid #eee;
     display: inline-block;
     height: 2.8rem;
@@ -158,63 +155,61 @@ body {
   }
 }
 
-
 // has-circle
 .has-circle {
   position: relative;
 
   span {
     position: absolute;
-    background-color: rgba($primary-color, .15);
+    background-color: rgba($primary-color, 0.15);
     border-radius: 50%;
 
     &.fill {
       background-color: $primary-color;
-      opacity: .9
+      opacity: 0.9;
     }
 
     &.ratio-20 {
       height: 1.25rem;
-      width: 1.25rem
+      width: 1.25rem;
     }
 
     &.ratio-32 {
       height: 2rem;
-      width: 2rem
+      width: 2rem;
     }
 
     &.ratio-37 {
       height: 2.31rem;
-      width: 2.31rem
+      width: 2.31rem;
     }
 
     &.ratio-47 {
       height: 2.9rem;
-      width: 2.9rem
+      width: 2.9rem;
     }
 
     &.ratio-62 {
       height: 3.8rem;
-      width: 3.8rem
+      width: 3.8rem;
     }
 
     &.ratio-65 {
       height: 4.06rem;
-      width: 4.06rem
+      width: 4.06rem;
     }
 
     &.ratio-73 {
       height: 4.5rem;
-      width: 4.5rem
+      width: 4.5rem;
     }
 
     &.ratio-85 {
       height: 5.3rem;
-      width: 5.3rem
+      width: 5.3rem;
     }
   }
 }
-
 
 // preloader
 .preloader {
@@ -230,7 +225,7 @@ body {
   justify-content: center;
 
   .la-spin {
-    animation: la-spin .5s infinite linear;
+    animation: la-spin 0.5s infinite linear;
   }
 }
 
@@ -248,29 +243,29 @@ body {
   color: $white !important;
   font-size: 0.75rem;
   font-weight: 600;
-  padding: .45em .8em;
+  padding: 0.45em 0.8em;
   border-radius: 0.25rem;
   position: relative;
   top: 0.625rem;
 
   &.badge-changed {
-    background-color: #3A9CFF
+    background-color: #3a9cff;
   }
 
   &.badge-added {
-    background-color: #00CE92
+    background-color: #00ce92;
   }
 
   &.badge-removed {
-    background-color: #973CFF
+    background-color: #973cff;
   }
 
   &.badge-security {
-    background-color: #9C275F
+    background-color: #9c275f;
   }
 
   &.badge-depreciate {
-    background-color: #FF3158
+    background-color: #ff3158;
   }
 }
 
@@ -281,8 +276,12 @@ body {
 }
 
 .content {
-  font-size: .9rem;
-
+  h2,
+  h3,
+  h4,
+  h5 {
+    margin-bottom: 25px !important;
+  }
   a {
     color: #888;
     text-decoration: underline;
@@ -291,6 +290,10 @@ body {
       color: $primary-color;
       text-decoration: none;
     }
+  }
+
+  strong {
+    color: #000;
   }
 
   p {
@@ -302,7 +305,7 @@ body {
   }
 
   iframe {
-    border-radius: .5rem;
+    border-radius: 0.5rem;
   }
 
   blockquote p {
@@ -315,53 +318,53 @@ body {
     display: inline-block;
     margin-top: 0.625rem;
     margin-bottom: 2.1rem;
-    &.img-center{
+    &.img-center {
       display: block;
       margin-left: auto;
       margin-right: auto;
     }
-    &.img-left{
+    &.img-left {
       display: block;
       margin-left: 0;
       margin-right: auto;
     }
-    &.img-right{
+    &.img-right {
       display: block;
       margin-left: auto;
       margin-right: 0;
     }
-    &.img-float-left{
+    &.img-float-left {
       float: left;
       margin-right: 1.5rem;
     }
-    &.img-float-right{
+    &.img-float-right {
       float: right;
       margin-left: 1.5rem;
     }
   }
-  figure{
+  figure {
     display: inline-block;
     margin-bottom: 1.5rem;
-    img{
-      margin-bottom: .7rem;
+    img {
+      margin-bottom: 0.7rem;
     }
-    &.img-center{
+    &.img-center {
       display: block;
       text-align: center;
     }
-    &.img-left{
+    &.img-left {
       display: block;
       text-align: left;
     }
-    &.img-right{
+    &.img-right {
       display: block;
       text-align: right;
     }
-    &.img-float-left{
+    &.img-float-left {
       float: left;
       margin-right: 1.5rem;
     }
-    &.img-float-right{
+    &.img-float-right {
       float: right;
       margin-left: 1.5rem;
     }
@@ -385,7 +388,7 @@ body {
   h4,
   h5,
   h6 {
-    margin-bottom: .9rem;
+    margin-bottom: 0.9rem;
     font-weight: 600;
   }
 
@@ -411,7 +414,7 @@ body {
         content: "";
         height: 7px;
         width: 7px;
-        background-color: rgba($primary-color, .8);
+        background-color: rgba($primary-color, 0.8);
         top: 0.625rem;
         left: 0;
         border-radius: 50%;
@@ -428,7 +431,7 @@ body {
 
   table td,
   table th {
-    padding: .75rem;
+    padding: 0.75rem;
     vertical-align: top;
     margin-bottom: 0;
   }
@@ -459,11 +462,11 @@ body {
     margin: 2rem 0;
     position: relative;
     overflow: hidden;
-    border-radius: .5rem;
+    border-radius: 0.5rem;
   }
 
   .notices p {
-    padding: .7rem;
+    padding: 0.7rem;
     margin-bottom: 0;
   }
 
@@ -474,7 +477,7 @@ body {
     font-family: $font-icon;
     font-weight: 900;
     content: "\f05a";
-    left: .7rem;
+    left: 0.7rem;
   }
 
   .notices.note p {
@@ -483,21 +486,20 @@ body {
   }
 
   .notices.note p::after {
-    content: 'Note';
+    content: "Note";
     position: absolute;
     top: 2px;
     color: $white;
     left: 2rem;
   }
 
-
   .notices.tip p {
-    border-top: 1.9rem solid #78C578;
+    border-top: 1.9rem solid #78c578;
     background: #e2ffe2;
   }
 
   .notices.tip p::after {
-    content: 'Tip';
+    content: "Tip";
     position: absolute;
     top: 2px;
     color: $white;
@@ -505,26 +507,25 @@ body {
   }
 
   .notices.info p {
-    border-top: 1.9rem solid #F0B37E;
+    border-top: 1.9rem solid #f0b37e;
     background: #ffedde;
   }
 
   .notices.info p::after {
-    content: 'Info';
+    content: "Info";
     position: absolute;
     top: 2px;
     color: $white;
     left: 2rem;
   }
 
-
   .notices.warning p {
-    border-top: 1.9rem solid #E06F6C;
+    border-top: 1.9rem solid #e06f6c;
     background: #ffdad8;
   }
 
   .notices.warning p::after {
-    content: 'Warning';
+    content: "Warning";
     position: absolute;
     top: 2px;
     color: $white;
@@ -534,7 +535,6 @@ body {
   .nav.nav-tabs {
     border: 0;
     margin-bottom: 1.25rem;
-
 
     .nav-item::before {
       background: no-repeat;
@@ -558,7 +558,7 @@ body {
         border: 1px solid $border-color;
         border-radius: 0px;
         text-decoration: none;
-        border-radius: .5rem;
+        border-radius: 0.5rem;
 
         &:hover {
           color: $light;
@@ -578,7 +578,7 @@ body {
   .tab-content {
     background: darken($white, 2);
     padding: 2rem;
-    border-radius: .5rem;
+    border-radius: 0.5rem;
 
     .tab-pane {
       margin-bottom: 0;
@@ -610,9 +610,8 @@ body {
     }
   }
 
-
   .accordion-body {
-    padding: .8rem 1rem 0;
+    padding: 0.8rem 1rem 0;
 
     ul {
       margin-bottom: 0;
@@ -620,7 +619,7 @@ body {
   }
 
   .accordion-item {
-    padding: 0 0 .5rem;
+    padding: 0 0 0.5rem;
     margin-bottom: 0;
     background-color: transparent;
   }
@@ -636,7 +635,7 @@ body {
     position: relative;
 
     &::after {
-      background-image: url('data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 16 16%22 fill=%22%23000%22%3E%3Cpath fill-rule=%22evenodd%22 d=%22M1.646 4.646a.5.5.0 01.708.0L8 10.293l5.646-5.647a.5.5.0 01.708.708l-6 6a.5.5.0 01-.708.0l-6-6a.5.5.0 010-.708z%22/%3E%3C/svg%3E');
+      background-image: url("data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 16 16%22 fill=%22%23000%22%3E%3Cpath fill-rule=%22evenodd%22 d=%22M1.646 4.646a.5.5.0 01.708.0L8 10.293l5.646-5.647a.5.5.0 01.708.708l-6 6a.5.5.0 01-.708.0l-6-6a.5.5.0 010-.708z%22/%3E%3C/svg%3E");
       position: absolute;
       content: "";
       left: 0;
@@ -645,7 +644,7 @@ body {
       width: 1.25rem;
       height: 1.25rem;
       background-repeat: no-repeat;
-      transition: transform .2s ease-in-out;
+      transition: transform 0.2s ease-in-out;
     }
 
     &.collapsed::after {
@@ -663,15 +662,14 @@ body {
     }
   }
 
-
   blockquote {
     padding: 1.25rem 2.5rem;
     padding-top: 0.625rem;
-    color: lighten($black, 20.00);
+    color: lighten($black, 20);
     font-weight: 500;
     font-size: 1.25rem;
     margin: 2.3rem 0;
-    border-radius: .5rem;
+    border-radius: 0.5rem;
     box-shadow: 0px 0.625rem 2.1rem 0px rgba($black, 0.05);
     position: relative;
     border: 1px solid $border-color;
@@ -690,9 +688,9 @@ body {
       border-top: 1px solid #fbf2e5;
       display: block;
       font-size: 1rem;
-      opacity: .7;
+      opacity: 0.7;
       margin-top: 1.25rem;
-      padding-top: .9rem;
+      padding-top: 0.9rem;
       font-weight: 400;
       font-style: unset;
     }
@@ -703,7 +701,7 @@ body {
     padding: 0.625rem;
     margin: 0.625rem 0;
     white-space: pre-wrap;
-    border-radius: .5rem;
+    border-radius: 0.5rem;
   }
 
   code {
@@ -742,7 +740,6 @@ body {
   }
 }
 
-
 // form-control
 .form-control {
   border: 0;
@@ -750,12 +747,12 @@ body {
   border: 2px solid rgba($primary-color, 0.1);
   border-left-color: rgba($primary-color, 0.5);
   height: 3.5rem;
-  transition: .3s ease;
+  transition: 0.3s ease;
   background-color: rgba($primary-color, 0.05);
 
   &:focus {
     box-shadow: none;
-    color: lighten($black, 20.00);
+    color: lighten($black, 20);
     border-bottom-color: rgba($primary-color, 0.5);
     border-color: rgba($primary-color, 0.5);
   }
@@ -774,27 +771,27 @@ form label {
 }
 
 .custom-checkbox {
-  margin-top: .9rem;
+  margin-top: 0.9rem;
 
   .custom-control-label::before {
     border-radius: 0;
   }
 
-  .custom-control-input:checked~.custom-control-label::before,
-  .custom-control-input:not(:disabled):active~.custom-control-label::before {
+  .custom-control-input:checked ~ .custom-control-label::before,
+  .custom-control-input:not(:disabled):active ~ .custom-control-label::before {
     background-color: $primary-color;
     border-color: $primary-color;
     box-shadow: none;
   }
 
-  .custom-control-input:focus:not(:checked)~.custom-control-label::before {
+  .custom-control-input:focus:not(:checked) ~ .custom-control-label::before {
     box-shadow: none;
     border-color: $primary-color;
   }
 
-  .custom-control-input:disabled:checked~.custom-control-label::before {
-    background-color: rgba($primary-color, .5);
-    border-color: rgba($primary-color, .2);
+  .custom-control-input:disabled:checked ~ .custom-control-label::before {
+    background-color: rgba($primary-color, 0.5);
+    border-color: rgba($primary-color, 0.2);
   }
 }
 
@@ -802,37 +799,40 @@ form label {
  # helper classes
 -------------------------------------------------------------------*/
 .font-primary {
-  font-family: $font-primary
+  font-family: $font-primary;
 }
 
 .font-weight-400 {
-  font-weight: 400
+  font-weight: 400;
 }
 
 .font-weight-500 {
-  font-weight: 500
+  font-weight: 500;
 }
 
 .font-weight-600 {
-  font-weight: 600
+  font-weight: 600;
 }
 
 .text-primary {
-  color: $primary-color !important
+  color: $primary-color !important;
 }
 
 a.text-primary:hover {
-  color: darken($primary-color, 10) !important
+  color: darken($primary-color, 10) !important;
 }
 
 .bg-primary {
-  background-color: $primary-color !important
+  background-color: $primary-color !important;
 }
 
 .bg-light {
-  background-color: $light !important
+  background-color: $light !important;
 }
 
 .border-primary {
-  border-color: $primary-color !important
+  border-color: $primary-color !important;
+}
+.border-primary-light {
+  border-color: rgba($primary-color, 0.15) !important;
 }

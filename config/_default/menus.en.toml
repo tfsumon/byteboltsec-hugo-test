@@ -91,8 +91,3 @@ hasChildren = true
 name = "Latest Breaches"
 url = "breaches/"
 weight = 25
-
-[[main]]
-name = "Contact"
-url = "contact/"
-weight = 30

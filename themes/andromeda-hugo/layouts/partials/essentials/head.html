@@ -1,5 +1,9 @@
 <meta charset="utf-8">
+{{ if eq .Section "breaches" }}
+<title>{{.Title}} Data Breach in {{.PublishDate.Format "2006"}} | Report by BreachSense</title>
+{{ else }}
 <title>{{.Title | default site.Title}}</title>
+{{ end }}
 
 <!-- base url -->
 {{ if or (eq site.BaseURL "/") (eq site.BaseURL "http://localhost:1313/") (eq site.BaseURL "http://examplesite.org/") (eq site.BaseURL "https://examplesite.org/") (eq site.BaseURL "http://examplesite.com/") (eq site.BaseURL "https://examplesite.com/")}}{{else}}
@@ -13,6 +17,8 @@
 <link rel="manifest" href="{{`manifest.webmanifest` | relURL }}">
 <meta name="msapplication-TileColor" content="{{site.Params.variables.color_primary | default `#ddd`}}">
 <meta name="theme-color" content="{{site.Params.variables.body_color | default `#ffffff` }}">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link href="https://www.googletagmanager.com" rel="preconnect" crossorigin>
 
 <!-- multilingual SEO optimizations -->
 {{ if .IsTranslated }}

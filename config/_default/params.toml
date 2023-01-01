@@ -13,10 +13,6 @@ image_gallery = true
 # footer information
 #footer_info = "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat."
 
-# contact form action
-#contact_form_action = "https://formspree.io/f/xgernlzd" # contact form works with https://formspree.io
-contact_form_action = "https://api.breachsense.io/reg" # contact form works with https://formspree.io
-
 # career form action
 career_form_action = "#" # career form works with https://formspree.io
 
@@ -41,14 +37,19 @@ preloader = "images/favicon.png" # use jpg, png, svg or gif format.
 
 # Navigation button
 [navigation_button]
-enable = false
-label = "Get a demo"
-link = "contact/"
+enable = true
+label = "Book Demo"
+link = "book-demo/"
+
+# book_a_demo button
+[book_a_demo]
+label = "Book a demo"
+link = "/book-demo#book-demo"
 
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
 keywords = ["data breach monitoring", "ransomware prevention", "Breachsense"]
-description = "Monitor You Company for Data Breaches in Real Time"
+description = "Monitor for data breaches within your organization with Breachsense. Know when there’s a data breach in your organization and react in a timely manner."
 author = "Breachsense"
 
 # matomo tracking: see https://matomo.org/

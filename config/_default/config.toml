@@ -1,9 +1,9 @@
 ######################## default configuration ####################
 baseURL = "https://www.breachsense.io/"
-title = "Breachsense - Illuminate the Dark Web"
+title = "Data Breach Monitoring | Breachsense"
 theme = "andromeda-hugo"
 # post pagination
-paginate = "6" # see https://gohugo.io/extras/pagination/
+paginate = "12" # see https://gohugo.io/extras/pagination/
 # post excerpt
 summaryLength = "10" # see https://gohugo.io/content-management/excerpts/
 # google analytics
