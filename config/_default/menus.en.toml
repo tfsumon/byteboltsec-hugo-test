@@ -7,29 +7,6 @@ url = ""
 weight = 1
 
 [[main]]
-weight = 5
-name = "Use Cases"
-hasChildren = true
-
-  [[main]]
-  parent = "Use Cases"
-  name = "What We Offer"
-  url = "overview/"
-  weight = 1
-
-  [[main]]
-  parent = "Use Cases"
-  name = "Protect Your Staff"
-  url = "protect-your-staff/"
-  weight = 2
-
-  [[main]]
-  parent = "Use Cases"
-  name = "Protect Your Customers"
-  url = "protect-your-customers/"
-  weight = 3
-
-[[main]]
 weight = 6
 name = "Resources"
 hasChildren = true
@@ -40,30 +17,17 @@ hasChildren = true
   url = "documentation/"
   weight = 1
   
-[[main]]
-  parent = "Resources"
-  name = "Check your exposure"
-  url = "check-your-exposure/"
-  weight = 3
-  
-
   [[main]]
   parent = "Resources"
   name = "Ransomware Gangs"
   url = "ransomware-gangs/"
-  weight = 4
+  weight = 3
   
-  [[main]]
-  parent = "Resources"
-  name = "Dark Web Monitoring"
-  url = "/blog/monitoring-dark-web/"
-  weight = 5
-
   [[main]]
   parent = "Resources"
   name = "Podcast"
   url = "podcast/"
-  weight = 6
+  weight = 5
 
 [[main]]
 weight = 15
@@ -78,9 +42,27 @@ hasChildren = true
 
   [[main]]
   parent = "Company"
+  name = "What We Offer"
+  url = "overview/"
+  weight = 2
+
+  [[main]]
+  parent = "Company"
+  name = "Protect Your Staff"
+  url = "protect-your-staff/"
+  weight = 3
+
+  [[main]]
+  parent = "Company"
+  name = "Protect Your Customers"
+  url = "protect-your-customers/"
+  weight = 4
+
+  [[main]]
+  parent = "Company"
   name = "Terms"
   url = "terms-and-conditions/"
-  weight = 4
+  weight = 5
 
 #[[main]]
 #weight = 21
@@ -90,4 +72,10 @@ hasChildren = true
 [[main]]
 name = "Latest Breaches"
 url = "breaches/"
-weight = 25
+weight = 24
+
+[[main]]
+  name = "Check your exposure"
+  url = "check-your-exposure/"
+  weight = 25
+
