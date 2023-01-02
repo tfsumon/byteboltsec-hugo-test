@@ -22,12 +22,18 @@ hasChildren = true
   name = "Ransomware Gangs"
   url = "ransomware-gangs/"
   weight = 3
+
+  [[main]]
+  parent = "Resources"
+  name = "Dark Web Monitoring"
+  url = "dark-web-monitoring/"
+  weight = 5
   
   [[main]]
   parent = "Resources"
   name = "Podcast"
   url = "podcast/"
-  weight = 5
+  weight = 6
 
 [[main]]
 weight = 15
