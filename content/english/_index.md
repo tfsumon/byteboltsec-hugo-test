@@ -85,8 +85,8 @@ testimonials:
     designation: "Technical Director, Red Cursor"
     image: "images/brands/RC.png"
 
-  - quote: "Our Security Colony platform relies on Breachsense data as part of our monitoring and scoring service. The data is continuously updated and high quality. Highly recommend!"
-    name: "Nick Elsmore"
+  - quote: "Our Security Colony platform relies on Breachsense data as part of our dark web monitoring service. The data is continuously updated and high quality. Highly recommend!"
+    name: "Nick Ellsmore"
     designation: "SVP Professional Services, Trustwave"
     image: "images/brands/TW.png"
 
