@@ -50,3 +50,14 @@ weight = 24
   url = "check-your-exposure/"
   weight = 25
 
+# footer menu
+[[footer]]
+name = "About"
+url = "about/"
+weight = 1
+
+[[footer]]
+name = "Terms & Conditions"
+url = "terms-and-conditions/"
+weight = 3
+

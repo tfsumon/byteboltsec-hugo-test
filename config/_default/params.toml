@@ -11,7 +11,7 @@ logo_text = "Breachsense"
 image_gallery = true
 
 # footer information
-#footer_info = "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat."
+footer_info = "Real-time Data Breach Monitoring for the Enterprise"
 
 # career form action
 career_form_action = "#" # career form works with https://formspree.io
@@ -24,6 +24,10 @@ mainSections= ["blog"]
 breachSections= ["breaches"]
 
 # contact information
+[contact_info]
+address = "23811 Chagrin Blvd. Ste 200 Beachwood, Ohio 44122"
+phone = [""]
+email = ["info@breachsense.io", "support@breachsense.io"]
 
 # imaging processing
 [imaging]
@@ -96,12 +100,12 @@ button = "Download The Theme"
 button_link = "/"
 
 ############################# social site ########################
-#[[social]]
-#title = "AndromedaTweet"
-#icon = "lab la-twitter" # https://icons8.com/line-awesome
-#link = "#!"
+[[social]]
+title = "AndromedaTweet"
+icon = "lab la-twitter" # https://icons8.com/line-awesome
+link = "https://twitter.com/breachsense"
 
-#[[social]]
-#title = "AndromedaIn"
-#icon = "lab la-linkedin-in" # https://icons8.com/line-awesome
-#link = "#!"
+[[social]]
+title = "AndromedaIn"
+icon = "lab la-linkedin-in" # https://icons8.com/line-awesome
+link = "https://www.linkedin.com/company/breachsense/"
