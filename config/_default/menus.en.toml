@@ -36,44 +36,9 @@ hasChildren = true
   weight = 6
 
 [[main]]
-weight = 15
-name = "Company"
-hasChildren = true
-
-  [[main]]
-  parent = "Company"
-  name = "About"
-  url = "about/"
-  weight = 1
-
-  [[main]]
-  parent = "Company"
-  name = "What We Offer"
-  url = "overview/"
-  weight = 2
-
-  [[main]]
-  parent = "Company"
-  name = "Protect Your Staff"
-  url = "protect-your-staff/"
-  weight = 3
-
-  [[main]]
-  parent = "Company"
-  name = "Protect Your Customers"
-  url = "protect-your-customers/"
-  weight = 4
-
-  [[main]]
-  parent = "Company"
-  name = "Terms"
-  url = "terms-and-conditions/"
-  weight = 5
-
-#[[main]]
-#weight = 21
-#name = "Blog"
-#url = "blog/"
+name = "About"
+url = "about/"
+weight = 7
 
 [[main]]
 name = "Latest Breaches"
