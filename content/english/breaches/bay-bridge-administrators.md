@@ -1,4 +1,5 @@
 ---
+Discovered: "September 22, 2022"
 date: "2022-09-22"
 title: "Bay Bridge Administrators"
 image: "images/blog/Breaches.png"

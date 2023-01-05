@@ -1,4 +1,5 @@
 ---
+Discovered: "November 17, 2022"
 date: "2022-11-17"
 title: "Lake Charles Memorial Health System"
 image: "images/blog/HiveLeaks.png"

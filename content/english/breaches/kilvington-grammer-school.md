@@ -1,4 +1,5 @@
 ---
+Discovered: "October 17, 2022"
 date: "2022-10-17"
 title: "Kilvington Grammer School"
 image: "images/blog/LockBit.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "August 17, 2021"
 date: "2021-08-17"
 title: "ubuntuforums.org"
 image: "images/blog/Breaches.png"

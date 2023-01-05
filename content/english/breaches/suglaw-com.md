@@ -1,4 +1,5 @@
 ---
+Discovered: "July 11, 2021"
 date: "2021-07-11"
 title: "suglaw.com"
 image: "images/blog/HiveLeaks.png"

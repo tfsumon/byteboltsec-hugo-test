@@ -1,4 +1,5 @@
 ---
+Discovered: "February 12, 2022"
 date: "2022-02-12"
 title: "ebix.com"
 image: "images/blog/Breaches.png"

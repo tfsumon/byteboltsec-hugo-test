@@ -1,4 +1,5 @@
 ---
+Discovered: "January 15, 2022"
 date: "2022-01-15"
 title: "superfund.com"
 image: "images/blog/Cuba.png"

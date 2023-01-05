@@ -1,4 +1,5 @@
 ---
+Discovered: "July 15, 2022"
 date: "2022-07-15"
 title: "City Furniture"
 image: "images/blog/HiveLeaks.png"

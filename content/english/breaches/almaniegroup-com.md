@@ -1,4 +1,5 @@
 ---
+Discovered: "April 29, 2022"
 date: "2022-04-29"
 title: "almaniegroup.com"
 image: "images/blog/ViceSociety.png"

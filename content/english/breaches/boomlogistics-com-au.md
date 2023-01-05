@@ -1,4 +1,5 @@
 ---
+Discovered: "May 19, 2022"
 date: "2022-05-19"
 title: "boomlogistics.com.au"
 image: "images/blog/ALPHV.png"

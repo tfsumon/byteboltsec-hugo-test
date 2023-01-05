@@ -1,4 +1,5 @@
 ---
+Discovered: "November 17, 2022"
 date: "2022-11-17"
 title: "IMA"
 image: "images/blog/Basta.png"

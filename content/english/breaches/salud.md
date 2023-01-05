@@ -1,4 +1,5 @@
 ---
+Discovered: "November 14, 2022"
 date: "2022-11-14"
 title: "Salud"
 image: "images/blog/Lorenz.png"

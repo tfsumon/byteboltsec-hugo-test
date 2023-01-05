@@ -1,4 +1,5 @@
 ---
+Discovered: "October 23, 2022"
 date: "2022-10-23"
 title: "Egyptian Electric Cooperative Association"
 image: "images/blog/ALPHV.png"

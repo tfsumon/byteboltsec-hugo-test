@@ -1,4 +1,5 @@
 ---
+Discovered: "October 24, 2021"
 date: "2021-10-24"
 title: "portoseguro.com.br"
 image: "images/blog/Breaches.png"

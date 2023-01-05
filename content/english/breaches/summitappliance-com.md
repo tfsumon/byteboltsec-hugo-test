@@ -1,4 +1,5 @@
 ---
+Discovered: "December 02, 2020"
 date: "2020-12-02"
 title: "summitappliance.com"
 image: "images/blog/Breaches.png"

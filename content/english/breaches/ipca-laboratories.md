@@ -1,4 +1,5 @@
 ---
+Discovered: "September 11, 2022"
 date: "2022-09-11"
 title: "Ipca Laboratories"
 image: "images/blog/Breaches.png"

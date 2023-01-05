@@ -1,4 +1,5 @@
 ---
+Discovered: "January 12, 2021"
 date: "2021-01-12"
 title: "thinkware.com"
 image: "images/blog/Breaches.png"

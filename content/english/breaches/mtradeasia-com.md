@@ -1,4 +1,5 @@
 ---
+Discovered: "November 29, 2021"
 date: "2021-11-29"
 title: "mtradeasia.com"
 image: "images/blog/LockBit.png"

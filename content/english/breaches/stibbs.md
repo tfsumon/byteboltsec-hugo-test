@@ -1,4 +1,5 @@
 ---
+Discovered: "November 30, 2022"
 date: "2022-11-30"
 title: "Stibbs"
 image: "images/blog/ALPHV.png"

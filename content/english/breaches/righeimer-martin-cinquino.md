@@ -1,4 +1,5 @@
 ---
+Discovered: "November 29, 2022"
 date: "2022-11-29"
 title: "Righeimer Martin & Cinquino (RMC)"
 image: "images/blog/Royal.png"

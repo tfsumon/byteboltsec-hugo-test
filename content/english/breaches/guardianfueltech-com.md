@@ -1,4 +1,5 @@
 ---
+Discovered: "May 26, 2022"
 date: "2022-05-26"
 title: "guardianfueltech.com"
 image: "images/blog/HiveLeaks.png"

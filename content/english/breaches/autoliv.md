@@ -1,4 +1,5 @@
 ---
+Discovered: "July 31, 2022"
 date: "2022-07-31"
 title: "Autoliv"
 image: "images/blog/LockBit.png"

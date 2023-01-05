@@ -1,4 +1,5 @@
 ---
+Discovered: "October 07, 2022"
 date: "2022-10-07"
 title: "Lojas Torra"
 image: "images/blog/Breaches.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "August 04, 2022"
 date: "2022-08-04"
 title: "Trib Total Media"
 image: "images/blog/Breaches.png"

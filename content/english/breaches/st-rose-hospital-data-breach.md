@@ -1,4 +1,5 @@
 ---
+Discovered: "December 30, 2022"
 date: "2022-12-30"
 title: "St. Rose Hospital"
 image: "images/blog/BianLian.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "June 12, 2022"
 date: "2022-06-12"
 title: "FCT - Flexible Circuit Technologies"
 image: "images/blog/Breaches.png"

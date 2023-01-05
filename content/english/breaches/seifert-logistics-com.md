@@ -1,4 +1,5 @@
 ---
+Discovered: "September 13, 2020"
 date: "2020-09-13"
 title: "seifert-logistics.com"
 image: "images/blog/Breaches.png"

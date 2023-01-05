@@ -1,4 +1,5 @@
 ---
+Discovered: "November 13, 2021"
 date: "2021-11-13"
 title: "autolaundrysystems.com"
 image: "images/blog/LockBit.png"

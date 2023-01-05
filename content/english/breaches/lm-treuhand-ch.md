@@ -1,4 +1,5 @@
 ---
+Discovered: "March 08, 2022"
 date: "2022-03-08"
 title: "lm-treuhand.ch"
 image: "images/blog/Breaches.png"

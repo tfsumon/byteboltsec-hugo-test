@@ -1,4 +1,5 @@
 ---
+Discovered: "September 15, 2022"
 date: "2022-09-15"
 title: "Nakamura"
 image: "images/blog/LockBit.png"

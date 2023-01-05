@@ -1,4 +1,5 @@
 ---
+Discovered: "June 14, 2022"
 date: "2022-06-14"
 title: "Tecno Pack"
 image: "images/blog/ALPHV.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "November 01, 2021"
 date: "2021-11-01"
 title: "litatom.com"
 image: "images/blog/Breaches.png"

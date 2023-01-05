@@ -1,4 +1,5 @@
 ---
+Discovered: "October 10, 2021"
 date: "2021-10-10"
 title: "estampa.com.pa"
 image: "images/blog/LockBit.png"

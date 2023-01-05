@@ -1,4 +1,5 @@
 ---
+Discovered: "May 27, 2022"
 date: "2022-05-27"
 title: "edm-stone.com"
 image: "images/blog/LockBit.png"

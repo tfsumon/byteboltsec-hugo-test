@@ -1,4 +1,5 @@
 ---
+Discovered: "November 02, 2022"
 date: "2022-11-02"
 title: "Awesome Kids Dental"
 image: "images/blog/Breaches.png"

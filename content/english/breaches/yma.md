@@ -1,4 +1,5 @@
 ---
+Discovered: "July 27, 2022"
 date: "2022-07-27"
 title: "YMA"
 image: "images/blog/LockBit.png"

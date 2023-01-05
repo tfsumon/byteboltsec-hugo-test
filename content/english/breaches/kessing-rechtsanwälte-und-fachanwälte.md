@@ -1,4 +1,5 @@
 ---
+Discovered: "November 14, 2022"
 date: "2022-11-14"
 title: "Kessing Rechtsanwälte und Fachanwälte"
 image: "images/blog/Basta.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "September 19, 2020"
 date: "2020-09-19"
 title: "bosley.com"
 image: "images/blog/Breaches.png"

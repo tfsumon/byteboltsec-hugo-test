@@ -1,4 +1,5 @@
 ---
+Discovered: "December 24, 2021"
 date: "2021-12-24"
 title: "javeriana.edu.co"
 image: "images/blog/ViceSociety.png"

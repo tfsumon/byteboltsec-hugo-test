@@ -1,4 +1,5 @@
 ---
+Discovered: "October 10, 2021"
 date: "2021-10-10"
 title: "csc-sa.com"
 image: "images/blog/ViceSociety.png"

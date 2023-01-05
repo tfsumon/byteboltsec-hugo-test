@@ -1,4 +1,5 @@
 ---
+Discovered: "September 28, 2021"
 date: "2021-09-28"
 title: "globalprotein.cl"
 image: "images/blog/Breaches.png"

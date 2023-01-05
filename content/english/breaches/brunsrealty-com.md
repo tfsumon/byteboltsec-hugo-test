@@ -1,4 +1,5 @@
 ---
+Discovered: "September 02, 2021"
 date: "2021-09-02"
 title: "brunsrealty.com"
 image: "images/blog/LockBit.png"

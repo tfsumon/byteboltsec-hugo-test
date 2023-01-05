@@ -1,4 +1,5 @@
 ---
+Discovered: "November 22, 2022"
 date: "2022-11-22"
 title: "SMB Solutions"
 image: "images/blog/Breaches.png"

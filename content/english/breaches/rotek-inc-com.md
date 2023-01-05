@@ -1,4 +1,5 @@
 ---
+Discovered: "January 22, 2021"
 date: "2021-01-22"
 title: "rotek-inc.com"
 image: "images/blog/Breaches.png"

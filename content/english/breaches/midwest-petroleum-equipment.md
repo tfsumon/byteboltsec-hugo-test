@@ -1,4 +1,5 @@
 ---
+Discovered: "October 03, 2022"
 date: "2022-10-03"
 title: "Midwest Petroleum Equipment"
 image: "images/blog/ALPHV.png"

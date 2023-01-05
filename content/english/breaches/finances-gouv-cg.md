@@ -1,4 +1,5 @@
 ---
+Discovered: "March 17, 2022"
 date: "2022-03-17"
 title: "finances.gouv.cg"
 image: "images/blog/LockBit.png"

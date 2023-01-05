@@ -1,4 +1,5 @@
 ---
+Discovered: "April 03, 2022"
 date: "2022-04-03"
 title: "favoris-ag.ch"
 image: "images/blog/ALPHV.png"

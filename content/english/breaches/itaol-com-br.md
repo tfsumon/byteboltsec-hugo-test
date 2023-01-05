@@ -1,4 +1,5 @@
 ---
+Discovered: "February 23, 2022"
 date: "2022-02-23"
 title: "itaol.com.br"
 image: "images/blog/Breaches.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "November 29, 2022"
 date: "2022-11-29"
 title: "Vision Technologies"
 image: "images/blog/Breaches.png"

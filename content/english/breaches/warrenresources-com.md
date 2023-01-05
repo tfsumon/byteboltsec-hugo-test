@@ -1,4 +1,5 @@
 ---
+Discovered: "March 07, 2022"
 date: "2022-03-07"
 title: "warrenresources.com"
 image: "images/blog/Breaches.png"

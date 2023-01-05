@@ -1,4 +1,5 @@
 ---
+Discovered: "December 12, 2021"
 date: "2021-12-12"
 title: "wolsey.com"
 image: "images/blog/HiveLeaks.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "October 29, 2021"
 date: "2021-10-29"
 title: "raveco.com"
 image: "images/blog/HiveLeaks.png"

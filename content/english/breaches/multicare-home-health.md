@@ -1,4 +1,5 @@
 ---
+Discovered: "October 02, 2022"
 date: "2022-10-02"
 title: "MultiCare Home Health"
 image: "images/blog/Breaches.png"

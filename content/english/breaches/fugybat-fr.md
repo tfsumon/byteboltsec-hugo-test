@@ -1,4 +1,5 @@
 ---
+Discovered: "October 06, 2021"
 date: "2021-10-06"
 title: "fugybat.fr"
 image: "images/blog/LockBit.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "March 11, 2022"
 date: "2022-03-11"
 title: "bridgestoneamericas.com"
 image: "images/blog/LockBit.png"

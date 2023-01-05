@@ -1,4 +1,5 @@
 ---
+Discovered: "September 05, 2022"
 date: "2022-09-05"
 title: "Gorizia"
 image: "images/blog/LockBit.png"

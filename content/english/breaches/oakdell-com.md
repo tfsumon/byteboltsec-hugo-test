@@ -1,4 +1,5 @@
 ---
+Discovered: "February 24, 20202"
 date: "20202-02-24"
 title: "oakdell.com"
 image: "images/blog/CL0P.png"

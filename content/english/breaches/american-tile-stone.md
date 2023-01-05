@@ -1,4 +1,5 @@
 ---
+Discovered: "August 28, 2022"
 date: "2022-08-28"
 title: "American Tile & Stone"
 image: "images/blog/LockBit.png"

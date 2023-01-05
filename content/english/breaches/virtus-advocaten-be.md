@@ -1,4 +1,5 @@
 ---
+Discovered: "May 23, 2022"
 date: "2022-05-23"
 title: "virtus-advocaten.be"
 image: "images/blog/LockBit.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "June 17, 2021"
 date: "2021-06-17"
 title: "nl.edu"
 image: "images/blog/Breaches.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "May 24, 2022"
 date: "2022-05-24"
 title: "imenco.no"
 image: "images/blog/Breaches.png"

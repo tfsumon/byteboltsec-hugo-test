@@ -1,4 +1,5 @@
 ---
+Discovered: "August 25, 2022"
 date: "2022-08-25"
 title: "Restovich Braun"
 image: "images/blog/Breaches.png"

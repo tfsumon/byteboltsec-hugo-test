@@ -1,4 +1,5 @@
 ---
+Discovered: "November 24, 2021"
 date: "2021-11-24"
 title: "stehimpuls.de"
 image: "images/blog/LockBit.png"

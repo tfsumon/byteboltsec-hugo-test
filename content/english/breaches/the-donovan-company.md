@@ -1,4 +1,5 @@
 ---
+Discovered: "December 23, 2022"
 date: "2022-12-23"
 title: "The Donovan Company"
 image: "images/blog/LockBit.png"

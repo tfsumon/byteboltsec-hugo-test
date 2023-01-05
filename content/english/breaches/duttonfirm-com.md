@@ -1,4 +1,5 @@
 ---
+Discovered: "December 22, 2021"
 date: "2021-12-22"
 title: "duttonfirm.com"
 image: "images/blog/CL0P.png"

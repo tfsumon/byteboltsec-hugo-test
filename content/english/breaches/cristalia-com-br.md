@@ -1,4 +1,5 @@
 ---
+Discovered: "October 17, 2021"
 date: "2021-10-17"
 title: "cristalia.com.br"
 image: "images/blog/Breaches.png"

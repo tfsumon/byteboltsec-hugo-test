@@ -1,4 +1,5 @@
 ---
+Discovered: "November 27, 2021"
 date: "2021-11-27"
 title: "apower.com.sg"
 image: "images/blog/LockBit.png"

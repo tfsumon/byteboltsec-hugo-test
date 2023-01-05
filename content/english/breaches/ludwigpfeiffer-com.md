@@ -1,4 +1,5 @@
 ---
+Discovered: "May 26, 2021"
 date: "2021-05-26"
 title: "ludwigpfeiffer.com"
 image: "images/blog/Breaches.png"

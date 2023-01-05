@@ -1,4 +1,5 @@
 ---
+Discovered: "October 10, 2022"
 date: "2022-10-10"
 title: "JT Chapman Company"
 image: "images/blog/LockBit.png"

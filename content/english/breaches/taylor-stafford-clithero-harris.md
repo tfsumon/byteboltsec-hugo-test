@@ -1,4 +1,5 @@
 ---
+Discovered: "July 22, 2022"
 date: "2022-07-22"
 title: "Taylor, Stafford, Clithero & Harris"
 image: "images/blog/Breaches.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "October 06, 2021"
 date: "2021-10-06"
 title: "newhotel.com"
 image: "images/blog/LockBit.png"

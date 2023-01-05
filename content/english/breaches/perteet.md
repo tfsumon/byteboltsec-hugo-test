@@ -1,4 +1,5 @@
 ---
+Discovered: "August 28, 2022"
 date: "2022-08-28"
 title: "Perteet"
 image: "images/blog/LockBit.png"

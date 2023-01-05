@@ -1,4 +1,5 @@
 ---
+Discovered: "November 10, 2022"
 date: "2022-11-10"
 title: "Car One"
 image: "images/blog/LockBit.png"

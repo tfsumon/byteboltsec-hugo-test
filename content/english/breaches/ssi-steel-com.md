@@ -1,4 +1,5 @@
 ---
+Discovered: "April 19, 2022"
 date: "2022-04-19"
 title: "ssi-steel.com"
 image: "images/blog/LockBit.png"

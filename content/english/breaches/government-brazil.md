@@ -1,4 +1,5 @@
 ---
+Discovered: "September 18, 2022"
 date: "2022-09-18"
 title: "Government of Brazil"
 image: "images/blog/Breaches.png"

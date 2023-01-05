@@ -1,4 +1,5 @@
 ---
+Discovered: "October 13, 2022"
 date: "2022-10-13"
 title: "Nelson's Autohaus"
 image: "images/blog/LockBit.png"

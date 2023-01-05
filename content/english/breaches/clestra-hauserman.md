@@ -1,4 +1,5 @@
 ---
+Discovered: "July 20, 2022"
 date: "2022-07-20"
 title: "Clestra Hauserman"
 image: "images/blog/LockBit.png"

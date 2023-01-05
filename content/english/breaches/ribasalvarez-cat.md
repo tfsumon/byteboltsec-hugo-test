@@ -1,4 +1,5 @@
 ---
+Discovered: "June 25, 2020"
 date: "2020-06-25"
 title: "ribasalvarez.cat"
 image: "images/blog/Breaches.png"

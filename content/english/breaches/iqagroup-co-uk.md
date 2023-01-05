@@ -1,4 +1,5 @@
 ---
+Discovered: "October 26, 2020"
 date: "2020-10-26"
 title: "iqagroup.co.uk"
 image: "images/blog/Breaches.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "September 13, 2021"
 date: "2021-09-13"
 title: "hpe-konstanz.de"
 image: "images/blog/LockBit.png"

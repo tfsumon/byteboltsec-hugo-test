@@ -1,4 +1,5 @@
 ---
+Discovered: "April 20, 2022"
 date: "2022-04-20"
 title: "compagniedephalsbourg.com"
 image: "images/blog/LockBit.png"

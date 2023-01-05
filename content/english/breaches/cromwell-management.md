@@ -1,4 +1,5 @@
 ---
+Discovered: "October 25, 2022"
 date: "2022-10-25"
 title: "Cromwell Management"
 image: "images/blog/Breaches.png"

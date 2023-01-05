@@ -1,4 +1,5 @@
 ---
+Discovered: "September 23, 2022"
 date: "2022-09-23"
 title: "SOAS University of London"
 image: "images/blog/ViceSociety.png"

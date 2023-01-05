@@ -1,4 +1,5 @@
 ---
+Discovered: "April 24, 2022"
 date: "2022-04-24"
 title: "beckerlaw.com"
 image: "images/blog/LockBit.png"

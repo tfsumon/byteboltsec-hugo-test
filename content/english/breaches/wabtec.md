@@ -1,4 +1,5 @@
 ---
+Discovered: "August 19, 2022"
 date: "2022-08-19"
 title: "Wabtec"
 image: "images/blog/LockBit.png"

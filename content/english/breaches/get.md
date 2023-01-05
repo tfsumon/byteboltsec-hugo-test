@@ -1,4 +1,5 @@
 ---
+Discovered: "August 01, 2022"
 date: "2022-08-01"
 title: "GET"
 image: "images/blog/LockBit.png"

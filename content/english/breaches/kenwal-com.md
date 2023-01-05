@@ -1,4 +1,5 @@
 ---
+Discovered: "December 03, 2021"
 date: "2021-12-03"
 title: "kenwal.com"
 image: "images/blog/LockBit.png"

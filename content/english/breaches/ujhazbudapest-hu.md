@@ -1,4 +1,5 @@
 ---
+Discovered: "March 07, 2022"
 date: "2022-03-07"
 title: "ujhazbudapest.hu"
 image: "images/blog/ALPHV.png"

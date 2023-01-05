@@ -1,4 +1,5 @@
 ---
+Discovered: "October 28, 2022"
 date: "2022-10-28"
 title: "ipb Baggenstos Montagen"
 image: "images/blog/Breaches.png"

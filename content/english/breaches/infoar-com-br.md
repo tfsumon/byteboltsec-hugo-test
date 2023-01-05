@@ -1,4 +1,5 @@
 ---
+Discovered: "November 30, 2020"
 date: "2020-11-30"
 title: "infoar.com.br"
 image: "images/blog/Breaches.png"

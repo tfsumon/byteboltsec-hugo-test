@@ -1,4 +1,5 @@
 ---
+Discovered: "December 13, 2021"
 date: "2021-12-13"
 title: "group.chantellelingerie.com"
 image: "images/blog/Breaches.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "September 20, 2022"
 date: "2022-09-20"
 title: "Atlas Mining"
 image: "images/blog/Breaches.png"

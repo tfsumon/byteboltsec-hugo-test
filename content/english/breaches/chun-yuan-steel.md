@@ -1,4 +1,5 @@
 ---
+Discovered: "August 18, 2022"
 date: "2022-08-18"
 title: "Chun Yuan Steel"
 image: "images/blog/Breaches.png"

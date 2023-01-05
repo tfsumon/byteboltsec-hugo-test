@@ -1,4 +1,5 @@
 ---
+Discovered: "October 26, 2021"
 date: "2021-10-26"
 title: "Boxer Property"
 image: "images/blog/Breaches.png"

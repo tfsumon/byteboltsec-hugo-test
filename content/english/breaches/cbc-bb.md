@@ -1,4 +1,5 @@
 ---
+Discovered: "January 07, 2022"
 date: "2022-01-07"
 title: "cbc.bb"
 image: "images/blog/Breaches.png"

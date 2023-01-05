@@ -1,4 +1,5 @@
 ---
+Discovered: "November 05, 2021"
 date: "2021-11-05"
 title: "dtb.com"
 image: "images/blog/HiveLeaks.png"

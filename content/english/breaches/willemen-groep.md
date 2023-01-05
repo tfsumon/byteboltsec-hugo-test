@@ -1,4 +1,5 @@
 ---
+Discovered: "October 06, 2022"
 date: "2022-10-06"
 title: "Willemen Groep"
 image: "images/blog/Basta.png"

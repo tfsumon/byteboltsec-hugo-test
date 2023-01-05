@@ -1,4 +1,5 @@
 ---
+Discovered: "September 15, 2020"
 date: "2020-09-15"
 title: "teka.com"
 image: "images/blog/Breaches.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "April 25, 2022"
 date: "2022-04-25"
 title: "KSS Enterprises"
 image: "images/blog/CL0P.png"

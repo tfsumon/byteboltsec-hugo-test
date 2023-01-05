@@ -1,4 +1,5 @@
 ---
+Discovered: "February 20, 2022"
 date: "2022-02-20"
 title: "zhulian.co.th"
 image: "images/blog/LockBit.png"

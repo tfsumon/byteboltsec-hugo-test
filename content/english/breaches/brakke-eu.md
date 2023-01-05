@@ -1,4 +1,5 @@
 ---
+Discovered: "July 04, 2021"
 date: "2021-07-04"
 title: "brakke.eu"
 image: "images/blog/HiveLeaks.png"

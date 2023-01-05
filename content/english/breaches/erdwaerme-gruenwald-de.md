@@ -1,4 +1,5 @@
 ---
+Discovered: "May 25, 2022"
 date: "2022-05-25"
 title: "erdwaerme-gruenwald.de"
 image: "images/blog/LockBit.png"

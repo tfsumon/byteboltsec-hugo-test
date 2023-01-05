@@ -1,4 +1,5 @@
 ---
+Discovered: "July 05, 2021"
 date: "2021-07-05"
 title: "standardmedia.co.ke"
 image: "images/blog/Breaches.png"

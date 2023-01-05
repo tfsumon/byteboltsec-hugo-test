@@ -1,4 +1,5 @@
 ---
+Discovered: "April 10, 2022"
 date: "2022-04-10"
 title: "rosagroup.com"
 image: "images/blog/LockBit.png"

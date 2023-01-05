@@ -1,4 +1,5 @@
 ---
+Discovered: "October 06, 2021"
 date: "2021-10-06"
 title: "kuriertecnologia.com.br"
 image: "images/blog/Breaches.png"

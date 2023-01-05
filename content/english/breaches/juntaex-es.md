@@ -1,4 +1,5 @@
 ---
+Discovered: "December 02, 2021"
 date: "2021-12-02"
 title: "juntaex.es"
 image: "images/blog/Breaches.png"

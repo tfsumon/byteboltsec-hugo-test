@@ -1,4 +1,5 @@
 ---
+Discovered: "August 19, 2022"
 date: "2022-08-19"
 title: "Department of Indre-et-Loire"
 image: "images/blog/ViceSociety.png"

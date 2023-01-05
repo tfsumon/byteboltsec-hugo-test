@@ -1,4 +1,5 @@
 ---
+Discovered: "October 24, 2022"
 date: "2022-10-24"
 title: "Ministerio de Relaciones Exteriores de Guatemala"
 image: "images/blog/Breaches.png"

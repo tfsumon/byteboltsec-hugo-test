@@ -1,4 +1,5 @@
 ---
+Discovered: "February 18, 2022"
 date: "2022-02-18"
 title: "oposis.com"
 image: "images/blog/Breaches.png"

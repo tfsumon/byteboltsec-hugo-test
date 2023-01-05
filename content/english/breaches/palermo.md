@@ -1,4 +1,5 @@
 ---
+Discovered: "June 09, 2022"
 date: "2022-06-09"
 title: "Palermo"
 image: "images/blog/ViceSociety.png"

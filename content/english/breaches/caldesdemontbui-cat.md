@@ -1,4 +1,5 @@
 ---
+Discovered: "May 12, 2022"
 date: "2022-05-12"
 title: "caldesdemontbui.cat"
 image: "images/blog/ViceSociety.png"

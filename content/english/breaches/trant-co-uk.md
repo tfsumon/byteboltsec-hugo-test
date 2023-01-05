@@ -1,4 +1,5 @@
 ---
+Discovered: "March 25, 2022"
 date: "2022-03-25"
 title: "trant.co.uk"
 image: "images/blog/Cuba.png"

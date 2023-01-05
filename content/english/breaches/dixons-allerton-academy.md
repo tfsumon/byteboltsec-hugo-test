@@ -1,4 +1,5 @@
 ---
+Discovered: "December 21, 2022"
 date: "2022-12-21"
 title: "Dixons Allerton Academy"
 image: "images/blog/HiveLeaks.png"

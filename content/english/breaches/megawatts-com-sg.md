@@ -1,4 +1,5 @@
 ---
+Discovered: "August 22, 2021"
 date: "2021-08-22"
 title: "megawatts.com.sg"
 image: "images/blog/LockBit.png"

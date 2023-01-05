@@ -1,4 +1,5 @@
 ---
+Discovered: "October 03, 2022"
 date: "2022-10-03"
 title: "Pendulum Associates"
 image: "images/blog/ALPHV.png"

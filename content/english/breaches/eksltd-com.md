@@ -1,4 +1,5 @@
 ---
+Discovered: "April 03, 2022"
 date: "2022-04-03"
 title: "eksltd.com"
 image: "images/blog/LockBit.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "August 20, 2021"
 date: "2021-08-20"
 title: "en.mkb.bg"
 image: "images/blog/LockBit.png"

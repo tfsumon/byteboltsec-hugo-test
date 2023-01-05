@@ -1,4 +1,5 @@
 ---
+Discovered: "April 27, 2022"
 date: "2022-04-27"
 title: "dlgva.com"
 image: "images/blog/ALPHV.png"

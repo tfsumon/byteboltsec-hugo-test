@@ -1,4 +1,5 @@
 ---
+Discovered: "August 19, 2021"
 date: "2021-08-19"
 title: "cointracker.io"
 image: "images/blog/Breaches.png"

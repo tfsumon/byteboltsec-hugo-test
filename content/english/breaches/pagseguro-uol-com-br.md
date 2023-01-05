@@ -1,4 +1,5 @@
 ---
+Discovered: "September 06, 2021"
 date: "2021-09-06"
 title: "pagseguro.uol.com.br"
 image: "images/blog/Breaches.png"

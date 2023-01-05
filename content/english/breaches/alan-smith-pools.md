@@ -1,4 +1,5 @@
 ---
+Discovered: "September 02, 2022"
 date: "2022-09-02"
 title: "Alan Smith Pools"
 image: "images/blog/Breaches.png"

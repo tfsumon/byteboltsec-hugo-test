@@ -1,4 +1,5 @@
 ---
+Discovered: "November 09, 2021"
 date: "2021-11-09"
 title: "labodegameat.com"
 image: "images/blog/Breaches.png"

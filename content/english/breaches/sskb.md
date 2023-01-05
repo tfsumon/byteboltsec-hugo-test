@@ -1,4 +1,5 @@
 ---
+Discovered: "October 26, 2022"
 date: "2022-10-26"
 title: "SSKB"
 image: "images/blog/LockBit.png"

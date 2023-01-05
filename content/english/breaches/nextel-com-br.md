@@ -1,4 +1,5 @@
 ---
+Discovered: "June 23, 2021"
 date: "2021-06-23"
 title: "nextel.com.br"
 image: "images/blog/Breaches.png"

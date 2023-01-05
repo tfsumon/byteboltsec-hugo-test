@@ -1,4 +1,5 @@
 ---
+Discovered: "July 11, 2022"
 date: "2022-07-11"
 title: "Bandai Namco Entertainment"
 image: "images/blog/ALPHV.png"

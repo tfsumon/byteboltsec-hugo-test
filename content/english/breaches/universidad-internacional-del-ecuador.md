@@ -1,4 +1,5 @@
 ---
+Discovered: "September 22, 2022"
 date: "2022-09-22"
 title: "Universidad Internacional del Ecuador"
 image: "images/blog/LockBit.png"

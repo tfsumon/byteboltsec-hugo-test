@@ -1,4 +1,5 @@
 ---
+Discovered: "January 01, 2022"
 date: "2022-01-01"
 title: "nanofocus.com"
 image: "images/blog/ALPHV.png"

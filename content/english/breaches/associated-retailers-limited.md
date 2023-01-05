@@ -1,4 +1,5 @@
 ---
+Discovered: "October 03, 2022"
 date: "2022-10-03"
 title: "Associated Retailers Limited"
 image: "images/blog/ALPHV.png"

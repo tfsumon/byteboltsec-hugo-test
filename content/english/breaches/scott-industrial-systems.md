@@ -1,4 +1,5 @@
 ---
+Discovered: "November 15, 2022"
 date: "2022-11-15"
 title: "Scott Industrial Systems"
 image: "images/blog/LockBit.png"

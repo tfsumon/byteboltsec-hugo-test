@@ -1,4 +1,5 @@
 ---
+Discovered: "October 09, 2021"
 date: "2021-10-09"
 title: "xgenplus.com"
 image: "images/blog/Breaches.png"

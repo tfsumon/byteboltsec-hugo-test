@@ -1,4 +1,5 @@
 ---
+Discovered: "December 01, 2022"
 date: "2022-12-01"
 title: "Jubilant"
 image: "images/blog/ALPHV.png"

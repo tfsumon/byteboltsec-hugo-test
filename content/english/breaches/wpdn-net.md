@@ -1,4 +1,5 @@
 ---
+Discovered: "November 16, 2021"
 date: "2021-11-16"
 title: "wpdn.net"
 image: "images/blog/LockBit.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "May 28, 2021"
 date: "2021-05-28"
 title: "grupopuntacana.com.do"
 image: "images/blog/Breaches.png"

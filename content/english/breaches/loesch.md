@@ -1,4 +1,5 @@
 ---
+Discovered: "September 13, 2022"
 date: "2022-09-13"
 title: "Loesch"
 image: "images/blog/CL0P.png"

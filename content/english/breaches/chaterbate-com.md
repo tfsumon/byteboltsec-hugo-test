@@ -1,4 +1,5 @@
 ---
+Discovered: "August 03, 2021"
 date: "2021-08-03"
 title: "chaterbate.com"
 image: "images/blog/Breaches.png"

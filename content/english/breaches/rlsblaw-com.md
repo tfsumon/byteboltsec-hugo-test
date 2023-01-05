@@ -1,4 +1,5 @@
 ---
+Discovered: "September 18, 2021"
 date: "2021-09-18"
 title: "rlsblaw.com"
 image: "images/blog/LockBit.png"

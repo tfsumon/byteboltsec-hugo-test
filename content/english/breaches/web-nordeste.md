@@ -1,4 +1,5 @@
 ---
+Discovered: "September 23, 2022"
 date: "2022-09-23"
 title: "Web Nordeste"
 image: "images/blog/LockBit.png"

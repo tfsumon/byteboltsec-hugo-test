@@ -1,4 +1,5 @@
 ---
+Discovered: "April 25, 2022"
 date: "2022-04-25"
 title: "schriesheim.de"
 image: "images/blog/LockBit.png"

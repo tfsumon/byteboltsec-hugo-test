@@ -1,4 +1,5 @@
 ---
+Discovered: "April 21, 2022"
 date: "2022-04-21"
 title: "magnar-eikeland.no"
 image: "images/blog/LockBit.png"

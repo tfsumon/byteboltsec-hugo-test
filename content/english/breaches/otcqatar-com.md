@@ -1,4 +1,5 @@
 ---
+Discovered: "August 21, 2021"
 date: "2021-08-21"
 title: "otcqatar.com"
 image: "images/blog/LockBit.png"

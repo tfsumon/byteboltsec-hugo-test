@@ -1,4 +1,5 @@
 ---
+Discovered: "August 25, 2021"
 date: "2021-08-25"
 title: "digitalcoinprice.com"
 image: "images/blog/Breaches.png"

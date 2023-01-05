@@ -1,4 +1,5 @@
 ---
+Discovered: "April 08, 2022"
 date: "2022-04-08"
 title: "feuerschutzbockel.de"
 image: "images/blog/LockBit.png"

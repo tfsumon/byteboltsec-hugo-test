@@ -1,4 +1,5 @@
 ---
+Discovered: "May 20, 2021"
 date: "2021-05-20"
 title: "creativeliquidcoatings.com"
 image: "images/blog/HiveLeaks.png"

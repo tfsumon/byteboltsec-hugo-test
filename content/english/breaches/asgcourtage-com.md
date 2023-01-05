@@ -1,4 +1,5 @@
 ---
+Discovered: "February 26, 2022"
 date: "2022-02-26"
 title: "asgcourtage.com"
 image: "images/blog/LockBit.png"

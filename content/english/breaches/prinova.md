@@ -1,4 +1,5 @@
 ---
+Discovered: "December 06, 2022"
 date: "2022-12-06"
 title: "Prinova"
 image: "images/blog/LockBit.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "January 19, 2021"
 date: "2021-01-19"
 title: "legacyfarms-llc.com"
 image: "images/blog/Breaches.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "July 31, 2021"
 date: "2021-07-31"
 title: "sutterfieldfinancial.com"
 image: "images/blog/HiveLeaks.png"

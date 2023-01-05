@@ -1,4 +1,5 @@
 ---
+Discovered: "October 02, 2022"
 date: "2022-10-02"
 title: "Aesthetic Dermatology Associates"
 image: "images/blog/BianLian.png"

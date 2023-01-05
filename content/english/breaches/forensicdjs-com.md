@@ -1,4 +1,5 @@
 ---
+Discovered: "April 25, 2022"
 date: "2022-04-25"
 title: "forensicdjs.com"
 image: "images/blog/Breaches.png"

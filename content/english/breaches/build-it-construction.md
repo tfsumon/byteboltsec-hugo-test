@@ -1,4 +1,5 @@
 ---
+Discovered: "June 21, 2022"
 date: "2022-06-21"
 title: "Build-It Construction"
 image: "images/blog/LockBit.png"

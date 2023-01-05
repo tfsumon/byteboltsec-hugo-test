@@ -1,4 +1,5 @@
 ---
+Discovered: "November 21, 2022"
 date: "2022-11-21"
 title: "Nok Air"
 image: "images/blog/ALPHV.png"

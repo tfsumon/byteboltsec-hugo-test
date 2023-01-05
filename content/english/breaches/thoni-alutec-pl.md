@@ -1,4 +1,5 @@
 ---
+Discovered: "December 27, 2021"
 date: "2021-12-27"
 title: "thoni-alutec.pl"
 image: "images/blog/Breaches.png"

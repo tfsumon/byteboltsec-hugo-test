@@ -1,4 +1,5 @@
 ---
+Discovered: "April 23, 2020"
 date: "2020-04-23"
 title: "arteris.com.br"
 image: "images/blog/Breaches.png"

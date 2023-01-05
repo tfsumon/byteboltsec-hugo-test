@@ -1,4 +1,5 @@
 ---
+Discovered: "July 13, 2021"
 date: "2021-07-13"
 title: "hellerinjurylawyers.com"
 image: "images/blog/Breaches.png"

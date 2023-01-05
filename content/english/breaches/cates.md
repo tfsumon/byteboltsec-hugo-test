@@ -1,4 +1,5 @@
 ---
+Discovered: "November 29, 2022"
 date: "2022-11-29"
 title: "Cates"
 image: "images/blog/Royal.png"

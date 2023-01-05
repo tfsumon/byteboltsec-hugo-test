@@ -1,4 +1,5 @@
 ---
+Discovered: "May 20, 2022"
 date: "2022-05-20"
 title: "magtek.com"
 image: "images/blog/Lorenz.png"

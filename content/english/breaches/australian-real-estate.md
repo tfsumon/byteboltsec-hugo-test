@@ -1,4 +1,5 @@
 ---
+Discovered: "December 19, 2022"
 date: "2022-12-19"
 title: "Australian Real Estate"
 image: "images/blog/BianLian.png"

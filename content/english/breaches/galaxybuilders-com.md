@@ -1,4 +1,5 @@
 ---
+Discovered: "October 31, 2021"
 date: "2021-10-31"
 title: "galaxybuilders.com"
 image: "images/blog/LockBit.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "October 26, 2021"
 date: "2021-10-26"
 title: "bataviacontainer.com"
 image: "images/blog/LockBit.png"

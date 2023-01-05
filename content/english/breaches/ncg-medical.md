@@ -1,4 +1,5 @@
 ---
+Discovered: "September 01, 2022"
 date: "2022-09-01"
 title: "NCG Medical"
 image: "images/blog/HiveLeaks.png"

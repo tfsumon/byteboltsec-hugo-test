@@ -1,4 +1,5 @@
 ---
+Discovered: "December 15, 2022"
 date: "2022-12-15"
 title: "Mark-Taylor"
 image: "images/blog/HiveLeaks.png"

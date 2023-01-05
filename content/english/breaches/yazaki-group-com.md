@@ -1,4 +1,5 @@
 ---
+Discovered: "August 18, 2021"
 date: "2021-08-18"
 title: "yazaki-group.com"
 image: "images/blog/LockBit.png"

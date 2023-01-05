@@ -1,4 +1,5 @@
 ---
+Discovered: "September 22, 2021"
 date: "2021-09-22"
 title: "nexti.com"
 image: "images/blog/Breaches.png"

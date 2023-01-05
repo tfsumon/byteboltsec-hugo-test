@@ -1,4 +1,5 @@
 ---
+Discovered: "September 18, 2020"
 date: "2020-09-18"
 title: "sb-zentralmarkt.de"
 image: "images/blog/Breaches.png"

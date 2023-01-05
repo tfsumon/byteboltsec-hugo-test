@@ -1,4 +1,5 @@
 ---
+Discovered: "October 08, 2021"
 date: "2021-10-08"
 title: "mtmrecognition.com"
 image: "images/blog/CL0P.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "May 23, 2022"
 date: "2022-05-23"
 title: "sysol.net"
 image: "images/blog/ALPHV.png"

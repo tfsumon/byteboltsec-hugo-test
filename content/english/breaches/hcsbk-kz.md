@@ -1,4 +1,5 @@
 ---
+Discovered: "December 06, 2021"
 date: "2021-12-06"
 title: "hcsbk.kz"
 image: "images/blog/Breaches.png"

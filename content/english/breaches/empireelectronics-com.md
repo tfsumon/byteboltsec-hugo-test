@@ -1,4 +1,5 @@
 ---
+Discovered: "March 16, 2022"
 date: "2022-03-16"
 title: "empireelectronics.com"
 image: "images/blog/Breaches.png"

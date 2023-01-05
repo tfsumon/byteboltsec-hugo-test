@@ -1,4 +1,5 @@
 ---
+Discovered: "April 16, 2021"
 date: "2021-04-16"
 title: "associated-solutions.com"
 image: "images/blog/Breaches.png"

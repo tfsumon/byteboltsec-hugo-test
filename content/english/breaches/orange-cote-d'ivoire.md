@@ -1,4 +1,5 @@
 ---
+Discovered: "November 09, 2022"
 date: "2022-11-09"
 title: "Orange Cote D'ivoire"
 image: "images/blog/Royal.png"

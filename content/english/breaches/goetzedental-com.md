@@ -1,4 +1,5 @@
 ---
+Discovered: "July 08, 2021"
 date: "2021-07-08"
 title: "goetzedental.com"
 image: "images/blog/Breaches.png"

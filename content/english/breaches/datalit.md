@@ -1,4 +1,5 @@
 ---
+Discovered: "June 29, 2022"
 date: "2022-06-29"
 title: "Datalit"
 image: "images/blog/LockBit.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "September 10, 2021"
 date: "2021-09-10"
 title: "cromology.com"
 image: "images/blog/Breaches.png"

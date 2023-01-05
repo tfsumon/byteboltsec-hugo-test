@@ -1,4 +1,5 @@
 ---
+Discovered: "January 14, 2022"
 date: "2022-01-14"
 title: "chervongroup.com"
 image: "images/blog/LockBit.png"

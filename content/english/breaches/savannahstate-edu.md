@@ -1,4 +1,5 @@
 ---
+Discovered: "January 09, 2022"
 date: "2022-01-09"
 title: "savannahstate.edu"
 image: "images/blog/ViceSociety.png"

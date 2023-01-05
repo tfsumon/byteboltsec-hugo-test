@@ -1,4 +1,5 @@
 ---
+Discovered: "July 23, 2021"
 date: "2021-07-23"
 title: "gamergen.com"
 image: "images/blog/Breaches.png"

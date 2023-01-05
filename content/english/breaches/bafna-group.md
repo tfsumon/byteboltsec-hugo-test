@@ -1,4 +1,5 @@
 ---
+Discovered: "August 01, 2022"
 date: "2022-08-01"
 title: "Bafna Group"
 image: "images/blog/Breaches.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "October 09, 2022"
 date: "2022-10-09"
 title: "Home Dynamix"
 image: "images/blog/ALPHV.png"

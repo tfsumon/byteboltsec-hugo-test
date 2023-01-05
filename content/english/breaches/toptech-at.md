@@ -1,4 +1,5 @@
 ---
+Discovered: "April 13, 2021"
 date: "2021-04-13"
 title: "toptech.at"
 image: "images/blog/Lorenz.png"

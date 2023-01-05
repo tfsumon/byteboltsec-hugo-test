@@ -1,4 +1,5 @@
 ---
+Discovered: "September 24, 2021"
 date: "2021-09-24"
 title: "ohagin.com"
 image: "images/blog/Cuba.png"

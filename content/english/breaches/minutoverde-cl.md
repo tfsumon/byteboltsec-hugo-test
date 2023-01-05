@@ -1,4 +1,5 @@
 ---
+Discovered: "June 06, 2022"
 date: "2022-06-06"
 title: "Alimentos y Frutos S.A."
 image: "images/blog/Breaches.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "October 31, 2022"
 date: "2022-10-31"
 title: "BYP Global"
 image: "images/blog/LockBit.png"

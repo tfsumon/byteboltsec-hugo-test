@@ -1,4 +1,5 @@
 ---
+Discovered: "December 15, 2021"
 date: "2021-12-15"
 title: "de.deinzer-weyland.de"
 image: "images/blog/Breaches.png"

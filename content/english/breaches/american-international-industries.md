@@ -1,4 +1,5 @@
 ---
+Discovered: "July 13, 2022"
 date: "2022-07-13"
 title: "AII"
 image: "images/blog/Quantum.png"

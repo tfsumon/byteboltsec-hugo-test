@@ -1,4 +1,5 @@
 ---
+Discovered: "December 03, 2021"
 date: "2021-12-03"
 title: "groupe-ldlc.com"
 image: "images/blog/Breaches.png"

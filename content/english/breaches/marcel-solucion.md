@@ -1,4 +1,5 @@
 ---
+Discovered: "September 30, 2022"
 date: "2022-09-30"
 title: "Marcel Solucion"
 image: "images/blog/CL0P.png"

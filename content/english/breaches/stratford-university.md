@@ -1,4 +1,5 @@
 ---
+Discovered: "August 18, 2022"
 date: "2022-08-18"
 title: "Stratford University"
 image: "images/blog/Breaches.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "December 05, 2021"
 date: "2021-12-05"
 title: "seldin.com"
 image: "images/blog/Breaches.png"

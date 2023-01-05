@@ -1,4 +1,5 @@
 ---
+Discovered: "March 16, 2022"
 date: "2022-03-16"
 title: "freedomfarmspa.com"
 image: "images/blog/LockBit.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "December 15, 2022"
 date: "2022-12-15"
 title: "2NetworkIT"
 image: "images/blog/Cuba.png"

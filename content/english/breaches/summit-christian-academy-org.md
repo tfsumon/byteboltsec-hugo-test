@@ -1,4 +1,5 @@
 ---
+Discovered: "December 08, 2021"
 date: "2021-12-08"
 title: "summit-christian-academy.org"
 image: "images/blog/LockBit.png"

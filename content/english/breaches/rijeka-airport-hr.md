@@ -1,4 +1,5 @@
 ---
+Discovered: "November 14, 2021"
 date: "2021-11-14"
 title: "rijeka-airport.hr"
 image: "images/blog/LockBit.png"

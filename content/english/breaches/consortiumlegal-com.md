@@ -1,4 +1,5 @@
 ---
+Discovered: "November 30, 2021"
 date: "2021-11-30"
 title: "consortiumlegal.com"
 image: "images/blog/LockBit.png"

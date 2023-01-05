@@ -1,4 +1,5 @@
 ---
+Discovered: "April 13, 2022"
 date: "2022-04-13"
 title: "deezee.com"
 image: "images/blog/Lorenz.png"

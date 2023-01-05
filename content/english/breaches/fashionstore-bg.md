@@ -1,4 +1,5 @@
 ---
+Discovered: "January 31, 2022"
 date: "2022-01-31"
 title: "fashionstore.bg"
 image: "images/blog/Breaches.png"

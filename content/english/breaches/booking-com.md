@@ -1,4 +1,5 @@
 ---
+Discovered: "August 27, 2021"
 date: "2021-08-27"
 title: "booking.com"
 image: "images/blog/Breaches.png"

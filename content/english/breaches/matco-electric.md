@@ -1,4 +1,5 @@
 ---
+Discovered: "June 23, 2022"
 date: "2022-06-23"
 title: "Matco Electric"
 image: "images/blog/ALPHV.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "August 05, 2022"
 date: "2022-08-05"
 title: "ENN"
 image: "images/blog/HiveLeaks.png"

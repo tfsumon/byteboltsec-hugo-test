@@ -1,4 +1,5 @@
 ---
+Discovered: "January 13, 2022"
 date: "2022-01-13"
 title: "hapolo.com.br"
 image: "images/blog/Breaches.png"

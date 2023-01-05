@@ -1,4 +1,5 @@
 ---
+Discovered: "June 15, 2020"
 date: "2020-06-15"
 title: "cdpo.fr"
 image: "images/blog/Breaches.png"

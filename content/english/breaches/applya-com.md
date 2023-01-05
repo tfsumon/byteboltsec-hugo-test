@@ -1,4 +1,5 @@
 ---
+Discovered: "April 14, 2022"
 date: "2022-04-14"
 title: "applya.com"
 image: "images/blog/LockBit.png"

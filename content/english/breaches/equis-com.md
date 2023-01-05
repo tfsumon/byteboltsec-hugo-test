@@ -1,4 +1,5 @@
 ---
+Discovered: "June 07, 2022"
 date: "2022-06-07"
 title: "Equis"
 image: "images/blog/LockBit.png"

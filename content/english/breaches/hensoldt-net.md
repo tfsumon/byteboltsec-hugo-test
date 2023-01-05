@@ -1,4 +1,5 @@
 ---
+Discovered: "January 12, 2022"
 date: "2022-01-12"
 title: "hensoldt.net"
 image: "images/blog/Lorenz.png"

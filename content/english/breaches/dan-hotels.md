@@ -1,4 +1,5 @@
 ---
+Discovered: "June 28, 2022"
 date: "2022-06-28"
 title: "Dan Hotels"
 image: "images/blog/Breaches.png"

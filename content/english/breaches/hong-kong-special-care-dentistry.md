@@ -1,4 +1,5 @@
 ---
+Discovered: "July 29, 2022"
 date: "2022-07-29"
 title: "Hong Kong Special Care Dentistry"
 image: "images/blog/Breaches.png"

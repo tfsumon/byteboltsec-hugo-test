@@ -1,4 +1,5 @@
 ---
+Discovered: "January 25, 2022"
 date: "2022-01-25"
 title: "edgo.com"
 image: "images/blog/Cuba.png"

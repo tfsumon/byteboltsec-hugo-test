@@ -1,4 +1,5 @@
 ---
+Discovered: "February 16, 2022"
 date: "2022-02-16"
 title: "wazirx.com"
 image: "images/blog/Breaches.png"

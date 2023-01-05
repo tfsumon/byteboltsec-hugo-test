@@ -1,4 +1,5 @@
 ---
+Discovered: "December 09, 2020"
 date: "2020-12-09"
 title: "htmedica.com"
 image: "images/blog/Breaches.png"

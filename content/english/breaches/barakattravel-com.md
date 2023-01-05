@@ -1,4 +1,5 @@
 ---
+Discovered: "April 26, 2022"
 date: "2022-04-26"
 title: "barakattravel.com"
 image: "images/blog/ALPHV.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "March 02, 2022"
 date: "2022-03-02"
 title: "fujiamerica.com"
 image: "images/blog/Lorenz.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "July 12, 2022"
 date: "2022-07-12"
 title: "High Power Technical Services"
 image: "images/blog/BianLian.png"

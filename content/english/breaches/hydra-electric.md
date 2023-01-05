@@ -1,4 +1,5 @@
 ---
+Discovered: "July 11, 2022"
 date: "2022-07-11"
 title: "Hydra-Electric"
 image: "images/blog/ALPHV.png"

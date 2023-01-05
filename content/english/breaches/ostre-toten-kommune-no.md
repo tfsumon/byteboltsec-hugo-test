@@ -1,4 +1,5 @@
 ---
+Discovered: "December 19, 2020"
 date: "2020-12-19"
 title: "ostre-toten.kommune.no"
 image: "images/blog/Breaches.png"

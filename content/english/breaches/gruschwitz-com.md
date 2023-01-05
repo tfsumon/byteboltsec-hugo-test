@@ -1,4 +1,5 @@
 ---
+Discovered: "September 27, 2020"
 date: "2020-09-27"
 title: "gruschwitz.com"
 image: "images/blog/Breaches.png"

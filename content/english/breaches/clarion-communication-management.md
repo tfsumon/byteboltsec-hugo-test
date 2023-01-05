@@ -1,4 +1,5 @@
 ---
+Discovered: "October 07, 2022"
 date: "2022-10-07"
 title: "Clarion Communication Management"
 image: "images/blog/ALPHV.png"

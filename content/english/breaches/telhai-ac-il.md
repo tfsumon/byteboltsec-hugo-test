@@ -1,4 +1,5 @@
 ---
+Discovered: "November 02, 2020"
 date: "2020-11-02"
 title: "telhai.ac.il"
 image: "images/blog/Breaches.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "November 02, 2022"
 date: "2022-11-02"
 title: "Grupo SIFU"
 image: "images/blog/Breaches.png"

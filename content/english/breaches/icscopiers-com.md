@@ -1,4 +1,5 @@
 ---
+Discovered: "August 13, 2021"
 date: "2021-08-13"
 title: "icscopiers.com"
 image: "images/blog/Breaches.png"

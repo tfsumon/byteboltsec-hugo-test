@@ -1,4 +1,5 @@
 ---
+Discovered: "October 20, 2021"
 date: "2021-10-20"
 title: "hitrac-engineering.com"
 image: "images/blog/LockBit.png"

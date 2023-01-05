@@ -1,4 +1,5 @@
 ---
+Discovered: "May 30, 2022"
 date: "2022-05-30"
 title: "koenigstahl.pl"
 image: "images/blog/LockBit.png"

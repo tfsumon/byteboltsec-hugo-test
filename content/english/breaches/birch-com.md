@@ -1,4 +1,5 @@
 ---
+Discovered: "June 19, 2020"
 date: "2020-06-19"
 title: "birch.com"
 image: "images/blog/Breaches.png"

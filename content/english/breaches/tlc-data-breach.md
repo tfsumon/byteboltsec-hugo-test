@@ -1,4 +1,5 @@
 ---
+Discovered: "January 04, 2023"
 date: "2023-01-04"
 title: "TLC"
 image: "images/blog/Karakurt.png"

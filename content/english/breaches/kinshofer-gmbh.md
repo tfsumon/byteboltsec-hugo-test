@@ -1,4 +1,5 @@
 ---
+Discovered: "October 18, 2022"
 date: "2022-10-18"
 title: "KINSHOFER GmbH"
 image: "images/blog/Breaches.png"

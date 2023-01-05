@@ -1,4 +1,5 @@
 ---
+Discovered: "May 03, 2022"
 date: "2022-05-03"
 title: "cwaengineers.com"
 image: "images/blog/LockBit.png"

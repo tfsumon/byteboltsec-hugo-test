@@ -1,4 +1,5 @@
 ---
+Discovered: "August 28, 2021"
 date: "2021-08-28"
 title: "minneapolismn.gov"
 image: "images/blog/Breaches.png"

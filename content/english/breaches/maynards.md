@@ -1,4 +1,5 @@
 ---
+Discovered: "November 07, 2022"
 date: "2022-11-07"
 title: "Maynards"
 image: "images/blog/Royal.png"

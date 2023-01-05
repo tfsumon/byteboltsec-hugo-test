@@ -1,4 +1,5 @@
 ---
+Discovered: "August 26, 2020"
 date: "2020-08-26"
 title: "tughilloperating.com"
 image: "images/blog/Breaches.png"

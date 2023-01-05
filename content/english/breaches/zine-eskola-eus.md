@@ -1,4 +1,5 @@
 ---
+Discovered: "May 13, 2022"
 date: "2022-05-13"
 title: "zine-eskola.eus"
 image: "images/blog/LockBit.png"

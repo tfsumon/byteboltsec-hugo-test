@@ -1,4 +1,5 @@
 ---
+Discovered: "April 15, 2022"
 date: "2022-04-15"
 title: "cyberapex.com"
 image: "images/blog/LockBit.png"

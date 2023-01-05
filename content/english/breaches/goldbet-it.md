@@ -1,4 +1,5 @@
 ---
+Discovered: "April 06, 2022"
 date: "2022-04-06"
 title: "goldbet.it"
 image: "images/blog/ALPHV.png"

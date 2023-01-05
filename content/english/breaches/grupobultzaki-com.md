@@ -1,4 +1,5 @@
 ---
+Discovered: "August 05, 2021"
 date: "2021-08-05"
 title: "grupobultzaki.com"
 image: "images/blog/Breaches.png"

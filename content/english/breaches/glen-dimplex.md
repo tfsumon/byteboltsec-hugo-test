@@ -1,4 +1,5 @@
 ---
+Discovered: "November 28, 2022"
 date: "2022-11-28"
 title: "Glen Dimplex"
 image: "images/blog/Breaches.png"

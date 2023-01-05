@@ -1,4 +1,5 @@
 ---
+Discovered: "June 19, 2022"
 date: "2022-06-19"
 title: "SOCOTEC"
 image: "images/blog/Breaches.png"

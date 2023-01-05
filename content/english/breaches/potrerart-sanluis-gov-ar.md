@@ -1,4 +1,5 @@
 ---
+Discovered: "December 19, 2021"
 date: "2021-12-19"
 title: "potrerart.sanluis.gov.ar"
 image: "images/blog/Breaches.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "November 18, 2021"
 date: "2021-11-18"
 title: "clinicadentalmollerussa.com"
 image: "images/blog/HiveLeaks.png"

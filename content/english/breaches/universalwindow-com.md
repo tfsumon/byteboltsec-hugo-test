@@ -1,4 +1,5 @@
 ---
+Discovered: "February 12, 2022"
 date: "2022-02-12"
 title: "universalwindow.com"
 image: "images/blog/LockBit.png"

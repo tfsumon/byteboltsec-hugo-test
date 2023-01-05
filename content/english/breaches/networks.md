@@ -1,4 +1,5 @@
 ---
+Discovered: "November 11, 2022"
 date: "2022-11-11"
 title: "Networks"
 image: "images/blog/LockBit.png"

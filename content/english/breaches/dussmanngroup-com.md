@@ -1,4 +1,5 @@
 ---
+Discovered: "July 27, 2020"
 date: "2020-07-27"
 title: "dussmanngroup.com"
 image: "images/blog/Breaches.png"

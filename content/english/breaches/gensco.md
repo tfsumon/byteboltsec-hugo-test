@@ -1,4 +1,5 @@
 ---
+Discovered: "July 20, 2022"
 date: "2022-07-20"
 title: "Gensco"
 image: "images/blog/Breaches.png"

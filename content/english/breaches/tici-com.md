@@ -1,4 +1,5 @@
 ---
+Discovered: "April 13, 2022"
 date: "2022-04-13"
 title: "tici.com"
 image: "images/blog/Breaches.png"

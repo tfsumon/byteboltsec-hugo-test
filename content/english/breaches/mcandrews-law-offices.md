@@ -1,4 +1,5 @@
 ---
+Discovered: "November 21, 2022"
 date: "2022-11-21"
 title: "McAndrews Law Offices"
 image: "images/blog/Royal.png"

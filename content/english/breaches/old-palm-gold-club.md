@@ -1,4 +1,5 @@
 ---
+Discovered: "July 04, 2022"
 date: "2022-07-04"
 title: "Old Palm Gold Club"
 image: "images/blog/Breaches.png"

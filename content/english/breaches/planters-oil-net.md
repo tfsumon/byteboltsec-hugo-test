@@ -1,4 +1,5 @@
 ---
+Discovered: "November 30, 2021"
 date: "2021-11-30"
 title: "planters-oil.net"
 image: "images/blog/LockBit.png"

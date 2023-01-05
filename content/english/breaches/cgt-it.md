@@ -1,4 +1,5 @@
 ---
+Discovered: "February 03, 2022"
 date: "2022-02-03"
 title: "cgt.it"
 image: "images/blog/ALPHV.png"

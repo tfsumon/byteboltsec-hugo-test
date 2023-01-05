@@ -1,4 +1,5 @@
 ---
+Discovered: "February 17, 2022"
 date: "2022-02-17"
 title: "lineneffects.com"
 image: "images/blog/Breaches.png"

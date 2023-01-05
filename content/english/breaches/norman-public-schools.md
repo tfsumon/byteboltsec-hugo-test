@@ -1,4 +1,5 @@
 ---
+Discovered: "November 24, 2022"
 date: "2022-11-24"
 title: "Norman Public Schools"
 image: "images/blog/HiveLeaks.png"

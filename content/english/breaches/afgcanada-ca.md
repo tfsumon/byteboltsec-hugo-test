@@ -1,4 +1,5 @@
 ---
+Discovered: "October 19, 2021"
 date: "2021-10-19"
 title: "afgcanada.ca"
 image: "images/blog/Breaches.png"

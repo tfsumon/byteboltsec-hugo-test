@@ -1,4 +1,5 @@
 ---
+Discovered: "March 29, 2022"
 date: "2022-03-29"
 title: "jtbbank.com"
 image: "images/blog/ViceSociety.png"

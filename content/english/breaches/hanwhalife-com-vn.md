@@ -1,4 +1,5 @@
 ---
+Discovered: "September 02, 2021"
 date: "2021-09-02"
 title: "hanwhalife.com.vn"
 image: "images/blog/Breaches.png"

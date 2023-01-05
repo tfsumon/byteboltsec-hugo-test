@@ -1,4 +1,5 @@
 ---
+Discovered: "November 02, 2021"
 date: "2021-11-02"
 title: "midwestpkg.com"
 image: "images/blog/Breaches.png"

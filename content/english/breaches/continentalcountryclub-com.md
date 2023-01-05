@@ -1,4 +1,5 @@
 ---
+Discovered: "October 25, 2021"
 date: "2021-10-25"
 title: "continentalcountryclub.com"
 image: "images/blog/LockBit.png"

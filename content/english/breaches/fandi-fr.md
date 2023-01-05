@@ -1,4 +1,5 @@
 ---
+Discovered: "November 16, 2021"
 date: "2021-11-16"
 title: "fandi.fr"
 image: "images/blog/LockBit.png"

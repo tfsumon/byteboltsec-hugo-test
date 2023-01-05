@@ -1,4 +1,5 @@
 ---
+Discovered: "December 25, 2021"
 date: "2021-12-25"
 title: "wibag-bau.ch"
 image: "images/blog/HiveLeaks.png"

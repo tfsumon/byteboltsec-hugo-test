@@ -1,4 +1,5 @@
 ---
+Discovered: "August 03, 2022"
 date: "2022-08-03"
 title: "Mario Sinacola"
 image: "images/blog/ALPHV.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "November 19, 2021"
 date: "2021-11-19"
 title: "everycoin.io"
 image: "images/blog/Breaches.png"

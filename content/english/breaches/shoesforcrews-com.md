@@ -1,4 +1,5 @@
 ---
+Discovered: "February 04, 2022"
 date: "2022-02-04"
 title: "shoesforcrews.com"
 image: "images/blog/Cuba.png"

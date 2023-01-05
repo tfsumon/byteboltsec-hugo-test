@@ -1,4 +1,5 @@
 ---
+Discovered: "January 22, 2022"
 date: "2022-01-22"
 title: "fairnessforall.com"
 image: "images/blog/LockBit.png"

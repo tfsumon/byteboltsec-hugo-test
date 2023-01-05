@@ -1,4 +1,5 @@
 ---
+Discovered: "September 29, 2021"
 date: "2021-09-29"
 title: "clubdoingresso.com"
 image: "images/blog/Breaches.png"

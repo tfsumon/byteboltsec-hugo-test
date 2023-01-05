@@ -1,4 +1,5 @@
 ---
+Discovered: "November 09, 2022"
 date: "2022-11-09"
 title: "Crown Retail Services"
 image: "images/blog/LockBit.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "August 10, 2021"
 date: "2021-08-10"
 title: "cobaltstrike.com"
 image: "images/blog/Breaches.png"

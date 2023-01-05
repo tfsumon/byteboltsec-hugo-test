@@ -1,4 +1,5 @@
 ---
+Discovered: "October 02, 2021"
 date: "2021-10-02"
 title: "dataspeed.it"
 image: "images/blog/LockBit.png"

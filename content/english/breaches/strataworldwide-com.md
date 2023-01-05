@@ -1,4 +1,5 @@
 ---
+Discovered: "November 30, 2021"
 date: "2021-11-30"
 title: "strataworldwide.com"
 image: "images/blog/ALPHV.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "July 17, 2022"
 date: "2022-07-17"
 title: "Conway Electronics"
 image: "images/blog/BianLian.png"

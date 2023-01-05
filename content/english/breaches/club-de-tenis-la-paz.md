@@ -1,4 +1,5 @@
 ---
+Discovered: "November 02, 2022"
 date: "2022-11-02"
 title: "Club de Tenis La Paz"
 image: "images/blog/Breaches.png"

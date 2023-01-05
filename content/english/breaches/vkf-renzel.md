@@ -1,4 +1,5 @@
 ---
+Discovered: "July 07, 2022"
 date: "2022-07-07"
 title: "VKF Renzel"
 image: "images/blog/Basta.png"

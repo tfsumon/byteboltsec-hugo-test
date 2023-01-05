@@ -1,4 +1,5 @@
 ---
+Discovered: "June 22, 2022"
 date: "2022-06-22"
 title: "PT Astra Honda Motor"
 image: "images/blog/ViceSociety.png"

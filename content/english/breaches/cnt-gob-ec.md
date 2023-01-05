@@ -1,4 +1,5 @@
 ---
+Discovered: "July 21, 2021"
 date: "2021-07-21"
 title: "cnt.gob.ec"
 image: "images/blog/Breaches.png"

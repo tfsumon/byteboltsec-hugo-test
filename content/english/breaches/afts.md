@@ -1,4 +1,5 @@
 ---
+Discovered: "October 21, 2022"
 date: "2022-10-21"
 title: "AFTS"
 image: "images/blog/Cuba.png"

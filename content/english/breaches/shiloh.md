@@ -1,4 +1,5 @@
 ---
+Discovered: "October 10, 2022"
 date: "2022-10-10"
 title: "Shiloh"
 image: "images/blog/Basta.png"

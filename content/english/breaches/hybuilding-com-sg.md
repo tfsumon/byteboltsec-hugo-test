@@ -1,4 +1,5 @@
 ---
+Discovered: "October 16, 2021"
 date: "2021-10-16"
 title: "hybuilding.com.sg"
 image: "images/blog/LockBit.png"

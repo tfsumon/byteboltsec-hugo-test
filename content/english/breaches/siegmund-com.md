@@ -1,4 +1,5 @@
 ---
+Discovered: "December 28, 2021"
 date: "2021-12-28"
 title: "siegmund.com"
 image: "images/blog/Breaches.png"

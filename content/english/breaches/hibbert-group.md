@@ -1,4 +1,5 @@
 ---
+Discovered: "October 11, 2022"
 date: "2022-10-11"
 title: "The Hibbert Group"
 image: "images/blog/ALPHV.png"

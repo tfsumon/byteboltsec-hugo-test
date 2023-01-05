@@ -1,4 +1,5 @@
 ---
+Discovered: "July 29, 2021"
 date: "2021-07-29"
 title: "mvg.com"
 image: "images/blog/Lorenz.png"

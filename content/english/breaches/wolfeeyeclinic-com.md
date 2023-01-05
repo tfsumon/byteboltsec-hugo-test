@@ -1,4 +1,5 @@
 ---
+Discovered: "April 01, 2021"
 date: "2021-04-01"
 title: "wolfeeyeclinic.com"
 image: "images/blog/Lorenz.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "January 31, 2022"
 date: "2022-01-31"
 title: "plainviewmn.com"
 image: "images/blog/LockBit.png"

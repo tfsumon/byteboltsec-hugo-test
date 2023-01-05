@@ -1,4 +1,5 @@
 ---
+Discovered: "February 21, 2022"
 date: "2022-02-21"
 title: "ackmo.be"
 image: "images/blog/LockBit.png"

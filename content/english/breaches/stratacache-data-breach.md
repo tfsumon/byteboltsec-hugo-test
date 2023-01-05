@@ -1,4 +1,5 @@
 ---
+Discovered: "January 03, 2023"
 date: "2023-01-03"
 title: "Stratacache"
 image: "images/blog/Play.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "October 27, 2022"
 date: "2022-10-27"
 title: "Municipio de Chihuahua"
 image: "images/blog/Breaches.png"

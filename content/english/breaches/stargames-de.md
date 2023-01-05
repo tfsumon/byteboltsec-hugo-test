@@ -1,4 +1,5 @@
 ---
+Discovered: "August 07, 2021"
 date: "2021-08-07"
 title: "stargames.de"
 image: "images/blog/Breaches.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "January 08, 2021"
 date: "2021-01-08"
 title: "taylormadediagnostics.com"
 image: "images/blog/Breaches.png"

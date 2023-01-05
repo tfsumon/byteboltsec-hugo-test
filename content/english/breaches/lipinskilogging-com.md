@@ -1,4 +1,5 @@
 ---
+Discovered: "December 21, 2021"
 date: "2021-12-21"
 title: "lipinskilogging.com"
 image: "images/blog/LockBit.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "September 12, 2021"
 date: "2021-09-12"
 title: "riscossa.it"
 image: "images/blog/LockBit.png"

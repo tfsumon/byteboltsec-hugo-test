@@ -1,4 +1,5 @@
 ---
+Discovered: "July 25, 2022"
 date: "2022-07-25"
 title: "LDM"
 image: "images/blog/LockBit.png"

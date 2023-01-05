@@ -1,4 +1,5 @@
 ---
+Discovered: "September 28, 2022"
 date: "2022-09-28"
 title: "AES Clean Technology"
 image: "images/blog/Basta.png"

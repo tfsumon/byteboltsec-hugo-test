@@ -1,4 +1,5 @@
 ---
+Discovered: "January 27, 2022"
 date: "2022-01-27"
 title: "dominos.com.tr"
 image: "images/blog/Breaches.png"

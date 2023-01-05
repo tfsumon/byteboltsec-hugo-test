@@ -1,4 +1,5 @@
 ---
+Discovered: "November 03, 2022"
 date: "2022-11-03"
 title: "Tekni-Plex"
 image: "images/blog/LockBit.png"

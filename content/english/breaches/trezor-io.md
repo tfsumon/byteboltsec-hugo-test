@@ -1,4 +1,5 @@
 ---
+Discovered: "July 16, 2021"
 date: "2021-07-16"
 title: "trezor.io"
 image: "images/blog/Breaches.png"

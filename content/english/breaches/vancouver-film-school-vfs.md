@@ -1,4 +1,5 @@
 ---
+Discovered: "December 13, 2022"
 date: "2022-12-13"
 title: "Vancouver Film School (VFS)"
 image: "images/blog/Play.png"

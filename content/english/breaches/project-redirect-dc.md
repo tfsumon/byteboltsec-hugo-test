@@ -1,4 +1,5 @@
 ---
+Discovered: "October 24, 2022"
 date: "2022-10-24"
 title: "Project Redirect DC"
 image: "images/blog/Breaches.png"

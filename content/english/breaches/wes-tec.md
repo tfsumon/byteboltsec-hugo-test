@@ -1,4 +1,5 @@
 ---
+Discovered: "October 19, 2022"
 date: "2022-10-19"
 title: "Wes-Tec"
 image: "images/blog/Lorenz.png"

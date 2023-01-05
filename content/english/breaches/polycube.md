@@ -1,4 +1,5 @@
 ---
+Discovered: "October 10, 2022"
 date: "2022-10-10"
 title: "Polycube"
 image: "images/blog/LockBit.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "December 26, 2021"
 date: "2021-12-26"
 title: "tegravendas.com.br"
 image: "images/blog/Breaches.png"

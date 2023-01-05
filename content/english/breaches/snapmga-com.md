@@ -1,4 +1,5 @@
 ---
+Discovered: "January 11, 2022"
 date: "2022-01-11"
 title: "snapmga.com"
 image: "images/blog/LockBit.png"

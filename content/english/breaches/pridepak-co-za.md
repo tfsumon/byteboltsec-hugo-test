@@ -1,4 +1,5 @@
 ---
+Discovered: "September 08, 2021"
 date: "2021-09-08"
 title: "pridepak.co.za"
 image: "images/blog/LockBit.png"

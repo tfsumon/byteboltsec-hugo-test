@@ -1,4 +1,5 @@
 ---
+Discovered: "June 17, 2022"
 date: "2022-06-17"
 title: "CR2"
 image: "images/blog/Breaches.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "February 05, 2022"
 date: "2022-02-05"
 title: "ci.hercules.ca.us"
 image: "images/blog/LockBit.png"

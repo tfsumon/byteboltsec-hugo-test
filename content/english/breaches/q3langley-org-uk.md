@@ -1,4 +1,5 @@
 ---
+Discovered: "August 06, 2020"
 date: "2020-08-06"
 title: "q3langley.org.uk"
 image: "images/blog/Breaches.png"

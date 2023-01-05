@@ -1,4 +1,5 @@
 ---
+Discovered: "July 14, 2021"
 date: "2021-07-14"
 title: "osprayvideo.com"
 image: "images/blog/HiveLeaks.png"

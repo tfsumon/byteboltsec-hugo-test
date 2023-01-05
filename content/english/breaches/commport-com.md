@@ -1,4 +1,5 @@
 ---
+Discovered: "December 20, 2020"
 date: "2020-12-20"
 title: "commport.com"
 image: "images/blog/Lorenz.png"

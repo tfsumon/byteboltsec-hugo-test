@@ -1,4 +1,5 @@
 ---
+Discovered: "September 13, 2020"
 date: "2020-09-13"
 title: "dublin.ca.gov"
 image: "images/blog/Breaches.png"

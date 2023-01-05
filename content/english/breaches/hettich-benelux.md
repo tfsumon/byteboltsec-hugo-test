@@ -1,4 +1,5 @@
 ---
+Discovered: "November 04, 2022"
 date: "2022-11-04"
 title: "Hettich Benelux"
 image: "images/blog/LockBit.png"

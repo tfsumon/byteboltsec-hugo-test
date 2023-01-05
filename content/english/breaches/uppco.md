@@ -1,4 +1,5 @@
 ---
+Discovered: "July 12, 2022"
 date: "2022-07-12"
 title: "UPPCO"
 image: "images/blog/Lorenz.png"

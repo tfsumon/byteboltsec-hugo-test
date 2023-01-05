@@ -1,4 +1,5 @@
 ---
+Discovered: "April 17, 2022"
 date: "2022-04-17"
 title: "importadortrujillo.com.ec"
 image: "images/blog/Breaches.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "September 14, 2022"
 date: "2022-09-14"
 title: "Ferrero Ojeda"
 image: "images/blog/Breaches.png"

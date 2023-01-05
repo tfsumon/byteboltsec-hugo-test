@@ -1,4 +1,5 @@
 ---
+Discovered: "January 19, 2022"
 date: "2022-01-19"
 title: "mcsmorandi.com"
 image: "images/blog/LockBit.png"

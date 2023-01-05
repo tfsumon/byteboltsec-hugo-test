@@ -1,4 +1,5 @@
 ---
+Discovered: "April 10, 2022"
 date: "2022-04-10"
 title: "wocklum-gruppe.de"
 image: "images/blog/Breaches.png"

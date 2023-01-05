@@ -1,4 +1,5 @@
 ---
+Discovered: "November 15, 2022"
 date: "2022-11-15"
 title: "BioPlan Associates"
 image: "images/blog/Breaches.png"

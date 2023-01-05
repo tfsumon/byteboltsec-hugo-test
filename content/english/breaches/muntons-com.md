@@ -1,4 +1,5 @@
 ---
+Discovered: "February 10, 2022"
 date: "2022-02-10"
 title: "muntons.com"
 image: "images/blog/Cuba.png"

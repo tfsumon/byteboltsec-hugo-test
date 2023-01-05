@@ -1,4 +1,5 @@
 ---
+Discovered: "April 26, 2021"
 date: "2021-04-26"
 title: "nobiskrug.com"
 image: "images/blog/Breaches.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "June 22, 2020"
 date: "2020-06-22"
 title: "omniga.de"
 image: "images/blog/Breaches.png"

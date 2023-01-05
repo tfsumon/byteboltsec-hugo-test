@@ -1,4 +1,5 @@
 ---
+Discovered: "September 17, 2021"
 date: "2021-09-17"
 title: "cansmart.co.za"
 image: "images/blog/LockBit.png"

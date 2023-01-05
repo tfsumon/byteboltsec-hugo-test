@@ -1,4 +1,5 @@
 ---
+Discovered: "October 02, 2022"
 date: "2022-10-02"
 title: "Mansfield Independent School District"
 image: "images/blog/HiveLeaks.png"

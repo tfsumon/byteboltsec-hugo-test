@@ -1,4 +1,5 @@
 ---
+Discovered: "July 31, 2021"
 date: "2021-07-31"
 title: "infovista.com"
 image: "images/blog/Breaches.png"

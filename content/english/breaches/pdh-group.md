@@ -1,4 +1,5 @@
 ---
+Discovered: "September 06, 2022"
 date: "2022-09-06"
 title: "PDH Group"
 image: "images/blog/LockBit.png"

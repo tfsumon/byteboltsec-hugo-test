@@ -1,4 +1,5 @@
 ---
+Discovered: "December 07, 2021"
 date: "2021-12-07"
 title: "hp.icon-institute.de"
 image: "images/blog/LockBit.png"

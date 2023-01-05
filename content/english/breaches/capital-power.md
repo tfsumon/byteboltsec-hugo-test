@@ -1,4 +1,5 @@
 ---
+Discovered: "November 02, 2022"
 date: "2022-11-02"
 title: "Capital Power"
 image: "images/blog/Quantum.png"

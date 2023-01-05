@@ -1,4 +1,5 @@
 ---
+Discovered: "June 15, 2022"
 date: "2022-06-15"
 title: "La Direction Générale des Impôts du Mali"
 image: "images/blog/LockBit.png"

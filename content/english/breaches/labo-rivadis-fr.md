@@ -1,4 +1,5 @@
 ---
+Discovered: "July 26, 2021"
 date: "2021-07-26"
 title: "labo-rivadis.fr"
 image: "images/blog/HiveLeaks.png"

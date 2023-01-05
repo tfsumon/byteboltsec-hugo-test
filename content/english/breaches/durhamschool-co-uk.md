@@ -1,4 +1,5 @@
 ---
+Discovered: "January 12, 2022"
 date: "2022-01-12"
 title: "durhamschool.co.uk"
 image: "images/blog/ViceSociety.png"

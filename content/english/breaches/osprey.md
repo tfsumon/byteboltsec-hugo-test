@@ -1,4 +1,5 @@
 ---
+Discovered: "August 17, 2022"
 date: "2022-08-17"
 title: "Osprey"
 image: "images/blog/LockBit.png"

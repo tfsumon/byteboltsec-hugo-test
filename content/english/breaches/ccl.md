@@ -1,4 +1,5 @@
 ---
+Discovered: "October 27, 2022"
 date: "2022-10-27"
 title: "CCL"
 image: "images/blog/Breaches.png"

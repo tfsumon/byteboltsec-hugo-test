@@ -1,4 +1,5 @@
 ---
+Discovered: "November 16, 2022"
 date: "2022-11-16"
 title: "ITIS Technology"
 image: "images/blog/LockBit.png"

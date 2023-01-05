@@ -1,4 +1,5 @@
 ---
+Discovered: "November 09, 2021"
 date: "2021-11-09"
 title: "uemoa.int"
 image: "images/blog/Breaches.png"

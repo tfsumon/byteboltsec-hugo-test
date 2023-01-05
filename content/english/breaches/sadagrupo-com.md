@@ -1,4 +1,5 @@
 ---
+Discovered: "December 18, 2020"
 date: "2020-12-18"
 title: "sadagrupo.com"
 image: "images/blog/Breaches.png"

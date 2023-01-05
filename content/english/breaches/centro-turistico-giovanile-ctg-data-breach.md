@@ -1,4 +1,5 @@
 ---
+Discovered: "December 28, 2022"
 date: "2022-12-28"
 title: "Centro Turistico Giovanile (CTG)"
 image: "images/blog/Snatch.png"

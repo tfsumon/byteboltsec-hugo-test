@@ -1,4 +1,5 @@
 ---
+Discovered: "October 18, 2022"
 date: "2022-10-18"
 title: "William A. Kibbe & Associates"
 image: "images/blog/Breaches.png"

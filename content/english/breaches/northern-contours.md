@@ -1,4 +1,5 @@
 ---
+Discovered: "August 23, 2022"
 date: "2022-08-23"
 title: "Northern Contours"
 image: "images/blog/Lorenz.png"

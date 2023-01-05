@@ -1,4 +1,5 @@
 ---
+Discovered: "December 02, 2022"
 date: "2022-12-02"
 title: "Panolam"
 image: "images/blog/Basta.png"

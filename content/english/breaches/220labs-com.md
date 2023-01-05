@@ -1,4 +1,5 @@
 ---
+Discovered: "December 24, 2020"
 date: "2020-12-24"
 title: "220labs.com"
 image: "images/blog/Breaches.png"

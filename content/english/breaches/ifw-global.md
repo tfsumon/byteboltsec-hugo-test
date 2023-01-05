@@ -1,4 +1,5 @@
 ---
+Discovered: "September 21, 2022"
 date: "2022-09-21"
 title: "IFW Global"
 image: "images/blog/LockBit.png"

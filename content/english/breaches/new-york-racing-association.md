@@ -1,4 +1,5 @@
 ---
+Discovered: "September 19, 2022"
 date: "2022-09-19"
 title: "New York Racing Association"
 image: "images/blog/HiveLeaks.png"

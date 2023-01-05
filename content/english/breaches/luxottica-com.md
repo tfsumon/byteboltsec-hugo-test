@@ -1,4 +1,5 @@
 ---
+Discovered: "October 18, 2020"
 date: "2020-10-18"
 title: "luxottica.com"
 image: "images/blog/Breaches.png"

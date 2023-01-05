@@ -1,4 +1,5 @@
 ---
+Discovered: "December 16, 2021"
 date: "2021-12-16"
 title: "tamerholding.com"
 image: "images/blog/LockBit.png"

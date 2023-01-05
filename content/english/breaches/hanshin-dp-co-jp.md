@@ -1,4 +1,5 @@
 ---
+Discovered: "November 23, 2021"
 date: "2021-11-23"
 title: "hanshin-dp.co.jp"
 image: "images/blog/LockBit.png"

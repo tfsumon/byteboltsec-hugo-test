@@ -1,4 +1,5 @@
 ---
+Discovered: "January 30, 2022"
 date: "2022-01-30"
 title: "mfkmakina.com"
 image: "images/blog/LockBit.png"

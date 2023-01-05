@@ -1,4 +1,5 @@
 ---
+Discovered: "September 21, 2022"
 date: "2022-09-21"
 title: "Admiral Merchants"
 image: "images/blog/Basta.png"

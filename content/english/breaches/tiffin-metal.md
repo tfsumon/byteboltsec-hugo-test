@@ -1,4 +1,5 @@
 ---
+Discovered: "October 27, 2022"
 date: "2022-10-27"
 title: "Tiffin Metal"
 image: "images/blog/LockBit.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "November 07, 2022"
 date: "2022-11-07"
 title: "CR&R"
 image: "images/blog/ViceSociety.png"

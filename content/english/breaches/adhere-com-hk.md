@@ -1,4 +1,5 @@
 ---
+Discovered: "June 30, 2021"
 date: "2021-06-30"
 title: "adhere.com.hk"
 image: "images/blog/Breaches.png"

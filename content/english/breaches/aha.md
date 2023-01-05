@@ -1,4 +1,5 @@
 ---
+Discovered: "August 10, 2022"
 date: "2022-08-10"
 title: "AHA"
 image: "images/blog/LockBit.png"

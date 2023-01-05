@@ -1,4 +1,5 @@
 ---
+Discovered: "September 01, 2022"
 date: "2022-09-01"
 title: "Smith Brothers Insurance"
 image: "images/blog/Breaches.png"

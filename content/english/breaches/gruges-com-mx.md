@@ -1,4 +1,5 @@
 ---
+Discovered: "February 19, 2022"
 date: "2022-02-19"
 title: "gruges.com.mx"
 image: "images/blog/LockBit.png"

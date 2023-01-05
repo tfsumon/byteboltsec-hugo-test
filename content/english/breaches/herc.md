@@ -1,4 +1,5 @@
 ---
+Discovered: "July 29, 2022"
 date: "2022-07-29"
 title: "HERC"
 image: "images/blog/ALPHV.png"

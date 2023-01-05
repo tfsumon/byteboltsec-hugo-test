@@ -1,4 +1,5 @@
 ---
+Discovered: "December 23, 2020"
 date: "2020-12-23"
 title: "sethwadley.com"
 image: "images/blog/Breaches.png"

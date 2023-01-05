@@ -1,4 +1,5 @@
 ---
+Discovered: "June 15, 2022"
 date: "2022-06-15"
 title: "Shred Station"
 image: "images/blog/Quantum.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "March 15, 2022"
 date: "2022-03-15"
 title: "ugcorp.com"
 image: "images/blog/LockBit.png"

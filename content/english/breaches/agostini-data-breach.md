@@ -1,4 +1,5 @@
 ---
+Discovered: "January 02, 2023"
 date: "2023-01-02"
 title: "Agostini"
 image: "images/blog/Royal.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "December 27, 2021"
 date: "2021-12-27"
 title: "adiguzel.edu.tr"
 image: "images/blog/Breaches.png"

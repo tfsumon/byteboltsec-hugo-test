@@ -1,4 +1,5 @@
 ---
+Discovered: "February 11, 2022"
 date: "2022-02-11"
 title: "get-integrated.com"
 image: "images/blog/Cuba.png"

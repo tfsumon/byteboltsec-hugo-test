@@ -1,4 +1,5 @@
 ---
+Discovered: "September 09, 2021"
 date: "2021-09-09"
 title: "bartec.de"
 image: "images/blog/Breaches.png"

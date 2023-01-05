@@ -1,4 +1,5 @@
 ---
+Discovered: "October 09, 2022"
 date: "2022-10-09"
 title: "Deutsche Saatveredelung AG"
 image: "images/blog/ALPHV.png"

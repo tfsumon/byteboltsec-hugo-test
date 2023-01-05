@@ -1,4 +1,5 @@
 ---
+Discovered: "December 21, 2021"
 date: "2021-12-21"
 title: "offensive-security.com"
 image: "images/blog/Breaches.png"

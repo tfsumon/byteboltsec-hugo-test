@@ -1,4 +1,5 @@
 ---
+Discovered: "January 01, 2022"
 date: "2022-01-01"
 title: "ced.group"
 image: "images/blog/ALPHV.png"

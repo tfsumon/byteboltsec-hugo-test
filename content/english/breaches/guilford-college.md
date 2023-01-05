@@ -1,4 +1,5 @@
 ---
+Discovered: "November 29, 2022"
 date: "2022-11-29"
 title: "Guilford College"
 image: "images/blog/HiveLeaks.png"

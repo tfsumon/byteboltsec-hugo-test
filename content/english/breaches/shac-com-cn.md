@@ -1,4 +1,5 @@
 ---
+Discovered: "September 28, 2021"
 date: "2021-09-28"
 title: "shac.com.cn"
 image: "images/blog/HiveLeaks.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "July 03, 2022"
 date: "2022-07-03"
 title: "Amalfitana Gas"
 image: "images/blog/Breaches.png"

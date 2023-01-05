@@ -1,4 +1,5 @@
 ---
+Discovered: "July 14, 2022"
 date: "2022-07-14"
 title: "SERV Behavioral Health System"
 image: "images/blog/HiveLeaks.png"

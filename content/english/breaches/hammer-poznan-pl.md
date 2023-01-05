@@ -1,4 +1,5 @@
 ---
+Discovered: "February 03, 2022"
 date: "2022-02-03"
 title: "hammer-poznan.pl"
 image: "images/blog/LockBit.png"

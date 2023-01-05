@@ -1,4 +1,5 @@
 ---
+Discovered: "December 09, 2021"
 date: "2021-12-09"
 title: "nlbcorp.com"
 image: "images/blog/Breaches.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "September 14, 2022"
 date: "2022-09-14"
 title: "Daydream Island Resort"
 image: "images/blog/BianLian.png"

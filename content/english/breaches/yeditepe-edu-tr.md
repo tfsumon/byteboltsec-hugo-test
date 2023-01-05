@@ -1,4 +1,5 @@
 ---
+Discovered: "January 23, 2022"
 date: "2022-01-23"
 title: "yeditepe.edu.tr"
 image: "images/blog/Breaches.png"

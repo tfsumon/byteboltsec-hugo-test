@@ -1,4 +1,5 @@
 ---
+Discovered: "June 20, 2022"
 date: "2022-06-20"
 title: "TB Kawashima"
 image: "images/blog/LockBit.png"

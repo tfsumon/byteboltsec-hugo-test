@@ -1,4 +1,5 @@
 ---
+Discovered: "September 02, 2022"
 date: "2022-09-02"
 title: "Eurocell"
 image: "images/blog/HiveLeaks.png"

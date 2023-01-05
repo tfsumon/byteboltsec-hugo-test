@@ -1,4 +1,5 @@
 ---
+Discovered: "January 02, 2023"
 date: "2023-01-02"
 title: "Housing Authority of the City of Los Angeles"
 image: "images/blog/LockBit.png"

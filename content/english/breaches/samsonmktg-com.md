@@ -1,4 +1,5 @@
 ---
+Discovered: "December 14, 2020"
 date: "2020-12-14"
 title: "samsonmktg.com"
 image: "images/blog/Breaches.png"

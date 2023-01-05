@@ -1,4 +1,5 @@
 ---
+Discovered: "April 10, 2022"
 date: "2022-04-10"
 title: "genieroute.be"
 image: "images/blog/LockBit.png"

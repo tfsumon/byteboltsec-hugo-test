@@ -1,4 +1,5 @@
 ---
+Discovered: "June 21, 2021"
 date: "2021-06-21"
 title: "segepo.fr"
 image: "images/blog/Breaches.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "July 15, 2022"
 date: "2022-07-15"
 title: "ZEUS Scientific"
 image: "images/blog/Quantum.png"

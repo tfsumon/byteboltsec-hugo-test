@@ -1,4 +1,5 @@
 ---
+Discovered: "November 15, 2022"
 date: "2022-11-15"
 title: "Doctors' Center Hospital"
 image: "images/blog/Breaches.png"

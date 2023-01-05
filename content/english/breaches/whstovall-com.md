@@ -1,4 +1,5 @@
 ---
+Discovered: "July 10, 2021"
 date: "2021-07-10"
 title: "whstovall.com"
 image: "images/blog/HiveLeaks.png"

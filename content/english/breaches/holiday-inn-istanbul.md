@@ -1,4 +1,5 @@
 ---
+Discovered: "August 26, 2022"
 date: "2022-08-26"
 title: "Holiday Inn Istanbul"
 image: "images/blog/LockBit.png"

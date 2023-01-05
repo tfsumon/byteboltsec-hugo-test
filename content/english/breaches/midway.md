@@ -1,4 +1,5 @@
 ---
+Discovered: "September 08, 2022"
 date: "2022-09-08"
 title: "Midway"
 image: "images/blog/Basta.png"

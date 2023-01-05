@@ -1,4 +1,5 @@
 ---
+Discovered: "May 22, 2022"
 date: "2022-05-22"
 title: "thecatholicfoundation.org"
 image: "images/blog/ViceSociety.png"

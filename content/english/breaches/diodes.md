@@ -1,4 +1,5 @@
 ---
+Discovered: "June 30, 2022"
 date: "2022-06-30"
 title: "Diodes"
 image: "images/blog/LockBit.png"

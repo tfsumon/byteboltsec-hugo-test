@@ -1,4 +1,5 @@
 ---
+Discovered: "August 22, 2022"
 date: "2022-08-22"
 title: "Northwest Pipe Fittings"
 image: "images/blog/LockBit.png"

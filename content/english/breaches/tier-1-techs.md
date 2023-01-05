@@ -1,4 +1,5 @@
 ---
+Discovered: "August 17, 2022"
 date: "2022-08-17"
 title: "Tier 1 Techs"
 image: "images/blog/LockBit.png"

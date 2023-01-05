@@ -1,4 +1,5 @@
 ---
+Discovered: "June 27, 2022"
 date: "2022-06-27"
 title: "Walmart"
 image: "images/blog/Breaches.png"

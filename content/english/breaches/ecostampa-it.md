@@ -1,4 +1,5 @@
 ---
+Discovered: "February 06, 2022"
 date: "2022-02-06"
 title: "ecostampa.it"
 image: "images/blog/ALPHV.png"

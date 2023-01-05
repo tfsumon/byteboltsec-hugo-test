@@ -1,4 +1,5 @@
 ---
+Discovered: "October 27, 2022"
 date: "2022-10-27"
 title: "Armed Forces of Ecuador"
 image: "images/blog/ALPHV.png"

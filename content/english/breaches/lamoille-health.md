@@ -1,4 +1,5 @@
 ---
+Discovered: "July 07, 2022"
 date: "2022-07-07"
 title: "Lamoille Health"
 image: "images/blog/Breaches.png"

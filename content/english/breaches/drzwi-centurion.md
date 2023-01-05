@@ -1,4 +1,5 @@
 ---
+Discovered: "October 16, 2022"
 date: "2022-10-16"
 title: "DRZWI Centurion"
 image: "images/blog/LockBit.png"

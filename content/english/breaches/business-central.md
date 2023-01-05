@@ -1,4 +1,5 @@
 ---
+Discovered: "December 20, 2022"
 date: "2022-12-20"
 title: "Business Central"
 image: "images/blog/LockBit.png"

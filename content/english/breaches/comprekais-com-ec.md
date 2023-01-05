@@ -1,4 +1,5 @@
 ---
+Discovered: "July 03, 2021"
 date: "2021-07-03"
 title: "comprekais.com.ec"
 image: "images/blog/Breaches.png"

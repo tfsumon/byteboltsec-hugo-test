@@ -1,4 +1,5 @@
 ---
+Discovered: "August 21, 2022"
 date: "2022-08-21"
 title: "BSA Hospice of the Southwest"
 image: "images/blog/ViceSociety.png"

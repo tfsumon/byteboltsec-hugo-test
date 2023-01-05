@@ -1,4 +1,5 @@
 ---
+Discovered: "October 12, 2021"
 date: "2021-10-12"
 title: "albrightcapital.com"
 image: "images/blog/Breaches.png"

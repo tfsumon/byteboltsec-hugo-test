@@ -1,4 +1,5 @@
 ---
+Discovered: "September 19, 2022"
 date: "2022-09-19"
 title: "NewVision"
 image: "images/blog/Breaches.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "September 21, 2021"
 date: "2021-09-21"
 title: "cheapbitcoin.com.ru"
 image: "images/blog/Breaches.png"

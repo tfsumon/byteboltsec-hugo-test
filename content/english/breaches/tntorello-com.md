@@ -1,4 +1,5 @@
 ---
+Discovered: "November 27, 2020"
 date: "2020-11-27"
 title: "tntorello.com"
 image: "images/blog/LockBit.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "April 08, 2022"
 date: "2022-04-08"
 title: "get-entkernung.de"
 image: "images/blog/LockBit.png"

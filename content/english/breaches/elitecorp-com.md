@@ -1,4 +1,5 @@
 ---
+Discovered: "March 09, 2022"
 date: "2022-03-09"
 title: "elitecorp.com"
 image: "images/blog/LockBit.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "October 04, 2022"
 date: "2022-10-04"
 title: "Malayan Flour Mills"
 image: "images/blog/Breaches.png"

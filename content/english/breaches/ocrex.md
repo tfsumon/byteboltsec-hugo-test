@@ -1,4 +1,5 @@
 ---
+Discovered: "July 22, 2022"
 date: "2022-07-22"
 title: "OCREX"
 image: "images/blog/LockBit.png"

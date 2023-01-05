@@ -1,4 +1,5 @@
 ---
+Discovered: "November 15, 2021"
 date: "2021-11-15"
 title: "curit.dk"
 image: "images/blog/Breaches.png"

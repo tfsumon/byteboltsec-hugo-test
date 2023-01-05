@@ -1,4 +1,5 @@
 ---
+Discovered: "March 17, 2022"
 date: "2022-03-17"
 title: "nobleoil.com"
 image: "images/blog/ALPHV.png"

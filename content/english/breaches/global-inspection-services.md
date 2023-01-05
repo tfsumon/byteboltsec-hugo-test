@@ -1,4 +1,5 @@
 ---
+Discovered: "September 28, 2022"
 date: "2022-09-28"
 title: "Global Inspection Services"
 image: "images/blog/Cuba.png"

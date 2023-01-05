@@ -1,4 +1,5 @@
 ---
+Discovered: "August 06, 2021"
 date: "2021-08-06"
 title: "domaine-legal.com"
 image: "images/blog/Breaches.png"

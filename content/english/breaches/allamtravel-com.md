@@ -1,4 +1,5 @@
 ---
+Discovered: "October 27, 2021"
 date: "2021-10-27"
 title: "allamtravel.com"
 image: "images/blog/Breaches.png"

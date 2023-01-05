@@ -1,4 +1,5 @@
 ---
+Discovered: "June 29, 2022"
 date: "2022-06-29"
 title: "SuperAlloy"
 image: "images/blog/HiveLeaks.png"

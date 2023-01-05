@@ -1,4 +1,5 @@
 ---
+Discovered: "August 31, 2022"
 date: "2022-08-31"
 title: "4cRisk"
 image: "images/blog/BianLian.png"

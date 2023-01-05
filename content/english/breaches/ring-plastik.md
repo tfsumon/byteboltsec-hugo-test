@@ -1,4 +1,5 @@
 ---
+Discovered: "August 08, 2022"
 date: "2022-08-08"
 title: "Ring Plastik"
 image: "images/blog/LockBit.png"

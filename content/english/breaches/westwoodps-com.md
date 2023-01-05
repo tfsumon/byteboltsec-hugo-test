@@ -1,4 +1,5 @@
 ---
+Discovered: "June 01, 2022"
 date: "2022-06-01"
 title: "Westwood"
 image: "images/blog/Lorenz.png"

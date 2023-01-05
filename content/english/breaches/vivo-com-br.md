@@ -1,4 +1,5 @@
 ---
+Discovered: "December 31, 2021"
 date: "2021-12-31"
 title: "vivo.com.br"
 image: "images/blog/Breaches.png"

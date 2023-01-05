@@ -1,4 +1,5 @@
 ---
+Discovered: "November 22, 2022"
 date: "2022-11-22"
 title: "RYOKI KOGYO"
 image: "images/blog/LockBit.png"

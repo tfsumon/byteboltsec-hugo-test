@@ -1,4 +1,5 @@
 ---
+Discovered: "November 08, 2022"
 date: "2022-11-08"
 title: "Bosselman"
 image: "images/blog/ALPHV.png"

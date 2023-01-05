@@ -1,4 +1,5 @@
 ---
+Discovered: "November 22, 2020"
 date: "2020-11-22"
 title: "midfloridapathology.com"
 image: "images/blog/Breaches.png"

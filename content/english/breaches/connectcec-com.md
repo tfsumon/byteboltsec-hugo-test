@@ -1,4 +1,5 @@
 ---
+Discovered: "March 21, 2022"
 date: "2022-03-21"
 title: "connectcec.com"
 image: "images/blog/LockBit.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "September 29, 2022"
 date: "2022-09-29"
 title: "SolarCraft"
 image: "images/blog/ALPHV.png"

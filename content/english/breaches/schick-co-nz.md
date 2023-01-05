@@ -1,4 +1,5 @@
 ---
+Discovered: "January 15, 2021"
 date: "2021-01-15"
 title: "schick.co.nz"
 image: "images/blog/Breaches.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "May 02, 2022"
 date: "2022-05-02"
 title: "orthopaedie-appenzell.ch"
 image: "images/blog/LockBit.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "January 24, 2022"
 date: "2022-01-24"
 title: "teb.com.tr"
 image: "images/blog/Breaches.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "October 26, 2021"
 date: "2021-10-26"
 title: "rybray.com.ua"
 image: "images/blog/Breaches.png"

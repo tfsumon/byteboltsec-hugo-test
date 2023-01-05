@@ -1,4 +1,5 @@
 ---
+Discovered: "January 11, 2022"
 date: "2022-01-11"
 title: "emilfrey.ch"
 image: "images/blog/HiveLeaks.png"

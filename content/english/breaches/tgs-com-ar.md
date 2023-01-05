@@ -1,4 +1,5 @@
 ---
+Discovered: "April 10, 2022"
 date: "2022-04-10"
 title: "tgs.com.ar"
 image: "images/blog/ALPHV.png"

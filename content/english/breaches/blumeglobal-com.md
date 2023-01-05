@@ -1,4 +1,5 @@
 ---
+Discovered: "May 19, 2022"
 date: "2022-05-19"
 title: "blumeglobal.com"
 image: "images/blog/Breaches.png"

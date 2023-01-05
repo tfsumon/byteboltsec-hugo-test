@@ -1,4 +1,5 @@
 ---
+Discovered: "July 14, 2022"
 date: "2022-07-14"
 title: "DUDA"
 image: "images/blog/ALPHV.png"

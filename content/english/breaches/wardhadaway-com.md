@@ -1,4 +1,5 @@
 ---
+Discovered: "March 14, 2022"
 date: "2022-03-14"
 title: "wardhadaway.com"
 image: "images/blog/Lorenz.png"

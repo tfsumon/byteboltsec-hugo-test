@@ -1,4 +1,5 @@
 ---
+Discovered: "February 24, 2022"
 date: "2022-02-24"
 title: "dogakoleji.k12.tr"
 image: "images/blog/Breaches.png"

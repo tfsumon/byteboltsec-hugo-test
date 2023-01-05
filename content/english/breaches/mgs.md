@@ -1,4 +1,5 @@
 ---
+Discovered: "September 07, 2022"
 date: "2022-09-07"
 title: "MGS"
 image: "images/blog/Basta.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "August 04, 2021"
 date: "2021-08-04"
 title: "wegmans.com"
 image: "images/blog/Breaches.png"

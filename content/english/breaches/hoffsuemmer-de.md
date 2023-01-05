@@ -1,4 +1,5 @@
 ---
+Discovered: "October 19, 2021"
 date: "2021-10-19"
 title: "hoffsuemmer.de"
 image: "images/blog/LockBit.png"

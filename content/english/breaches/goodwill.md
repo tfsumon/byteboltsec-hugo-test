@@ -1,4 +1,5 @@
 ---
+Discovered: "December 22, 2022"
 date: "2022-12-22"
 title: "Goodwill"
 image: "images/blog/Karakurt.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "September 28, 2022"
 date: "2022-09-28"
 title: "G-TEM"
 image: "images/blog/HiveLeaks.png"

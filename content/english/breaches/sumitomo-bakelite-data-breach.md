@@ -1,4 +1,5 @@
 ---
+Discovered: "December 29, 2022"
 date: "2022-12-29"
 title: "Sumitomo Bakelite"
 image: "images/blog/ALPHV.png"

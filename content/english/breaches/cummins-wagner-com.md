@@ -1,4 +1,5 @@
 ---
+Discovered: "March 06, 2022"
 date: "2022-03-06"
 title: "cummins-wagner.com"
 image: "images/blog/Breaches.png"

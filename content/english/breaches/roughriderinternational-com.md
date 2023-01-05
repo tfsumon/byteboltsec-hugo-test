@@ -1,4 +1,5 @@
 ---
+Discovered: "November 05, 2020"
 date: "2020-11-05"
 title: "roughriderinternational.com"
 image: "images/blog/Breaches.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "March 31, 2022"
 date: "2022-03-31"
 title: "scott-mfg.com"
 image: "images/blog/Breaches.png"

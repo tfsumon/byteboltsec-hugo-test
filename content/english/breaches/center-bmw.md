@@ -1,4 +1,5 @@
 ---
+Discovered: "December 13, 2022"
 date: "2022-12-13"
 title: "Center BMW"
 image: "images/blog/BianLian.png"

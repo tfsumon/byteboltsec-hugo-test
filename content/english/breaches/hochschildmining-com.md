@@ -1,4 +1,5 @@
 ---
+Discovered: "March 27, 2022"
 date: "2022-03-27"
 title: "hochschildmining.com"
 image: "images/blog/Breaches.png"

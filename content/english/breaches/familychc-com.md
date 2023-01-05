@@ -1,4 +1,5 @@
 ---
+Discovered: "November 21, 2021"
 date: "2021-11-21"
 title: "familychc.com"
 image: "images/blog/HiveLeaks.png"

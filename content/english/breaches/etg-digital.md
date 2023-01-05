@@ -1,4 +1,5 @@
 ---
+Discovered: "March 19, 2022"
 date: "2022-03-19"
 title: "etg.digital"
 image: "images/blog/LockBit.png"

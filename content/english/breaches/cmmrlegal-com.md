@@ -1,4 +1,5 @@
 ---
+Discovered: "June 11, 2020"
 date: "2020-06-11"
 title: "cmmrlegal.com"
 image: "images/blog/Breaches.png"

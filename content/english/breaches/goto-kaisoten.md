@@ -1,4 +1,5 @@
 ---
+Discovered: "June 10, 2022"
 date: "2022-06-10"
 title: "Goto Kaisoten"
 image: "images/blog/LockBit.png"

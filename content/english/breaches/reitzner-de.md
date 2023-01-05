@@ -1,4 +1,5 @@
 ---
+Discovered: "April 26, 2022"
 date: "2022-04-26"
 title: "reitzner.de"
 image: "images/blog/LockBit.png"

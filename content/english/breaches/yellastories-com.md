@@ -1,4 +1,5 @@
 ---
+Discovered: "December 07, 2020"
 date: "2020-12-07"
 title: "yellastories.com"
 image: "images/blog/Breaches.png"

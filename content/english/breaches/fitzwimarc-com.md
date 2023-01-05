@@ -1,4 +1,5 @@
 ---
+Discovered: "June 12, 2020"
 date: "2020-06-12"
 title: "fitzwimarc.com"
 image: "images/blog/Breaches.png"

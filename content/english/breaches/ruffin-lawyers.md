@@ -1,4 +1,5 @@
 ---
+Discovered: "August 24, 2022"
 date: "2022-08-24"
 title: "Ruffin Lawyers"
 image: "images/blog/LockBit.png"

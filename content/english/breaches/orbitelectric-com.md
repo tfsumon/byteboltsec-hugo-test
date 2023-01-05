@@ -1,4 +1,5 @@
 ---
+Discovered: "April 11, 2022"
 date: "2022-04-11"
 title: "Orbit Industries"
 image: "images/blog/CL0P.png"

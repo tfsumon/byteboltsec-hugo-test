@@ -1,4 +1,5 @@
 ---
+Discovered: "July 28, 2022"
 date: "2022-07-28"
 title: "John A Bodziak Architect"
 image: "images/blog/ALPHV.png"

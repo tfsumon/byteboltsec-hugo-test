@@ -1,4 +1,5 @@
 ---
+Discovered: "June 16, 2021"
 date: "2021-06-16"
 title: "ecapital.com"
 image: "images/blog/Breaches.png"

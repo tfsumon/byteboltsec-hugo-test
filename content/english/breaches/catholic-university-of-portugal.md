@@ -1,4 +1,5 @@
 ---
+Discovered: "December 16, 2022"
 date: "2022-12-16"
 title: "Catholic University of Portugal"
 image: "images/blog/ViceSociety.png"

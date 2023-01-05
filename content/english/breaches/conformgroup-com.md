@@ -1,4 +1,5 @@
 ---
+Discovered: "November 24, 2021"
 date: "2021-11-24"
 title: "conformgroup.com"
 image: "images/blog/HiveLeaks.png"

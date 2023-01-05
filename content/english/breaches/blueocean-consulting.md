@@ -1,4 +1,5 @@
 ---
+Discovered: "February 28, 2022"
 date: "2022-02-28"
 title: "blueocean.consulting"
 image: "images/blog/LockBit.png"

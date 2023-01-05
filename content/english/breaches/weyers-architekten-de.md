@@ -1,4 +1,5 @@
 ---
+Discovered: "October 14, 2021"
 date: "2021-10-14"
 title: "weyers-architekten.de"
 image: "images/blog/LockBit.png"

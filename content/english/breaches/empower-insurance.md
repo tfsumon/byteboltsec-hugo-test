@@ -1,4 +1,5 @@
 ---
+Discovered: "October 05, 2022"
 date: "2022-10-05"
 title: "Empower Insurance"
 image: "images/blog/Breaches.png"

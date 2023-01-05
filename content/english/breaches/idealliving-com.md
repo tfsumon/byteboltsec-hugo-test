@@ -1,4 +1,5 @@
 ---
+Discovered: "November 12, 2021"
 date: "2021-11-12"
 title: "idealliving.com"
 image: "images/blog/Breaches.png"

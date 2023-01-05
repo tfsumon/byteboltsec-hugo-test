@@ -1,4 +1,5 @@
 ---
+Discovered: "July 14, 2022"
 date: "2022-07-14"
 title: "Authentic Brands"
 image: "images/blog/HiveLeaks.png"

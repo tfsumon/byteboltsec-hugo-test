@@ -1,4 +1,5 @@
 ---
+Discovered: "April 20, 2022"
 date: "2022-04-20"
 title: "panasonic.ca"
 image: "images/blog/Breaches.png"

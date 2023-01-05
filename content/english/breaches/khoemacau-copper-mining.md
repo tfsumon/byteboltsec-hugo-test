@@ -1,4 +1,5 @@
 ---
+Discovered: "August 28, 2022"
 date: "2022-08-28"
 title: "Khoemacau Copper Mining"
 image: "images/blog/Breaches.png"

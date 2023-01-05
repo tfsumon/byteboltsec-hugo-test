@@ -1,4 +1,5 @@
 ---
+Discovered: "August 07, 2022"
 date: "2022-08-07"
 title: "Trial Pro"
 image: "images/blog/LockBit.png"

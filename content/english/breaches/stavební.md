@@ -1,4 +1,5 @@
 ---
+Discovered: "November 10, 2022"
 date: "2022-11-10"
 title: "Stavební"
 image: "images/blog/LockBit.png"

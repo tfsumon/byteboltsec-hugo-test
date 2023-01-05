@@ -1,4 +1,5 @@
 ---
+Discovered: "December 04, 2021"
 date: "2021-12-04"
 title: "nowiny.pl"
 image: "images/blog/LockBit.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "December 27, 2022"
 date: "2022-12-27"
 title: "Public Companies of Medellín"
 image: "images/blog/ALPHV.png"

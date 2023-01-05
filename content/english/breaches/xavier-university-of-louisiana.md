@@ -1,4 +1,5 @@
 ---
+Discovered: "December 21, 2022"
 date: "2022-12-21"
 title: "Xavier University of Louisiana"
 image: "images/blog/ViceSociety.png"

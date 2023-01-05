@@ -1,4 +1,5 @@
 ---
+Discovered: "August 27, 2020"
 date: "2020-08-27"
 title: "echolsoil.com"
 image: "images/blog/Breaches.png"

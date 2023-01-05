@@ -1,4 +1,5 @@
 ---
+Discovered: "November 18, 2022"
 date: "2022-11-18"
 title: "Giambalvo, Stalzer & Company"
 image: "images/blog/ALPHV.png"

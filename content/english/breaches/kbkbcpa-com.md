@@ -1,4 +1,5 @@
 ---
+Discovered: "March 18, 2022"
 date: "2022-03-18"
 title: "kbkbcpa.com"
 image: "images/blog/LockBit.png"

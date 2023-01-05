@@ -1,4 +1,5 @@
 ---
+Discovered: "March 10, 2022"
 date: "2022-03-10"
 title: "sas-globalwafers.co.jp"
 image: "images/blog/Breaches.png"

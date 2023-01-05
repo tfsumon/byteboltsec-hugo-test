@@ -1,4 +1,5 @@
 ---
+Discovered: "September 18, 2022"
 date: "2022-09-18"
 title: "Laddawn"
 image: "images/blog/Lorenz.png"

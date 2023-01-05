@@ -1,4 +1,5 @@
 ---
+Discovered: "October 11, 2021"
 date: "2021-10-11"
 title: "inkafarma.com.pe"
 image: "images/blog/Breaches.png"

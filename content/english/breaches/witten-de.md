@@ -1,4 +1,5 @@
 ---
+Discovered: "December 23, 2021"
 date: "2021-12-23"
 title: "witten.de"
 image: "images/blog/ViceSociety.png"

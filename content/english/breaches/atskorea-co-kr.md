@@ -1,4 +1,5 @@
 ---
+Discovered: "December 30, 2021"
 date: "2021-12-30"
 title: "atskorea.co.kr"
 image: "images/blog/LockBit.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "September 09, 2022"
 date: "2022-09-09"
 title: "Diakonissenhaus Riehen"
 image: "images/blog/LockBit.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "September 21, 2022"
 date: "2022-09-21"
 title: "Sierra College"
 image: "images/blog/ViceSociety.png"

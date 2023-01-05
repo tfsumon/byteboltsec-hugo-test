@@ -1,4 +1,5 @@
 ---
+Discovered: "December 29, 2021"
 date: "2021-12-29"
 title: "kubbo.city"
 image: "images/blog/Breaches.png"

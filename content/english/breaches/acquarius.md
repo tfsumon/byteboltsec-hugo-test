@@ -1,4 +1,5 @@
 ---
+Discovered: "December 09, 2022"
 date: "2022-12-09"
 title: "Acquarius"
 image: "images/blog/Quantum.png"

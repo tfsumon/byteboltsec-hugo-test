@@ -1,4 +1,5 @@
 ---
+Discovered: "December 02, 2022"
 date: "2022-12-02"
 title: "BackOffice for Social Services (BOSS)"
 image: "images/blog/Cuba.png"

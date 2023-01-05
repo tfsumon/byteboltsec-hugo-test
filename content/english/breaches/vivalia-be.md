@@ -1,4 +1,5 @@
 ---
+Discovered: "May 18, 2022"
 date: "2022-05-18"
 title: "vivalia.be"
 image: "images/blog/LockBit.png"

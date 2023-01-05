@@ -1,4 +1,5 @@
 ---
+Discovered: "May 31, 2022"
 date: "2022-05-31"
 title: "klasnerandsolomon.com"
 image: "images/blog/Breaches.png"

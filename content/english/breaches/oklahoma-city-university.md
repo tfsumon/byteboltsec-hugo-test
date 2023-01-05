@@ -1,4 +1,5 @@
 ---
+Discovered: "August 11, 2022"
 date: "2022-08-11"
 title: "Oklahoma City University"
 image: "images/blog/LockBit.png"

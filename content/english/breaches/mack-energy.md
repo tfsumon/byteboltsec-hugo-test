@@ -1,4 +1,5 @@
 ---
+Discovered: "July 21, 2022"
 date: "2022-07-21"
 title: "Mack Energy"
 image: "images/blog/LockBit.png"

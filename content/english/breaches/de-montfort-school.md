@@ -1,4 +1,5 @@
 ---
+Discovered: "June 03, 2022"
 date: "2022-06-03"
 title: "De Montfort School"
 image: "images/blog/ViceSociety.png"

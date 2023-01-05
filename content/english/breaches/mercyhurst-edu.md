@@ -1,4 +1,5 @@
 ---
+Discovered: "May 16, 2022"
 date: "2022-05-16"
 title: "mercyhurst.edu"
 image: "images/blog/LockBit.png"

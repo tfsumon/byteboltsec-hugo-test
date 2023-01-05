@@ -1,4 +1,5 @@
 ---
+Discovered: "July 19, 2022"
 date: "2022-07-19"
 title: "Young and Pratt"
 image: "images/blog/Basta.png"

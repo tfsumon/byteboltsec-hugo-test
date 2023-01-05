@@ -1,4 +1,5 @@
 ---
+Discovered: "September 14, 2022"
 date: "2022-09-14"
 title: "Tax Prep and More"
 image: "images/blog/LockBit.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "June 10, 2022"
 date: "2022-06-10"
 title: "Livingston"
 image: "images/blog/Breaches.png"

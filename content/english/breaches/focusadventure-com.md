@@ -1,4 +1,5 @@
 ---
+Discovered: "January 04, 2022"
 date: "2022-01-04"
 title: "focusadventure.com"
 image: "images/blog/LockBit.png"

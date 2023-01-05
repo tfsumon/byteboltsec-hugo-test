@@ -1,4 +1,5 @@
 ---
+Discovered: "December 27, 2022"
 date: "2022-12-27"
 title: "Robinson Pharma"
 image: "images/blog/Royal.png"

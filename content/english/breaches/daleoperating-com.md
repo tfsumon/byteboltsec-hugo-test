@@ -1,4 +1,5 @@
 ---
+Discovered: "February 18, 2021"
 date: "2021-02-18"
 title: "daleoperating.com"
 image: "images/blog/Breaches.png"

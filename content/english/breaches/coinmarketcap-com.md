@@ -1,4 +1,5 @@
 ---
+Discovered: "August 12, 2021"
 date: "2021-08-12"
 title: "coinmarketcap.com"
 image: "images/blog/Breaches.png"

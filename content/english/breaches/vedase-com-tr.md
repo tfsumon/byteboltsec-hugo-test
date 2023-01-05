@@ -1,4 +1,5 @@
 ---
+Discovered: "December 22, 2021"
 date: "2021-12-22"
 title: "vedase.com.tr"
 image: "images/blog/Breaches.png"

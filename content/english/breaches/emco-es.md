@@ -1,4 +1,5 @@
 ---
+Discovered: "July 24, 2021"
 date: "2021-07-24"
 title: "emco.es"
 image: "images/blog/HiveLeaks.png"

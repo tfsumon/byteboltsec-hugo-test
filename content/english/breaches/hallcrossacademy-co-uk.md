@@ -1,4 +1,5 @@
 ---
+Discovered: "January 18, 2022"
 date: "2022-01-18"
 title: "hallcrossacademy.co.uk"
 image: "images/blog/Breaches.png"

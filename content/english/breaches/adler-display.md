@@ -1,4 +1,5 @@
 ---
+Discovered: "July 06, 2022"
 date: "2022-07-06"
 title: "Adler Display"
 image: "images/blog/ALPHV.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "June 17, 2022"
 date: "2022-06-17"
 title: "Israel Electric Company"
 image: "images/blog/Breaches.png"

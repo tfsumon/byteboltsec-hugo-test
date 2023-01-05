@@ -1,4 +1,5 @@
 ---
+Discovered: "October 04, 2021"
 date: "2021-10-04"
 title: "middletonlaw.com"
 image: "images/blog/Breaches.png"

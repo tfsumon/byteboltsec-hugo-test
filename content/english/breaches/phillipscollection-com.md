@@ -1,4 +1,5 @@
 ---
+Discovered: "August 01, 2020"
 date: "2020-08-01"
 title: "phillipscollection.com"
 image: "images/blog/Breaches.png"

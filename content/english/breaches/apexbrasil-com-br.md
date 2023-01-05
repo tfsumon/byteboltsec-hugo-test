@@ -1,4 +1,5 @@
 ---
+Discovered: "December 22, 2021"
 date: "2021-12-22"
 title: "apexbrasil.com.br"
 image: "images/blog/LockBit.png"

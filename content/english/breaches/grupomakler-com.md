@@ -1,4 +1,5 @@
 ---
+Discovered: "January 06, 2022"
 date: "2022-01-06"
 title: "grupomakler.com"
 image: "images/blog/LockBit.png"

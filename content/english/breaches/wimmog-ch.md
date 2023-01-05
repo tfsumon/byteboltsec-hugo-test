@@ -1,4 +1,5 @@
 ---
+Discovered: "March 14, 2022"
 date: "2022-03-14"
 title: "wimmog.ch"
 image: "images/blog/LockBit.png"

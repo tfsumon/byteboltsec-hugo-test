@@ -1,4 +1,5 @@
 ---
+Discovered: "December 17, 2021"
 date: "2021-12-17"
 title: "robroelaw.com"
 image: "images/blog/LockBit.png"

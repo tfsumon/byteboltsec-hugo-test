@@ -1,4 +1,5 @@
 ---
+Discovered: "October 18, 2021"
 date: "2021-10-18"
 title: "weber-betonpumpen.at"
 image: "images/blog/LockBit.png"

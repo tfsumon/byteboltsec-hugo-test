@@ -1,4 +1,5 @@
 ---
+Discovered: "November 13, 2021"
 date: "2021-11-13"
 title: "hotmail.com"
 image: "images/blog/Breaches.png"

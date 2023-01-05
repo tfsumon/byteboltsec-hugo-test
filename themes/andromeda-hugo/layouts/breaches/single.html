@@ -7,7 +7,7 @@
         {{ partial "images/image" (dict "Src" .Params.image "Alt" .Title) }}
       </div>
       <div class="col-lg-12 text-center" data-aos="fade-in" data-aos-delay="100">
-        <h1>{{.Title}} <br> <small>Data Breach in {{.PublishDate.Format "Jan 06, 2006"}}</small></h1>
+	      <h1>{{.Title}} <br> <small>Data Breach on {{.Params.discovered}}</small></h1>
       </div>
     </div>
   </div>

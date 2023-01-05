@@ -1,4 +1,5 @@
 ---
+Discovered: "August 02, 2021"
 date: "2021-08-02"
 title: "ec.europa.eu"
 image: "images/blog/Breaches.png"

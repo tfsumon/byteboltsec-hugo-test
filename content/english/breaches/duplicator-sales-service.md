@@ -1,4 +1,5 @@
 ---
+Discovered: "December 05, 2022"
 date: "2022-12-05"
 title: "Duplicator Sales & Service"
 image: "images/blog/Royal.png"

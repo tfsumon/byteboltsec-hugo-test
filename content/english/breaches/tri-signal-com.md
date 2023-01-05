@@ -1,4 +1,5 @@
 ---
+Discovered: "September 10, 2020"
 date: "2020-09-10"
 title: "tri-signal.com"
 image: "images/blog/Breaches.png"

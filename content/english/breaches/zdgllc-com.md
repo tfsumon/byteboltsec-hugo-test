@@ -1,4 +1,5 @@
 ---
+Discovered: "May 02, 2022"
 date: "2022-05-02"
 title: "zdgllc.com"
 image: "images/blog/LockBit.png"

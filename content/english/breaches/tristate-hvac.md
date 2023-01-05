@@ -1,4 +1,5 @@
 ---
+Discovered: "August 15, 2022"
 date: "2022-08-15"
 title: "TriState HVAC"
 image: "images/blog/HiveLeaks.png"

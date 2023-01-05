@@ -1,4 +1,5 @@
 ---
+Discovered: "July 28, 2022"
 date: "2022-07-28"
 title: "Studio Teruzzi"
 image: "images/blog/Breaches.png"

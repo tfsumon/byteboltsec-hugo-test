@@ -1,4 +1,5 @@
 ---
+Discovered: "November 29, 2021"
 date: "2021-11-29"
 title: "crypto.com"
 image: "images/blog/Breaches.png"

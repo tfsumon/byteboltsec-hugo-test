@@ -1,4 +1,5 @@
 ---
+Discovered: "November 17, 2020"
 date: "2020-11-17"
 title: "rigginscompany.com"
 image: "images/blog/Breaches.png"

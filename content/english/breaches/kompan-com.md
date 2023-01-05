@@ -1,4 +1,5 @@
 ---
+Discovered: "July 17, 2021"
 date: "2021-07-17"
 title: "kompan.com"
 image: "images/blog/Breaches.png"

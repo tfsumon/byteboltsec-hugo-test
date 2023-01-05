@@ -1,4 +1,5 @@
 ---
+Discovered: "October 24, 2022"
 date: "2022-10-24"
 title: "Los Angeles Unified School District"
 image: "images/blog/ViceSociety.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "December 08, 2022"
 date: "2022-12-08"
 title: "Albina Asphalt"
 image: "images/blog/Lorenz.png"

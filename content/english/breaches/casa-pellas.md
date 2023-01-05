@@ -1,4 +1,5 @@
 ---
+Discovered: "August 02, 2022"
 date: "2022-08-02"
 title: "Casa Pellas"
 image: "images/blog/LockBit.png"

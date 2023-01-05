@@ -1,4 +1,5 @@
 ---
+Discovered: "December 22, 2022"
 date: "2022-12-22"
 title: "Horwitz Horwitz & Associates"
 image: "images/blog/UnSafe.png"

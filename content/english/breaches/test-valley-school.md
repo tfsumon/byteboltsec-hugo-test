@@ -1,4 +1,5 @@
 ---
+Discovered: "October 24, 2022"
 date: "2022-10-24"
 title: "Test Valley School"
 image: "images/blog/ViceSociety.png"

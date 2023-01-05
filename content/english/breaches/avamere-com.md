@@ -1,4 +1,5 @@
 ---
+Discovered: "April 07, 2022"
 date: "2022-04-07"
 title: "avamere.com"
 image: "images/blog/Breaches.png"

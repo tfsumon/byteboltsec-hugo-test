@@ -1,4 +1,5 @@
 ---
+Discovered: "July 05, 2022"
 date: "2022-07-05"
 title: "Network4Cars"
 image: "images/blog/HiveLeaks.png"

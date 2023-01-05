@@ -1,4 +1,5 @@
 ---
+Discovered: "February 11, 2022"
 date: "2022-02-11"
 title: "ufa.com.lb"
 image: "images/blog/Breaches.png"

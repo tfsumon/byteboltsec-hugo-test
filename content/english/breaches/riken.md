@@ -1,4 +1,5 @@
 ---
+Discovered: "July 25, 2022"
 date: "2022-07-25"
 title: "Riken"
 image: "images/blog/LockBit.png"

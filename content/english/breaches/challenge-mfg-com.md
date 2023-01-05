@@ -1,4 +1,5 @@
 ---
+Discovered: "May 11, 2021"
 date: "2021-05-11"
 title: "challenge-mfg.com"
 image: "images/blog/Lorenz.png"

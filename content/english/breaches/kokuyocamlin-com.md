@@ -1,4 +1,5 @@
 ---
+Discovered: "February 23, 2022"
 date: "2022-02-23"
 title: "kokuyocamlin.com"
 image: "images/blog/LockBit.png"

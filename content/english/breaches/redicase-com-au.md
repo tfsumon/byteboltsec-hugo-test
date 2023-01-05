@@ -1,4 +1,5 @@
 ---
+Discovered: "November 28, 2021"
 date: "2021-11-28"
 title: "redicase.com.au"
 image: "images/blog/Breaches.png"

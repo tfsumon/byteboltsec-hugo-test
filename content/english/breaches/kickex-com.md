@@ -1,4 +1,5 @@
 ---
+Discovered: "December 23, 2021"
 date: "2021-12-23"
 title: "kickex.com"
 image: "images/blog/Breaches.png"

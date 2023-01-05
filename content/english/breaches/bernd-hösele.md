@@ -1,4 +1,5 @@
 ---
+Discovered: "June 14, 2022"
 date: "2022-06-14"
 title: "Bernd Hösele Group"
 image: "images/blog/Breaches.png"

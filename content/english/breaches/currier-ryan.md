@@ -1,4 +1,5 @@
 ---
+Discovered: "August 30, 2022"
 date: "2022-08-30"
 title: "Currier Ryan"
 image: "images/blog/LockBit.png"

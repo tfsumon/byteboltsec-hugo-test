@@ -1,4 +1,5 @@
 ---
+Discovered: "January 02, 2023"
 date: "2023-01-02"
 title: "Virgen de la Caridad Medical Center"
 image: "images/blog/HiveLeaks.png"

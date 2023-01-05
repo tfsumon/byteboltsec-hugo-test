@@ -1,4 +1,5 @@
 ---
+Discovered: "February 15, 2022"
 date: "2022-02-15"
 title: "kvktech.com"
 image: "images/blog/Breaches.png"

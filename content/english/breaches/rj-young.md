@@ -1,4 +1,5 @@
 ---
+Discovered: "October 23, 2022"
 date: "2022-10-23"
 title: "RJ Young"
 image: "images/blog/ALPHV.png"

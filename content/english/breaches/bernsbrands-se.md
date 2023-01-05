@@ -1,4 +1,5 @@
 ---
+Discovered: "August 21, 2021"
 date: "2021-08-21"
 title: "bernsbrands.se"
 image: "images/blog/Breaches.png"

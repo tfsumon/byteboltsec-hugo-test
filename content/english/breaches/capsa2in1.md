@@ -1,4 +1,5 @@
 ---
+Discovered: "August 29, 2022"
 date: "2022-08-29"
 title: "Capsa2in1"
 image: "images/blog/LockBit.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "June 19, 2021"
 date: "2021-06-19"
 title: "spectretechnology.com"
 image: "images/blog/Breaches.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "March 12, 2021"
 date: "2021-03-12"
 title: "buffaloschools.org"
 image: "images/blog/Breaches.png"

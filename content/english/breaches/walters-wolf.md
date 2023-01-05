@@ -1,4 +1,5 @@
 ---
+Discovered: "November 09, 2022"
 date: "2022-11-09"
 title: "Walters & Wolf"
 image: "images/blog/Cuba.png"

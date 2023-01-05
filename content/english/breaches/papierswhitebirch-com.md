@@ -1,4 +1,5 @@
 ---
+Discovered: "September 25, 2021"
 date: "2021-09-25"
 title: "papierswhitebirch.com"
 image: "images/blog/LockBit.png"

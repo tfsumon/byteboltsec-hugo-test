@@ -1,4 +1,5 @@
 ---
+Discovered: "June 13, 2021"
 date: "2021-06-13"
 title: "grupodiagnosticoaries.com"
 image: "images/blog/Breaches.png"

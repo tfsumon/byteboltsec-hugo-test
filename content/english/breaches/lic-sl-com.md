@@ -1,4 +1,5 @@
 ---
+Discovered: "April 29, 2022"
 date: "2022-04-29"
 title: "lic-sl.com"
 image: "images/blog/ViceSociety.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "October 14, 2021"
 date: "2021-10-14"
 title: "jaykaltrading.com"
 image: "images/blog/LockBit.png"

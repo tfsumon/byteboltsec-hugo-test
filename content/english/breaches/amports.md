@@ -1,4 +1,5 @@
 ---
+Discovered: "October 12, 2022"
 date: "2022-10-12"
 title: "AMPORTS"
 image: "images/blog/Basta.png"

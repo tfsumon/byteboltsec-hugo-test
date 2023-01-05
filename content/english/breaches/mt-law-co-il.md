@@ -1,4 +1,5 @@
 ---
+Discovered: "October 13, 2021"
 date: "2021-10-13"
 title: "mt-law.co.il"
 image: "images/blog/Breaches.png"

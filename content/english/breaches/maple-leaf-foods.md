@@ -1,4 +1,5 @@
 ---
+Discovered: "November 28, 2022"
 date: "2022-11-28"
 title: "Maple Leaf Foods"
 image: "images/blog/Basta.png"

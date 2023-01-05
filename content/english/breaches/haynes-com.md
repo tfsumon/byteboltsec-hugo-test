@@ -1,4 +1,5 @@
 ---
+Discovered: "May 05, 2022"
 date: "2022-05-05"
 title: "haynes.com"
 image: "images/blog/ViceSociety.png"

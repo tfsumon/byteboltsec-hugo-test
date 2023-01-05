@@ -1,4 +1,5 @@
 ---
+Discovered: "December 07, 2022"
 date: "2022-12-07"
 title: "Wrota Mazowsza"
 image: "images/blog/Play.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "April 24, 2022"
 date: "2022-04-24"
 title: "sidbi.com"
 image: "images/blog/ViceSociety.png"

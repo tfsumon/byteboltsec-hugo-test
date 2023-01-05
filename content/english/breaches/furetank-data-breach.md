@@ -1,4 +1,6 @@
 ---
+discovered: "January 04, 2022"
+Discovered: "January 04, 2023"
 date: "2023-01-04"
 title: "Furetank"
 image: "images/blog/Play.png"

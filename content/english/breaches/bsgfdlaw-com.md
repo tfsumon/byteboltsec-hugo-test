@@ -1,4 +1,5 @@
 ---
+Discovered: "June 24, 2021"
 date: "2021-06-24"
 title: "bsgfdlaw.com"
 image: "images/blog/HiveLeaks.png"

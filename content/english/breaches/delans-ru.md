@@ -1,4 +1,5 @@
 ---
+Discovered: "November 21, 2021"
 date: "2021-11-21"
 title: "delans.ru"
 image: "images/blog/Breaches.png"

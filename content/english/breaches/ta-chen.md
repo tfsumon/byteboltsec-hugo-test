@@ -1,4 +1,5 @@
 ---
+Discovered: "November 25, 2022"
 date: "2022-11-25"
 title: "Ta Chen"
 image: "images/blog/ALPHV.png"

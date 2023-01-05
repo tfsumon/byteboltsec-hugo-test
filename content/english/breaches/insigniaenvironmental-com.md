@@ -1,4 +1,5 @@
 ---
+Discovered: "October 08, 2020"
 date: "2020-10-08"
 title: "insigniaenvironmental.com"
 image: "images/blog/Breaches.png"

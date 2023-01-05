@@ -1,4 +1,5 @@
 ---
+Discovered: "January 28, 2022"
 date: "2022-01-28"
 title: "lhotellerie-restauration.fr"
 image: "images/blog/Breaches.png"

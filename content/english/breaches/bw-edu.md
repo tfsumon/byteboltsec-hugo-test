@@ -1,4 +1,5 @@
 ---
+Discovered: "January 29, 2021"
 date: "2021-01-29"
 title: "bw.edu"
 image: "images/blog/Breaches.png"

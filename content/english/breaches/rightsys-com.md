@@ -1,4 +1,5 @@
 ---
+Discovered: "January 07, 2022"
 date: "2022-01-07"
 title: "rightsys.com"
 image: "images/blog/LockBit.png"

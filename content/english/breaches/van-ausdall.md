@@ -1,4 +1,5 @@
 ---
+Discovered: "July 15, 2022"
 date: "2022-07-15"
 title: "Van Ausdall & Farrar"
 image: "images/blog/Lorenz.png"

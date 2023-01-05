@@ -1,4 +1,5 @@
 ---
+Discovered: "May 30, 2022"
 date: "2022-05-30"
 title: "foxconnbc.com"
 image: "images/blog/LockBit.png"

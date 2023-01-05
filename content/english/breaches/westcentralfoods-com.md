@@ -1,4 +1,5 @@
 ---
+Discovered: "October 17, 2020"
 date: "2020-10-17"
 title: "westcentralfoods.com"
 image: "images/blog/Breaches.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "March 20, 2022"
 date: "2022-03-20"
 title: "denro.ca"
 image: "images/blog/LockBit.png"

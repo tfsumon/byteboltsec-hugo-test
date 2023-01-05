@@ -1,4 +1,5 @@
 ---
+Discovered: "October 20, 2022"
 date: "2022-10-20"
 title: "Marcel Solution"
 image: "images/blog/CL0P.png"

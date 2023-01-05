@@ -1,4 +1,5 @@
 ---
+Discovered: "November 15, 2022"
 date: "2022-11-15"
 title: "Baysgarth School"
 image: "images/blog/ViceSociety.png"

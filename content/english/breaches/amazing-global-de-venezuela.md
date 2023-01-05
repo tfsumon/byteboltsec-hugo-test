@@ -1,4 +1,5 @@
 ---
+Discovered: "December 12, 2022"
 date: "2022-12-12"
 title: "Amazing Global de Venezuela"
 image: "images/blog/LockBit.png"

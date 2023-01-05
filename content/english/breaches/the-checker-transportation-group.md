@@ -1,4 +1,5 @@
 ---
+Discovered: "September 09, 2022"
 date: "2022-09-09"
 title: "The Checker Transportation Group"
 image: "images/blog/ALPHV.png"

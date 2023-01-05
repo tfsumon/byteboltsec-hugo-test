@@ -1,4 +1,5 @@
 ---
+Discovered: "May 25, 2022"
 date: "2022-05-25"
 title: "vitalprev.com.br"
 image: "images/blog/LockBit.png"

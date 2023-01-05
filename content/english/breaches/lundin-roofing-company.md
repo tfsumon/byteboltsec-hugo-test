@@ -1,4 +1,5 @@
 ---
+Discovered: "June 20, 2022"
 date: "2022-06-20"
 title: "Lundin Roofing Company"
 image: "images/blog/LockBit.png"

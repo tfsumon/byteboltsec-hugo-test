@@ -1,4 +1,5 @@
 ---
+Discovered: "December 14, 2022"
 date: "2022-12-14"
 title: "Teijin"
 image: "images/blog/ALPHV.png"

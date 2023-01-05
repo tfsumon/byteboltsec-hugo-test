@@ -1,4 +1,5 @@
 ---
+Discovered: "April 14, 2022"
 date: "2022-04-14"
 title: "itssimplyplaced.com"
 image: "images/blog/Lorenz.png"

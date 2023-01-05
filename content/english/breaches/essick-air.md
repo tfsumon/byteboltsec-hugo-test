@@ -1,4 +1,5 @@
 ---
+Discovered: "October 20, 2022"
 date: "2022-10-20"
 title: "Essick Air"
 image: "images/blog/Basta.png"

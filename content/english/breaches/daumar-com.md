@@ -1,4 +1,5 @@
 ---
+Discovered: "October 29, 2021"
 date: "2021-10-29"
 title: "daumar.com"
 image: "images/blog/LockBit.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "December 02, 2021"
 date: "2021-12-02"
 title: "lahebert.ca"
 image: "images/blog/Cuba.png"

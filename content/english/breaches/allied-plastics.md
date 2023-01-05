@@ -1,4 +1,5 @@
 ---
+Discovered: "October 11, 2022"
 date: "2022-10-11"
 title: "Allied Plastics"
 image: "images/blog/LockBit.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "September 04, 2022"
 date: "2022-09-04"
 title: "Baers"
 image: "images/blog/BianLian.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "October 23, 2020"
 date: "2020-10-23"
 title: "ase.ro"
 image: "images/blog/Breaches.png"

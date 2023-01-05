@@ -1,4 +1,5 @@
 ---
+Discovered: "February 09, 2022"
 date: "2022-02-09"
 title: "chemtech.net"
 image: "images/blog/ALPHV.png"

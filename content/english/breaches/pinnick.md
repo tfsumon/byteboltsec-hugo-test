@@ -1,4 +1,5 @@
 ---
+Discovered: "August 14, 2022"
 date: "2022-08-14"
 title: "Pinnick"
 image: "images/blog/LockBit.png"

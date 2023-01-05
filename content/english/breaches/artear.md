@@ -1,4 +1,5 @@
 ---
+Discovered: "June 24, 2022"
 date: "2022-06-24"
 title: "Artear"
 image: "images/blog/HiveLeaks.png"

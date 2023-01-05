@@ -1,4 +1,5 @@
 ---
+Discovered: "April 11, 2022"
 date: "2022-04-11"
 title: "AFJ Consulting"
 image: "images/blog/CL0P.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "December 30, 2022"
 date: "2022-12-30"
 title: "Companhia Paulista de Trens Metropolitanos (CPTM)"
 image: "images/blog/Blackbyte.png"

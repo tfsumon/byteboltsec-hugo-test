@@ -1,4 +1,5 @@
 ---
+Discovered: "November 03, 2021"
 date: "2021-11-03"
 title: "cassini-technologies.com"
 image: "images/blog/LockBit.png"

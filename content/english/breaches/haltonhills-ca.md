@@ -1,4 +1,5 @@
 ---
+Discovered: "March 22, 2022"
 date: "2022-03-22"
 title: "haltonhills.ca"
 image: "images/blog/Cuba.png"

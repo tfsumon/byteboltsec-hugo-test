@@ -1,4 +1,5 @@
 ---
+Discovered: "September 12, 2022"
 date: "2022-09-12"
 title: "Davin Industries"
 image: "images/blog/Breaches.png"

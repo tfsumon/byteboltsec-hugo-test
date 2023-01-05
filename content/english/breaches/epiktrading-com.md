@@ -1,4 +1,5 @@
 ---
+Discovered: "August 15, 2021"
 date: "2021-08-15"
 title: "epiktrading.com"
 image: "images/blog/Breaches.png"

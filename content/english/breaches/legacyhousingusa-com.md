@@ -1,4 +1,5 @@
 ---
+Discovered: "February 28, 2021"
 date: "2021-02-28"
 title: "legacyhousingusa.com"
 image: "images/blog/Breaches.png"

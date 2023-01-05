@@ -1,4 +1,5 @@
 ---
+Discovered: "June 12, 2022"
 date: "2022-06-12"
 title: "Plauen Stahl Technologie"
 image: "images/blog/Breaches.png"

@@ -1,4 +1,5 @@
 ---
+Discovered: "December 12, 2022"
 date: "2022-12-12"
 title: "LUXE PRINTING"
 image: "images/blog/LockBit.png"

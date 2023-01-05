@@ -1,4 +1,5 @@
 ---
+Discovered: "November 03, 2022"
 date: "2022-11-03"
 title: "Popp Hutcheson"
 image: "images/blog/Basta.png"

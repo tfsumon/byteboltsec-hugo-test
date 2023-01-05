@@ -1,4 +1,5 @@
 ---
+Discovered: "November 17, 2021"
 date: "2021-11-17"
 title: "gameforge.com"
 image: "images/blog/Breaches.png"

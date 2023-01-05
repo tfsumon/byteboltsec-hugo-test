@@ -1,4 +1,5 @@
 ---
+Discovered: "June 26, 2021"
 date: "2021-06-26"
 title: "fotolog.com"
 image: "images/blog/Breaches.png"

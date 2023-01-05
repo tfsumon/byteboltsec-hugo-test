@@ -1,4 +1,5 @@
 ---
+Discovered: "August 25, 2020"
 date: "2020-08-25"
 title: "trustteam.be"
 image: "images/blog/Breaches.png"

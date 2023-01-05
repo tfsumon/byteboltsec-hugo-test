@@ -1,4 +1,5 @@
 ---
+Discovered: "November 20, 2021"
 date: "2021-11-20"
 title: "mfitexas.com"
 image: "images/blog/LockBit.png"

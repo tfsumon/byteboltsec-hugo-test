@@ -1,4 +1,5 @@
 ---
+Discovered: "August 23, 2021"
 date: "2021-08-23"
 title: "missouridelta.com"
 image: "images/blog/HiveLeaks.png"

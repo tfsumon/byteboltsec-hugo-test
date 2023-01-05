@@ -1,4 +1,5 @@
 ---
+Discovered: "February 24, 2022"
 date: "2022-02-24"
 title: "ebmpapst.com"
 image: "images/blog/HiveLeaks.png"
