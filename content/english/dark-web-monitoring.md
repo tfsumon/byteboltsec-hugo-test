@@ -17,7 +17,7 @@ banner:
 detect_dark_web_leakage:
   enable: true
   title: "Detect Dark Web Leakage With Breachsense"
-  image: "images/BSStats.png"
+  image: "images/Dashboard.png"
   content: >-
     * Breachsense tracks open, deep, and dark web sources continuously, including Tor websites, private ransomware IRC and Telegram channels, cybercrime communities and forums, and more, ensuring that your security team is notified of the breach the moment it happens.
     <br/>
