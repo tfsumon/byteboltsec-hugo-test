@@ -6,4 +6,6 @@
 /api https://api.breachsense.io/creds 301
 /api3 https://api.breachsense.io/api3 301
 /blog/monitoring-dark-web/ /dark-web-monitoring/ 302
+/blog/monitoring-dark-web /dark-web-monitoring/ 302
 /blog/protect-your-staff /dark-web-monitoring/ 302
+/blog/protect-your-staff/ /dark-web-monitoring/ 302
