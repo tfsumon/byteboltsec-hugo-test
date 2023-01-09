@@ -11,7 +11,7 @@ draft: false
 | :-----------: | :-------------:     |:-------------:    | :-----:|
 | Victim      | hayward-pool.com      | 
 | Threat Actor      | Blackbyte      | 
-| Date January 06, 2023      | Jan 06, 2023      | 
+| Date    | Jan 06, 2023      | 
 | Description      | Hayward offers environmentally responsible, cutting-edge pool and spa equipment for residential and commercial, in-ground and above-ground pools.      | 
 | Leak Size      | Unknown      | 
 

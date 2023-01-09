@@ -11,7 +11,7 @@ draft: false
 | :-----------: | :-------------:     |:-------------:    | :-----:|
 | Victim      | sub-drill.com      | 
 | Threat Actor      | ViceSociety      | 
-| Date January 06, 2023      | Jan 06, 2023      | 
+| Date   | Jan 06, 2023      | 
 | Description      | Sub-drill manufactures and supplies a range of high quality subsea and drilling equipment to the oil and gas industry.      | 
 | Leak Size      | Unknown      | 
 

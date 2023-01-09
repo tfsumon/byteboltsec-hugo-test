@@ -11,7 +11,7 @@ draft: false
 | :-----------: | :-------------:     |:-------------:    | :-----:|
 | Victim      | kansascityhomes.com      | 
 | Threat Actor      | Blackbyte      | 
-| Date January 06, 2023      | Jan 06, 2023      | 
+| Date     | Jan 06, 2023      | 
 | Description      | Kansas City Homes is a real estate company in Kansas.      | 
 | Leak Size      | Unknown      | 
 

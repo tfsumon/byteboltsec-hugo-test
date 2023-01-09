@@ -11,7 +11,7 @@ draft: false
 | :-----------: | :-------------:     |:-------------:    | :-----:|
 | Victim      | cgmllc.net      | 
 | Threat Actor      | CL0P      | 
-| Date January 05, 2023      | Jan 05, 2023      | 
+| Date     | Jan 05, 2023      | 
 | Description      | CGM provides a compliance-centric, SAAS solution to help wireless and broadband companies participate in the federal Affordable Connectivity Program (ACP) and Lifeline Program.      | 
 | Leak Size      | Unknown      | 
 

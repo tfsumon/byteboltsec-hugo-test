@@ -11,7 +11,7 @@ draft: false
 | :-----------: | :-------------:     |:-------------:    | :-----:|
 | Victim      | lasalle.edu.co      | 
 | Threat Actor      | CL0P      | 
-| Date January 05, 2023      | Jan 05, 2023      | 
+| Date     | Jan 05, 2023      | 
 | Description      | Universidad de La Salle provides education services in Colombia.      | 
 | Leak Size      | Unknown      | 
 

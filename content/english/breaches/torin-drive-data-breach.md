@@ -11,7 +11,7 @@ draft: false
 | :-----------: | :-------------:     |:-------------:    | :-----:|
 | Victim      | torindrive.com      | 
 | Threat Actor      | Blackbyte      | 
-| Date January 06, 2023      | Jan 06, 2023      | 
+| Date     | Jan 06, 2023      | 
 | Description      | Torin Drive is a manufacturer of elevator traction machines and lift components.      | 
 | Leak Size      | Unknown      | 
 

@@ -11,7 +11,7 @@ draft: false
 | :-----------: | :-------------:     |:-------------:    | :-----:|
 | Victim      | letmerepair.com      | 
 | Threat Actor      | ViceSociety      | 
-| Date January 06, 2023      | Jan 06, 2023      | 
+| Date   | Jan 06, 2023      | 
 | Description      | LetMeRepair is a BPO company that provides technical support services.      | 
 | Leak Size      | Unknown      | 
 

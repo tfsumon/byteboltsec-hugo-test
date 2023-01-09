@@ -11,7 +11,7 @@ draft: false
 | :-----------: | :-------------:     |:-------------:    | :-----:|
 | Victim      | proquinal.com      | 
 | Threat Actor      | ViceSociety      | 
-| Date January 06, 2023      | Jan 06, 2023      | 
+| Date     | Jan 06, 2023      | 
 | Description      | Proquinal provides a variety of floors, leather goods, automobile upholstery, and other related products. Proquinal serves customers worldwide.      | 
 | Leak Size      | Unknown      | 
 
