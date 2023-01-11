@@ -2,7 +2,7 @@
 date: "2023-01-11"
 discovered: "January 11, 2023"
 title: "Shelco"
-image: "images/blog/.png"
+image: "images/blog/Lorenz.png"
 author: "Breachsense Support"
 draft: false
 ---
