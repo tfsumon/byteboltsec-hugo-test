@@ -2,6 +2,16 @@
 
 {{ partial "components/page-header.html" . }}
 
+<section class="section pb-0">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-12 text-center" data-aos="fade-in" data-aos-delay="100">
+              <h1>Latest Data Breaches - {{ now.Month }} {{ .Date.Format "2006" }} </h1>
+      </div>
+    </div>
+  </div>
+</section>
+
 <section class="section-sm" data-aos="fade-in">
   <div class="container-xxl">
     <div class="row justify-content-center">
