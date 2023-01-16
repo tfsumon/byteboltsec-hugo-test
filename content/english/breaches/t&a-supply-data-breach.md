@@ -1,7 +1,7 @@
 ---
 date: "2023-01-13"
 discovered: "January 13, 2023"
-title: "TVictimNameA Supply"
+title: "T&A Supply"
 image: "images/blog/Royal.png"
 author: "Breachsense Support"
 draft: false
