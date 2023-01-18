@@ -33,7 +33,10 @@
       inputURL.addEventListener('keyup',(e) => {
         let value = e.target.value;
         if (value != "") {
-          if (value.includes("http") || value.includes("www.")) {
+          if (value.startsWith("www.")) {
+            value = value.replace('www.','');
+            hiddenURL.value = value;
+          } else if (value.includes("http") || value.includes("www.")) {
             url = (new URL(value));
             url = url.hostname.replace('www.','');
             hiddenURL.value = url;
@@ -195,8 +198,8 @@
   if (domain != 'null') {
     exposureSearchParent.classList.add("loadingState");
     header = "<span class='text-muted font-weight-light'>Results for</span> " + domain
+    document.querySelector("#dom").innerHTML = header;
   }
-  document.querySelector("#dom").innerHTML = header;
 
   fetch("https://api.breachsense.io/stats?s=" + domain)
     .then(function (response) {
