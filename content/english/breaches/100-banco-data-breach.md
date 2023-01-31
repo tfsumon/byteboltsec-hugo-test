@@ -1,7 +1,7 @@
 ---
 date: "2023-01-09"
 discovered: "January 09, 2023"
-title: "100%Banco"
+title: "100% Banco"
 image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
