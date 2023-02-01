@@ -12,6 +12,6 @@ draft: false
 | Victim      | afasd.net      | 
 | Threat Actor      | Royal      | 
 | Date Discovered      | Dec 07, 2023      | 
-| Description      | Adams-Friendship Area School District is a public school district located in FRIENDSHIP, WI.      | 
+| Description      | Adams-Friendship Area School District is a public school district located in Friendship, WI.      | 
 | Leak Size      | Unknown      | 
 
