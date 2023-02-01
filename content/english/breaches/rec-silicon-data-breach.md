@@ -2,7 +2,7 @@
 date: "2022-12-12"
 discovered: "December 12, 2022"
 title: "REC Silicon"
-image: "images/blog/RansomEXX.png"
+image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
 ---
