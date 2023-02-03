@@ -1,7 +1,7 @@
 ---
 date: "2023-02-03"
 discovered: "February 03, 2023"
-title: "Bet Rivkah"
+title: "Beth Rivkah"
 image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
