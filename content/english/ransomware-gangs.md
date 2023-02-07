@@ -145,6 +145,8 @@ layout: "elements"
 | <a href="http://hxt254aygrsziejn.onion.ws">NEFILIM</a>     | Tor     | OFFLINE     |
 | <a href="http://zjoxyw5mkacojk5ptn2iprkivg5clow72mjkyk5ttubzxprjjnwapkad.onion.ws">NEMTY</a>     | Tor     | OFFLINE     |
 | <a href="http://rnfdsgm6wb6j6su5txkekw4u4y47kp2eatvu7d6xhyn5cs4lt4pdrqqd.onion.ws">NETWALKER</a>     | Tor     | OFFLINE     |
+| <a href="http://nevcorps5cvivjf6i2gm4uia7cxng5ploqny2rgrinctazjlnqr2yiyd.onion.ws">NEVADA</a>     | Tor     | ONLINE     |
+| <a href="http://nevbackvzwfu5yu3gszap77bg66koadds6eln37gxdhdk4jdsbkayrid.onion.ws">NEVADA</a>     | Tor     | ONLINE     |
 | <a href="http://gg5ryfgogainisskdvh4y373ap3b2mxafcibeh2lvq5x7fx76ygcosad.onion.ws">NightSky</a>     | Tor     | OFFLINE     |
 | <a href="http://lirncvjfmdhv6samxvvlohfqx7jklfxoxj7xn3fh7qeabs3taemdsdqd.onion.ws">NOKOYAWA</a>     | Tor     | OFFLINE     |
 | <a href="http://6yofnrq7evqrtz3tzi3dkbrdovtywd35lx3iqbc5dyh367nrdh4jgfyd.onion.ws">NOKOYAWA</a>     | Tor     | ONLINE     |
