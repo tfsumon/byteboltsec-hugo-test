@@ -65,6 +65,8 @@ layout: "elements"
 | <a href="http://dgnh6p5uq234zry7qx7bh73hj5ht3jqisgfet6s7j7uyas5i46xfdkyd.onion.ws">DAGON LOCKER </a>     | Tor     | OFFLINE     |
 | <a href="http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion.ws">DAIXIN</a>     | Tor     | ONLINE     |
 | <a href="https://wemo2ysyeq6km2nqhcrz63dkdhez3j25yw2nvn7xba2z4h7v7gyrfgid.onion.ws">DARK ANGELS</a>     | Tor     | OFFLINE     |
+| <a href="http://iw6v2p3cruy7tqfup3yl4dgt4pfibfa3ai4zgnu5df2q3hus3lm7c7ad.onion.ws/support">DARKBIT01</a>     | Tor     | ONLINE     |
+| <a href="http://iw6v2p3cruy7tqfup3yl4dgt4pfibfa3ai4zgnu5df2q3hus3lm7c7ad.onion.ws">DARKBIT01</a>     | Tor     | ONLINE     |
 | <a href="https://darkrypt.io">DARKRYPT</a>     | Clearnet     | OFFLINE     |
 | <a href="http://darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion.ws">DARKSIDE</a>     | Tor     | OFFLINE     |
 | <a href="https://sbc2zv2qnz5vubwtx3aobfpkeao6l4igjegm3xx7tk5suqhjkp5jxtqd.onion.ws">DONUT BLOG</a>     | Tor     | OFFLINE     |
@@ -146,8 +148,9 @@ layout: "elements"
 | <a href="http://hxt254aygrsziejn.onion.ws">NEFILIM</a>     | Tor     | OFFLINE     |
 | <a href="http://zjoxyw5mkacojk5ptn2iprkivg5clow72mjkyk5ttubzxprjjnwapkad.onion.ws">NEMTY</a>     | Tor     | OFFLINE     |
 | <a href="http://rnfdsgm6wb6j6su5txkekw4u4y47kp2eatvu7d6xhyn5cs4lt4pdrqqd.onion.ws">NETWALKER</a>     | Tor     | OFFLINE     |
-| <a href="http://nevcorps5cvivjf6i2gm4uia7cxng5ploqny2rgrinctazjlnqr2yiyd.onion.ws">NEVADA</a>     | Tor     | ONLINE     |
-| <a href="http://nevbackvzwfu5yu3gszap77bg66koadds6eln37gxdhdk4jdsbkayrid.onion.ws">NEVADA</a>     | Tor     | ONLINE     |
+| <a href="http://nevcorps5cvivjf6i2gm4uia7cxng5ploqny2rgrinctazjlnqr2yiyd.onion.ws">NEVADA DLS</a>     | Tor     | ONLINE     |
+| <a href="http://nevbackvzwfu5yu3gszap77bg66koadds6eln37gxdhdk4jdsbkayrid.onion.ws">NEVADA BACKEND</a>     | Tor     | OFFLINE     |
+| <a href="http://nevaffcwswjosddmw55qhn4u4secw42wlppzvf26k5onrlxjevm6avad.onion.ws/">NEVADA AFFILIATES</a>     | Tor     | OFFLINE     |
 | <a href="http://gg5ryfgogainisskdvh4y373ap3b2mxafcibeh2lvq5x7fx76ygcosad.onion.ws">NightSky</a>     | Tor     | OFFLINE     |
 | <a href="http://lirncvjfmdhv6samxvvlohfqx7jklfxoxj7xn3fh7qeabs3taemdsdqd.onion.ws">NOKOYAWA</a>     | Tor     | OFFLINE     |
 | <a href="http://6yofnrq7evqrtz3tzi3dkbrdovtywd35lx3iqbc5dyh367nrdh4jgfyd.onion.ws">NOKOYAWA</a>     | Tor     | ONLINE     |
@@ -197,6 +200,7 @@ layout: "elements"
 | <a href="http://x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion.ws">SUNCRYPT </a>     | Tor     | ONLINE     |
 | <a href="http://xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion.ws">SynACK </a>     | Tor     | OFFLINE     |
 | <a href="http://unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion.ws">UNSAFE</a>     | Tor     | ONLINE     |
+| <a href="http://test.cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion.ws">V IS VENDETTA</a>     | Tor     | ONLINE     |
 | <a href="http://vfokxcdzjbpehgit223vzdzwte47l3zcqtafj34qrr26htjo4uf3obid.onion.ws">VFOKX </a>     | Tor     | OFFLINE     |
 | <a href="http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion.ws">VFOKX </a>     | Tor     | OFFLINE     |
 | <a href="http://4hzyuotli6maqa4u.onion.ws">VICE SOCIETY</a>     | Tor     | OFFLINE     |
