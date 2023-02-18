@@ -1,7 +1,7 @@
 ---
 date: "2023-02-17"
 discovered: "February 17, 2023"
-title: "MVictimNameI Electric"
+title: "M&I Electric"
 image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
