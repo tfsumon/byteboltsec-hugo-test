@@ -83,7 +83,7 @@ layout: "elements"
 | **ast**      | add/delete the asset you wish to monitor<br>must be used in conjunction with the action parameter      |
 | **lic**      | license key<br>can be sent via a GET parameter or request header      |
 | **notify**      | add/delete the email address or webhook you wish to receive alerts at<br>must be used in conjunction with the action parameter      |
-| **creds**      | add/delete the basic auth credentials you wish to use when sending an alert to a webhook<br>must be used in conjunction with the action and notify parameters      |
+| **creds**      | add/delete the basic auth credentials you wish to use when sending an alert to a webhook<br>must be used in conjunction with the action parameter      |
 
 ### Output :
 | JSON Key           | Value             |
