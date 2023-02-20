@@ -9,7 +9,7 @@ layout: "elements"
 **Creds** - focuses on 3rd party breaches that contain credentials<br>
 **Darkweb** - focuses on company data being leaked or sold on the darkweb<br>
 **monitor** - manages monitored assets<br>
-**Sessions** - focuses on credentials sniffed from malware infected computers<br>
+**Sessions** - focuses on session tokens sniffed from malware infected computers<br>
 **Stealer** - focuses on credentials sniffed from malware infected computers
 {{< tabs >}}
   {{< tab "Creds API" >}}
