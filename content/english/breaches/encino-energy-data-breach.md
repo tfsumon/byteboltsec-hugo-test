@@ -1,7 +1,7 @@
 ---
 date: "2023-02-23"
 discovered: "February 23, 2023"
-title: "Kerber, Eck & Braeckel"
+title: "Encino Energy"
 image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | kebcpa.com      | 
+| Victim      | encinoenergy.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Feb 23, 2023      | 
-| Description      | Kerber, Eck & Braeckel LLP (KEB) provides a full range of accounting, tax and management consulting services to our diverse base of clients.      | 
-| Leak Size      | 309GB      | 
+| Description      | Encino Energy is one of the largest private natural gas and oil producers in the U.S. and a top 25 North American natural gas producer.      | 
+| Leak Size      | 400GB      | 
 

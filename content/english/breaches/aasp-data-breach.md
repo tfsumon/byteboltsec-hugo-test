@@ -1,7 +1,7 @@
 ---
 date: "2023-02-23"
 discovered: "February 23, 2023"
-title: "Azienda Ospedaliera di Alessandria (AOAL)"
+title: "AASP"
 image: "images/blog/Ragnar_Locker.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | ospedale.al.it      | 
+| Victim      | aasp.org.br      | 
 | Threat Actor      | Ragnar_Locker      | 
 | Date Discovered      | Feb 23, 2023      | 
-| Description      | Azienda Ospedaliera di Alessandria (AOAL) is a hospital and health care company based out of Via Venezia 16, , Alessandria, Alessandria, Italy.      | 
+| Description      | AASP is the largest association of lawyers in Latin America.      | 
 | Leak Size      | Unknown      | 
 
