@@ -28,7 +28,8 @@ layout: "elements"
 | **json**      |  display results in JSON format (default is CSV)     |
 | **lic**      | license key<br>can be sent via a GET parameter or request header      |
 | **list**      | list the breaches and dates they were imported      |
-| **p**      | results are limited to 500 credentials per request<br>when an HTTP 206 response status is returned, pagination is required to view the remaining results.<br>p is a numeric page value      |
+| **limit**      | increase / decrease the number of records returned in the response      |
+| **p**      | results are limited to 500 credentials per request (by default)<br>when an HTTP 206 response status is returned, pagination is required to view the remaining results.<br>p is a numeric page value      |
 | **r**      | return the number of remaining monthly queries allowed      |
 | **search**      | accepts a domain name or email address      | 
 | **update**      | return the Unix timestamp the creds database was last updated      |
