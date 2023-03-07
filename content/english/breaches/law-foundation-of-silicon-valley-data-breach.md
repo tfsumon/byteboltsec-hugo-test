@@ -1,7 +1,7 @@
 ---
 date: "2023-03-07"
 discovered: "March 07, 2023"
-title: "Law Mar 07, 2023ation of Silicon Valley"
+title: "Law Foundation of Silicon Valley"
 image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
