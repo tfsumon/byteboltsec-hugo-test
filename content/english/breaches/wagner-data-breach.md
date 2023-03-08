@@ -1,7 +1,7 @@
 ---
 date: "2023-03-08"
 discovered: "March 08, 2023"
-title: "ARC"
+title: "Wagner"
 image: "images/blog/Blackbyte.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | a-erc.com      | 
+| Victim      | wagnerequipment.com      | 
 | Threat Actor      | Blackbyte      | 
 | Date Discovered      | Mar 08, 2023      | 
-| Description      | ARC provide world-class printing and scanning services.      | 
+| Description      | Wagner Equipment Co.has been selling and renting quality Cat machines used in heavy construction, building construction, mining, waste handling, paving, municipal and governmental applications, forestry and more.      | 
 | Leak Size      | Unknown      | 
 
