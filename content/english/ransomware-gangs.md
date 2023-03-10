@@ -68,6 +68,7 @@ layout: "elements"
 | <a href="http://iw6v2p3cruy7tqfup3yl4dgt4pfibfa3ai4zgnu5df2q3hus3lm7c7ad.onion/support">DARKBIT01</a>     | Tor     | ONLINE     |
 | <a href="http://iw6v2p3cruy7tqfup3yl4dgt4pfibfa3ai4zgnu5df2q3hus3lm7c7ad.onion">DARKBIT01</a>     | Tor     | ONLINE     |
 | <a href="https://darkrypt.io">DARKRYPT</a>     | Clearnet     | OFFLINE     |
+| <a href="http://powerj7kmpzkdhjg4szvcxxgktgk36ezpjxvtosylrpey7svpmrjyuyd.onion/">DARKPOWER</a>     | Tor     | ONLINE     |
 | <a href="http://darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion">DARKSIDE</a>     | Tor     | OFFLINE     |
 | <a href="https://sbc2zv2qnz5vubwtx3aobfpkeao6l4igjegm3xx7tk5suqhjkp5jxtqd.onion">DONUT BLOG</a>     | Tor     | OFFLINE     |
 | <a href="https://doq32rjiuomfghm5a4lyf3lwwakt2774tkv4ppsos6ueo5mhx7662gid.onion">DONUT DLS</a>     | Tor     | OFFLINE     |
