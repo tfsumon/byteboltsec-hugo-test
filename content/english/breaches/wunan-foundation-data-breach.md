@@ -1,7 +1,7 @@
 ---
 date: "2023-03-13"
 discovered: "March 13, 2023"
-title: "Wunan Mar 13, 2023ation"
+title: "Wunan Foundation"
 image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
