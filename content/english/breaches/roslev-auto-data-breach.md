@@ -1,7 +1,7 @@
 ---
 date: "2023-03-22"
 discovered: "March 22, 2023"
-title: "Baker Mechanical"
+title: "Roslev Auto"
 image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | bakermech.com      | 
+| Victim      | roslevauto.dk      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Mar 22, 2023      | 
-| Description      | Baker Mechanical Inc. is a fully licensed and insured mechanical contractor, serving the HVAC and plumbing industries.      | 
+| Description      | Roslev Auto is a company that operates in the Automotive industry.      | 
 | Leak Size      | Unknown      | 
 

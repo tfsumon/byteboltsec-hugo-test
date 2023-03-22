@@ -1,7 +1,7 @@
 ---
 date: "2023-03-22"
 discovered: "March 22, 2023"
-title: "Baker Mechanical"
+title: "Mangia"
 image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | bakermech.com      | 
+| Victim      | mangiainc.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Mar 22, 2023      | 
-| Description      | Baker Mechanical Inc. is a fully licensed and insured mechanical contractor, serving the HVAC and plumbing industries.      | 
+| Description      | Mangia, Inc.™ is an Italian producer and exporter of Italian tomatoes and beans produced in Italy and sold through food service & retail distributors.      | 
 | Leak Size      | Unknown      | 
 
