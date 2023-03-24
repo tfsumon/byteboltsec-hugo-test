@@ -9,7 +9,7 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | bnamericas.com      | 
+| Victim      | zeusol.com.pe      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Mar 22, 2023      | 
 | Description      | Zeus Energy S.A.C. (Zeus Energy), a company operating mainly in the Electric Power sector.      | 

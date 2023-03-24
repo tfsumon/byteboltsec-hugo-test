@@ -1,7 +1,7 @@
 ---
 date: "2023-03-24"
 discovered: "March 24, 2023"
-title: "Phoenix"
+title: "Cineplex"
 image: "images/blog/CL0P.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | phoenix.tech      | 
+| Victim      | cineplex.com      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Mar 24, 2023      | 
-| Description      | Phoenix Technologies offers machine-independent BIOS software for the digital devices industry.      | 
+| Description      | Cineplex Entertainment is a Canadian brand that operates in the Film Entertainment and Content, Amusement and Leisure, and Media sectors.      | 
 | Leak Size      | Unknown      | 
 

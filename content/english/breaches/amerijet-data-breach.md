@@ -1,7 +1,7 @@
 ---
 date: "2023-03-24"
 discovered: "March 24, 2023"
-title: "Phoenix"
+title: "Amerijet"
 image: "images/blog/CL0P.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | phoenix.tech      | 
+| Victim      | amerijet.com      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Mar 24, 2023      | 
-| Description      | Phoenix Technologies offers machine-independent BIOS software for the digital devices industry.      | 
+| Description      | Amerijet International founded in 1974, is an American cargo airline headquartered in Miami, Florida, United States.      | 
 | Leak Size      | Unknown      | 
 

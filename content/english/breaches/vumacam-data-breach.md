@@ -1,7 +1,7 @@
 ---
 date: "2023-03-24"
 discovered: "March 24, 2023"
-title: "Phoenix"
+title: "Vumacam"
 image: "images/blog/CL0P.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | phoenix.tech      | 
+| Victim      | vumacam.co.za      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Mar 24, 2023      | 
-| Description      | Phoenix Technologies offers machine-independent BIOS software for the digital devices industry.      | 
+| Description      | Vumacam is South Africa's first and only video management-as-a-service provider.      | 
 | Leak Size      | Unknown      | 
 

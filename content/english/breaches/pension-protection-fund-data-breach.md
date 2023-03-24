@@ -1,7 +1,7 @@
 ---
 date: "2023-03-24"
 discovered: "March 24, 2023"
-title: "Phoenix"
+title: "Pension Protection Fund"
 image: "images/blog/CL0P.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | phoenix.tech      | 
+| Victim      | ppf.co.uk      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Mar 24, 2023      | 
-| Description      | Phoenix Technologies offers machine-independent BIOS software for the digital devices industry.      | 
+| Description      | The Pension Protection Fund (PPF) protects people with a defined benefit pension when an employer becomes insolvent.      | 
 | Leak Size      | Unknown      | 
 

@@ -1,7 +1,7 @@
 ---
 date: "2023-03-24"
 discovered: "March 24, 2023"
-title: "Phoenix"
+title: "Gray Television"
 image: "images/blog/CL0P.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | phoenix.tech      | 
+| Victim      | gray.tv      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Mar 24, 2023      | 
-| Description      | Phoenix Technologies offers machine-independent BIOS software for the digital devices industry.      | 
+| Description      | Gray Television is a leading digital media and broadcasting company, owning and operating top ranking local news stations, digital and mobile platforms in 57 markets across the United States.      | 
 | Leak Size      | Unknown      | 
 
