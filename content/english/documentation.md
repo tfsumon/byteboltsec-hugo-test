@@ -94,7 +94,6 @@ layout: "elements"
 | ast      | asset that will be monitored      |
   {{< /tab >}}
 
-  {{< tab "Sessions API" >}}
   {{< tab "Radar API" >}}
 ### Endpoint :
 | Domain Name           | Path             | 
@@ -119,6 +118,7 @@ layout: "elements"
 | found      | The date the data was indexed (in YYYYMMDD format)      |
  
   {{< /tab >}}
+  {{< tab "Sessions API" >}}
 ### Endpoint :
 | Domain Name           | Path             | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
