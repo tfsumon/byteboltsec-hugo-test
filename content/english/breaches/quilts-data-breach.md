@@ -1,7 +1,7 @@
 ---
 date: "2023-04-06"
 discovered: "April 06, 2023"
-title: "UnitedLex"
+title: "Quilts"
 image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | unitedlex.com      | 
+| Victim      | quilts.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Apr 06, 2023      | 
-| Description      | UnitedLex is a data and professional services company delivering outcomes that create value for high-performing law firms and corporate legal departments in the areas of litigation, intellectual property, contracts, compliance, and legal operations.      | 
+| Description      | Quilts is a quilting conglomerate which operates expos and artist residence programs for the quilting and soft crafts industries.      | 
 | Leak Size      | Unknown      | 
 

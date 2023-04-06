@@ -1,7 +1,7 @@
 ---
 date: "2023-04-06"
 discovered: "April 06, 2023"
-title: "UnitedLex"
+title: "Palm Hills Developments"
 image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | unitedlex.com      | 
+| Victim      | palmhillsdevelopments.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Apr 06, 2023      | 
-| Description      | UnitedLex is a data and professional services company delivering outcomes that create value for high-performing law firms and corporate legal departments in the areas of litigation, intellectual property, contracts, compliance, and legal operations.      | 
+| Description      | Palm Hills Developments is Egypt's leading real estate developer, primarily focused on integrated residential, commercial real estate as well as resort.      | 
 | Leak Size      | Unknown      | 
 
