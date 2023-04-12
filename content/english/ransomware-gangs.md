@@ -202,7 +202,7 @@ layout: "elements"
 | <a href="http://zj2ex44e2b2xi43m2txk4uwi3l55aglsarre7repw7rkfwpj54j46iqd.onion">SPARTA</a>     | Tor     | OFFLINE     |
 | <a href="http://spookuhvfyxzph54ikjfwf2mwmxt572krpom7reyayrmxbkizbvkpaid.onion/blog">SPOOK DATA</a>     | Tor     | OFFLINE     |
 | <a href="http://3slz4povugieoi3tw7sblxoowxhbzxeju427cffsst5fo2tizepwatid.onion">STORMOUS</a>     | Tor     | OFFLINE     |
-| <a href="http://h3reihqb2y7woqdary2g3bmk3apgtxuyhx4j2ftovbhe3l5svev7bdyd.onion">STORMOUS</a>     | Tor     | ONLINE     |
+| <a href="http://h3reihqb2y7woqdary2g3bmk3apgtxuyhx4j2ftovbhe3l5svev7bdyd.onion">STORMOUS</a>     | Tor     | OFFLINE     |
 | <a href="http://chat5sqrnzqewampznybomgn4hf2m53tybkarxk4sfaktwt7oqpkcvyd.onion/gate.php?data=">SUGAR </a>     | Tor     | OFFLINE     |
 | <a href="http://nbzzb6sa6xuura2z.onion">SUNCRYPT </a>     | Tor     | OFFLINE     |
 | <a href="http://x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion">SUNCRYPT </a>     | Tor     | ONLINE     |
