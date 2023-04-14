@@ -34,7 +34,7 @@ layout: "elements"
 | <a href="http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion">BABUK </a>     | Tor     | OFFLINE     |
 | <a href="http://nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion">BABUK</a>     | Tor     | ONLINE     |
 | <a href="http://babydovegkmhbontykziyq7qivwzy33mu4ukqefe4mqpiiwd3wibnjqd.onion">BABYDUCK </a>     | Tor     | OFFLINE     |
-| <a href="http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion">BIANLIAN</a>     | Tor     | OFFLINE     |
+| <a href="http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion">BIANLIAN</a>     | Tor     | ONLINE     |
 | <a href="http://mmeeiix2ejdwkmseycljetmpiwebdvgjts75c63camjofn2cjdoulzqd.onion">BIT/LOLKEK/GLOBEIMPOSTER </a>     | Tor     | OFFLINE     |
 | <a href="http://nclen75pwlgebpxpsqhlcnxsmdvpyrr7ogz36ehhatfmkvakeyden6ad.onion">BIT/LOLKEK/GLOBEIMPOSTER </a>     | Tor     | OFFLINE     |
 | <a href="http://obzuqvr5424kkc4unbq2p2i67ny3zngce3tbdr37nicjqesgqcgomfqd.onion">BIT/LOLKEK/GLOBEIMPOSTER </a>     | Tor     | ONLINE     |
