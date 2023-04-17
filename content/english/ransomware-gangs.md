@@ -61,6 +61,7 @@ layout: "elements"
 | <a href="http://z6mikrtphid5fmn52nbcbg25tj57sowlm3oc25g563yvsfmygkcxqbyd.onion">COOMINGPROJECT </a>     | Tor     | OFFLINE     |
 | <a href="http://ncpbxzcgdeprrbba7dgodmymdewy57yokkebuwhmuywiuz5kqjwepbad.onion">CRIMSON WALRUS</a>     | Tor     | OFFLINE     |
 | <a href="http://d57uremugxjrafyg.onion">CRYLOCK </a>     | Tor     | OFFLINE     |
+| <a href="http://cryptr3fmuv4di5uiczofjuypopr63x2gltlsvhur2ump4ebru2xd3yd.onion">CRYPTNET </a>     | Tor     | ONLINE     |
 | <a href="http://7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion">CRYP70N1C0D3</a>     | Tor     | OFFLINE     |
 | <a href="http://cuba4mp6ximo2zlo.onion">CUBA </a>     | Tor     | OFFLINE     |
 | <a href="http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion">CUBA</a>     | Tor     | ONLINE     |
