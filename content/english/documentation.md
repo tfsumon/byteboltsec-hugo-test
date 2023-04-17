@@ -6,7 +6,6 @@ layout: "elements"
 ---
 
 ### API Documentation
-**Combo** - focuses on combo lists that contain plaintext credentials<br>
 **Creds** - focuses on 3rd party breaches that contain credentials<br>
 **Darkweb** - focuses on company data being leaked or sold on the darkweb<br>
 **Monitor** - manages monitored assets<br>
