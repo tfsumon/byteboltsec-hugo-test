@@ -6,12 +6,14 @@ layout: "elements"
 ---
 
 ### API Documentation
+**Combo** - focuses on combo lists that contain plaintext credentials<br>
 **Creds** - focuses on 3rd party breaches that contain credentials<br>
 **Darkweb** - focuses on company data being leaked or sold on the darkweb<br>
 **Monitor** - manages monitored assets<br>
 **Radar** - focuses on domains that threat actors have announced as targets<br>
 **Sessions** - focuses on session tokens sniffed from malware infected devices<br>
 **Stealer** - focuses on credentials sniffed from malware infected devices
+
 {{< tabs >}}
   {{< tab "Combo API" >}}
 ### Endpoint :
