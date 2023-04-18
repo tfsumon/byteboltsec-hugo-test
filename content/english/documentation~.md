@@ -98,7 +98,7 @@ layout: "elements"
 | found      | The date the data was indexed (in YYYYMMDD format)      |
  
   {{< /tab >}}
-  {{< tab "monitor API" >}}
+  {{< tab "Monitor API" >}}
 ### Endpoint :
 | Domain Name           | Path             | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
