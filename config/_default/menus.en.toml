@@ -49,7 +49,7 @@ hasChildren = true
   
   [[main]]
   parent = "Resources"
-  name = "Steaker API"
+  name = "Stealer API"
   url = "stealer/"
   weight = 7
   
