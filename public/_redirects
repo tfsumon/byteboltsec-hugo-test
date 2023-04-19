@@ -1,8 +1,8 @@
 /legal* /terms-and-conditions 301
-/darkweb* https://api.breachsense.io/darkweb 301
-/creds* https://api.breachsense.io/creds 301
-/stealer* https://api.breachsense.io/stealer 301
-/sessions* https://api.breachsense.io/sessions 301
+/darkweb https://api.breachsense.io/darkweb 301
+/creds https://api.breachsense.io/creds 301
+/stealer https://api.breachsense.io/stealer 301
+/sessions https://api.breachsense.io/sessions 301
 /api* https://api.breachsense.io/creds 301
 /api3* https://api.breachsense.io/api3 301
 /blog/monitoring-dark-web* /dark-web-monitoring/ 302
