@@ -1,7 +1,7 @@
 ---
 date: "2023-04-20"
 discovered: "April 20, 2023"
-title: "Garrott Brothers"
+title: "Jaco Oil"
 image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | garrotbros.com      | 
+| Victim      | jaco.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Apr 20, 2023      | 
-| Description      | Garrott Brothers has been providing ready mix concrete to the Southern KY, Middle TN, and Upper Cumberland TN regions for over 70 years.      | 
+| Description      | Jaco Oil Company owns and operates a chain of gasoline stations.      | 
 | Leak Size      | Unknown      | 
 
