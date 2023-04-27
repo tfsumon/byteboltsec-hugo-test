@@ -1,7 +1,7 @@
 ---
 date: "2023-04-27"
 discovered: "April 27, 2023"
-title: "Intellicare"
+title: "SPI Group"
 image: "images/blog/CL0P.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | intellicare.com.ph      | 
+| Victim      | spi.co.za      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Apr 27, 2023      | 
-| Description      | Intellicare is a preeminent HMO, committed to lead, innovate, and trailblaze a holistic approach to healthcare management.      | 
+| Description      | SPI Group is the leading utility software company in South Africa and is focused on: Systems and Security management for Linux, Unix and Windows Output management and document creation, maintenance and delivery SPI has a strong but not exclusive focus on Open Systems.      | 
 | Leak Size      | Unknown      | 
 

@@ -1,7 +1,7 @@
 ---
 date: "2023-04-27"
 discovered: "April 27, 2023"
-title: "Sunny Designs"
+title: "MultiMedica"
 image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | sunnydesigns.com      | 
+| Victim      | multimedica.it      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Apr 27, 2023      | 
-| Description      | Sunny Designs is a manufacturer and wholesale distributor of furniture and accessory items.      | 
+| Description      | MultiMedica is a company that operates in the Hospital & Health Care industry.      | 
 | Leak Size      | Unknown      | 
 

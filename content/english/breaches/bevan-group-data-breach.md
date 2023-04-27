@@ -1,17 +1,17 @@
 ---
 date: "2023-04-27"
 discovered: "April 27, 2023"
-title: "Sunny Designs"
-image: "images/blog/LockBit.png"
+title: "Bevan Group"
+image: "images/blog/Medusa.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | sunnydesigns.com      | 
-| Threat Actor      | LockBit      | 
+| Victim      | bevangroup.com      | 
+| Threat Actor      | Medusa      | 
 | Date Discovered      | Apr 27, 2023      | 
-| Description      | Sunny Designs is a manufacturer and wholesale distributor of furniture and accessory items.      | 
+| Description      | Bevan Group company is a leading British supplier of commercial vehicle bodies, producing more than 60 commercial vehicle bodies every week.      | 
 | Leak Size      | Unknown      | 
 

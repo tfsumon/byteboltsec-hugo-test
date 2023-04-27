@@ -1,7 +1,7 @@
 ---
 date: "2023-04-27"
 discovered: "April 27, 2023"
-title: "Sunny Designs"
+title: "Silbon"
 image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | sunnydesigns.com      | 
+| Victim      | silbon.es      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Apr 27, 2023      | 
-| Description      | Sunny Designs is a manufacturer and wholesale distributor of furniture and accessory items.      | 
+| Description      | Silbon is a men's fashion brand.      | 
 | Leak Size      | Unknown      | 
 

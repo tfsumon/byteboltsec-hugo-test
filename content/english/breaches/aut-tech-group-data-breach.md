@@ -1,7 +1,7 @@
 ---
 date: "2023-04-27"
 discovered: "April 27, 2023"
-title: "Intellicare"
+title: "AUT-TECH Group"
 image: "images/blog/CL0P.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | intellicare.com.ph      | 
+| Victim      | aut-tech-group.com      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Apr 27, 2023      | 
-| Description      | Intellicare is a preeminent HMO, committed to lead, innovate, and trailblaze a holistic approach to healthcare management.      | 
+| Description      | AUT-TECH Group is a full service partner in mechanical engineering in design, production, plant planning, measurement, assembly and software development.      | 
 | Leak Size      | Unknown      | 
 
