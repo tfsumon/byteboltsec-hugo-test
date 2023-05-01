@@ -1,7 +1,7 @@
 ---
 date: "2023-04-28"
 discovered: "April 28, 2023"
-title: "Carlos Chagas Apr 28, 2023ation"
+title: "Carlos Chagas Foundation"
 image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
