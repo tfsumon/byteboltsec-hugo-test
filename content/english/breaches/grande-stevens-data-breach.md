@@ -1,8 +1,8 @@
 ---
-date: "2023-01-06"
-discovered: "January 06, 2023"
+Discovered: "August 29, 2022"
+date: "2022-08-29"
 title: "Grande Stevens"
-image: "images/blog/Blackbyte.png"
+image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
 ---
@@ -10,8 +10,8 @@ draft: false
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
 | Victim      | grandestevens.it      | 
-| Threat Actor      | Blackbyte      | 
-| Date     | Jan 06, 2023      | 
-| Description      | Grande Stevens provides legal assistance, both in transactional work and in litigation proceedings, in all areas of civil, corporate.      | 
-| Leak Size      | Unknown      | 
+| Threat Actor      | BlackByte      | 
+| Date Discovered      | Aug 29, 2022      | 
+| Description      | Grande Stevens Law Firm has provided legal assistance, both transactional and in litigation proceedings, in the areas of civil, commercial and corporate law for over fifty years.       | 
+| Leak Size      | N/A      | 
 

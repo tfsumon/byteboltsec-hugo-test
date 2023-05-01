@@ -1,0 +1,17 @@
+---
+Discovered: "January 18, 2022"
+date: "2022-01-18"
+title: "redbadge.com"
+image: "images/blog/ALPHV.png"
+author: "Breachsense Support"
+draft: false
+---
+
+| Data Breach Report         |              | 
+| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Victim    | redbadge.com      | 
+| Threat Actor    | ALPHV      | 
+| Date Discovered    | Jan 18, 2022      | 
+| Description    | N/A      | 
+| Leak Size    | N/A      | 
+

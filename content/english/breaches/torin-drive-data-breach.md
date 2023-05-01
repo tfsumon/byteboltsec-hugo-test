@@ -1,8 +1,8 @@
 ---
-date: "2023-01-06"
-discovered: "January 06, 2023"
+Discovered: "August 29, 2022"
+date: "2022-08-29"
 title: "Torin Drive"
-image: "images/blog/Blackbyte.png"
+image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
 ---
@@ -10,8 +10,8 @@ draft: false
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
 | Victim      | torindrive.com      | 
-| Threat Actor      | Blackbyte      | 
-| Date     | Jan 06, 2023      | 
-| Description      | Torin Drive is a manufacturer of elevator traction machines and lift components.      | 
-| Leak Size      | Unknown      | 
+| Threat Actor      | BlackByte      | 
+| Date Discovered      | Aug 29, 2022      | 
+| Description      | Machinery Manufacturing       | 
+| Leak Size      | N/A      | 
 

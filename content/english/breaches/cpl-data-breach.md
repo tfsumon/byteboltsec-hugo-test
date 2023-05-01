@@ -1,17 +1,17 @@
 ---
-date: "2023-01-30"
-discovered: "January 30, 2023"
+Discovered: "June 26, 2022"
+date: "2022-06-26"
 title: "CPL"
-image: "images/blog/LockBit.png"
+image: "images/blog/Breaches.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | cplindustries.co.uk      | 
-| Threat Actor      | LockBit      | 
-| Date Discovered      | Jan 30, 2023      | 
-| Description      | CPL is Europe's leading manufacturer of smokeless solid fuels, with a capacity of 500,000 tonnes per year.      | 
-| Leak Size      | Unknown      | 
+| Victim      | cplteam.com      | 
+| Threat Actor      | Black Basta      | 
+| Date Discovered      | Jun 26, 2022      | 
+| Description      | Archetecture, engineering & planning      | 
+| Leak Size      | N/A      | 
 

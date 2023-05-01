@@ -1,7 +1,7 @@
 ---
-date: "2023-02-02"
-discovered: "February 02, 2023"
-title: "Soto"
+Discovered: "December 07, 2022"
+date: "2022-12-07"
+title: "SOTO"
 image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
@@ -11,7 +11,7 @@ draft: false
 | :-----------: | :-------------:     |:-------------:    | :-----:|
 | Victim      | soto.com.au      | 
 | Threat Actor      | ALPHV      | 
-| Date Discovered      | Feb 02, 2023      | 
-| Description      | Soto provides a comprehensive range of engineering design services to the resources and heavy industry sectors.      | 
-| Leak Size      | Unknown      | 
+| Date Discovered      | Dec 07, 2022      | 
+| Description      | SOTO Consulting Engineers have delivered superior design solutions and project outcomes to the heavy industrial and mineral resource sectors for almost two decades.      | 
+| Leak Size      | 332GB      | 
 

@@ -1,7 +1,6 @@
 ---
-discovered: "January 04, 2022"
-Discovered: "January 04, 2023"
-date: "2023-01-04"
+Discovered: "December 27, 2022"
+date: "2022-12-27"
 title: "Furetank"
 image: "images/blog/Play.png"
 author: "Breachsense Support"
@@ -10,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | furetank.se      | 
+| Victim      | furetank.com      | 
 | Threat Actor      | Play      | 
-| Date Discovered      | Jan 04, 2023      | 
-| Description      | Furetank offers safe, efficient and environmentally sustainable logistics solutions to the oil and chemical industry, focusing on tanker shipping and maritime services.      | 
-| Leak Size      | Unknown      | 
+| Date Discovered      | Dec 27, 2022      | 
+| Description      | Furetank is a medium sized shipping company.      | 
+| Leak Size      | N/A      | 
 
