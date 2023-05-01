@@ -1,0 +1,17 @@
+---
+Discovered: "April 07, 2022"
+date: "2022-04-07"
+title: "mckenziehealth.org"
+image: "images/blog/Breaches.png"
+author: "Breachsense Support"
+draft: false
+---
+
+| Data Breach Report         |              | 
+| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Victim    | mckenziehealth.org      | 
+| Threat Actor    | AvosLocker      | 
+| Date Discovered    | Apr 07, 2022      | 
+| Description    | N/A      | 
+| Leak Size    | N/A      | 
+
