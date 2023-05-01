@@ -71,12 +71,6 @@ hasChildren = true
   url = "dark-web-monitoring/"
   weight = 9
   
-  [[main]]
-  parent = "Resources"
-  name = "Podcast"
-  url = "podcast/"
-  weight = 10
-
 [[main]]
 name = "About"
 url = "about/"
