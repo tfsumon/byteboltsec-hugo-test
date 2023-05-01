@@ -72,12 +72,6 @@ hasChildren = true
   weight = 9
 
 [[main]]
-name = "Ransomware Attacks"
-url = "ransomware/"
-weight = 7
-
-  
-[[main]]
 name = "About"
 url = "about/"
 weight = 8
