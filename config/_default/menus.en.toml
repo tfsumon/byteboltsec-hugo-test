@@ -70,11 +70,17 @@ hasChildren = true
   name = "Dark Web Monitoring"
   url = "dark-web-monitoring/"
   weight = 9
+
+[[main]]
+name = "Ransomware Attacks"
+url = "ransomware/"
+weight = 7
+
   
 [[main]]
 name = "About"
 url = "about/"
-weight = 7
+weight = 8
 
 [[main]]
 name = "Latest Breaches"
