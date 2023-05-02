@@ -10,54 +10,12 @@ weight = 1
 weight = 6
 name = "Resources"
 hasChildren = true
-  
+
   [[main]]
   parent = "Resources"
-  name = "Combo API Docs"
-  url = "combodoc/"
+  name = "Documentation"
+  url = "documentation/"
   weight = 1
-  
-  [[main]]
-  parent = "Resources"
-  name = "Creds API Docs"
-  url = "credsdoc/"
-  weight = 2
-  
-  [[main]]
-  parent = "Resources"
-  name = "Darkweb API Docs"
-  url = "darkwebdoc/"
-  weight = 3
-  
-  [[main]]
-  parent = "Resources"
-  name = "Monitor API Docs"
-  url = "monitordoc/"
-  weight = 4
-  
-  [[main]]
-  parent = "Resources"
-  name = "Radar API Docs"
-  url = "radardoc/"
-  weight = 5
-  
-  [[main]]
-  parent = "Resources"
-  name = "Sessions API Docs"
-  url = "sessionsdoc/"
-  weight = 6
-  
-  [[main]]
-  parent = "Resources"
-  name = "Stealer API Docs"
-  url = "stealerdoc/"
-  weight = 7
-  
-  [[main]]
-  parent = "Resources"
-  name = "Darkweb API Docs"
-  url = "darkwebdoc/"
-  weight = 3
   
   [[main]]
   parent = "Resources"
