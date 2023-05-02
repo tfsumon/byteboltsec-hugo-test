@@ -12,6 +12,6 @@ draft: false
 | Victim      | 2networkit.com      | 
 | Threat Actor      | Cuba      | 
 | Date Discovered      | Dec 15, 2022      | 
-| Description      | 2NetworkIT inc. focuses mainly on Information Technology (IT)      | 
+| Description      | 2NetworkIT Inc. focuses mainly on Information Technology (IT)      | 
 | Leak Size      |       | 
 
