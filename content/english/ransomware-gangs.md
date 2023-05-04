@@ -60,7 +60,9 @@ layout: "elements"
 | <a href="http://teo7aj5mfgzxyeme.onion">COOMINGPROJECT </a>     | Tor     | OFFLINE     |
 | <a href="http://z6mikrtphid5fmn52nbcbg25tj57sowlm3oc25g563yvsfmygkcxqbyd.onion">COOMINGPROJECT </a>     | Tor     | OFFLINE     |
 | <a href="http://ncpbxzcgdeprrbba7dgodmymdewy57yokkebuwhmuywiuz5kqjwepbad.onion">CRIMSON WALRUS</a>     | Tor     | OFFLINE     |
+| <a href="http://crosslock5cwfljbw4v37zuzq4talxxhyavjm2lufmjwgbpfjdsh56yd.onion">CROSSLOCK</a>     | Tor     | ONLINE     |
 | <a href="http://d57uremugxjrafyg.onion">CRYLOCK </a>     | Tor     | OFFLINE     |
+| <a href="http://blog6zw62uijolee7e6aqqnqaszs3ckr5iphzdzsazgrpvtqtjwqryid.onion">CRYPTNET</a>     | Tor     | ONLINE     |
 | <a href="http://cryptr3fmuv4di5uiczofjuypopr63x2gltlsvhur2ump4ebru2xd3yd.onion">CRYPTNET </a>     | Tor     | ONLINE     |
 | <a href="http://7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion">CRYP70N1C0D3</a>     | Tor     | OFFLINE     |
 | <a href="http://cuba4mp6ximo2zlo.onion">CUBA </a>     | Tor     | OFFLINE     |
@@ -117,7 +119,7 @@ layout: "elements"
 | <a href="http://lockbitaptstzf3er2lz6ku3xuifafq2yh5lmiqj5ncur6rtlmkteiqd.onion">LOCKBIT 2.0 </a>     | Tor     | OFFLINE     |
 | <a href="http://oyarbnujct53bizjguvolxou3rmuda2vr72osyexngbdkhqebwrzsnad.onion">LOCKBIT 2.0 </a>     | Tor     | OFFLINE     |
 | <a href="http://yq43odyrmzqvyezdindg2tokgogf3pn6bcdtvgczpz5a74tdxjbtk2yd.onion">LOCKBIT 2.0 </a>     | Tor     | OFFLINE     |
-| <a href="http://lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion">LOCKBIT 3.0 </a>     | Tor     | OnLINE     |
+| <a href="http://lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion">LOCKBIT 3.0 </a>     | Tor     | ONLINE     |
 | <a href="http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion">LOCKBIT 3.0 </a>     | Tor     | ONLINE     |
 | <a href="http://lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion">LOCKBIT 3.0 </a>     | Tor     | ONLINE     |
 | <a href="http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion">LOCKBIT 3.0 </a>     | Tor     | ONLINE     |
@@ -140,9 +142,9 @@ layout: "elements"
 | <a href="http://fvki3hj7uxuirxpeop6chgqoczanmebutznt2mkzy6waov6w456vjuid.onion">MARKETO </a>     | Tor     | OFFLINE     |
 | <a href="https://newsmaze.net">MAZE</a>     | Clearnet     | OFFLINE     |
 | <a href="http://xembshruusobgbvxg4tcjs3jpdnks6xrr6nbokfxadcnlc53yxir22ad.onion">MBC</a>     | Tor     | OFFLINE     |
-| <a href="http://qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion">MEDUSA LOCKER</a>     | Tor     | ONLINE     |
+| <a href="http://qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion">MEDUSA LOCKER </a>     | Tor     | ONLINE     |
 | <a href="http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion">MEDUSA</a>     | Tor     | ONLINE     |
-| <a href="http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion">MEDUSA </a>     | Tor     | OFFLINE     |
+| <a href="http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion">MEDUSA</a>     | Tor     | ONLINE     |
 | <a href="http://blogvl7tjyjvsfthobttze52w36wwiz34hrfcmorgvdzb6hikucb7aqd.onion">MONEYMESSAGE</a>     | Tor     | ONLINE     |
 | <a href="http://mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid.onion">MONTI</a>     | Tor     | ONLINE     |
 | <a href="http://woqjumaahi662ka26jzxyx7fznbp4kg3bsjar4b52tqkxgm2pylcjlad.onion/">NO NAME SPECIFIED</a>     | Tor     | ONLINE     |
@@ -208,6 +210,7 @@ layout: "elements"
 | <a href="http://nbzzb6sa6xuura2z.onion">SUNCRYPT </a>     | Tor     | OFFLINE     |
 | <a href="http://x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion">SUNCRYPT </a>     | Tor     | ONLINE     |
 | <a href="http://xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion">SynACK </a>     | Tor     | OFFLINE     |
+| <a href="http://6n5tfadusp4sarzuxntz34q4ohspiaya2mc6aw6uhlusfqfsdomavyyd.onion">TRIGONA</a>     | Tor     | ONLINE     |
 | <a href="http://unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion">UNSAFE</a>     | Tor     | ONLINE     |
 | <a href="http://test.cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion">V IS VENDETTA</a>     | Tor     | ONLINE     |
 | <a href="http://vfokxcdzjbpehgit223vzdzwte47l3zcqtafj34qrr26htjo4uf3obid.onion">VFOKX </a>     | Tor     | OFFLINE     |
