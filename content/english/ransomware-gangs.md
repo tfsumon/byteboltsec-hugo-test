@@ -50,6 +50,7 @@ layout: "elements"
 | <a href="http://blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion">BLACKMATTER</a>     | Tor     | OFFLINE     |
 | <a href="http://supp24maprinktc7uizgfyqhisx7lkszb6ogh6lwdzpac23w3mh4tvyd.onion/EWX33VYY3IGOXSG5ZZ2">BLACKMATTER Support</a>     | Tor     | OFFLINE     |
 | <a href="http://544corkfh5hwhtn4.onion">BLACK SHADOW</a>     | Tor     | OFFLINE     |
+| <a href="http://weg7sdx54bevnvulapqu6bpzwztryeflq3s23tegbmnhkbpqz637f2yd.onion">BLACK SUITE</a>     | Tor     | ONLINE     |
 | <a href="http://ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion">BLUE SKY </a>     | Tor     | ONLINE     |
 | <a href="http://bonacifryrxr4siz6ptvokuihdzmjzpveruklxumflz5thmkgauty2qd.onion">BONACI GROUP</a>     | Tor     | OFFLINE     |
 | <a href="http://rwiajgajdr4kzlnrj5zwebbukpcbrjhupjmk6gufxv6tg7myx34iocad.onion">CHEERS</a>     | Tor     | OFFLINE     |
