@@ -50,7 +50,7 @@ layout: "elements"
 | <a href="http://blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion">BLACKMATTER</a>     | Tor     | OFFLINE     |
 | <a href="http://supp24maprinktc7uizgfyqhisx7lkszb6ogh6lwdzpac23w3mh4tvyd.onion/EWX33VYY3IGOXSG5ZZ2">BLACKMATTER Support</a>     | Tor     | OFFLINE     |
 | <a href="http://544corkfh5hwhtn4.onion">BLACK SHADOW</a>     | Tor     | OFFLINE     |
-| <a href="http://weg7sdx54bevnvulapqu6bpzwztryeflq3s23tegbmnhkbpqz637f2yd.onion">BLACK SUITE</a>     | Tor     | ONLINE     |
+| <a href="http://weg7sdx54bevnvulapqu6bpzwztryeflq3s23tegbmnhkbpqz637f2yd.onion">BLACK SUIT</a>     | Tor     | ONLINE     |
 | <a href="http://ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion">BLUE SKY </a>     | Tor     | ONLINE     |
 | <a href="http://bonacifryrxr4siz6ptvokuihdzmjzpveruklxumflz5thmkgauty2qd.onion">BONACI GROUP</a>     | Tor     | OFFLINE     |
 | <a href="http://rwiajgajdr4kzlnrj5zwebbukpcbrjhupjmk6gufxv6tg7myx34iocad.onion">CHEERS</a>     | Tor     | OFFLINE     |
@@ -178,10 +178,12 @@ layout: "elements"
 | <a href="http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion/">QILIN</a>     | Tor     | ONLINE     |
 | <a href="http://gvka2m4qt5fod2fltkjmdk4gxh5oxemhpgmnmtjptms6fkgfzdd62tad.onion">QLOCKER</a>     | Tor     | OFFLINE     |
 | <a href="http://quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion">QUANTUM</a>     | Tor     | ONLINE     |
+| <a href="http://pa32ymaeu62yo5th5mraikgw5fcvznnsiiwti42carjliarodltmqcqd.onion">RA GROUP</a>     | Tor     | ONLINE     |
 | <a href="http://p6o7m73ujalhgkiv.onion">RAGNAR LOCKER</a>     | Tor     | OFFLINE     |
 | <a href="http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion">RAGNAR LOCKER</a>     | Tor     | ONLINE     |
 | <a href="http://sushlnty2j7qdzy64qnvyb6ajkwg7resd3p6agc2widnawodtcedgjid.onion">RAGNAROK</a>     | Tor     | OFFLINE     |
 | <a href="http://wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion">RAGNAROK</a>     | Tor     | OFFLINE     |
+| <a href="http://ze677xuzard4lx4iul2yzf5ks4gqqzoulgj5u4n5n4bbbsxjbfr7eayd.onion/">RANCOZ</a>     | Tor     | ONLINE     |
 | <a href="http://u67aylig7i6l657wxmp274eoilaowhp3boljowa6bli63rxyzfzsbtyd.onion">RANSOM CARTEL </a>     | Tor     | OFFLINE     |
 | <a href="http://cartelraqonekult2cxbzzz2ukiff7v6cav3w373uuhenybgqulxm5id.onion">RANSOM CARTEL </a>     | Tor     | OFFLINE     |
 | <a href="http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion">RANSOMEXX</a>     | Tor     | ONLINE     |
