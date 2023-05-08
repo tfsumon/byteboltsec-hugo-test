@@ -1,17 +1,17 @@
 ---
 date: "2023-05-08"
 discovered: "May 08, 2023"
-title: "Marshall "
-image: "images/blog/LockBit.png"
+title: "Grupo Cativa"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | marshallconstruction.co.uk      | 
-| Threat Actor      | LockBit      | 
+| Victim      | grupocativa.com.br      | 
+| Threat Actor      | ALPHV      | 
 | Date Discovered      | May 08, 2023      | 
-| Description      | Marshall Construction is one of Scotland’s foremost independent building contractors.      | 
+| Description      | Grupo Cativa is a company that operates in the Textiles industry.      | 
 | Leak Size      | Unknown      | 
 
