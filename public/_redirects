@@ -2,8 +2,8 @@
 /creds https://api.breachsense.io/creds 301
 /stealer https://api.breachsense.io/stealer 301
 /sessions https://api.breachsense.io/sessions 301
-/episode / 301
-/podcast / 301
+/episode* / 301
+/podcast* / 301
 /legal* /terms-and-conditions 301
 /api* https://api.breachsense.io/creds 301
 /api3* https://api.breachsense.io/api3 301
