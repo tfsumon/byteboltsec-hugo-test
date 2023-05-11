@@ -1,7 +1,7 @@
 ---
 date: "2023-05-11"
 discovered: "May 11, 2023"
-title: "New World Travel"
+title: "Novatech Engineering Consultants"
 image: "images/blog/Akira.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | newworldtravel.com      | 
+| Victim      | novatech-eng.com      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | May 11, 2023      | 
-| Description      | New World Travel, Inc. is a comprehensive receptive services prov ider for destinations throughout the USA and Canada.      | 
+| Description      | Novatech Engineering Consultants offers a wide range of engineeri ng and planning services to a diverse client base across urban an d rural eastern Ontario.      | 
 | Leak Size      | Unknown      | 
 

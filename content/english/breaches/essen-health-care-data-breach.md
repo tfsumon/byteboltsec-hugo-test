@@ -1,17 +1,17 @@
 ---
 date: "2023-05-11"
 discovered: "May 11, 2023"
-title: "New World Travel"
-image: "images/blog/Akira.png"
+title: "Essen Health Care"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | newworldtravel.com      | 
-| Threat Actor      | Akira      | 
+| Victim      | essenheathcare.com      | 
+| Threat Actor      | ALPHV      | 
 | Date Discovered      | May 11, 2023      | 
-| Description      | New World Travel, Inc. is a comprehensive receptive services prov ider for destinations throughout the USA and Canada.      | 
+| Description      | Essen Medical Associates PC is a company that operates in the Hospital & Health Care industry      | 
 | Leak Size      | Unknown      | 
 

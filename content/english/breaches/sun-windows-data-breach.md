@@ -1,7 +1,7 @@
 ---
 date: "2023-05-11"
 discovered: "May 11, 2023"
-title: "New World Travel"
+title: "Sun Windows"
 image: "images/blog/Akira.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | newworldtravel.com      | 
+| Victim      | sunwindows.com      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | May 11, 2023      | 
-| Description      | New World Travel, Inc. is a comprehensive receptive services prov ider for destinations throughout the USA and Canada.      | 
+| Description      | Sun Windows is a manufacturer of windows and doors for the reside ntial housing and light-commercial building industry.      | 
 | Leak Size      | Unknown      | 
 

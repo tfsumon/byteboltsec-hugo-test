@@ -10,7 +10,7 @@ draft: false
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
 | Victim      | cbelaw.com      | 
-| Threat Actor      | LockBit      | 
+| Threat Actor      |  LockBit     | 
 | Date Discovered      | May 10, 2023      | 
 | Description      | Cohen Buchan Edwards LLP is a full service law firm providing practical, client-oriented service that delivers results.      | 
 | Leak Size      | Unknown      | 

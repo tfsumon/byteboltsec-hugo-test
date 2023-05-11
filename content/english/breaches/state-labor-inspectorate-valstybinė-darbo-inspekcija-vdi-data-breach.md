@@ -1,17 +1,17 @@
 ---
 date: "2023-05-11"
 discovered: "May 11, 2023"
-title: "New World Travel"
-image: "images/blog/Akira.png"
+title: "State Labor Inspectorate (Valstybinė darbo inspekcija-VDI)"
+image: "images/blog/Cuba.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | newworldtravel.com      | 
-| Threat Actor      | Akira      | 
+| Victim      | vdi.lt      | 
+| Threat Actor      | Cuba      | 
 | Date Discovered      | May 11, 2023      | 
-| Description      | New World Travel, Inc. is a comprehensive receptive services prov ider for destinations throughout the USA and Canada.      | 
+| Description      | VDI's Facebook account publishes news on labor rights and worker safety and health      | 
 | Leak Size      | Unknown      | 
 

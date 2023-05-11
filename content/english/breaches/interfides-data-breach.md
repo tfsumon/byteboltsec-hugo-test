@@ -2,7 +2,7 @@
 date: "2023-05-10"
 discovered: "May 10, 2023"
 title: "Interfides"
-image: "images/blog/LockBit.png"
+image: "images/blog/.png"
 author: "Breachsense Support"
 draft: false
 ---

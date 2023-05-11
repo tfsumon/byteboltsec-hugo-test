@@ -1,17 +1,17 @@
 ---
 date: "2023-05-11"
 discovered: "May 11, 2023"
-title: "New World Travel"
-image: "images/blog/Akira.png"
+title: "Sauerbruch Hutton"
+image: "images/blog/Play.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | newworldtravel.com      | 
-| Threat Actor      | Akira      | 
+| Victim      | sauerbruchhutton.de      | 
+| Threat Actor      | Play      | 
 | Date Discovered      | May 11, 2023      | 
-| Description      | New World Travel, Inc. is a comprehensive receptive services prov ider for destinations throughout the USA and Canada.      | 
+| Description      | Sauerbruch Hutton is an international agency for architecture, urbanism and design, founded in 1989.      | 
 | Leak Size      | Unknown      | 
 
