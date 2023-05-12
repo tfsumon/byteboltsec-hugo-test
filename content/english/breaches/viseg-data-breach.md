@@ -1,7 +1,7 @@
 ---
-date: "2023-05-10"
-discovered: "May 10, 2023"
-title: "Interfides"
+date: "2023-05-12"
+discovered: "May 12, 2023"
+title: "Viseg"
 image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | interfides.de      | 
+| Victim      | viseg.com      | 
 | Threat Actor      | LockBit      | 
-| Date Discovered      | May 10, 2023      | 
-| Description      | Interfides specializes in tax advice for foreign clients in Germany.      | 
+| Date Discovered      | May 12, 2023      | 
+| Description      | Viseg is a leader in the distribution of safety glass products.      | 
 | Leak Size      | Unknown      | 
 
