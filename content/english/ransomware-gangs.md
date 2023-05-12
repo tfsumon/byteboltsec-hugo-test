@@ -30,7 +30,7 @@ layout: "elements"
 | <a href="http://l5cjga2ksw6rxumu5l4xxn3cmahhi2irkbwg3amx6ajroyfmfgpfllid.onion">ATOMSILO</a>     | Tor     | OFFLINE     |
 | <a href="http://avaddongun7rngel.onion">AVADDON</a>     | Tor     | OFFLINE     |
 | <a href="http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion">AVOS</a>     | Tor     | ONLINE     |
-| <a href="http://avos2fuj6olp6x36.onion">AVOS </a>     | Tor     | OFFLINE     |
+| <a href="http://avosjon4pfh3y7ew3jdwz6ofw7lljcxlbk7hcxxmnxlh5kvf2akcqjad.onion">AVOS </a>     | Tor     | ONLINE     |
 | <a href="http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion">BABUK </a>     | Tor     | OFFLINE     |
 | <a href="http://nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion">BABUK</a>     | Tor     | ONLINE     |
 | <a href="http://babydovegkmhbontykziyq7qivwzy33mu4ukqefe4mqpiiwd3wibnjqd.onion">BABYDUCK </a>     | Tor     | OFFLINE     |
