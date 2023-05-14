@@ -19,7 +19,7 @@
       </div>
       <div class="col-lg-8">
         <div class="mb-5">
-          <h2>{{.Title | markdownify}}</h2>
+          <h1>{{.Title | markdownify}}</h1>
           {{ $publishDate := .PublishDate.Format "Jan 02, 2006" }}
           {{ with site.GetPage (string .Params.Author | urlize | lower) }}
           <div class="d-flex align-items-center card-author mt-4">
