@@ -1,13 +1,11 @@
 ---
 date: "2023-05-14"
 title: "Small Business Data Breach Consequences"
-image: "images/blog/What Is a Data Breach All You Need to Know in 2023.png"
+image: "images/blog/10 Small Business Data Breach Consequences in 2023.png"
 description: "Small business data breach consequences can be devastating. Learn how to protect your business with the best practices."
 author: "Breachsense"
 draft: false
 ---
-
-# 10 Small Business Data Breach Consequences in 2023
 
 Small businesses are a prime target for cybercriminals due to their lack of resources and focus on security.
 
@@ -90,4 +88,4 @@ With Breachsense's real-time alerts, [dark web monitoring](https://www.breachsen
 
 Don't leave your company's security to chance. 
 
-[Book a demo!](https://www.breachsense.io/book-demo/) 
+[Book a demo](https://www.breachsense.io/book-demo/)! 
