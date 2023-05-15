@@ -6,6 +6,7 @@ description: "Small business data breach consequences can be devastating. Learn 
 author: "Breachsense"
 draft: false
 ---
+
 Small businesses are a prime target for cybercriminals due to their lack of resources and focus on security.
 
 Unfortunately, the consequences of a data breach can be catastrophic for a small business, leading to not only financial losses but also damage to reputation and loss of customer trust. 

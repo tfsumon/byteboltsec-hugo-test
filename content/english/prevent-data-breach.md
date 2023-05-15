@@ -6,6 +6,7 @@ description: "Looking to prevent a data breach? Secure your business against dat
 author: "Breachsense"
 draft: false
 ---
+
 The potential consequences of a data breach are severe, including financial loss, legal obligations, and reputational damage.
 
 But, there’s light at the end of the tunnel!

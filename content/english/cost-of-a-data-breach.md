@@ -6,6 +6,7 @@ description: "Discover the staggering cost of a data breach & why you need to pr
 author: "Breachsense"
 draft: false
 ---
+
 According to the “Cost of Data Breach Report” by IBM and the Ponemon Institute, the financial impact of a data breach continues to rise, reaching a record high of $4.35 million in 2022. 
 
 In fact, experts predict that this trend will continue in 2023, with average costs potentially reaching up to $5 million.

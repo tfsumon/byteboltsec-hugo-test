@@ -1,11 +1,12 @@
 ---
 date: "2023-05-14"
 title: "How Do Data Breaches Impact Healthcare in 2023?"
-image: "/images/blog/How Do Data Breaches Impact Healthcare in 2023.png"
+image: "images/blog/How Do Data Breaches Impact Healthcare in 2023.png"
 description: "Is your healthcare data safe in 2023? Discover the consequences of data breaches in healthcare & what that means for your organization."
 author: "Breachsense"
 draft: false
 ---
+
 As we venture further into the digital age, the healthcare industry finds itself grappling with an unsettling issue in 2023 - data breaches. 
 
 With digital systems becoming more deeply embedded in the industry, healthcare providers and patients face growing concerns over the security of sensitive information. 
