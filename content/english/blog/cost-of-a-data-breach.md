@@ -52,7 +52,7 @@ The data shows that in 2022, the most common way that cyber attackers gained acc
 
 Compromised credentials accounted for almost 20 percent of all data breaches, underlining the importance of strong password hygiene and employee security training.
 
-The report also highlights other concerning trends, such as the rising cost of [data breaches caused by third-party vendors](https://www.breachsense.io/third-party-data-breach/), which increased to $4.55 million in 2022. The cost associated with system errors also jumped significantly by $480,000.
+The report also highlights other concerning trends, such as the rising cost of [data breaches caused by third-party vendors](https://www.breachsense.io/blog/third-party-data-breach/), which increased to $4.55 million in 2022. The cost associated with system errors also jumped significantly by $480,000.
 
 On the other hand, some attack vectors saw a decrease in associated breach damage costs, including business email compromise, social engineering, accidental data loss, and malicious insiders. 
 ### #6. 83% Of the Organizations Experienced More Than One Data Breach
@@ -66,7 +66,7 @@ The report shows the average time to identify and control a breach was 277 days,
 
 Ransomware breaches were found to be the most challenging to detect, with an average detection time of 49 days. Supply chain breaches also took longer to identify, with a 26-day longer detection period than other types of breaches.
 
-The impact of the breach detection time emphasizes the importance of having a well-thought-out [data breach response plan](https://www.breachsense.io/data-breach-response-plan/) for identifying and addressing security risks in a timely manner.
+The impact of the breach detection time emphasizes the importance of having a well-thought-out [data breach response plan](https://www.breachsense.io/blog/data-breach-response-plan/) for identifying and addressing security risks in a timely manner.
 ### #8. Industries Without Zero Trust Strategies Deployed Had Significantly Higher Data Breach Costs Than Average
 The implementation of [zero-trust architecture](https://en.wikipedia.org/wiki/Zero_trust_security_model) seems to have a positive impact on reducing data breach costs for organizations.
 
@@ -106,7 +106,7 @@ That's a significant 58 percent difference, with breach costs totaling $3.26 mil
 ## How Long Do Data Breaches Impact Businesses and Organizations?
 The financial repercussions of a data breach extend beyond its immediate aftermath and can persist for multiple years.
 
-[Highly-regulated industries such as healthcare](https://www.breachsense.io/impact-of-data-breach-healthcare/) and financial services were found to experience the most severe long-term effects of a data breach, with costs rising in the second and third years, compared to less regulated industries.
+[Highly-regulated industries such as healthcare](https://www.breachsense.io/blog/impact-of-data-breach-healthcare/) and financial services were found to experience the most severe long-term effects of a data breach, with costs rising in the second and third years, compared to less regulated industries.
 
 The study showed that 24 percent of the data breach costs in highly regulated industries were incurred more than two years after the breach, whereas, in low regulatory environments, the corresponding figure was only 8 percent. 
 ## How Long is the Average Data Breach Lifecycle?
@@ -120,7 +120,7 @@ Interestingly, this 277-day average is consistent with the average over the past
 
 To mitigate the negative impact on both finances and reputation, organizations must aim to minimize the duration of the data breach lifecycle as much as possible.
 ## What Was the Biggest Data Breach Contributor in 2022?
-In the realm of cybersecurity, stolen or compromised credentials were identified as the primary [cause of data breaches](https://www.breachsense.io/data-breach-causes/) in 2022. 
+In the realm of cybersecurity, stolen or compromised credentials were identified as the primary [cause of data breaches](https://www.breachsense.io/blog/data-breach-causes/) in 2022. 
 
 This attack vector accounted for 19 percent of all breaches analyzed, with an average cost of $4.5 million. It was also the top cause of breaches in the previous year's study, with 20 percent of breaches attributed to it.
 
@@ -143,7 +143,7 @@ For a comprehensive breakdown of the average cost of data breaches in various co
 ## Conclusion
 The financial impact of data breaches is a growing concern for organizations worldwide. In light of the increasing frequency and sophistication of cyber attacks, it is crucial to adopt a proactive approach to safeguard sensitive data. 
 
-Breachsense is an innovative platform that offers real-time alerts whenever your user's credentials appear in [data breaches on the dark web](https://www.breachsense.io/dark-web-monitoring/), allowing you to act quickly to prevent further damage. 
+Breachsense is an innovative platform that offers real-time alerts whenever your user's credentials appear in [data breaches on the dark web](https://www.breachsense.io/blog/dark-web-monitoring/), allowing you to act quickly to prevent further damage. 
 
 The flexible integration of Breachsense makes it easy to implement into your existing security protocols and start protecting your organization immediately. 
 

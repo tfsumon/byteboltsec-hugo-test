@@ -105,7 +105,7 @@ Terminating a relationship with a vendor may be a difficult decision, particular
 
 Therefore, it is essential to have a contingency plan in place to ensure that the termination of a vendor relationship does not cause any disruption to your organization's operations. This plan should involve finding alternative vendors or in-house solutions to replace the services provided by them.
 ### #8. Implement Strict Password Policies and Multi-Factor Authentication
-According to Verizon Data Breach Investigations, most cyber attacks are a result of passwords that are either weak or have been compromised. Not just that, but the probability of credentials [being exposed on the dark web](https://www.breachsense.io/dark-web-monitoring) increases when the same password is utilized across various accounts.
+According to Verizon Data Breach Investigations, most cyber attacks are a result of passwords that are either weak or have been compromised. Not just that, but the probability of credentials [being exposed on the dark web](https://www.breachsense.io/blog/dark-web-monitoring) increases when the same password is utilized across various accounts.
 
 Implementing strict password policies and requiring multi-factor authentication (MFA) for vendors accessing your systems is essential if you want to avoid that.
 
@@ -148,7 +148,7 @@ Additionally, it highlights the importance of providing comprehensive training t
 ## 3 Examples of Third-Party Data Breaches 
 Curious about some other examples of third-party data breaches that “made headlines?” 
 
-The following will convince you just how important it is for your business to have a [strong data breach response plan](https://www.breachsense.io/data-breach-response-plan/) in place: 
+The following will convince you just how important it is for your business to have a [strong data breach response plan](https://www.breachsense.io/blog/data-breach-response-plan/) in place: 
 
 * **Microsoft**: In early 2021, Microsoft experienced a major data breach that exposed sensitive information from its Exchange email service. The hackers were able to access email accounts and other data by installing web shells, which are malicious scripts that allow them to remotely control a compromised server. The web shells enabled hackers to steal sensitive data, such as email messages, contact lists, and calendar entries.
 * **Uber**: In December 2022, Uber, the global ride-hailing giant, suffered a third-party data breach due to a compromised vendor. Teqtivity, an IT asset tracking, monitoring, and management service provider, confirmed that a hacker had breached its systems and accessed email addresses and other information relating to more than 77,000 Uber employees.
@@ -164,4 +164,4 @@ With over 30 billion breached credentials and growing, Breachsense has the data 
 
 Let Breachsense's offense become your defense. 
 
-[Book a demo today](https://www.breachsense.io/book-demo/#book-demo).
+[Book a demo today](https://www.breachsense.io/book-demo/).

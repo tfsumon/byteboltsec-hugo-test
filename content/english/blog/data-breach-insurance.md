@@ -58,7 +58,7 @@ In the event of a data breach impacting your company, both insurance categories 
 
 However, only cyber insurance offers legal safeguards - referred to as third-party coverage.
 
-Put simply, data breach insurance addresses expenses directly related to a data breach, such as forgone revenue and credit [monitoring services](https://www.breachsense.io/dark-web-monitoring), while cyber insurance also covers legal costs and potential regulatory penalties.
+Put simply, data breach insurance addresses expenses directly related to a data breach, such as forgone revenue and credit [monitoring services](https://www.breachsense.io/blog/dark-web-monitoring), while cyber insurance also covers legal costs and potential regulatory penalties.
 
 Data breach insurance additionally protects against losses not involving a computer. 
 
@@ -66,15 +66,15 @@ For instance, if an individual gains unauthorized access to a medical facility's
 ## FAQs on Data Breach Insurance
 Do you still have some questions on data breach insurance? Check out our answers to the most frequently asked questions below: 
 ### #1. What Is a Data Breach?
-A [data breach](https://www.breachsense.io/what-is-a-data-breach/) is an unauthorized access to or acquisition of sensitive, confidential, or personal data that can result in financial, reputational, or legal harm to individuals or businesses.
+A [data breach](https://www.breachsense.io/blog/what-is-a-data-breach/) is an unauthorized access to or acquisition of sensitive, confidential, or personal data that can result in financial, reputational, or legal harm to individuals or businesses.
 ### #2. What Are Some Examples of Data Breaches?
-There have been several high-profile [data breach cases](https://www.breachsense.io/data-breach-examples/) over the past few years that have impacted millions of individuals and organizations. Among them are:
+There have been several high-profile [data breach cases](https://www.breachsense.io/blog/data-breach-examples/) over the past few years that have impacted millions of individuals and organizations. Among them are:
 
 * **The Equifax breach** in 2017, exposed the personal information of approximately 147 million people, including their names, birth dates, Social Security numbers, and addresses.
 * **The Yahoo breach** in 2013, which remains one of the largest data breaches in history, affected all 3 billion user accounts at the time. The breach compromised users' email addresses, passwords, and other sensitive information.
 * **The First American Financial Corp. data breach** in 2019, where 85 million files were exposed, including bank account numbers, bank statements, mortgage payment documents, and driver's licenses. 
 ### #3. What Are the Most Common Causes of Data Breaches?
-The [causes of a data breach](https://www.breachsense.io/third-party-data-breach/) can differ significantly due to multiple factors such as the techniques employed by cybercriminals, the nature of the targeted organization, and other aspects.
+The [causes of a data breach](https://www.breachsense.io/blog/third-party-data-breach/) can differ significantly due to multiple factors such as the techniques employed by cybercriminals, the nature of the targeted organization, and other aspects.
 
 Some of the most common causes of data breaches include hacking, malware, phishing attacks, insider threats, leaked or stolen credentials, and human error.
 ## Conclusion

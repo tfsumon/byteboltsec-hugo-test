@@ -95,7 +95,7 @@ The decentralized nature of the affected systems made it impossible for Microsof
 In this section, we will explore three common causes of data breaches and leaks to gain a better understanding of their potential impact: 
 
 ### #1. Weak and Compromised User Credentials
-Weak and stolen credentials are among the most common [causes of data breaches](https://www.breachsense.io/data-breach-causes/). While passwords are often used to protect sensitive data, they can also be the weakest link in cybersecurity. 
+Weak and stolen credentials are among the most common [causes of data breaches](https://www.breachsense.io/blog/data-breach-causes/). While passwords are often used to protect sensitive data, they can also be the weakest link in cybersecurity. 
 
 To reduce the risk of weak and stolen credentials, companies should not only implement strong password policies but also ensure that they have a robust cybersecurity monitoring program in place to detect and respond to potential breaches.
 
@@ -111,7 +111,7 @@ Malware is a type of software designed to damage, disrupt or gain unauthorized a
 
 Once it infects a system, it can cause significant damage, such as stealing sensitive information, disrupting system operations, encrypting files, and rendering systems unusable.
 ## 4 Types of Data Breach
-To effectively safeguard your organization's data, it's important to understand the various [types of data breaches](https://www.breachsense.io/data-breach-types/) that can occur. Below we will cover four of the most common types of data breaches:
+To effectively safeguard your organization's data, it's important to understand the various [types of data breaches](https://www.breachsense.io/blog/data-breach-types/) that can occur. Below we will cover four of the most common types of data breaches:
 ### #1. Ransomware
 Ransomware is malicious software that encrypts files stored on electronic devices, rendering them inaccessible to the owner. The latest versions of ransomware are increasingly sophisticated, with some even corrupting or erasing data.
 
@@ -135,7 +135,7 @@ XSS attacks can be prevented by implementing proper input sanitization and valid
 ## 6 Ways to Prevent a Data Breach
 Data breaches can be a costly and damaging experience for your company. 
 
-In this section, we'll share six tried-and-true ways to [prevent data breaches](https://www.breachsense.io/prevent-data-breach/) and keep your sensitive information secure, starting with:
+In this section, we'll share six tried-and-true ways to [prevent data breaches](https://www.breachsense.io/blog/prevent-data-breach/) and keep your sensitive information secure, starting with:
 ### #1. Multi-Factor Authentication
 Multi-factor authentication (MFA) is an effective way to prevent unauthorized access to sensitive data. 
 
@@ -149,7 +149,7 @@ Encryption is a crucial security measure that can prevent data breaches by rende
 
 It works by converting plain text into cipher text using advanced mathematical algorithms that are almost impossible to decipher without the appropriate decryption key.
 ### #4. Dark Web Monitoring
-Businesses can use [dark web monitoring](https://www.breachsense.io/dark-web-monitoring/) services to detect if any of their confidential data, such as leaked passwords, intellectual property, or other sensitive information, is being shared on the dark web. 
+Businesses can use [dark web monitoring](https://www.breachsense.io/blog/dark-web-monitoring/) services to detect if any of their confidential data, such as leaked passwords, intellectual property, or other sensitive information, is being shared on the dark web. 
 
 These services use a combination of HumanInt, and OSINT, as well as automated or AI-powered scanning tools to search through billions of pages on the dark web constantly. 
 
@@ -163,9 +163,9 @@ Regular employee training on data security best practices is a must when it come
 
 Employees should be educated on how to identify and respond to potential security threats such as phishing attacks and other forms of social engineering.
 ## 4 Ways to Recover From a Data Breach
-A [data breach](https://www.breachsense.io/what-is-a-data-breach/) can lead to severe consequences, including financial losses, reputation damage, and identity theft. If a company falls victim to a data breach, it's crucial to take immediate action to contain the breach.
+A [data breach](https://www.breachsense.io/blog/what-is-a-data-breach/) can lead to severe consequences, including financial losses, reputation damage, and identity theft. If a company falls victim to a data breach, it's crucial to take immediate action to contain the breach.
 
-Here are four important steps that organizations can take [in the aftermath of a data breach](https://www.breachsense.io/what-should-a-company-do-after-a-data-breach/) to recover:
+Here are four important steps that organizations can take [in the aftermath of a data breach](https://www.breachsense.io/blog/what-should-a-company-do-after-a-data-breach/) to recover:
 ### #1. Contain the Breach
 The first and most critical step in dealing with a cyber attack is to contain the potential damage by identifying and isolating affected systems. 
 

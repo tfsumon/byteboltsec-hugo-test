@@ -22,7 +22,7 @@ Data breaches are most common in industries that are dealing with large amounts 
 ## 4 Types of Data Breaches
 With the persistent threat of data breaches affecting organizations of all types and sizes, it is important to understand the different types of data breaches that could impact your business. 
 
-Here are four of the most common [data breach types](https://www.breachsense.io/data-breach-types/): 
+Here are four of the most common [data breach types](https://www.breachsense.io/blog/data-breach-types/): 
 ### #1. Double Extortion Ransomware
 Double extortion ransomware is a technique used by threat actors to increase pressure on victims during a ransomware attack. 
 
@@ -46,9 +46,9 @@ Keyloggers can be implemented as either hardware or software and can be installe
 
 Once installed, the keylogger runs in the background, silently registering all the user’s keystrokes and sending the data to the attacker's command and control server.
 ## 5 Data Breach Causes
-Understanding the main causes that can lead to a data breach is the first step in [preventing a data breach](https://www.breachsense.io/prevent-data-breach/) from happening to your organization. 
+Understanding the main causes that can lead to a data breach is the first step in [preventing a data breach](https://www.breachsense.io/blog/prevent-data-breach/) from happening to your organization. 
 
-Here are some of the most common [data breach causes](https://www.breachsense.io/data-breach-causes/) to look out for:
+Here are some of the most common [data breach causes](https://www.breachsense.io/blog/data-breach-causes/) to look out for:
 ### #1. Malware
 Malware is a type of software that is designed to cause harm or damage to a computer system, network, or device. 
 
@@ -74,7 +74,7 @@ Attackers can exploit unpatched vulnerabilities or zero-day vulnerabilities by u
 
 The impact of unpatched vulnerabilities can be significant, as it can create a ripple effect on other systems and networks that are connected to the affected system, leading to broader security concerns.
 ### #5. Third-party Breaches
-A [third-party breach](https://www.breachsense.io/third-party-data-breach/) refers to a data breach that occurs due to a security vulnerability of a third-party service provider or vendor that an organization uses to store or process data. 
+A [third-party breach](https://www.breachsense.io/blog/third-party-data-breach/) refers to a data breach that occurs due to a security vulnerability of a third-party service provider or vendor that an organization uses to store or process data. 
 
 This type of breach is becoming increasingly common as organizations continue to rely on third-party vendors such as cloud service providers, marketing agencies, or contractors, for various services and functions.
 
@@ -92,7 +92,7 @@ If the company fails to prevent a data breach, especially one that involves sens
 
 The reputational damage caused by a data breach can have long-term impacts on your company's bottom line and can be challenging to repair.
 
-Studies indicate that as many as 33% of customers in the retail, finance, and [healthcare industries](https://www.breachsense.io/impact-of-data-breach-healthcare/) may cease doing business with companies that have experienced a breach. 
+Studies indicate that as many as 33% of customers in the retail, finance, and [healthcare industries](https://www.breachsense.io/blog/impact-of-data-breach-healthcare/) may cease doing business with companies that have experienced a breach. 
 
 Furthermore, 85% of customers are likely to share their negative experiences with others and about 33.5% will resort to social media to express their displeasure.
 ### #3. Legal Repercussions
@@ -112,7 +112,7 @@ Biometric data is especially valuable to cybercriminals and can lead to more sev
 
 The primary reason for this heightened risk is that, unlike passwords or account numbers, biometric data, such as fingerprints, facial features, or iris patterns, are intrinsic to an individual and cannot be changed. 
 
-That’s why it's crucial to have a [data breach response plan](https://www.breachsense.io/data-breach-response-plan/) in place to protect data privacy and reduce threats to your organization. 
+That’s why it's crucial to have a [data breach response plan](https://www.breachsense.io/blog/data-breach-response-plan/) in place to protect data privacy and reduce threats to your organization. 
 ### #5. Disruptions to Business Operations
 A data breach can cause a significant amount of chaos and confusion within your organization, which can lead to delays in daily business operations. 
 
@@ -120,9 +120,9 @@ If the breach involves sensitive information, there may be a need to shut down e
 
 The time and resources required to address the breach, identify the root cause, and implement remediation measures can also lead to significant disruptions. 
 ## 4 Data Breach Examples
-If a data breach takes place, private and sensitive information could be stolen and exchanged [on the dark web](https://www.breachsense.io/dark-web-monitoring/)) or sold to third parties.
+If a data breach takes place, private and sensitive information could be stolen and exchanged [on the dark web](https://www.breachsense.io/blog/dark-web-monitoring/)) or sold to third parties.
 
-Below we will delve into some [examples of the biggest breaches](https://www.breachsense.io/data-breach-examples/) that led to the exposure of millions of users:
+Below we will delve into some [examples of the biggest breaches](https://www.breachsense.io/blog/data-breach-examples/) that led to the exposure of millions of users:
 ### #1. First American Financial Corp.
 The First American Financial Corp. data breach occurred in May 2019 when a vulnerability in the company's website exposed sensitive documents related to real estate transactions, dating back to 2003.
 

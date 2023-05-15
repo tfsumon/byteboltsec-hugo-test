@@ -16,11 +16,11 @@ In this article, we deep dive into how data breaches impact healthcare in 2023 b
 ## What Is a Data Breach in Healthcare?
 A data breach occurs when Protected Health Information (PHI) is accessed or disclosed by unauthorized parties. PHI refers to any information that can be used to identify an individual, including their health status and healthcare services provided to them. 
 
-[Data breaches](https://www.breachsense.io/what-is-a-data-breach/) in the healthcare industry are a major concern as they can lead to significant harm to patients and their privacy, as well as severe financial consequences for the medical practice.
+[Data breaches](https://www.breachsense.io/blog/what-is-a-data-breach/) in the healthcare industry are a major concern as they can lead to significant harm to patients and their privacy, as well as severe financial consequences for the medical practice.
 
 Specifically, such breaches can lead to identity theft, insurance fraud, and even medical malpractice.
 
-Healthcare data is becoming an increasingly attractive target for cybercriminals. This is because such data can [be sold for up to ten times](https://www.reuters.com/article/us-cybersecurity-hospitals-idUSKCN0HJ21I20140924) the amount that credit card information can fetch on the [black market](https://www.breachsense.io/dark-web-monitoring/).
+Healthcare data is becoming an increasingly attractive target for cybercriminals. This is because such data can [be sold for up to ten times](https://www.reuters.com/article/us-cybersecurity-hospitals-idUSKCN0HJ21I20140924) the amount that credit card information can fetch on the [black market](https://www.breachsense.io/blog/dark-web-monitoring/).
 ## 4 Impacts of Data Breaches in Healthcare
 In the ever-evolving world of healthcare, data breaches are a constant threat that can result in a range of negative consequences for patients and healthcare organizations alike. 
 
@@ -46,9 +46,9 @@ Medical identity theft occurs when someone steals a person's personal health inf
 
 Victims of medical identity theft may face difficulty accessing healthcare services and may experience harm as a result of incorrect medical treatment based on false information in their records.
 ## How Do Data Breaches Happen?
-Whether it's a malicious malware attack or a [third-party data breach](https://www.breachsense.io/third-party-data-breach/), the risk of sensitive data being compromised is a constant concern for healthcare providers. 
+Whether it's a malicious malware attack or a [third-party data breach](https://www.breachsense.io/blog/third-party-data-breach/), the risk of sensitive data being compromised is a constant concern for healthcare providers. 
 
-Below, we'll explore some of the primary [causes leading to a data breach](https://www.breachsense.io/data-breach-causes/):
+Below, we'll explore some of the primary [causes leading to a data breach](https://www.breachsense.io/blog/data-breach-causes/):
 
 * **Hacking and IT incidents**: Hacking and IT incidents are one of the most common causes of data breaches, accounting for [80% of all healthcare data breaches in 2022](https://fortifiedhealthsecurity.com/mediacoverage/bonus-features-february-5-2023-78-of-data-breaches-result-from-hacks-or-it-incidents-nova-scotia-taps-oracle-cerner-for-ehr-modernization-and-more/). Hackers use various techniques such as phishing, malware, exploiting leaked credentials, and brute-force attacks to gain unauthorized access to systems and steal sensitive information.
 * **Insider threats**: Employees or contractors with access to sensitive data can intentionally or unintentionally expose this information by sharing it with unauthorized individuals, misusing it, or falling victim to a phishing scam.
@@ -86,6 +86,6 @@ But you’re not alone in this.
 
 Breachsense offers comprehensive and proactive cybersecurity solutions to help businesses and organizations in every industry effectively manage data breaches.
 
-We can help you avoid data breaches by alerting you in real-time when your user credentials appear in data breaches on the [dark web](https://www.breachsense.io/dark-web-monitoring/), allowing you to proactively reset stolen credentials before hackers can exploit them.
+We can help you avoid data breaches by alerting you in real-time when your user credentials appear in data breaches on the [dark web](https://www.breachsense.io/blog/dark-web-monitoring/), allowing you to proactively reset stolen credentials before hackers can exploit them.
 
-Don’t waste any time - [book a demo](https://www.breachsense.io/book-demo/#book-demo)!
+Don’t waste any time - [book a demo](https://www.breachsense.io/book-demo/)!

@@ -80,7 +80,7 @@ Prompt data breach notifications can help affected parties manage their risk and
 #### Cyber Insurance Companies
 Cyber liability insurance is highly recommended, especially for companies operating with critical data. 
 
-Although it doesn't [prevent data breaches](https://www.breachsense.io/prevent-data-breach/), it can cover financial damages resulting from a breach, such as the costs of investigating and responding to the incident, potential legal fees, and damages resulting from lawsuits.
+Although it doesn't [prevent data breaches](https://www.breachsense.io/blog/prevent-data-breach/), it can cover financial damages resulting from a breach, such as the costs of investigating and responding to the incident, potential legal fees, and damages resulting from lawsuits.
 #### Staff and Third-Party Entities 
 Companies should also inform internal staff about the data breach and the steps being taken to resolve the issue. Third-party agencies affected by the breach, such as vendors, contractors, or suppliers, should also be notified.  
 
@@ -98,19 +98,19 @@ This will make it impossible for another hacker to replicate the previous initia
 
 It’s important to perform security testing on an annual basis, as well as before pushing any significant changes to production. 
 ### #6. Implement Fresh Measures for Data Security Governance
-After a [data breach](https://www.breachsense.io/what-is-a-data-breach/), the company needs to conduct an internal review of its policies and identify any security gaps that led to the incident. 
+After a [data breach](https://www.breachsense.io/blog/what-is-a-data-breach/), the company needs to conduct an internal review of its policies and identify any security gaps that led to the incident. 
 
-To prevent the chance of another breach, you should also update your security measures. It is also necessary to review incident [response plans](https://www.breachsense.io/data-breach-response-plan/) to ensure they cover all potential attack scenarios and have clear response procedures. 
+To prevent the chance of another breach, you should also update your security measures. It is also necessary to review incident [response plans](https://www.breachsense.io/blog/data-breach-response-plan/) to ensure they cover all potential attack scenarios and have clear response procedures. 
 
 If the plans are unclear, they should be revised.
 
 Business continuity and disaster recovery plans are also essential to maintain operations in the event of a breach. Regular reviews of all plans - incident response, business continuity, and disaster recovery - are necessary.
 
-Having an incident response team in place can help reduce the [cost of damages](https://www.breachsense.io/cost-of-a-data-breach/) resulting from a breach. A designated individual or team, such as a Chief Information Security Officer (CISO) or Chief Information Officer (CIO), can lead the response effort and assemble IT security response teams dedicated to protecting customer data.
+Having an incident response team in place can help reduce the [cost of damages](https://www.breachsense.io/blog/cost-of-a-data-breach/) resulting from a breach. A designated individual or team, such as a Chief Information Security Officer (CISO) or Chief Information Officer (CIO), can lead the response effort and assemble IT security response teams dedicated to protecting customer data.
 ## 5 Common Data Breach Causes
 According to the [IBM 2021 Cost of a Data Breach Report](https://www.ibm.com/reports/data-breach), compromised or stolen login credentials were not only the primary cause of data breaches but also the hardest to identify.
 
-Wondering what else leads to a data breach? Let's delve into five of the most common [data breach causes](https://www.breachsense.io/data-breach-causes/):
+Wondering what else leads to a data breach? Let's delve into five of the most common [data breach causes](https://www.breachsense.io/blog/data-breach-causes/):
 ### #1. Weak and Compromised User Credentials
 Weak and stolen credentials are among the most common causes of data breaches. Passwords are often the first line of defense for protecting sensitive data, but they are also the weakest link in cybersecurity. 
 
@@ -134,7 +134,7 @@ Malware comes in different forms, including viruses, worms, Trojan horses, spywa
 
 Once malware infects a system, it can cause significant damage, including stealing sensitive information, disrupting system operations, encrypting files, and rendering systems unusable.
 ### #4. Third-Party Breaches
-A [third-party data breach](https://www.breachsense.io/third-party-data-breach/) refers to a situation where your data is compromised, not due to a direct attack on your systems, but rather due to a data breach toward a third-party vendor or partner who has access to or stores your data.
+A [third-party data breach](https://www.breachsense.io/blog/third-party-data-breach/) refers to a situation where your data is compromised, not due to a direct attack on your systems, but rather due to a data breach toward a third-party vendor or partner who has access to or stores your data.
 
 Third-party vendors refer to any external parties with whom a company shares its data, such as cloud service providers, marketing agencies, or contractors.
 
@@ -148,8 +148,8 @@ In the event of a data breach, taking swift and decisive action is crucial to co
 
 Breachsense offers comprehensive and proactive cybersecurity solutions to help businesses effectively manage data breaches.
 
-The platform can help you avoid third-party data breaches by alerting you in real-time when your user's credentials appear in data breaches on the [dark web](https://www.breachsense.io/dark-web-monitoring/), allowing you to proactively reset stolen credentials before hackers can exploit them.
+The platform can help you avoid third-party data breaches by alerting you in real-time when your user's credentials appear in data breaches on the [dark web](https://www.breachsense.io/blog/dark-web-monitoring/), allowing you to proactively reset stolen credentials before hackers can exploit them.
 
 With Breachsense, businesses can strengthen their cybersecurity defenses, minimize the risk of data breaches, and safeguard their critical data. 
 
-[Book a demo](https://www.breachsense.io/book-demo/#book-demo). 
+[Book a demo](https://www.breachsense.io/book-demo/). 

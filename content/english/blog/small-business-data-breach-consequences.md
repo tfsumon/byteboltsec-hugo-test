@@ -19,7 +19,7 @@ In this article, we’ll explore the consequences of small business data breache
 ## 3 Short-Term Consequences of Data Breaches for Small Businesses
 While most people are aware of the general harm that data breaches can cause to businesses, the short-term and immediate effects are often overlooked. 
 
-However, the immediate [consequences of a data breach](https://www.breachsense.io/impact-of-data-breach-healthcare/) can be just as devastating to an organization's finances.
+However, the immediate [consequences of a data breach](https://www.breachsense.io/blog/impact-of-data-breach-healthcare/) can be just as devastating to an organization's finances.
 
 In this section we will delve into three of the most common consequences your small business may face in the aftermath of a data breach:
 
@@ -41,11 +41,11 @@ Five of the potential long-term consequences of small business data breaches inc
 ## How to Avoid Data Breaches as a Small Business
 As a small business owner, keeping your sensitive information secure is crucial for the success of your business. 
 
-By taking proactive measures to [prevent data breaches](https://www.breachsense.io/prevent-data-breach/), you can protect your business from potential financial and reputational harm.
+By taking proactive measures to [prevent data breaches](https://www.breachsense.io/blog/prevent-data-breach/), you can protect your business from potential financial and reputational harm.
 
 Here are five best practices to consider:
 ### #1. Creаte a Comprehensive Security Plan
-Small businesses face serious cybersecurity threats from sophisticated and organized criminals, which means that having [a data breach response plan](https://www.breachsense.io/data-breach-response-plan/) in place to counter those threats is crucial. 
+Small businesses face serious cybersecurity threats from sophisticated and organized criminals, which means that having [a data breach response plan](https://www.breachsense.io/blog/data-breach-response-plan/) in place to counter those threats is crucial. 
 
 While a cybersecurity plan doesn't need to be overly complex or expensive, it does need to be tailored to your business's unique needs. 
 
@@ -73,7 +73,7 @@ Strong authentication involves using more than one form of identity verification
 ## Types of Data Breaches
 As data breaches continue to pose a significant risk to businesses, it's crucial to have an understanding of the different types of data breaches that can affect your organization. 
 
-Below are three common [types of data breaches](https://www.breachsense.io/data-breach-types/) that you should be aware of:
+Below are three common [types of data breaches](https://www.breachsense.io/blog/data-breach-types/) that you should be aware of:
 
 * **Ransomware**: ransomware is a form of malware that aims to deny access to a victim's computer system or data until a ransom is paid. It usually works by encrypting the victim's files to make them inaccessible and then requesting payment in return for the decryption key.
 * **Recording Keystrokes**: Keylogging, or keystroke recording, is an initial attack vector technique where cybercriminals use a software or hardware device to record the keys struck on a keyboard without the user's knowledge. 
@@ -83,7 +83,7 @@ In conclusion, safeguarding your company's sensitive data should be a top priori
 
 Cyber threats are on the rise and staying ahead of potential data breaches is essential.
 
-With Breachsense's real-time alerts, [dark web monitoring](https://www.breachsense.io/dark-web-monitoring/) for leaked company information, and seamless integration, you can take a proactive approach to protect your organization's data against cybercriminals. 
+With Breachsense's real-time alerts, [dark web monitoring](https://www.breachsense.io/blog/dark-web-monitoring/) for leaked company information, and seamless integration, you can take a proactive approach to protect your organization's data against cybercriminals. 
 
 Don't leave your company's security to chance. 
 
