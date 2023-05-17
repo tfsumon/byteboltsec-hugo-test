@@ -21,14 +21,16 @@ A third-party [data breach](https://www.breachsense.io/) happens when an unautho
 Third-party vendors can refer to any external parties that a company shares its data with, such as cloud service providers, marketing agencies, or contractors. 
 
 As third-party vendors often have access to an organization's most confidential information, including financial records, customer data, and intellectual property, these breaches can be extremely risky.
+
+*Check out these [other types of data breaches](https://breachsense.io/blog/data-breach-types/) to make sure your organization is safe from harm.*
 ## 10 Steps to Prevent Third-Party Data Breach 
 Preventing third-party data breaches is crucial if you want to safeguard your company’s sensitive information.
 
 The potentially severe consequences of these breaches highlight the need for a comprehensive and methodical approach to mitigate associated risks.
 
-With that in mind, here are ten tried-and-tested steps you can take to proactively mitigate third-party data breaches and uphold your security:
+With that in mind, here are **ten tried-and-tested steps** you can take to proactively mitigate third-party data breaches and uphold your security:
 ### #1. Perform Due Diligence on Your Vendors
-To prevent data breaches resulting from unauthorized access to your sensitive data, it is critical to perform due diligence on third-party vendors. 
+To [prevent data breaches](https://breachsense.io/blog/prevent-data-breach/) resulting from unauthorized access to your sensitive data, it is critical to perform due diligence on third-party vendors. 
 
 Specifically, this involves conducting a thorough investigation of a vendor’s or supplier’s security policies and procedures before partnering with them.
 
@@ -60,7 +62,7 @@ To secure data in transit, encryption is a widely used method. Encryption transf
 
 For example, organizations can use Transport Layer Security (TLS) to encrypt email messages or Virtual Private Network (VPN) connections to encrypt data transmitted over the internet.
 
-For data at rest, a combination of access controls, encryption, and password protection can enhance security. Access controls limit the number of people who can access the data, while encryption can be applied to individual files or entire storage systems to protect against unauthorized access. 
+For data at rest, a combination of access controls, encryption, and [password protection](https://breachsense.io/blog/password-security-data-breach/) can enhance security. Access controls limit the number of people who can access the data, while encryption can be applied to individual files or entire storage systems to protect against unauthorized access. 
 
 As for password protection, it should be layered, with different levels of authentication required to access different levels of sensitive information.
 ### #4. Limit Data Sharing
@@ -77,7 +79,7 @@ To address this issue, [Vendor Privileged Access Management (VPAM)](https://solu
 By implementing VPAM, businesses can reduce the risk of data breaches and maintain control over their sensitive information. 
 
 It's important to remember that sharing data with third-party vendors should be minimized to the amount necessary for them to perform their intended role.
-### #5. Keep Documentation
+#5. Keep Documentation
 Maintaining comprehensive records of third-party management is crucial for several reasons. 
 
 Firstly, it enables you to monitor the cyber posture of your suppliers over time, allowing you to assess their security practices and track any changes or potential security risks. 
@@ -96,7 +98,7 @@ To identify fourth-party risks, you can use your vendors' [System and Organizati
 
 The responsibility for managing fourth-party risk lies with your information security team, just as it does for third-party risk management. 
 
-Even if a third-party provides additional security, your company is still accountable for implementing a comprehensive attack surface management strategy to avoid regulatory, financial, or reputational consequences from a fourth-party data breach.
+Even if a third party provides additional security, your company is still accountable for implementing a comprehensive attack surface management strategy to avoid regulatory, financial, or reputational consequences from a fourth-party data breach.
 
 ### #7. Wave Goodbye to Unreliable Vendors
 When it comes to managing third-party risks, it's crucial to have a clear plan in place for cutting ties with unreliable vendors. This means being able to identify when a vendor is not meeting your standards or is at risk of a data breach.
@@ -105,7 +107,7 @@ Terminating a relationship with a vendor may be a difficult decision, particular
 
 Therefore, it is essential to have a contingency plan in place to ensure that the termination of a vendor relationship does not cause any disruption to your organization's operations. This plan should involve finding alternative vendors or in-house solutions to replace the services provided by them.
 ### #8. Implement Strict Password Policies and Multi-Factor Authentication
-According to Verizon Data Breach Investigations, most cyber attacks are a result of passwords that are either weak or have been compromised. Not just that, but the probability of credentials [being exposed on the dark web](https://www.breachsense.io/blog/dark-web-monitoring) increases when the same password is utilized across various accounts.
+According to Verizon Data Breach Investigations, most cyber attacks are a result of passwords that are either weak or have been compromised. Not just that, but the probability of credentials [being exposed on the dark web](https://www.breachsense.io/dark-web-monitoring) increases when the same password is utilized across various accounts.
 
 Implementing strict password policies and requiring multi-factor authentication (MFA) for vendors accessing your systems is essential if you want to avoid that.
 
@@ -117,7 +119,7 @@ This reduces the risk of a data breach even if they have a vendor's password.
 ### #9. Train Employees on How to Identify and Report Suspicious Vendor Activity
 One of the key steps to preventing third-party data breaches is to train employees on how to identify and report suspicious vendor activity. 
 
-While technical measures can go a long way towards securing your systems, human error and oversight can still leave your organization vulnerable to attack. 
+While technical measures can go a long way towards securing your systems, [human error](https://breachsense.io/blog/data-breach-human-error/) and oversight can still leave [your organization vulnerable to attack](https://breachsense.io/blog/vulnerabilities-cause-data-loss/). 
 
 By educating your employees on how to recognize and report suspicious activity, you can create an additional layer of protection against third-party breaches. This can include training on how to identify phishing emails, social engineering attacks, and other forms of cybercrime
 
@@ -125,26 +127,30 @@ It's also important to have clear protocols in place for reporting and investiga
 
 This can include establishing a clear chain of command and outlining the steps to be taken in the event of a security incident. By involving employees in this process, you can create a culture of security awareness and reduce the risk of third-party data breaches.
 ### #10. Have a Clear Incident Response Plan
-In the event of a third-party data breach, it's important to have a well-defined plan in place to quickly and effectively respond to the situation.
+In the event of a third-party data breach, it's important to have a well-defined [data breach response plan](https://breachsense.io/blog/data-breach-response-plan/) in place to quickly and effectively respond to the situation.
 
 The response plan should outline the roles and responsibilities of the incident response team, the steps to be taken to contain the breach, and the process for notifying affected parties.
 
 To create an incident response plan, start by identifying potential security incidents that could impact your organization. This should include third-party breaches, but also other types of cyberattacks, such as phishing scams, malware infections, or ransomware attacks.
 
 Regular testing and updating of the incident response plan is crucial to ensure that it remains effective and up-to-date. The plan should be reviewed and updated at least annually, as well as after any major changes to the organization's infrastructure or vendor relationships.
+
+Didn’t manage to prevent a data breach from happening to your organization? Learn what to do in the [aftermath of a data breach](https://breachsense.io/blog/after-a-breach/) to mitigate the risks as much as possible. 
 ## How Do Third-Party Data Breaches Happen?
 Third-party data breaches can occur in many ways. 
 
 According to a study by Risk Based Security, over 60% of data breaches in 2020 involved a third party, while according to a report by Verizon, [82% of data breaches are caused by human error](https://www.verizon.com/business/resources/reports/dbir/), such as employees falling for phishing scams, sharing login credentials, or losing devices containing sensitive information.
 
-Here are some examples:
+Here are [some examples](https://breachsense.io/blog/data-breach-examples/):
 
 * In 2016, a data breach at Dropbox exposed the email addresses and passwords of 68 million users. The breach was caused by a Dropbox employee who had reused their company password on a third-party website that had been hacked. Hackers were then able to use this password to gain access to Dropbox's network and steal user information.
-* In 2013, Target was exposed to a data breach caused by poor security practices. In this case, hackers gained access to Target's point-of-sale system by stealing login credentials from a third-party vendor that provided refrigeration HVAC services to Target. The hackers were able to use these credentials to install malware on Target's system, which allowed them to steal the credit and debit card information of millions of customers.
+* In 2013, Target was exposed to a [data breach caused](https://breachsense.io/blog/data-breach-causes/) by poor security practices. In this case, hackers gained access to Target's point-of-sale system by stealing login credentials from a third-party vendor that provided refrigeration HVAC services to Target. The hackers were able to use these credentials to install malware on Target's system, which allowed them to steal the credit and debit card information of millions of customers.
 
 The examples above, emphasize the significance of thoroughly vetting third-party vendors and partners and regularly evaluating their security practices. 
 
-Additionally, it highlights the importance of providing comprehensive training to employees on how to recognize and avoid phishing scams, enabling 2FA everywhere and enforcing strong password policies to mitigate the risk of third-party data breaches.
+Additionally, it highlights the importance of providing comprehensive training to employees on how to recognize and avoid phishing scams, enabling 2FA everywhere, and enforcing strong password policies to mitigate the risk of third-party data breaches.
+
+*Wondering whether you can afford a potential data breach? Learn all about [data breach costs](https://breachsense.io/blog/data-breach-costs/) in our post.*
 ## 3 Examples of Third-Party Data Breaches 
 Curious about some other examples of third-party data breaches that “made headlines?” 
 
@@ -156,7 +162,7 @@ The following will convince you just how important it is for your business to ha
 ## Breachsense Can Help You Avoid Third-Party Data Breaches
 Are you worried about the security of your company's sensitive data? 
 
-Breachsense can help you avoid third-party data breaches by alerting you in real time when your user's credentials appear in data breaches on the dark web, allowing you to proactively reset stolen credentials before hackers can exploit them.
+Breachsense can help you avoid third-party data breaches by alerting you in real-time when your user's credentials appear in data breaches on the dark web, allowing you to proactively reset stolen credentials before hackers can exploit them.
 
 Breachsense provides flexible integration with virtually any application, SIEM, or browser, making it easy for businesses to implement the service into their existing security tools. 
 
