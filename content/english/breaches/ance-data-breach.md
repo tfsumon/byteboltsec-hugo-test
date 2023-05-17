@@ -1,7 +1,7 @@
 ---
 date: "2023-05-17"
 discovered: "May 17, 2023"
-title: "Wings"
+title: "ANCE"
 image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | wings.travel      | 
+| Victim      | ance.org.mx      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | May 17, 2023      | 
-| Description      | Wings has led the market in managing complex travel and support services worldwide, with particular expertise in developing markets and high-risk destinations.      | 
+| Description      | ANCE is a nonprofit organization that offers inspection, standardization, certification, laboratory, calibration and training services.      | 
 | Leak Size      | Unknown      | 
 

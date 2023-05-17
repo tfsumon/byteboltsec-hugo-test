@@ -1,7 +1,7 @@
 ---
 date: "2023-05-17"
 discovered: "May 17, 2023"
-title: "Wings"
+title: "AirTAC"
 image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | wings.travel      | 
+| Victim      | airtac.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | May 17, 2023      | 
-| Description      | Wings has led the market in managing complex travel and support services worldwide, with particular expertise in developing markets and high-risk destinations.      | 
+| Description      | AirTAC International Group, headquartered in Taiwan, founded in Taiwan in 1988, is a well-known pneumatic equipment supplier/manufacturer in the global market.      | 
 | Leak Size      | Unknown      | 
 
