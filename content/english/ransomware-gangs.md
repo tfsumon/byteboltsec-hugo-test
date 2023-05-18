@@ -9,6 +9,7 @@ layout: "elements"
 
 | Name           | Tor / Clearnet             | Status     |
 | :-----------: | :-------------:     |:-------------:   
+| <a href="https://ransom.insicurezzadigitale.com/index.php">DRM - Dashboard Ransomware Monitor</a>     | Clearnet     | ONLINE     |
 | <a href="https://ecrime.ch">eCrime Services</a>     | Clearnet     | ONLINE     |
 | <a href="https://www.ransomlook.io/">RANSOMWARE GROUPS MONITORING TOOL</a>     | Clearnet     | ONLINE     |
 | <a href="http://54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion/blog">54bb47h</a>     | Tor     | OFFLINE     |
@@ -137,6 +138,7 @@ layout: "elements"
 | <a href="http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion">LORENZ</a>     | Tor     | ONLINE     |
 | <a href="http://rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion">LV </a>     | Tor     | OFFLINE     |
 | <a href="http://4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion">LV </a>     | Tor     | OFFLINE     |
+| <a href="http://malas2urovbyyavjzaezkt5ohljvyd5lt7vv7mnsgbf2y4bwlh72doqd.onion">MALAS</a>     | Tor     | ONLINE     |
 | <a href="http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion">MALLOX</a>     | Tor     | ONLINE     |
 | <a href="http://g5sbltooh2okkcb2.onion">MARKETO </a>     | Tor     | OFFLINE     |
 | <a href="http://jvdamsif53dqjycuozlaye2s47p7xij4x6hzwzwhzrqmv36gkyzohhqd.onion">MARKETO </a>     | Tor     | OFFLINE     |
