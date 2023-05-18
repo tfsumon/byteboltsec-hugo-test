@@ -40,9 +40,9 @@ This investigation should focus on identifying how the breach occurred, and whic
 
 Key aspects of the forensic investigation would include:
 
-* **Taking Pictures of the Affected Servers and Systems:** This preserves a snapshot of the system at the time of the breach, which can be crucial for identifying how the breach occurred and who was responsible.
-* **Investigating the Memory of Affected Systems:** Look for traces of the attacker's activity, such as evidence of malware or other malicious software, and analyze system and application logs to trace the attacker's actions.
-* **Preserving Evidence Related to the Breach:** Carefully preserve system logs, network traffic data, emails, and other documents for further analysis and potential legal action. Maintain a chain of custody for all evidence to ensure its integrity.
+* **Taking Pictures of the Affected Servers and Systems**: This preserves a snapshot of the system at the time of the breach, which can be crucial for identifying how the breach occurred and who was responsible.
+* **Investigating the Memory of Affected Systems**: Look for traces of the attacker's activity, such as evidence of malware or other malicious software, and analyze system and application logs to trace the attacker's actions.
+* **Preserving Evidence Related to the Breach**: Carefully preserve system logs, network traffic data, emails, and other documents for further analysis and potential legal action. Maintain a chain of custody for all evidence to ensure its integrity.
 
 In addition, this is the right time to assess the effectiveness of any [network segmentation measures](https://www.techslang.com/definition/what-is-network-segmentation/) that were in place to prevent hackers from moving from one server to another.
 
@@ -60,9 +60,9 @@ Based on the findings, you can then implement both immediate and long-term solut
 
 Immediate and long-term solutions should consider the following key factors, which often contribute to ransomware attacks:
 
-* **Leaked passwords:** A significant number of ransomware attacks stem from leaked or stolen passwords. It is crucial for companies to have ongoing visibility into their employees' leaked data and enforce strong password management practices.
-* **Phishing:** Phishing attacks are a common method used by cybercriminals to infiltrate networks and deploy ransomware. To avoid this, implement advanced email filtering and monitoring solutions to detect and block phishing attempts. Provide regular employee training on how to identify and avoid phishing emails.
-* **Unpatched servers:** Maintain a regular patch management schedule for all servers and software applications. Employ continuous vulnerability scanning and assessment tools to identify and remediate weaknesses.
+* **Leaked passwords**: A significant number of ransomware attacks stem from leaked or stolen passwords. It is crucial for companies to have ongoing visibility into their employees' leaked data and enforce strong password management practices.
+* **Phishing**: Phishing attacks are a common method used by cybercriminals to infiltrate networks and deploy ransomware. To avoid this, implement advanced email filtering and monitoring solutions to detect and block phishing attempts. Provide regular employee training on how to identify and avoid phishing emails.
+* **Unpatched servers**: Maintain a regular patch management schedule for all servers and software applications. Employ continuous vulnerability scanning and assessment tools to identify and remediate weaknesses.
 ### #4. Notify All Stakeholders
 Following a data breach, it's crucial to notify the appropriate parties to minimize the potential harm to affected individuals and comply with relevant regulations. 
 
