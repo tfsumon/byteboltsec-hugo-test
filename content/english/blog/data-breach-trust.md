@@ -1,7 +1,7 @@
 ---
 date: "2023-05-19"
 title: "Data Breaches Cause Loss of Customer Trust [Studies]"
-image: "images/blog/15 Vulnerabilities That Cause Data Loss [+ Prevention Guide].png"
+image: "images/blog/Data Breaches Cause Loss of Customer Trust [Studies].png"
 description: "Explore the significant impact of data breaches on brand reputation, customer trust, and financial stability with our article."
 author: "Breachsense"
 draft: false

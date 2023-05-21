@@ -1,7 +1,7 @@
 ---
 date: "2023-05-19"
 title: "Insider Threats Cause 60% of Data Breaches [Prevention Guide]"
-image: "images/blog/95_ of Data Breaches Are Caused by Human Error [IBM Study].png"
+image: "images/blog/Insider Threats Cause 60_ of Data Breaches [Prevention Guide].png"
 description: "Discover the prevalence of insider threat data breaches and learn how to protect your organization with practical tips for prevention."
 author: "Breachsense"
 draft: false
