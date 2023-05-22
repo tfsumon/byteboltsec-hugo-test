@@ -1,6 +1,6 @@
 ---
 date: "2023-05-14"
-title: "7 Data Breaches to Avoid at All Costs in 2023"
+title: "7 Data Breach Types to Avoid at All Costs in 2023"
 image: "images/blog/7 Data Breach Types to Avoid at All Costs in 2023.png"
 description: "There are more & more data breaches happening every day. Learn about the 7 most common data breach types to protect your organization!" 
 author: "Breachsense"
