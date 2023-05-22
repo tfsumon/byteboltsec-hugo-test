@@ -179,7 +179,7 @@ This involves identifying the type of data that was compromised and its potentia
 ### #3. Address Possible Weaknesses
 After conducting a damage evaluation, it is necessary to address the possible weaknesses that may have contributed to the breach. 
 
-This can involve conducting a risk assessment to identify any [vulnerabilities that were exploited](https://breachsense.io/blog/vulnerabilities-cause-data-breach/), evaluating existing security measures, and implementing additional security protocols to prevent future breaches.
+This can involve conducting a risk assessment to identify any [vulnerabilities that were exploited](https://breachsense.io/blog/vulnerabilities-cause-data-loss/), evaluating existing security measures, and implementing additional security protocols to prevent future breaches.
 ### #4. Notify All Stakeholders
 Following a data breach, it's crucial to notify the appropriate parties to minimize the potential harm to affected individuals and comply with relevant regulations. 
 

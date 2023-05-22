@@ -150,7 +150,7 @@ The examples above, emphasize the significance of thoroughly vetting third-party
 
 Additionally, it highlights the importance of providing comprehensive training to employees on how to recognize and avoid phishing scams, enabling 2FA everywhere, and enforcing strong password policies to mitigate the risk of third-party data breaches.
 
-*Wondering whether you can afford a potential data breach? Learn all about [data breach costs](https://breachsense.io/blog/data-breach-costs/) in our post.*
+*Wondering whether you can afford a potential data breach? Learn all about [data breach costs](https://breachsense.io/blog/cost-of-a-data-breach/) in our post.*
 ## 3 Examples of Third-Party Data Breaches 
 Curious about some other examples of third-party data breaches that “made headlines?” 
 
