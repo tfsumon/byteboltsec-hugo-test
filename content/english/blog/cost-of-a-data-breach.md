@@ -40,7 +40,7 @@ The healthcare industry once again holds the dubious distinction of having the h
 
 The cost has increased by almost 30 percent compared to the previous year. In 2021, healthcare organizations faced an average total cost of $9.23 million for a data breach, up from $7.13 million in 2020. 
 
-Check out these [14 ways to prevent data breaches in healthcare](https://breachsense.io/blog/prevent-data-breaches-in-healthcare/) to better protect your medical practice. 
+Check out these [14 ways to prevent data breaches in healthcare](https://breachsense.io/blog/prevent-data-breaches-healthcare/) to better protect your medical practice. 
 ### #4. Companies With a Fully Deployed Security AI and Automation Saw a 70% Reduction in Data Breach Costs
 As businesses face increasing cyber threats, many are turning to security [AI and automation controls](https://www.ibm.com/downloads/cas/9NGZA7GK) to detect and contain data breaches more quickly and effectively. 
  

@@ -37,7 +37,7 @@ Regular security audits, vulnerability assessments, and penetration testing can 
 Other than human error, there are six other [types of data breaches](https://breachsense.io/blog/data-breach-types/) to look out for:
 
 1. **Malware**: Malicious software designed to infiltrate, damage, or gain unauthorized access to computer systems. Includes viruses, worms, ransomware, and spyware.
-2. **Ransomware**: A type of malware that encrypts data and demands payment for its release. Often delivered through phishing emails or [exploited vulnerabilities](https://breachsense.io/blo/vulnerabilities-cause-data-loss/).
+2. **Ransomware**: A type of malware that encrypts data and demands payment for its release. Often delivered through phishing emails or [exploited vulnerabilities](https://breachsense.io/blog/vulnerabilities-cause-data-loss/).
 3. **Insider threats**: [Data breaches](https://breachsense.io/blog/what-is-a-data-breach/) caused by employees or contractors with authorized access to sensitive information. Can be malicious or unintentional.
 4. **Physical theft**: Unauthorized access to sensitive data through stolen devices or hardware, such as laptops, smartphones, or USB drives.
 5. **[Third-party breaches](https://breachsense.io/blog/third-party-data-breach/)**: This type of breach occurs when [a company's data is compromised](https://breachsense.io/blog/after-a-breach/) through a vendor or partner's systems, often due to inadequate security measures.
