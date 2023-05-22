@@ -1220,3 +1220,7 @@ footer.footer {
   color: $primary-color;
   font-weight: 500;
 }
+// Added to fix blog image issue on mobile
+img {
+  max-width: 100%;
+}
