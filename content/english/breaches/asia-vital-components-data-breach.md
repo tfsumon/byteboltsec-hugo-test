@@ -10,7 +10,7 @@ draft: false
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
 | Victim      | avc.co      | 
-| Threat Actor      | Snatch      | 
+| Threat Actor      |  Snatch     | 
 | Date Discovered      | May 22, 2023      | 
 | Description      | Asia Vital Components Co., Ltd. provides thermal solutions worldwide.      | 
 | Leak Size      | Unknown      | 
