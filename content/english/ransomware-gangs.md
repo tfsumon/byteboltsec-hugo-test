@@ -199,6 +199,7 @@ layout: "elements"
 | <a href="http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion">REVIL </a>     | Tor     | OFFLINE     |
 | <a href="http://blogxxu75w63ujqarv476otld7cyjkq4yoswzt4ijadkjwvg3vrvd5yd.onion/Blog">REVIL </a>     | Tor     | ONLINE     |
 | <a href="http://landxxeaf2hoyl2jvcwuazypt6imcsbmhb7kx3x33yhparvtmkatpaad.onion">REVIL </a>     | Tor     | ONLINE     |
+| <a href="http://rhysidafohrhyy2aszi7bm32tnjat5xri65fopcxkdfxhi4tidsg7cad.onion">RHYSIDA</a>     | Tor     | ONLINE     |
 | <a href="https://robinhoodleaks.tumblr.com">ROBINHOOD</a>     | Clearnet     | OFFLINE     |
 | <a href="http://gamol6n6p2p4c3ad7gxmx3ur7wwdwlywebo2azv3vv5qlmjmole2zbyd.onion">ROOK</a>     | Tor     | OFFLINE     |
 | <a href="http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion">ROYAL </a>     | Tor     | ONLINE     |
