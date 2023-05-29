@@ -77,10 +77,13 @@ To effectively notify the affected parties, companies should determine the best 
 Providing contact details for additional questions is important, as is being transparent about what information was exposed and what the company is doing to mitigate the damage. 
 
 Prompt data breach notifications can help affected parties manage their risk and take necessary measures.
-Cyber Insurance Companies
+#### Cyber Insurance Companies
 Cyber liability insurance is highly recommended, especially for companies operating with critical data. 
 
 Although it doesn't [prevent data breaches](https://www.breachsense.io/blog/prevent-data-breach/), it can cover financial damages resulting from a breach, such as the costs of investigating and responding to the incident, potential legal fees, and damages resulting from lawsuits.
+
+[Having data breach insurance](https://www.breachsense.io/blog/data-breach-insurance/) can help you respond to the incident effectively and efficiently.
+
 #### Staff and Third-Party Entities 
 Companies should also inform internal staff about the data breach and the steps being taken to resolve the issue. Third-party agencies affected by the breach, such as vendors, contractors, or suppliers, should also be notified.  
 

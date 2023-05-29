@@ -158,7 +158,10 @@ The following will convince you just how important it is for your business to ha
 
 * **Microsoft**: In early 2021, Microsoft experienced a major data breach that exposed sensitive information from its Exchange email service. The hackers were able to access email accounts and other data by installing web shells, which are malicious scripts that allow them to remotely control a compromised server. The web shells enabled hackers to steal sensitive data, such as email messages, contact lists, and calendar entries.
 * **Uber**: In December 2022, Uber, the global ride-hailing giant, suffered a third-party data breach due to a compromised vendor. Teqtivity, an IT asset tracking, monitoring, and management service provider, confirmed that a hacker had breached its systems and accessed email addresses and other information relating to more than 77,000 Uber employees.
-* **SolarWinds**: In December 2020, SolarWinds confirmed that its network had been breached and a malware program was inserted into software updates of its technology platform. The malware scanned downstream customer networks, detected security tools, and connected to the attacker’s command and control servers. 18,000 customers were impacted, including government agencies and 14% of the Fortune 1000. 
+* **SolarWinds**: In December 2020, SolarWinds confirmed that its network had been breached and a malware program was inserted into software updates of its technology platform. The malware scanned downstream customer networks, detected security tools, and connected to the attacker’s command and control servers. 18,000 customers were impacted, including government agencies and 14% of the Fortune 1000.
+
+A [Data breach insurance](https://www.breachsense.io/blog/data-breach-insurance/) policy can also help mitigate some of the damage of a data breach. Having a comprehensive policy in place provides you with the financial resources to respond to the incident effectively.
+ 
 ## Breachsense Can Help You Avoid Third-Party Data Breaches
 Are you worried about the security of your company's sensitive data? 
 
