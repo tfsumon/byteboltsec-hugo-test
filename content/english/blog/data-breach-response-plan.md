@@ -83,7 +83,7 @@ These measures include the following:
 * Penetration testing and [monitoring services](https://www.breachsense.io/dark-web-monitoring/) can be used to test and monitor system security, identify potential threats, and quickly respond to a breach.
 * Storage redundancy can be prepared to protect against accidental data loss or deliberate damage, with off-site remote backup services offering the best security.
 * Proper defense practices can be used to handle a [Denial-of-Service attack](https://www.cisa.gov/news-events/news/understanding-denial-service-attacks), while failure policies can be prepared in advance to resume services faster.
-* [Cyber insurance](https://www.breachsense.io/blog/data-breach-insurance) can be purchased to reduce potential financial liabilities resulting from a data breach.
+* Cyber insurance can be purchased to reduce potential financial liabilities resulting from a data breach.
 ### #5. Create a Communications Plan
 Creating a communications plan is another vital step in developing a data breach response plan. 
 
@@ -128,7 +128,7 @@ Other important factors you may want to consider when developing your plan inclu
 2. **Incorporating Existing Processes**: Consider linking the data breach response plan with existing processes such as a disaster recovery plan, cyber security incident response plan, crisis management plan, or other data breach response plans involving different types of information.
 3. **Involving Senior Management**: Decide whether senior management should be directly involved in the planning and response to serious data breaches.
 4. **Reporting Obligations**: Consider reporting obligations under applicable laws as well as to other entities, and incorporate them into the response plan.
-5. **Checking Insurance Coverage**: Check if your insurance policy for data breaches includes specific steps that must be followed in case of a breach.
+5. **Checking Insurance Coverage**: Check if your [insurance policy for data breaches](https://www.breachsense.io/blog/data-breach-insurance/) includes specific steps that must be followed in case of a breach.
 6. **Developing a Recovery Plan**: Develop a plan for recovering critical systems and data in case of a ransomware attack, including considerations for ransom payment authorization.
 7. **Testing**: Regularly test the response plan with different scenarios to ensure the incident response team understands their responsibilities, and incorporates lessons learned from previous breaches and recovery efforts into plan updates.
 ##Conclusion
