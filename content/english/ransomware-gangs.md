@@ -77,6 +77,7 @@ layout: "elements"
 | <a href="http://iw6v2p3cruy7tqfup3yl4dgt4pfibfa3ai4zgnu5df2q3hus3lm7c7ad.onion">DARKBIT01</a>     | Tor     | ONLINE     |
 | <a href="https://darkrypt.io">DARKRYPT</a>     | Clearnet     | OFFLINE     |
 | <a href="http://powerj7kmpzkdhjg4szvcxxgktgk36ezpjxvtosylrpey7svpmrjyuyd.onion/">DARKPOWER</a>     | Tor     | ONLINE     |
+| <a href="http://wkrlpub5k52rjigwxfm6m7ogid55kamgc5azxlq7zjgaopv33tgx2sqd.onion/">DARKRACE</a>     | Tor     | ONLINE     |
 | <a href="http://darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion">DARKSIDE</a>     | Tor     | OFFLINE     |
 | <a href="https://sbc2zv2qnz5vubwtx3aobfpkeao6l4igjegm3xx7tk5suqhjkp5jxtqd.onion">DONUT BLOG</a>     | Tor     | OFFLINE     |
 | <a href="https://doq32rjiuomfghm5a4lyf3lwwakt2774tkv4ppsos6ueo5mhx7662gid.onion">DONUT DLS</a>     | Tor     | OFFLINE     |
@@ -182,6 +183,7 @@ layout: "elements"
 | <a href="http://gvka2m4qt5fod2fltkjmdk4gxh5oxemhpgmnmtjptms6fkgfzdd62tad.onion">QLOCKER</a>     | Tor     | OFFLINE     |
 | <a href="http://quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion">QUANTUM</a>     | Tor     | ONLINE     |
 | <a href="http://pa32ymaeu62yo5th5mraikgw5fcvznnsiiwti42carjliarodltmqcqd.onion">RA GROUP</a>     | Tor     | ONLINE     |
+| <a href="http://hkpomcx622gnqp2qhenv4ceyrhwvld3zwogr4mnkdeudq2txf55keoad.onion">RA GROUP </a>     | Tor     | ONLINE     |
 | <a href="http://p6o7m73ujalhgkiv.onion">RAGNAR LOCKER</a>     | Tor     | OFFLINE     |
 | <a href="http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion">RAGNAR LOCKER</a>     | Tor     | ONLINE     |
 | <a href="http://sushlnty2j7qdzy64qnvyb6ajkwg7resd3p6agc2widnawodtcedgjid.onion">RAGNAROK</a>     | Tor     | OFFLINE     |
