@@ -92,7 +92,7 @@ If the company fails to prevent a data breach, especially one that involves sens
 
 The reputational damage caused by a data breach can have long-term impacts on your company's bottom line and can be challenging to repair.
 
-Studies indicate that as many as 33% of customers in the retail, finance, and [healthcare industries](https://www.breachsense.io/impact-of-data-breach-healthcare/) may cease doing business with companies that have experienced a breach. 
+Studies indicate that as many as 33% of customers in the retail, finance, and [healthcare industries](https://www.breachsense.io/blog/impact-of-data-breach-healthcare/) may cease doing business with companies that have experienced a breach. 
 
 Furthermore, 85% of customers are likely to share their negative experiences with others and about 33.5% will resort to social media to express their displeasure.
 ### #3. Legal Repercussions

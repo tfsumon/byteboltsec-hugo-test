@@ -111,7 +111,7 @@ Malware is a type of software designed to damage, disrupt or gain unauthorized a
 
 Once it infects a system, it can cause significant damage, such as stealing sensitive information, disrupting system operations, encrypting files, and rendering systems unusable.
 ## 4 Types of Data Breach
-To effectively safeguard your organization's data, it's important to understand the various [types of data breaches](https://www.breachsense.io/data-breach-types/) that can occur. Below we will cover four of the most common types of data breaches:
+To effectively safeguard your organization's data, it's important to understand the various [types of data breaches](https://www.breachsense.io/blog/data-breach-types/) that can occur. Below we will cover four of the most common types of data breaches:
 ### #1. Ransomware
 Ransomware is malicious software that encrypts files stored on electronic devices, rendering them inaccessible to the owner. The latest versions of ransomware are increasingly sophisticated, with some even corrupting or erasing data.
 

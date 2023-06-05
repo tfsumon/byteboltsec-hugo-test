@@ -18,7 +18,7 @@ According to Forbes, [80% of consumers in developed countries will abandon a bus
 
 Additionally, IDC projected that by 2019, 70% of major multinational corporations with origins in the United States and Europe would face significant cybersecurity attacks targeting the disruption of commodity distribution. 
 
-Such attacks not only present a [direct risk to a company's operations](https://breachsense.io/after-a-breach/) but can also erode customer confidence in the brand.
+Such attacks not only present a [direct risk to a company's operations](https://breachsense.io/blog/after-a-breach/) but can also erode customer confidence in the brand.
 
 A March 2020 study by FTI Consulting disclosed that companies anticipate a 9% decline in their global annual revenue as a consequence of a data privacy crisis. 
 
