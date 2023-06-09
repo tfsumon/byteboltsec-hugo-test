@@ -113,6 +113,7 @@ layout: "elements"
 | <a href="https://3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion">KARAKURT </a>     | Tor     | ONLINE     |
 | <a href="http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion">KARMA</a>     | Tor     | OFFLINE     |
 | <a href="https://vipsuscription.org">KELVIN SECURITY</a>     | Clearnet     | ONLINE     |
+| <a href="hxxp[:">LA PIVORA</a>     | Tor     | ONLINE     |
 | <a href="http://yeuajcizwytgmrntijhxphs6wn5txp2prs6rpndafbsapek3zd4ubcid.onion">LILITH</a>     | Tor     | OFFLINE     |
 | <a href="http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion">LOCKBIT 2.0 </a>     | Tor     | REBRANDED TO LB 3     |
 | <a href="http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion">LOCKBIT 2.0 </a>     | Tor     | REBRANDED TO LB 3     |
