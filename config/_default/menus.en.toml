@@ -34,6 +34,12 @@ hasChildren = true
   url = "dark-web-monitoring/"
   weight = 9
 
+  [[main]]
+  parent = "Resources"
+  name = "Terms & Conditions"
+  url = "terms-and-conditions.md/"
+  weight = 10
+
 [[main]]
 name = "About"
 url = "about/"

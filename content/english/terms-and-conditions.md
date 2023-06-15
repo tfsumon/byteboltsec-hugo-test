@@ -1,6 +1,6 @@
 ---
 title: "Terms & Conditions"
-date: "2022-05-01"
+date: "2023-06-01"
 layout: "terms-and-conditions"
 draft: false
 
