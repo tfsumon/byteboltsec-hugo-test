@@ -2,7 +2,7 @@
 Discovered: "December 05, 2022"
 date: "2022-12-05"
 title: "Wiesauplast"
-image: "images/blog/Breaches.png"
+image: "images/blog/DataLeak.png"
 author: "Breachsense Support"
 draft: false
 ---
