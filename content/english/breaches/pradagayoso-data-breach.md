@@ -1,6 +1,6 @@
 ---
-date: "2023-06-16"
-discovered: "June 16, 2023"
+date: "2023-06-19"
+discovered: "June 19, 2023"
 title: "PradaGayoso"
 image: "images/blog/RansomHouse.png"
 author: "Breachsense Support"
@@ -11,7 +11,7 @@ draft: false
 | :-----------: | :-------------:     |:-------------:    | :-----:|
 | Victim      | pradagayoso.com      | 
 | Threat Actor      | RansomHouse      | 
-| Date Discovered      | Jun 16, 2023      | 
-| Description      | PradaGayoso is a firm that specializes in financial restructuring and works to protect, recover and enhance company value.      | 
+| Date Discovered      | Jun 19, 2023      | 
+| Description      | PradaGayoso is a firm specialized in financial restructuring that works to protect, recover and boost the value of companies.      | 
 | Leak Size      | 0.6TB      | 
 
