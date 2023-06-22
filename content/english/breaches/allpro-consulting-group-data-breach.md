@@ -1,17 +1,17 @@
 ---
 date: "2023-06-22"
 discovered: "June 22, 2023"
-title: "Alberta Newsprint"
-image: "images/blog/Rhysida.png"
+title: "Allpro Consulting Group"
+image: "images/blog/Play.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | albertanewsprint.com      | 
-| Threat Actor      | Rhysida      | 
+| Victim      | allprocgi.com      | 
+| Threat Actor      | Play      | 
 | Date Discovered      | Jun 22, 2023      | 
-| Description      | Alberta Newsprint is a manufacturer of premium newsprint and high bright paper.      | 
+| Description      | Allpro Consulting Group is a structural engineering, civil engineering, and architectural design consulting organization.      | 
 | Leak Size      | Unknown      | 
 

@@ -1,17 +1,17 @@
 ---
 date: "2023-06-22"
 discovered: "June 22, 2023"
-title: "Alberta Newsprint"
-image: "images/blog/Rhysida.png"
+title: "Barentz North America"
+image: "images/blog/Play.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | albertanewsprint.com      | 
-| Threat Actor      | Rhysida      | 
+| Victim      | barentz-na.com      | 
+| Threat Actor      | Play      | 
 | Date Discovered      | Jun 22, 2023      | 
-| Description      | Alberta Newsprint is a manufacturer of premium newsprint and high bright paper.      | 
+| Description      | Barentz is a leading global life science ingredients and specialty chemical solutions distributor.      | 
 | Leak Size      | Unknown      | 
 

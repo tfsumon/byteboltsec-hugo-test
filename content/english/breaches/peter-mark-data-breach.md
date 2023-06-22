@@ -1,17 +1,17 @@
 ---
 date: "2023-06-22"
 discovered: "June 22, 2023"
-title: "Alberta Newsprint"
-image: "images/blog/Rhysida.png"
+title: "Peter Mark"
+image: "images/blog/Play.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | albertanewsprint.com      | 
-| Threat Actor      | Rhysida      | 
+| Victim      | petermark.ie      | 
+| Threat Actor      | Play      | 
 | Date Discovered      | Jun 22, 2023      | 
-| Description      | Alberta Newsprint is a manufacturer of premium newsprint and high bright paper.      | 
+| Description      | Peter Mark is an Irish hairdressing chain founded in June 1961 by brothers Peter and Mark Keaveney.      | 
 | Leak Size      | Unknown      | 
 

@@ -1,17 +1,17 @@
 ---
 date: "2023-06-22"
 discovered: "June 22, 2023"
-title: "Alberta Newsprint"
-image: "images/blog/Rhysida.png"
+title: "Yokohama OHT"
+image: "images/blog/Akira.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | albertanewsprint.com      | 
-| Threat Actor      | Rhysida      | 
+| Victim      | yokohama-oht.com      | 
+| Threat Actor      | Akira      | 
 | Date Discovered      | Jun 22, 2023      | 
-| Description      | Alberta Newsprint is a manufacturer of premium newsprint and high bright paper.      | 
+| Description      | Yokohama Off-Highway Tires manufactures off road tires.      | 
 | Leak Size      | Unknown      | 
 

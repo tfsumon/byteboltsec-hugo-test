@@ -1,17 +1,17 @@
 ---
 date: "2023-06-22"
 discovered: "June 22, 2023"
-title: "Alberta Newsprint"
-image: "images/blog/Rhysida.png"
+title: "COEX"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | albertanewsprint.com      | 
-| Threat Actor      | Rhysida      | 
+| Victim      | coex.com      | 
+| Threat Actor      | ALPHV      | 
 | Date Discovered      | Jun 22, 2023      | 
-| Description      | Alberta Newsprint is a manufacturer of premium newsprint and high bright paper.      | 
+| Description      | COEX Inc. is a group of experts in architecture and planning.      | 
 | Leak Size      | Unknown      | 
 
