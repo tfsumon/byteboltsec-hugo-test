@@ -70,6 +70,7 @@ layout: "elements"
 | <a href="http://7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion">CRYP70N1C0D3</a>     | Tor     | OFFLINE     |
 | <a href="http://cuba4mp6ximo2zlo.onion">CUBA </a>     | Tor     | OFFLINE     |
 | <a href="http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion">CUBA</a>     | Tor     | ONLINE     |
+| <a href="http://nt3rrzq5hcyznvdkpslvqbbc2jqecqrinhi5jtwoae2x7psqtcb6dcad.onion">Cyclops</a>     | Tor     | ONLINE     |
 | <a href="http://dgnh6p5uq234zry7qx7bh73hj5ht3jqisgfet6s7j7uyas5i46xfdkyd.onion">DAGON LOCKER </a>     | Tor     | OFFLINE     |
 | <a href="http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion">DAIXIN</a>     | Tor     | ONLINE     |
 | <a href="https://wemo2ysyeq6km2nqhcrz63dkdhez3j25yw2nvn7xba2z4h7v7gyrfgid.onion">DARK ANGELS</a>     | Tor     | OFFLINE     |
@@ -77,7 +78,7 @@ layout: "elements"
 | <a href="http://iw6v2p3cruy7tqfup3yl4dgt4pfibfa3ai4zgnu5df2q3hus3lm7c7ad.onion">DARKBIT01</a>     | Tor     | OFFLINE     |
 | <a href="https://darkrypt.io">DARKRYPT</a>     | Clearnet     | OFFLINE     |
 | <a href="http://powerj7kmpzkdhjg4szvcxxgktgk36ezpjxvtosylrpey7svpmrjyuyd.onion/">DARKPOWER</a>     | Tor     | OFFLINE     |
-| <a href="http://wkrlpub5k52rjigwxfm6m7ogid55kamgc5azxlq7zjgaopv33tgx2sqd.onion/">DARKRACE</a>     | Tor     | ONLINE     |
+| <a href="http://wkrlpub5k52rjigwxfm6m7ogid55kamgc5azxlq7zjgaopv33tgx2sqd.onion/">DARKRACE</a>     | Tor     | OFFLINE     |
 | <a href="http://darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion">DARKSIDE</a>     | Tor     | OFFLINE     |
 | <a href="https://sbc2zv2qnz5vubwtx3aobfpkeao6l4igjegm3xx7tk5suqhjkp5jxtqd.onion">DONUT BLOG</a>     | Tor     | OFFLINE     |
 | <a href="https://doq32rjiuomfghm5a4lyf3lwwakt2774tkv4ppsos6ueo5mhx7662gid.onion">DONUT DLS</a>     | Tor     | OFFLINE     |
@@ -191,7 +192,7 @@ layout: "elements"
 | <a href="http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion">RAGNAR LOCKER</a>     | Tor     | ONLINE     |
 | <a href="http://sushlnty2j7qdzy64qnvyb6ajkwg7resd3p6agc2widnawodtcedgjid.onion">RAGNAROK</a>     | Tor     | OFFLINE     |
 | <a href="http://wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion">RAGNAROK</a>     | Tor     | OFFLINE     |
-| <a href="http://ze677xuzard4lx4iul2yzf5ks4gqqzoulgj5u4n5n4bbbsxjbfr7eayd.onion/">RANCOZ</a>     | Tor     | ONLINE     |
+| <a href="http://ze677xuzard4lx4iul2yzf5ks4gqqzoulgj5u4n5n4bbbsxjbfr7eayd.onion/">RANCOZ</a>     | Tor     | OFFLINE     |
 | <a href="http://u67aylig7i6l657wxmp274eoilaowhp3boljowa6bli63rxyzfzsbtyd.onion">RANSOM CARTEL </a>     | Tor     | OFFLINE     |
 | <a href="http://cartelraqonekult2cxbzzz2ukiff7v6cav3w373uuhenybgqulxm5id.onion">RANSOM CARTEL </a>     | Tor     | OFFLINE     |
 | <a href="http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion">RANSOMEXX</a>     | Tor     | ONLINE     |
@@ -208,7 +209,7 @@ layout: "elements"
 | <a href="https://robinhoodleaks.tumblr.com">ROBINHOOD</a>     | Clearnet     | OFFLINE     |
 | <a href="http://gamol6n6p2p4c3ad7gxmx3ur7wwdwlywebo2azv3vv5qlmjmole2zbyd.onion">ROOK</a>     | Tor     | OFFLINE     |
 | <a href="http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion">ROYAL </a>     | Tor     | ONLINE     |
-| <a href="http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion">ROYAL</a>     | Tor     | ONLINE     |
+| <a href="http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion">ROYAL</a>     | Tor     | OFFLINE     |
 | <a href="http://t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion/check_payment_form">RRANSOM </a>     | Tor     | OFFLINE     |
 | <a href="http://sekhmet.top">SEKHMET</a>     | Clearnet     | OFFLINE     |
 | <a href="http://lc65fb3wrvox6xlyn4hklwjcojau55diqxxylqs4qsfng23ftzijnxad.onion">SHADOW</a>     | Tor     | ONLINE     |
@@ -223,7 +224,7 @@ layout: "elements"
 | <a href="http://nbzzb6sa6xuura2z.onion">SUNCRYPT </a>     | Tor     | OFFLINE     |
 | <a href="http://x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion">SUNCRYPT </a>     | Tor     | OFFLINE     |
 | <a href="http://xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion">SynACK </a>     | Tor     | OFFLINE     |
-| <a href="http://6n5tfadusp4sarzuxntz34q4ohspiaya2mc6aw6uhlusfqfsdomavyyd.onion">TRIGONA</a>     | Tor     | ONLINE     |
+| <a href="http://6n5tfadusp4sarzuxntz34q4ohspiaya2mc6aw6uhlusfqfsdomavyyd.onion">TRIGONA</a>     | Tor     | OFFLINE     |
 | <a href="http://unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion">UNSAFE</a>     | Tor     | ONLINE     |
 | <a href="http://test.cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion">V IS VENDETTA</a>     | Tor     | ONLINE     |
 | <a href="http://vfokxcdzjbpehgit223vzdzwte47l3zcqtafj34qrr26htjo4uf3obid.onion">VFOKX </a>     | Tor     | OFFLINE     |
