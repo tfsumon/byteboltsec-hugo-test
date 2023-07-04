@@ -1,17 +1,17 @@
 ---
 date: "2023-07-04"
 discovered: "July 04, 2023"
-title: "Zoni"
-image: "images/blog/BianLian.png"
+title: "Polanglo"
+image: "images/blog/8BASE.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | zoni.edu      | 
-| Threat Actor      | BianLian      | 
+| Victim      | polanglo.pl      | 
+| Threat Actor      | 8BASE      | 
 | Date Discovered      | Jul 04, 2023      | 
-| Description      | Zoni is one of the leaders in international language and College placement education.      | 
+| Description      | Polanglo SP. z O.o. is a network of bookstores and wholesalers operating since 1991 with an educational and language profile.      | 
 | Leak Size      | Unknown      | 
 

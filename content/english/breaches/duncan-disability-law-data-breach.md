@@ -1,17 +1,17 @@
 ---
 date: "2023-07-04"
 discovered: "July 04, 2023"
-title: "Zoni"
-image: "images/blog/BianLian.png"
+title: "Duncan Disability Law"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | zoni.edu      | 
-| Threat Actor      | BianLian      | 
+| Victim      | duncandisability.com      | 
+| Threat Actor      | ALPHV      | 
 | Date Discovered      | Jul 04, 2023      | 
-| Description      | Zoni is one of the leaders in international language and College placement education.      | 
+| Description      | Duncan Disability Law, S.C. makes the disability process as painless as possible.      | 
 | Leak Size      | Unknown      | 
 
