@@ -1,17 +1,17 @@
 ---
 date: "2023-07-05"
 discovered: "July 05, 2023"
-title: "Hoosier"
-image: "images/blog/RansomwareBlog.png"
+title: "yee.org.tr"
+image: "images/blog/Medusa.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | hoosierequipment.com      | 
-| Threat Actor      | RansomwareBlog      | 
+| Victim      | yee.org.tr      | 
+| Threat Actor      | Medusa      | 
 | Date Discovered      | Jul 05, 2023      | 
-| Description      | Hoosier Equipment Service, Inc. is Indiana's leader in providing safe, economical environmental construction solutions.      | 
+| Description      | The Yunus Emre Institute (Yunus Emre Enstitüsü) is a worldwide non-profit organization established by the Turkish government in 2007.      | 
 | Leak Size      | Unknown      | 
 
