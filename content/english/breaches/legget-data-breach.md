@@ -1,7 +1,7 @@
 ---
 date: "2023-06-15"
 discovered: "June 15, 2023"
-title: "Leggett & Platt"
+title: "Leggett"
 image: "images/blog/CL0P.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | leggett.com      | 
+| Victim      | leggettinc.com      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Jun 15, 2023      | 
-| Description      | Leggett & Platt is the leading U.S. manufacturer of bedding components, automotive seat support and lumbar systems, components for home and work furniture, flooring underlayment, adjustable beds, high-carbon drawn steel wire and beddings.      | 
+| Description      | Leggett Inc. specializes in servicing plumbing, electrical, heating, cooling, backup power, and bathroom remodeling solutions for residential and light commercial offices, warehouses, etc.       | 
 | Leak Size      | Unknown      | 
 
