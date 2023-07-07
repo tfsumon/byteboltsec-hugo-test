@@ -1,0 +1,17 @@
+---
+date: "2023-07-07"
+discovered: "July 07, 2023"
+title: "Lawer"
+image: "images/blog/Play.png"
+author: "Breachsense Support"
+draft: false
+---
+
+| Data Breach Report           |              | 
+| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Victim      | lawer.com      | 
+| Threat Actor      | Play      | 
+| Date Discovered      | Jul 07, 2023      | 
+| Description      | Lawer has developed automatic and semi-automatic chemical and dye weighing, dissolving and dispensing systems for the textile industry, which are second to none in their technological and operational accuracy and efficiency.      | 
+| Leak Size      | Unknown      | 
+
