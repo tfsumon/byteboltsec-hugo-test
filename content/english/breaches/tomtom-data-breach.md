@@ -1,7 +1,7 @@
 ---
 date: "2023-07-12"
 discovered: "July 12, 2023"
-title: "Black & McDonald"
+title: "TomTom"
 image: "images/blog/CL0P.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | blackandmcdonald.com      | 
+| Victim      | tomtom.com      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Jul 12, 2023      | 
-| Description      | Black & McDonald is a prime multi-trade contractor providing a full range of electrical, mechanical, utility.      | 
-| Leak Size      | Unknown      | 
+| Description      | TomTom is a digital mapping and routing company that focuses on car navigation.      | 
+| Leak Size      | 82GB      | 
 

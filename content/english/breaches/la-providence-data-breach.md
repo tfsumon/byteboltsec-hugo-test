@@ -1,6 +1,6 @@
 ---
-date: "2023-03-27"
-discovered: "March 27, 2023"
+date: "2023-07-12"
+discovered: "July 12, 2023"
 title: "La Providence"
 image: "images/blog/STORMOUS.png"
 author: "Breachsense Support"
@@ -11,7 +11,7 @@ draft: false
 | :-----------: | :-------------:     |:-------------:    | :-----:|
 | Victim      | laprovidence-blois.fr      | 
 | Threat Actor      | STORMOUS      | 
-| Date Discovered      | Mar 27, 2023      | 
-| Description      | La Providence is a Catholic educational establishment.      | 
+| Date Discovered      | Jul 12, 2023      | 
+| Description      | The Campus La Providence is a Catholic educational institution.      | 
 | Leak Size      | Unknown      | 
 

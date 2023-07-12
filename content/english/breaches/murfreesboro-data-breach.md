@@ -1,17 +1,17 @@
 ---
 date: "2023-07-12"
 discovered: "July 12, 2023"
-title: "Black & McDonald"
-image: "images/blog/CL0P.png"
+title: "Murfreesboro"
+image: "images/blog/BianLian.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | blackandmcdonald.com      | 
-| Threat Actor      | CL0P      | 
+| Victim      | mmclinic.com      | 
+| Threat Actor      | BianLian      | 
 | Date Discovered      | Jul 12, 2023      | 
-| Description      | Black & McDonald is a prime multi-trade contractor providing a full range of electrical, mechanical, utility.      | 
+| Description      | Murfreesboro Medical Clinic & SurgiCenter provides primary care, surgery, wellness, diseases medicinal, and specialty treatments.      | 
 | Leak Size      | Unknown      | 
 

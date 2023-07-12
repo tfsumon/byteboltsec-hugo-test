@@ -1,7 +1,7 @@
 ---
 date: "2023-07-12"
 discovered: "July 12, 2023"
-title: "Infotech"
+title: "Berjaya Hotels & Resorts"
 image: "images/blog/STORMOUS.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | infotech.com.ua      | 
+| Victim      | berjayahotel.com      | 
 | Threat Actor      | STORMOUS      | 
 | Date Discovered      | Jul 12, 2023      | 
-| Description      | Infotech develops and implements an individual solution to ensure business security of any scale.      | 
+| Description      | Berjaya Hotels & Resorts is a member of the Berjaya Corporation Group of Companies, a public listed Malaysian diversified consumer group with interests across various business sectors.      | 
 | Leak Size      | Unknown      | 
 

@@ -1,7 +1,7 @@
 ---
 date: "2023-07-12"
 discovered: "July 12, 2023"
-title: "Black & McDonald"
+title: "Cornerstone Credit Union"
 image: "images/blog/CL0P.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | blackandmcdonald.com      | 
+| Victim      | cornerstonecu.com      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Jul 12, 2023      | 
-| Description      | Black & McDonald is a prime multi-trade contractor providing a full range of electrical, mechanical, utility.      | 
+| Description      | Cornerstone Credit Union is a full service financial institution, located in Saskatchewan.      | 
 | Leak Size      | Unknown      | 
 

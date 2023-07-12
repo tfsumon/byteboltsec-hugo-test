@@ -1,7 +1,7 @@
 ---
 date: "2023-07-12"
 discovered: "July 12, 2023"
-title: "Black & McDonald"
+title: "Emerson"
 image: "images/blog/CL0P.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | blackandmcdonald.com      | 
+| Victim      | emerson.com      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Jul 12, 2023      | 
-| Description      | Black & McDonald is a prime multi-trade contractor providing a full range of electrical, mechanical, utility.      | 
+| Description      | Emerson Electric is a manufacturer and designer of electric motors and fans.      | 
 | Leak Size      | Unknown      | 
 

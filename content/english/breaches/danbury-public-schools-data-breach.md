@@ -1,17 +1,17 @@
 ---
 date: "2023-07-12"
 discovered: "July 12, 2023"
-title: "Black & McDonald"
-image: "images/blog/CL0P.png"
+title: "Danbury Public Schools"
+image: "images/blog/8BASE.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | blackandmcdonald.com      | 
-| Threat Actor      | CL0P      | 
+| Victim      | danbury.k12.ct.us      | 
+| Threat Actor      | 8BASE      | 
 | Date Discovered      | Jul 12, 2023      | 
-| Description      | Black & McDonald is a prime multi-trade contractor providing a full range of electrical, mechanical, utility.      | 
+| Description      | Danbury Public Schools is one of the fastest-growing school districts in Connecticut.      | 
 | Leak Size      | Unknown      | 
 

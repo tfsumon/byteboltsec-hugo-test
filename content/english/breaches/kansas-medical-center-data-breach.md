@@ -1,17 +1,17 @@
 ---
 date: "2023-07-12"
 discovered: "July 12, 2023"
-title: "Black & McDonald"
-image: "images/blog/CL0P.png"
+title: "Kansas Medical Center"
+image: "images/blog/8BASE.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | blackandmcdonald.com      | 
-| Threat Actor      | CL0P      | 
+| Victim      | ksmedcenter.com      | 
+| Threat Actor      | 8BASE      | 
 | Date Discovered      | Jul 12, 2023      | 
-| Description      | Black & McDonald is a prime multi-trade contractor providing a full range of electrical, mechanical, utility.      | 
+| Description      | Kansas Medical Center is a full-service 58-bed, general acute-care hospital.      | 
 | Leak Size      | Unknown      | 
 

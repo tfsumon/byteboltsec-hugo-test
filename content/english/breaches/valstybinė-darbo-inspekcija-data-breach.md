@@ -1,17 +1,17 @@
 ---
 date: "2023-07-12"
 discovered: "July 12, 2023"
-title: "Black & McDonald"
-image: "images/blog/CL0P.png"
+title: "Valstybinė Darbo Inspekcija"
+image: "images/blog/Cuba.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | blackandmcdonald.com      | 
-| Threat Actor      | CL0P      | 
+| Victim      | vdi.lt      | 
+| Threat Actor      | Cuba      | 
 | Date Discovered      | Jul 12, 2023      | 
-| Description      | Black & McDonald is a prime multi-trade contractor providing a full range of electrical, mechanical, utility.      | 
+| Description      | Valstybinė Darbo Inspekcija is a Government office in Lithuania.      | 
 | Leak Size      | Unknown      | 
 
