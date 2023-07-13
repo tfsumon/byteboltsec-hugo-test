@@ -1,17 +1,17 @@
 ---
 date: "2023-07-13"
 discovered: "July 13, 2023"
-title: "Telepizza"
-image: "images/blog/8BASE.png"
+title: "Maruchan"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | telepizza.es      | 
-| Threat Actor      | 8BASE      | 
+| Victim      | maruchan.com      | 
+| Threat Actor      | ALPHV      | 
 | Date Discovered      | Jul 13, 2023      | 
-| Description      | Mare Hoteles is a company that operates in the Hospitality industry.      | 
-| Leak Size      | Unknown      | 
+| Description      | Maruchan is a manufacturer of Japanese style instant ramen noodles.      | 
+| Leak Size      | 447GB      | 
 

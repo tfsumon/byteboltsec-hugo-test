@@ -1,7 +1,7 @@
 ---
 date: "2023-07-13"
 discovered: "July 13, 2023"
-title: "Pioneer Electronics"
+title: "AMC Theatres"
 image: "images/blog/CL0P.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | pioneerelectronics.com      | 
+| Victim      | amctheatres.com      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Jul 13, 2023      | 
-| Description      | Pioneer is a world leader in electronics products for the car, home and business markets.      | 
+| Description      | AMC Theatres is the largest movie exhibition company in the U.S., Europe and the world with approximately 1,000 theatres and more than 11,000 screens across the globe serving approximately 350 million guests annually.      | 
 | Leak Size      | Unknown      | 
 

@@ -1,17 +1,17 @@
 ---
 date: "2023-07-13"
 discovered: "July 13, 2023"
-title: "Pioneer Electronics"
-image: "images/blog/CL0P.png"
+title: "Quikcard"
+image: "images/blog/8BASE.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | pioneerelectronics.com      | 
-| Threat Actor      | CL0P      | 
+| Victim      | quikcard.com      | 
+| Threat Actor      | 8BASE      | 
 | Date Discovered      | Jul 13, 2023      | 
-| Description      | Pioneer is a world leader in electronics products for the car, home and business markets.      | 
+| Description      | Quikcard Benefits Consulting Inc provides health insurance.      | 
 | Leak Size      | Unknown      | 
 

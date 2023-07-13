@@ -1,17 +1,17 @@
 ---
 date: "2023-07-13"
 discovered: "July 13, 2023"
-title: "Pioneer Electronics"
-image: "images/blog/CL0P.png"
+title: "Ministry of Energy and Mines of Cuba"
+image: "images/blog/STORMOUS.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | pioneerelectronics.com      | 
-| Threat Actor      | CL0P      | 
+| Victim      | minem.gob.cu      | 
+| Threat Actor      | STORMOUS      | 
 | Date Discovered      | Jul 13, 2023      | 
-| Description      | Pioneer is a world leader in electronics products for the car, home and business markets.      | 
+| Description      | Ministry of Energy and Mines of Cuba operates mainly in the Mining & Metals, Oil & Gas and Electric Power sector.      | 
 | Leak Size      | Unknown      | 
 

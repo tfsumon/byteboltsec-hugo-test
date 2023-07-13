@@ -1,7 +1,7 @@
 ---
 date: "2023-07-13"
 discovered: "July 13, 2023"
-title: "Pioneer Electronics"
+title: "ANL Packaging"
 image: "images/blog/CL0P.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | pioneerelectronics.com      | 
-| Threat Actor      | CL0P      | 
+| Victim      | anlpackaging.fr      | 
+| Threat Actor      |  CL0P     | 
 | Date Discovered      | Jul 13, 2023      | 
-| Description      | Pioneer is a world leader in electronics products for the car, home and business markets.      | 
+| Description      | ANL Plastics designs and produces consumer packaging for the automotive, electronics, communication, toy, cosmetics and healthcare industries.      | 
 | Leak Size      | Unknown      | 
 

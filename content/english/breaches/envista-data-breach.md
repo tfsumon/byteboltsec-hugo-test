@@ -1,7 +1,7 @@
 ---
 date: "2023-07-13"
 discovered: "July 13, 2023"
-title: "Pioneer Electronics"
+title: "Envista"
 image: "images/blog/CL0P.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | pioneerelectronics.com      | 
+| Victim      | envistaco.com      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Jul 13, 2023      | 
-| Description      | Pioneer is a world leader in electronics products for the car, home and business markets.      | 
+| Description      | Envista is a global family of three operating companies and more than 30 dental brands.      | 
 | Leak Size      | Unknown      | 
 

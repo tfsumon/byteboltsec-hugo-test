@@ -1,7 +1,7 @@
 ---
 date: "2023-07-13"
 discovered: "July 13, 2023"
-title: "Pioneer Electronics"
+title: "JACK Entertainment"
 image: "images/blog/CL0P.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | pioneerelectronics.com      | 
+| Victim      | jackentertainment.com      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Jul 13, 2023      | 
-| Description      | Pioneer is a world leader in electronics products for the car, home and business markets.      | 
+| Description      | JACK Entertainment LLC, formerly Rock Gaming LLC, is a Detroit-based urban gaming company focused on the development of gaming facilities.      | 
 | Leak Size      | Unknown      | 
 

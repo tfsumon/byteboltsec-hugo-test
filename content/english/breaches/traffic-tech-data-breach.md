@@ -1,7 +1,7 @@
 ---
 date: "2023-07-13"
 discovered: "July 13, 2023"
-title: "Telepizza"
+title: "Traffic Tech"
 image: "images/blog/8BASE.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | telepizza.es      | 
+| Victim      | traffic-tech.com      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Jul 13, 2023      | 
-| Description      | Mare Hoteles is a company that operates in the Hospitality industry.      | 
+| Description      | Traffic Tech is a logistics provider that offers a supply chain and transportation solutions that include all surface transportation services.      | 
 | Leak Size      | Unknown      | 
 

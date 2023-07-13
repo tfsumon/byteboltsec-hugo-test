@@ -1,17 +1,17 @@
 ---
 date: "2023-07-13"
 discovered: "July 13, 2023"
-title: "Pioneer Electronics"
-image: "images/blog/CL0P.png"
+title: "Eastin Hotel"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | pioneerelectronics.com      | 
-| Threat Actor      | CL0P      | 
+| Victim      | eastinbangkokhotel.com      | 
+| Threat Actor      | ALPHV      | 
 | Date Discovered      | Jul 13, 2023      | 
-| Description      | Pioneer is a world leader in electronics products for the car, home and business markets.      | 
+| Description      | Eastin is a hotel company based out of Thailand.      | 
 | Leak Size      | Unknown      | 
 
