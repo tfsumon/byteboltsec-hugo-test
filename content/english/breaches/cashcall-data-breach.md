@@ -1,17 +1,17 @@
 ---
 date: "2023-07-18"
 discovered: "July 18, 2023"
-title: "Baumschlager Hutter Partners"
-image: "images/blog/ALPHV.png"
+title: "CashCall"
+image: "images/blog/8BASE.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | baumschlagerhutter.com      | 
-| Threat Actor      |  ALPHV     | 
+| Victim      | cashcall.com      | 
+| Threat Actor      | 8BASE      | 
 | Date Discovered      | Jul 18, 2023      | 
-| Description      | Baumschlager Hutter Partners is an architecture company that offers construction services.      | 
+| Description      | CashCall Inc. is a lender that offers loans processed entirely over the internet, phone, and fax.      | 
 | Leak Size      | Unknown      | 
 

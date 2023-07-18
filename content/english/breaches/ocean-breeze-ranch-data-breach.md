@@ -1,17 +1,17 @@
 ---
 date: "2023-07-18"
 discovered: "July 18, 2023"
-title: "Baumschlager Hutter Partners"
-image: "images/blog/ALPHV.png"
+title: "Ocean Breeze Ranch"
+image: "images/blog/8BASE.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | baumschlagerhutter.com      | 
-| Threat Actor      |  ALPHV     | 
+| Victim      | oceanbreezeranch.com      | 
+| Threat Actor      | 8BASE      | 
 | Date Discovered      | Jul 18, 2023      | 
-| Description      | Baumschlager Hutter Partners is an architecture company that offers construction services.      | 
+| Description      | Ocean Breeze Ranch is a company that operates in the Farming industry.      | 
 | Leak Size      | Unknown      | 
 

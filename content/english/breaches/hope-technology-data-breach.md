@@ -1,17 +1,17 @@
 ---
 date: "2023-07-18"
 discovered: "July 18, 2023"
-title: "Baumschlager Hutter Partners"
-image: "images/blog/ALPHV.png"
+title: "Hope Technology"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | baumschlagerhutter.com      | 
-| Threat Actor      |  ALPHV     | 
+| Victim      | hopetech.com      | 
+| Threat Actor      | LockBit      | 
 | Date Discovered      | Jul 18, 2023      | 
-| Description      | Baumschlager Hutter Partners is an architecture company that offers construction services.      | 
+| Description      | Hope Technology is a privately owned bicycle part manufacturer based in the north of England.      | 
 | Leak Size      | Unknown      | 
 

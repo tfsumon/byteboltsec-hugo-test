@@ -1,17 +1,17 @@
 ---
 date: "2023-07-18"
 discovered: "July 18, 2023"
-title: "Baumschlager Hutter Partners"
-image: "images/blog/ALPHV.png"
+title: "Cavanaugh, Biggs & Lemon"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | baumschlagerhutter.com      | 
-| Threat Actor      |  ALPHV     | 
+| Victim      | cavlem.com      | 
+| Threat Actor      | LockBit      | 
 | Date Discovered      | Jul 18, 2023      | 
-| Description      | Baumschlager Hutter Partners is an architecture company that offers construction services.      | 
+| Description      | Cavanaugh, Biggs & Lemon P.A. offers a broad spectrum of legal services.      | 
 | Leak Size      | Unknown      | 
 

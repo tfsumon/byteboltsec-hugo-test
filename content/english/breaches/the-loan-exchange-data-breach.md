@@ -1,17 +1,17 @@
 ---
 date: "2023-07-18"
 discovered: "July 18, 2023"
-title: "Baumschlager Hutter Partners"
-image: "images/blog/ALPHV.png"
+title: "The Loan Exchange"
+image: "images/blog/8BASE.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | baumschlagerhutter.com      | 
-| Threat Actor      |  ALPHV     | 
+| Victim      | theloanexchange.com      | 
+| Threat Actor      | 8BASE      | 
 | Date Discovered      | Jul 18, 2023      | 
-| Description      | Baumschlager Hutter Partners is an architecture company that offers construction services.      | 
+| Description      | The Loan Exchange is a CA residential mortgage lender offering Home Equity Line of Credit (HELOC).      | 
 | Leak Size      | Unknown      | 
 
