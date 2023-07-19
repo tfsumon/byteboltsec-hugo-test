@@ -1,7 +1,7 @@
 ---
 date: "2023-07-19"
 discovered: "July 19, 2023"
-title: "Vitesco Technologies"
+title: "Bluefin"
 image: "images/blog/CL0P.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | vitesco-technologies.com      | 
+| Victim      | bluefin.com       | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Jul 19, 2023      | 
-| Description      | Vitesco Technologies is a leading international developer and manufacturer of state-of-the-art powertrain technologies for sustainable mobility.      | 
+| Description      | Bluefin specializes in encryption and tokenization technologies to secure PII, PHI and payment data upon entry, in transit and in storage.      | 
 | Leak Size      | Unknown      | 
 

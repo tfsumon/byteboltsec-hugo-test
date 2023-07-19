@@ -1,7 +1,7 @@
 ---
 date: "2023-07-19"
 discovered: "July 19, 2023"
-title: "Vitesco Technologies"
+title: "Allegiant "
 image: "images/blog/CL0P.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | vitesco-technologies.com      | 
+| Victim      | allegiantair.com       | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Jul 19, 2023      | 
-| Description      | Vitesco Technologies is a leading international developer and manufacturer of state-of-the-art powertrain technologies for sustainable mobility.      | 
+| Description      | Allegiant makes leisure travel affordable and convenient.      | 
 | Leak Size      | Unknown      | 
 
