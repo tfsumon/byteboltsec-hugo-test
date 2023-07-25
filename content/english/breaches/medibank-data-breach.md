@@ -2,7 +2,7 @@
 date: "2022-11-08"
 discovered: "November 08, 2022"
 title: "Medibank"
-image: "images/blog/Breaches.png"
+image: "images/blog/REvil.png"
 author: "Breachsense Support"
 draft: false
 ---

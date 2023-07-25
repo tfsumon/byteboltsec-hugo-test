@@ -2,7 +2,7 @@
 Discovered: "September 01, 2022"
 date: "2022-09-01"
 title: "Midea Group"
-image: "images/blog/Breaches.png"
+image: "images/blog/REvil.png"
 author: "Breachsense Support"
 draft: false
 ---

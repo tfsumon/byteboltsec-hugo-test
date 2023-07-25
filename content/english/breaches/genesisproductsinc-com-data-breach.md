@@ -2,7 +2,7 @@
 Discovered: "October 05, 2021"
 date: "2021-10-05"
 title: "genesisproductsinc.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/REvil.png"
 author: "Breachsense Support"
 draft: false
 ---

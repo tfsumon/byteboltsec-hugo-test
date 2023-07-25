@@ -2,7 +2,7 @@
 Discovered: "July 26, 2022"
 date: "2022-07-26"
 title: "OptiProERP"
-image: "images/blog/Breaches.png"
+image: "images/blog/REvil.png"
 author: "Breachsense Support"
 draft: false
 ---

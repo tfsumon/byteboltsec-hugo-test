@@ -2,7 +2,7 @@
 Discovered: "May 04, 2022"
 date: "2022-05-04"
 title: "unicity.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/REvil.png"
 author: "Breachsense Support"
 draft: false
 ---

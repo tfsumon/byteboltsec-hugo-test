@@ -2,7 +2,7 @@
 Discovered: "May 29, 2023"
 date: "2023-05-29"
 title: "Universal Cranes"
-image: "images/blog/Breaches.png"
+image: "images/blog/Ragnar_Locker.png"
 author: "Breachsense Support"
 draft: false
 ---

@@ -2,7 +2,7 @@
 Discovered: "August 03, 2022"
 date: "2022-08-03"
 title: "Doosan"
-image: "images/blog/Breaches.png"
+image: "images/blog/REvil.png"
 author: "Breachsense Support"
 draft: false
 ---

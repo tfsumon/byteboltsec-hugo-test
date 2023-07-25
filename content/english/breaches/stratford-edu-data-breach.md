@@ -2,7 +2,7 @@
 Discovered: "April 24, 2022"
 date: "2022-04-24"
 title: "stratford.edu"
-image: "images/blog/Breaches.png"
+image: "images/blog/REvil.png"
 author: "Breachsense Support"
 draft: false
 ---

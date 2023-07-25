@@ -2,7 +2,7 @@
 Discovered: "May 13, 2022"
 date: "2022-05-13"
 title: "ludwig-freytag.de"
-image: "images/blog/Breaches.png"
+image: "images/blog/REvil.png"
 author: "Breachsense Support"
 draft: false
 ---

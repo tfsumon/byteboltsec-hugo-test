@@ -2,7 +2,7 @@
 Discovered: "October 14, 2021"
 date: "2021-10-14"
 title: "pttep.com"
-image: "images/blog/Breaches.png"
+image: "images/blog/REvil.png"
 author: "Breachsense Support"
 draft: false
 ---

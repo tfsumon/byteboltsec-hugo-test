@@ -2,7 +2,7 @@
 date: "2023-04-10"
 discovered: "April 10, 2023"
 title: "Mid-American Glass"
-image: "images/blog/Breaches.png"
+image: "images/blog/MoneyMessage.png"
 author: "Breachsense Support"
 draft: false
 ---
