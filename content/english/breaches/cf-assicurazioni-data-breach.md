@@ -1,7 +1,7 @@
 ---
 date: "2023-07-27"
 discovered: "July 27, 2023"
-title: "Azimut"
+title: "CF Assicurazioni"
 image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | azimut.it      | 
+| Victim      | cfassicurazioni.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Jul 27, 2023      | 
-| Description      | Azimut Holding is an Italian asset management company, based in Milan, Italy.      | 
-| Leak Size      | 142GB      | 
+| Description      | CF Assicurazioni provides insurance products services related to health, home, income, and life and savings.      | 
+| Leak Size      | Unknown      | 
 

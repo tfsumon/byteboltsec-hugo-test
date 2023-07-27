@@ -1,0 +1,17 @@
+---
+date: "2023-07-27"
+discovered: "July 27, 2023"
+title: "Ajoomal"
+image: "images/blog/CL0P.png"
+author: "Breachsense Support"
+draft: false
+---
+
+| Data Breach Report           |              | 
+| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Victim      | ajoomal.com      | 
+| Threat Actor      | CL0P      | 
+| Date Discovered      | Jul 27, 2023      | 
+| Description      | Ajoomal Asociados offers internet security products, authentication, back-up, and network infrastructure solutions.      | 
+| Leak Size      | Unknown      | 
+
