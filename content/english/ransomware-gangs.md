@@ -72,7 +72,7 @@ layout: "elements"
 | <a href="http://7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion">CRYP70N1C0D3</a>     | Tor     | OFFLINE     |
 | <a href="http://cuba4mp6ximo2zlo.onion">CUBA </a>     | Tor     | OFFLINE     |
 | <a href="http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion">CUBA</a>     | Tor     | ONLINE     |
-| <a href="http://nt3rrzq5hcyznvdkpslvqbbc2jqecqrinhi5jtwoae2x7psqtcb6dcad.onion">Cyclops</a>     | Tor     | ONLINE     |
+| <a href="http://nt3rrzq5hcyznvdkpslvqbbc2jqecqrinhi5jtwoae2x7psqtcb6dcad.onion/blogs/79b2eb61-97e2-4a2e-81f8-1c1d45c3b59c">CYCLOPS</a>     | Tor     | ONLINE     |
 | <a href="http://dgnh6p5uq234zry7qx7bh73hj5ht3jqisgfet6s7j7uyas5i46xfdkyd.onion">DAGON LOCKER </a>     | Tor     | OFFLINE     |
 | <a href="http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion">DAIXIN</a>     | Tor     | ONLINE     |
 | <a href="https://wemo2ysyeq6km2nqhcrz63dkdhez3j25yw2nvn7xba2z4h7v7gyrfgid.onion">DARK ANGELS</a>     | Tor     | OFFLINE     |
@@ -117,6 +117,7 @@ layout: "elements"
 | <a href="https://3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion">KARAKURT </a>     | Tor     | ONLINE     |
 | <a href="http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion">KARMA</a>     | Tor     | OFFLINE     |
 | <a href="https://vipsuscription.org">KELVIN SECURITY</a>     | Clearnet     | ONLINE     |
+| <a href="http://knight3xppu263m7g4ag3xlit2qxpryjwueobh7vjdc3zrscqlfu3pqd.onion">KNIGHT </a>     | Tor     | ONLINE     |
 | <a href="http://et22fibzuzfyzgurm35sttm52qbzvdgzy5qhzy46a3gmkrrht3lec5ad.onion">LA PIOVRA</a>     | Tor     | OFFLINE     |
 | <a href="http://yeuajcizwytgmrntijhxphs6wn5txp2prs6rpndafbsapek3zd4ubcid.onion">LILITH</a>     | Tor     | OFFLINE     |
 | <a href="http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion">LOCKBIT 2.0 </a>     | Tor     | REBRANDED TO LB 3     |
