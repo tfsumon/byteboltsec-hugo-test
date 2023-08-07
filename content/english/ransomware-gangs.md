@@ -12,6 +12,7 @@ layout: "elements"
 | <a href="https://ransom.insicurezzadigitale.com/index.php">DRM - Dashboard Ransomware Monitor</a>     | Clearnet     | ONLINE     |
 | <a href="https://ecrime.ch">eCrime Services</a>     | Clearnet     | ONLINE     |
 | <a href="https://www.ransomlook.io/">RANSOMWARE GROUPS MONITORING TOOL</a>     | Clearnet     | ONLINE     |
+| <a href="https://www.ransomware.live/">RANSOMWARE GROUPS MONITORING TOOL</a>     | Clearnet     | ONLINE     |
 | <a href="http://54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion/blog">54bb47h</a>     | Tor     | OFFLINE     |
 | <a href="http://omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion">0mega </a>     | Tor     | ONLINE     |
 | <a href="http://54bb47h.blog">54bb47h</a>     | Clearnet     | OFFLINE     |
@@ -60,6 +61,7 @@ layout: "elements"
 | <a href="http://rwiajgajdr4kzlnrj5zwebbukpcbrjhupjmk6gufxv6tg7myx34iocad.onion">CHEERS</a>     | Tor     | OFFLINE     |
 | <a href="http://z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid.onion/login">CHILE LOCKER </a>     | Tor     | OFFLINE     |
 | <a href="http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion">CLOP</a>     | Tor     | ONLINE     |
+| <a href="http://toznnag5o3ambca56s2yacteu7q7x2avrfherzmz4nmujrjuib4iusad.onion">CLOP </a>     | Tor     | ONLINE     |
 | <a href="http://ekbgzchl6x2ias37.onion">CLOP </a>     | Tor     | OFFLINE     |
 | <a href="http://continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion">CONTI/RYUK </a>     | Tor     | OFFLINE     |
 | <a href="http://teo7aj5mfgzxyeme.onion">COOMINGPROJECT </a>     | Tor     | OFFLINE     |
