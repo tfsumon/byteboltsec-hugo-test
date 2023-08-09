@@ -10,7 +10,7 @@ draft: false
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
 | Victim      | powertel.co.zw      | 
-| Threat Actor      | Everest      | 
+| Threat Actor      |  Everest      | 
 | Date Discovered      | Aug 09, 2023      | 
 | Description      | Powertel Communications, the ICT subsidiary of the ZESA Holdings Group and aggregator of prepaid electricity vending services.      | 
 | Leak Size      | Unknown      | 
