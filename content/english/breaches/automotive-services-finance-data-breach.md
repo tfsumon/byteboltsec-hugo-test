@@ -1,0 +1,17 @@
+---
+date: "2023-08-10"
+discovered: "August 10, 2023"
+title: "Automotive Services Finance"
+image: "images/blog/LockBit.png"
+author: "Breachsense Support"
+draft: false
+---
+
+| Data Breach Report           |              | 
+| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Victim      | asfcustomers.com      | 
+| Threat Actor      | LockBit      | 
+| Date Discovered      | Aug 10, 2023      | 
+| Description      | Automotive Services Finance (ASF) is an indirect automobile financing source provider intended to offer an indirect loan option.      | 
+| Leak Size      | Unknown      | 
+
