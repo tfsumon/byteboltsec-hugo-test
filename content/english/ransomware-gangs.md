@@ -112,6 +112,7 @@ layout: "elements"
 | <a href="http://r6d636w47ncnaukrpvlhmtdbvbeltc6enfcuuow3jclpmyga7cz374qd.onion">HOTARUS</a>     | Tor     | OFFLINE     |
 | <a href="http://kf6x3mjeqljqxjznaw65jixin7dpcunfxbbakwuitizytcpzn4iy5bad.onion/board/leak_list">ICEFIRE</a>     | Tor     | OFFLINE     |
 | <a href="http://7kstc545azxeahkduxmefgwqkrrhq3mzohkzqvrv7aekob7z3iwkqvyd.onion/board/victim_list">ICEFIRE</a>     | Tor     | OFFLINE     |
+| <a href="http://incblog7vmuq7rktic73r4ha4j757m3ptym37tyvifzp2roedyyzzxid.onion/blog/leaks">INC RANSOM</a>     | Tor     | ONLINE     |
 | <a href="http://spyarea23ttlty6qav3ecmbclpqym3p32lksanoypvrqm6j5onstsjad.onion">INDUSTRIAL SPY</a>     | Tor     | OFFLINE     |
 | <a href="https://justice-blade.io">JUSTICE BLADE</a>     | Clearnet     | OFFLINE     |
 | <a href="https://lhxxtrqraokn63f3nubhbjrzxkrgduq3qogp3yr424tkpvh3z7n4kcyd.onion">KARAKURT </a>     | Tor     | OFFLINE     |
