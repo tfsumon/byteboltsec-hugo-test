@@ -14,9 +14,9 @@ brands_carousel:
   brand_images:
   - "images/brands/TW.png"
   - "images/brands/PP.png"
-  - "images/brands/SG.png"
   - "images/brands/DB.png"
-  - "images/brands/IP.png"
+  - "images/brands/RS.png"
+  - "images/brands/SG.png"
 
 
 # features
