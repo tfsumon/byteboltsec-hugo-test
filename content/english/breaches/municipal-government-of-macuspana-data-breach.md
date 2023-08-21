@@ -1,17 +1,17 @@
 ---
 date: "2023-08-21"
 discovered: "August 21, 2023"
-title: "TXM Plant"
-image: "images/blog/Cuba.png"
+title: "Municipal Government of Macuspana"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | txmplant.co.uk      | 
-| Threat Actor      |  Cuba     | 
+| Victim      | macuspana.gob.mx      | 
+| Threat Actor      |  LockBit     | 
 | Date Discovered      | Aug 21, 2023      | 
-| Description      | TXM Plant Ltd. provides road rail vehicles and associated attachments to Network Rail and its major contractors.      | 
+| Description      | Macuspana Municipality is a municipality in the Mexican state of Tabasco, in south-eastern Mexico.      | 
 | Leak Size      | Unknown      | 
 

@@ -1,17 +1,17 @@
 ---
 date: "2023-08-21"
 discovered: "August 21, 2023"
-title: "TXM Plant"
-image: "images/blog/Cuba.png"
+title: "Novi Pazar"
+image: "images/blog/Medusa.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | txmplant.co.uk      | 
-| Threat Actor      |  Cuba     | 
+| Victim      | np-put.rs      | 
+| Threat Actor      |  Medusa     | 
 | Date Discovered      | Aug 21, 2023      | 
-| Description      | TXM Plant Ltd. provides road rail vehicles and associated attachments to Network Rail and its major contractors.      | 
+| Description      | Novi Pazar put ad is a company that operates in the Civil Engineering industry      | 
 | Leak Size      | Unknown      | 
 

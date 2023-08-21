@@ -1,17 +1,17 @@
 ---
 date: "2023-08-21"
 discovered: "August 21, 2023"
-title: "TXM Plant"
-image: "images/blog/Cuba.png"
+title: "Parsian Bitumen"
+image: "images/blog/ArvinClub.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | txmplant.co.uk      | 
-| Threat Actor      |  Cuba     | 
+| Victim      | parsianbitumen.com      | 
+| Threat Actor      |  ArvinClub     | 
 | Date Discovered      | Aug 21, 2023      | 
-| Description      | TXM Plant Ltd. provides road rail vehicles and associated attachments to Network Rail and its major contractors.      | 
+| Description      | Parsian Bitumen is a supplier of refined bitumen, exportation, polymer, domestic packaging in barrels, bulk and cartons.      | 
 | Leak Size      | Unknown      | 
 

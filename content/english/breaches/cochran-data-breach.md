@@ -1,17 +1,17 @@
 ---
 date: "2023-08-21"
 discovered: "August 21, 2023"
-title: "TXM Plant"
-image: "images/blog/Cuba.png"
+title: "Cochran"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | txmplant.co.uk      | 
-| Threat Actor      |  Cuba     | 
+| Victim      | cochraninc.com      | 
+| Threat Actor      | LockBit      | 
 | Date Discovered      | Aug 21, 2023      | 
-| Description      | TXM Plant Ltd. provides road rail vehicles and associated attachments to Network Rail and its major contractors.      | 
+| Description      | Cochran Inc. is the Pacific Northwest's leading electrical and technology firm.      | 
 | Leak Size      | Unknown      | 
 

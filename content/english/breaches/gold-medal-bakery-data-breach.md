@@ -1,7 +1,7 @@
 ---
 date: "2023-08-21"
 discovered: "August 21, 2023"
-title: "TXM Plant"
+title: "Gold Medal Bakery"
 image: "images/blog/Cuba.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | txmplant.co.uk      | 
+| Victim      | goldmedalbakery.com      | 
 | Threat Actor      |  Cuba     | 
 | Date Discovered      | Aug 21, 2023      | 
-| Description      | TXM Plant Ltd. provides road rail vehicles and associated attachments to Network Rail and its major contractors.      | 
+| Description      | Gold Medal Bakery manufactures and distributes a wide range of bread products to various customers within the region.      | 
 | Leak Size      | Unknown      | 
 

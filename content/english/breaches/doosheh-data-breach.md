@@ -1,17 +1,17 @@
 ---
 date: "2023-08-21"
 discovered: "August 21, 2023"
-title: "TXM Plant"
-image: "images/blog/Cuba.png"
+title: "Doosheh"
+image: "images/blog/ArvinClub.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | txmplant.co.uk      | 
-| Threat Actor      |  Cuba     | 
+| Victim      | doosheh.com      | 
+| Threat Actor      |  ArvinClub     | 
 | Date Discovered      | Aug 21, 2023      | 
-| Description      | TXM Plant Ltd. provides road rail vehicles and associated attachments to Network Rail and its major contractors.      | 
+| Description      | Doosheh produces a wide range of dairy products that is delivered by our widespread distribution network.      | 
 | Leak Size      | Unknown      | 
 
