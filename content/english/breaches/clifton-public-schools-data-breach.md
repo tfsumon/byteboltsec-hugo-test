@@ -2,7 +2,7 @@
 date: "2023-08-18"
 discovered: "August 18, 2023"
 title: "Clifton Public Schools"
-image: "images/blog/AKira.png"
+image: "images/blog/Akira.png"
 author: "Breachsense Support"
 draft: false
 ---
