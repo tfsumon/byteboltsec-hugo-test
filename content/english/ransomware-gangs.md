@@ -60,6 +60,7 @@ layout: "elements"
 | <a href="https://cactusbloguuodvqjmnzlwetjlpj6aggc6iocwhuupb47laukux7ckid.onion">CACTUS</a>     | Tor     | ONLINE     |
 | <a href="http://rwiajgajdr4kzlnrj5zwebbukpcbrjhupjmk6gufxv6tg7myx34iocad.onion">CHEERS</a>     | Tor     | OFFLINE     |
 | <a href="http://z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid.onion/login">CHILE LOCKER </a>     | Tor     | OFFLINE     |
+| <a href="http://cloak7jpvcb73rtx2ff7kaw2kholu7bdiivxpzbhlny4ybz75dpxckqd.onion">CLOAK</a>     | Tor     | ONLINE     |
 | <a href="http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion">CLOP</a>     | Tor     | ONLINE     |
 | <a href="http://toznnag5o3ambca56s2yacteu7q7x2avrfherzmz4nmujrjuib4iusad.onion">CLOP </a>     | Tor     | ONLINE     |
 | <a href="http://ekbgzchl6x2ias37.onion">CLOP </a>     | Tor     | OFFLINE     |
@@ -228,7 +229,7 @@ layout: "elements"
 | <a href="http://zj2ex44e2b2xi43m2txk4uwi3l55aglsarre7repw7rkfwpj54j46iqd.onion">SPARTA</a>     | Tor     | OFFLINE     |
 | <a href="http://spookuhvfyxzph54ikjfwf2mwmxt572krpom7reyayrmxbkizbvkpaid.onion/blog">SPOOK DATA</a>     | Tor     | OFFLINE     |
 | <a href="http://3slz4povugieoi3tw7sblxoowxhbzxeju427cffsst5fo2tizepwatid.onion">STORMOUS</a>     | Tor     | OFFLINE     |
-| <a href="http://h3reihqb2y7woqdary2g3bmk3apgtxuyhx4j2ftovbhe3l5svev7bdyd.onion">STORMOUS</a>     | Tor     | OFFLINE     |
+| <a href="http://h3reihqb2y7woqdary2g3bmk3apgtxuyhx4j2ftovbhe3l5svev7bdyd.onion">STORMOUS</a>     | Tor     | ONLINE     |
 | <a href="http://chat5sqrnzqewampznybomgn4hf2m53tybkarxk4sfaktwt7oqpkcvyd.onion/gate.php?data=">SUGAR </a>     | Tor     | OFFLINE     |
 | <a href="http://nbzzb6sa6xuura2z.onion">SUNCRYPT </a>     | Tor     | OFFLINE     |
 | <a href="http://x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion">SUNCRYPT </a>     | Tor     | OFFLINE     |
