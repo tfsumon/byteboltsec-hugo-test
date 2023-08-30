@@ -1,7 +1,7 @@
 ---
 date: "2023-08-30"
 discovered: "August 30, 2023"
-title: "Young Homes"
+title: "Ministry of Cultural Heritage and Activities and Tourism"
 image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | younghomes.com      | 
+| Victim      | beniculturali.it      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Aug 30, 2023      | 
-| Description      | Young Homes provides land acquisitions, real estate investment, property sale, home buying and property management services.      | 
+| Description      | Ministry of Cultural Heritage and Activities and Tourism is the culture ministry of the Italian Republic.      | 
 | Leak Size      | Unknown      | 
 

@@ -1,17 +1,17 @@
 ---
 date: "2023-08-30"
 discovered: "August 30, 2023"
-title: "Alektum Group"
-image: "images/blog/CL0P.png"
+title: "UkSeung"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | alektum.com      | 
-| Threat Actor      | CL0P      | 
+| Victim      | ukseung.co.kr      | 
+| Threat Actor      | LockBit      | 
 | Date Discovered      | Aug 30, 2023      | 
-| Description      | Alektum Group is a family-owned company offering debt collection and associated services.      | 
+| Description      | UkSeung Chemical manufactures color pigments that are offered to clients in paint, electronics, and other industries.      | 
 | Leak Size      | Unknown      | 
 

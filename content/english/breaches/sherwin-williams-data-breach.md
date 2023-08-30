@@ -1,7 +1,7 @@
 ---
 date: "2023-08-30"
 discovered: "August 30, 2023"
-title: "Young Homes"
+title: "Sherwin-Williams"
 image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | younghomes.com      | 
+| Victim      | sherwin-electric.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Aug 30, 2023      | 
-| Description      | Young Homes provides land acquisitions, real estate investment, property sale, home buying and property management services.      | 
+| Description      | The Sherwin-Williams Company engages in the development, manufacture, distribution, and sale of paints, coatings, and related products.      | 
 | Leak Size      | Unknown      | 
 

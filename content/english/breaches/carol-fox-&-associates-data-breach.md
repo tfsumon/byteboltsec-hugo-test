@@ -1,7 +1,7 @@
 ---
 date: "2023-08-30"
 discovered: "August 30, 2023"
-title: "Young Homes"
+title: "Carol Fox & Associates"
 image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | younghomes.com      | 
+| Victim      | carolfoxassociates.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Aug 30, 2023      | 
-| Description      | Young Homes provides land acquisitions, real estate investment, property sale, home buying and property management services.      | 
+| Description      | Carol Fox & Associates offers PR, event management, marketing, advertising, graphic design, training, social media & consultation services.      | 
 | Leak Size      | Unknown      | 
 

@@ -1,17 +1,17 @@
 ---
 date: "2023-08-30"
 discovered: "August 30, 2023"
-title: "Alektum Group"
-image: "images/blog/CL0P.png"
+title: "Distribuidora David"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | alektum.com      | 
-| Threat Actor      | CL0P      | 
+| Victim      | distribuidoradavidsa.com      | 
+| Threat Actor      | LockBit      | 
 | Date Discovered      | Aug 30, 2023      | 
-| Description      | Alektum Group is a family-owned company offering debt collection and associated services.      | 
+| Description      | Distribuidora David offers the full line of Ford cars and trucks with an emphasis on total customer satisfaction.      | 
 | Leak Size      | Unknown      | 
 

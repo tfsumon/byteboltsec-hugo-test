@@ -1,17 +1,17 @@
 ---
 date: "2023-08-30"
 discovered: "August 30, 2023"
-title: "Alektum Group"
-image: "images/blog/CL0P.png"
+title: "Republic Assembly of the Turkish Republic of Northern Cyprus"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | alektum.com      | 
-| Threat Actor      | CL0P      | 
+| Victim      | cm.gov.nc.tr      | 
+| Threat Actor      | LockBit      | 
 | Date Discovered      | Aug 30, 2023      | 
-| Description      | Alektum Group is a family-owned company offering debt collection and associated services.      | 
+| Description      | Republic Assembly of the Turkish Republic of Northern Cyprus operates in Government industry.      | 
 | Leak Size      | Unknown      | 
 

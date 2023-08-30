@@ -1,17 +1,17 @@
 ---
 date: "2023-08-30"
 discovered: "August 30, 2023"
-title: "Alektum Group"
-image: "images/blog/CL0P.png"
+title: "Petkus Brothers"
+image: "images/blog/8BASE.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | alektum.com      | 
-| Threat Actor      | CL0P      | 
+| Victim      | petkusbrothers.com      | 
+| Threat Actor      | 8BASE      | 
 | Date Discovered      | Aug 30, 2023      | 
-| Description      | Alektum Group is a family-owned company offering debt collection and associated services.      | 
+| Description      | Petkus Brothers builds custom sun rooms & patio covers and kitchen & bathroom renovations.      | 
 | Leak Size      | Unknown      | 
 
