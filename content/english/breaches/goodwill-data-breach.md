@@ -1,6 +1,6 @@
 ---
-Discovered: "December 22, 2022"
-date: "2022-12-22"
+date: "2023-08-31"
+discovered: "August 31, 2023"
 title: "Goodwill"
 image: "images/blog/Karakurt.png"
 author: "Breachsense Support"
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | goodwillcentraltexas.org      | 
+| Victim      | goodwill.org      | 
 | Threat Actor      | Karakurt      | 
-| Date Discovered      | Dec 22, 2022      | 
-| Description      | Goodwill Central Texas offers a highly efficient and cost effective way to connect employers with the job-ready personnel they need.      | 
-| Leak Size      | N/A      | 
+| Date Discovered      | Aug 31, 2023      | 
+| Description      | Goodwill Industries International Inc., or shortened to Goodwill, is a North America’s leading nonprofit provider of education, training, and career services for people with disadvantages, such as welfare dependency, homelessness, and lack of education or work experience, as well as those with physical, mental and emotional disabilities.      | 
+| Leak Size      | Unknown      | 
 
