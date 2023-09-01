@@ -1,7 +1,7 @@
 ---
 date: "2023-09-01"
 discovered: "September 01, 2023"
-title: "Baker Mechanical"
+title: "Guyer & Regules"
 image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | bakermechanicalinc.com      | 
+| Victim      | guyer.com.uy      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Sep 01, 2023      | 
-| Description      | Baker Mechanical Inc. is a fully licensed and insured Mechanical Contractor, serving the HVAC and Plumbing industries.      | 
+| Description      | Guyer & Regules is a law firm that offers services in complex international and domestic legal, accounting, and tax matters.      | 
 | Leak Size      | Unknown      | 
 
