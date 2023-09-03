@@ -31,12 +31,15 @@ layout: "elements"
 | **update**      | return the Unix timestamp the combo database was last updated      |
 | **unixtime**      | display the import date in unixtime (aliases: <i>unix</i>,<i>epoch</i>      |
 
-### Output :
+### Output*:
 | JSON Key           | Value             |
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| usr      | The username used to authenticate      |
-| pwd      | The password used to authenticate      |
 | fnd      | The date (in YYYYMMDD or unixtime format) the credentials were found      |
+| fle      | The file name the credential was found in      |
+| pwd      | The password used to authenticate      |
+| src      | The target URL or IP that the victim authenticated to      |
+| usr      | The username used to authenticate      |
+* Output dependant on which values were present in the original leak.
   {{< /tab >}}
 
   {{< tab "Creds API" >}}
@@ -139,9 +142,9 @@ layout: "elements"
 ### Output :
 | JSON Key           | Value             |
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| src      | A URL containing data associated with the target      |
 | data      | The domain name associated with the victim      |
 | found      | The date the data was indexed (in YYYYMMDD format)      |
+| src      | A URL containing data associated with the target      |
  
   {{< /tab >}}
   {{< tab "Sessions API" >}}
@@ -164,11 +167,11 @@ layout: "elements"
 | JSON Key           | Value             |
 | :-----------: | :-------------:     |:-------------:    | :-----:|
 | dom      | The domain name associated with the victim      |
-| name      | The name of the cookie      |
-| val      | The value of the cookie      |
-| path      | The cookie path     |
 | expires      | The date (in unixtime) that the cookie is set to expire      |
 | fnd      | The date the data was found (in YYYYMMDD format)      |
+| name      | The name of the cookie      |
+| path      | The cookie path     |
+| val      | The value of the cookie      |
  
   {{< /tab >}}
 
@@ -188,18 +191,18 @@ layout: "elements"
 | **update**      | return the Unix timestamp the stealer database was last updated      |
 | **unixtime**      | display the import date in unixtime (aliases: <i>unix</i>,<i>epoch</i>      |
 
-### Output :
+### Output: (Depending on which values were present in the original file)
 | JSON Key           | Value             |
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| usr      | The username used to authenticate      |
-| pwd      | The password used to authenticate      |
-| src      | The target URL or IP that the victim authenticated to      |
+| fle      | The file name the credential was found in      |
+| fnd      | The date the credential was found      |
 | hid      | The hardware ID of the infected device     |
 | iip      | The IP address of the infected device      |
 | inf      | The date the machine was infected on (in unixtime)      |
 | mal      | The type of malware infected on the device      |
-| fnd      | The date the credential was found      |
-| fle      | The file name the credential was found in      |
+| pwd      | The password used to authenticate      |
+| src      | The target URL or IP that the victim authenticated to      |
+| usr      | The username used to authenticate      |
   {{< /tab >}}
 
 {{< /tabs >}}
