@@ -31,7 +31,7 @@ layout: "elements"
 | **update**      | return the Unix timestamp the combo database was last updated      |
 | **unixtime**      | display the import date in unixtime (aliases: <i>unix</i>,<i>epoch</i>      |
 
-### Output*:
+### Output* :
 | JSON Key           | Value             |
 | :-----------: | :-------------:     |:-------------:    | :-----:|
 | fnd      | The date (in YYYYMMDD or unixtime format) the credentials were found      |
@@ -39,7 +39,7 @@ layout: "elements"
 | pwd      | The password used to authenticate      |
 | src      | The target URL or IP that the victim authenticated to      |
 | usr      | The username used to authenticate      |
-* Output dependant on which values were present in the original leak.
+\* Output dependant on which values were present in the original leak.
   {{< /tab >}}
 
   {{< tab "Creds API" >}}
@@ -191,7 +191,7 @@ layout: "elements"
 | **update**      | return the Unix timestamp the stealer database was last updated      |
 | **unixtime**      | display the import date in unixtime (aliases: <i>unix</i>,<i>epoch</i>      |
 
-### Output: (Depending on which values were present in the original file)
+### Output* :
 | JSON Key           | Value             |
 | :-----------: | :-------------:     |:-------------:    | :-----:|
 | fle      | The file name the credential was found in      |
@@ -203,6 +203,7 @@ layout: "elements"
 | pwd      | The password used to authenticate      |
 | src      | The target URL or IP that the victim authenticated to      |
 | usr      | The username used to authenticate      |
+\* Output dependant on which values were present in the original leak.
   {{< /tab >}}
 
 {{< /tabs >}}
