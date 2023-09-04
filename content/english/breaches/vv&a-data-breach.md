@@ -1,17 +1,17 @@
 ---
 date: "2023-09-04"
 discovered: "September 04, 2023"
-title: "Confido"
-image: "images/blog/STORMOUS.png"
+title: "VV&A"
+image: "images/blog/8BASE.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | confido.eu      | 
-| Threat Actor      | STORMOUS      | 
+| Victim      | cftvyv.com      | 
+| Threat Actor      | 8BASE      | 
 | Date Discovered      | Sep 04, 2023      | 
-| Description      | Confido is a group of companies that each specialise in digital trust services.      | 
+| Description      | VV&A provides auditing, accounting, tax and legal advice.      | 
 | Leak Size      | Unknown      | 
 

@@ -1,17 +1,17 @@
 ---
 date: "2023-09-04"
 discovered: "September 04, 2023"
-title: "Confido"
-image: "images/blog/STORMOUS.png"
+title: "RAMLOW/STEIN"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | confido.eu      | 
-| Threat Actor      | STORMOUS      | 
+| Victim      | ramlowstein.com      | 
+| Threat Actor      | LockBit      | 
 | Date Discovered      | Sep 04, 2023      | 
-| Description      | Confido is a group of companies that each specialise in digital trust services.      | 
+| Description      | RAMLOW/STEIN, Inc. is a design firm that offers architecture, interior design, and planning services.      | 
 | Leak Size      | Unknown      | 
 

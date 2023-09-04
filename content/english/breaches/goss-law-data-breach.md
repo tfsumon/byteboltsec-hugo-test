@@ -1,17 +1,17 @@
 ---
 date: "2023-09-04"
 discovered: "September 04, 2023"
-title: "Confido"
-image: "images/blog/STORMOUS.png"
+title: "Goss Law"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | confido.eu      | 
-| Threat Actor      | STORMOUS      | 
+| Victim      | gosslaw.com      | 
+| Threat Actor      | LockBit      | 
 | Date Discovered      | Sep 04, 2023      | 
-| Description      | Confido is a group of companies that each specialise in digital trust services.      | 
+| Description      | Goss Law is a company that operates in the Legal Services industry.      | 
 | Leak Size      | Unknown      | 
 

@@ -1,17 +1,17 @@
 ---
 date: "2023-09-04"
 discovered: "September 04, 2023"
-title: "Confido"
-image: "images/blog/STORMOUS.png"
+title: "Presscut"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | confido.eu      | 
-| Threat Actor      | STORMOUS      | 
+| Victim      | presscut.hr      | 
+| Threat Actor      | ALPHV      | 
 | Date Discovered      | Sep 04, 2023      | 
-| Description      | Confido is a group of companies that each specialise in digital trust services.      | 
+| Description      | Presscut is the leading media monitoring agency in Croatia.      | 
 | Leak Size      | Unknown      | 
 

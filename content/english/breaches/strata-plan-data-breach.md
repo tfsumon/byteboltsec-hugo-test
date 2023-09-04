@@ -1,17 +1,17 @@
 ---
 date: "2023-09-04"
 discovered: "September 04, 2023"
-title: "Confido"
-image: "images/blog/STORMOUS.png"
+title: "Strata Plan"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | confido.eu      | 
-| Threat Actor      | STORMOUS      | 
+| Victim      | strataplan.com.au      | 
+| Threat Actor      | ALPHV      | 
 | Date Discovered      | Sep 04, 2023      | 
-| Description      | Confido is a group of companies that each specialise in digital trust services.      | 
+| Description      | Strata Plan offers property investment, facility management, and property developer services.      | 
 | Leak Size      | Unknown      | 
 

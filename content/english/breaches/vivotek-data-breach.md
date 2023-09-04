@@ -1,7 +1,7 @@
 ---
 date: "2023-09-04"
 discovered: "September 04, 2023"
-title: "Confido"
+title: "Vivotek"
 image: "images/blog/STORMOUS.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | confido.eu      | 
+| Victim      | vivotek.com      | 
 | Threat Actor      | STORMOUS      | 
 | Date Discovered      | Sep 04, 2023      | 
-| Description      | Confido is a group of companies that each specialise in digital trust services.      | 
+| Description      | Vivotek Inc has become a leading brand in the global IP surveillance industry.      | 
 | Leak Size      | Unknown      | 
 

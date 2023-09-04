@@ -1,17 +1,17 @@
 ---
 date: "2023-09-04"
 discovered: "September 04, 2023"
-title: "Confido"
-image: "images/blog/STORMOUS.png"
+title: "DDB Unlimited"
+image: "images/blog/Rancoz.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | confido.eu      | 
-| Threat Actor      | STORMOUS      | 
+| Victim      | ddbunlimited.com      | 
+| Threat Actor      | Rancoz      | 
 | Date Discovered      | Sep 04, 2023      | 
-| Description      | Confido is a group of companies that each specialise in digital trust services.      | 
-| Leak Size      | Unknown      | 
+| Description      | DDB Unlimited Incorporated manufactures indoor and outdoor enclosures.      | 
+| Leak Size      | 18GB      | 
 
