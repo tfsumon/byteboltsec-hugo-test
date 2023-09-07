@@ -40,6 +40,12 @@ layout: "elements"
 | src      | The target URL or IP that the victim authenticated to      |
 | usr      | The username used to authenticate      |
 \* Output dependant on which values were present in the original leak.
+
+### Test Data :
+|   Parameter                 |   String                |
+| :-----------: | :-------------:     |:-------------:    | :-----:|
+| search            | ignore@example.com             |
+
   {{< /tab >}}
 
   {{< tab "Creds API" >}}
@@ -74,6 +80,12 @@ layout: "elements"
 | src      | The name of the breached website or collection      |
 | atr      | The attribution data associated with the breach     |
 | imp      | The date (in YYYYMMDD format) the breach was found      |
+
+### Test Data :
+|   Parameter                 |   String                |
+| :-----------: | :-------------:     |:-------------:    | :-----:|
+| search            | ignore@example.com             |
+
   {{< /tab >}}
 
   {{< tab "Darkweb API" >}}
@@ -99,6 +111,11 @@ layout: "elements"
 | site      | The name of the threat actor      |
 | data      | The domain name associated with the victim      |
 | found      | The date the data was indexed (in YYYYMMDD format)      |
+
+### Test Data :
+|   Parameter                 |   String                |
+| :-----------: | :-------------:     |:-------------:    | :-----:|
+| search            | example.com             |
  
   {{< /tab >}}
   {{< tab "Monitor API" >}}
@@ -145,7 +162,12 @@ layout: "elements"
 | data      | The domain name associated with the victim      |
 | found      | The date the data was indexed (in YYYYMMDD format)      |
 | src      | A URL containing data associated with the target      |
- 
+
+### Test Data :
+|   Parameter                 |   String                |
+| :-----------: | :-------------:     |:-------------:    | :-----:|
+| search            | example.com             |
+  
   {{< /tab >}}
   {{< tab "Sessions API" >}}
 ### Endpoint :
@@ -172,6 +194,11 @@ layout: "elements"
 | name      | The name of the cookie      |
 | path      | The cookie path     |
 | val      | The value of the cookie      |
+
+### Test Data :
+|   Parameter                 |   String                |
+| :-----------: | :-------------:     |:-------------:    | :-----:|
+| search            | example.com             |
  
   {{< /tab >}}
 
@@ -204,6 +231,12 @@ layout: "elements"
 | src      | The target URL or IP that the victim authenticated to      |
 | usr      | The username used to authenticate      |
 \* Output dependant on which values were present in the original leak.
+
+### Test Data :
+|   Parameter                 |   String                |
+| :-----------: | :-------------:     |:-------------:    | :-----:|
+| search            | ignore@example.com             |
+ 
   {{< /tab >}}
 
 {{< /tabs >}}
