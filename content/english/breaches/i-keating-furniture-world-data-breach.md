@@ -1,7 +1,7 @@
 ---
 date: "2023-09-07"
 discovered: "September 07, 2023"
-title: "I Keating Furniture World"
+title: "I. Keating Furniture World"
 image: "images/blog/INC_RANSOM.png"
 author: "Breachsense Support"
 draft: false
