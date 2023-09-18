@@ -72,6 +72,7 @@ layout: "elements"
 | <a href="http://ncpbxzcgdeprrbba7dgodmymdewy57yokkebuwhmuywiuz5kqjwepbad.onion">CRIMSON WALRUS</a>     | Tor     | OFFLINE     |
 | <a href="http://crosslock5cwfljbw4v37zuzq4talxxhyavjm2lufmjwgbpfjdsh56yd.onion">CROSSLOCK</a>     | Tor     | OFFLINE     |
 | <a href="http://d57uremugxjrafyg.onion">CRYLOCK </a>     | Tor     | OFFLINE     |
+| <a href="http://crypuglupv3bsqnbt5ruu5lgwrwoaojscwhuoccbmbzmcidft5kiccqd.onion">CRYPTBB</a>     | Tor     | ONLINE     |
 | <a href="http://blog6zw62uijolee7e6aqqnqaszs3ckr5iphzdzsazgrpvtqtjwqryid.onion">CRYPTNET</a>     | Tor     | ONLINE     |
 | <a href="http://cryptr3fmuv4di5uiczofjuypopr63x2gltlsvhur2ump4ebru2xd3yd.onion">CRYPTNET </a>     | Tor     | ONLINE     |
 | <a href="http://7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion">CRYP70N1C0D3</a>     | Tor     | OFFLINE     |
