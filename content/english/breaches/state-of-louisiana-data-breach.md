@@ -12,6 +12,6 @@ draft: false
 | Victim      | gov.la      | 
 | Threat Actor      | Ransomed      | 
 | Date Discovered      | Sep 19, 2023      | 
-| Description      | State of Louisiana operates in Government industry.      | 
+| Description      | The State of Louisiana, United States.      | 
 | Leak Size      | Unknown      | 
 
