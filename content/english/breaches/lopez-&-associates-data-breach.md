@@ -1,7 +1,7 @@
 ---
 date: "2023-09-19"
 discovered: "September 19, 2023"
-title: "Benefit Management"
+title: "Lopez & Associates"
 image: "images/blog/Knight.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | benefit-management.com      | 
+| Victim      | la-imaging.com      | 
 | Threat Actor      | Knight      | 
 | Date Discovered      | Sep 19, 2023      | 
-| Description      | Benefit Management is an insurance company that provides health plan administration and strategic consulting to self-funded employers.      | 
+| Description      | Lopez & Associates Inc. photocopy service remains one of California's leaders in the photocopy service industry.      | 
 | Leak Size      | Unknown      | 
 

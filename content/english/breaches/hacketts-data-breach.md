@@ -1,7 +1,7 @@
 ---
 date: "2023-09-19"
 discovered: "September 19, 2023"
-title: "Benefit Management"
+title: "Hacketts"
 image: "images/blog/Knight.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | benefit-management.com      | 
+| Victim      | hackettsprint.ie      | 
 | Threat Actor      | Knight      | 
 | Date Discovered      | Sep 19, 2023      | 
-| Description      | Benefit Management is an insurance company that provides health plan administration and strategic consulting to self-funded employers.      | 
+| Description      | Hacketts is one of Ireland’s leading print specialists for over 60 years.      | 
 | Leak Size      | Unknown      | 
 
