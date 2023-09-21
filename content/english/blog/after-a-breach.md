@@ -20,7 +20,7 @@ To help your business, we’ve put together a guide covering what causes data br
 
 Let’s dive in.
 ## 6 Things Your Company Should Do After a Data Breach
-[If your business falls victim to a data breach](https://breachsense.io/blog/small-business-data-breach-consequences/), it’s crucial to take certain actions to safeguard your interests, customers, and your reputation. 
+[If your business falls victim to a data breach](https://breachsense.com/blog/small-business-data-breach-consequences/), it’s crucial to take certain actions to safeguard your interests, customers, and your reputation. 
 
 Here is what you can do:
 ### #1. Contain the Breach
@@ -30,9 +30,9 @@ Here are some immediate actions you should take:
 
 * Disconnect your internet connection and remove all compromised servers, computers, and mobile devices from the network to prevent further spreading of the malware.
 * Disable remote access and check your firewalls to ensure all systems are updated and patched.
-* Update all other systems and [change passwords](https://breachsense.io/blog/password-security-data-breach/) to strong, unique ones for each account. Additionally, check the machines for infostealer malware and enable Multi-Factor Authentication (MFA) to bolster security and reduce the risk of future data breaches.
+* Update all other systems and [change passwords](https://breachsense.com/blog/password-security-data-breach/) to strong, unique ones for each account. Additionally, check the machines for infostealer malware and enable Multi-Factor Authentication (MFA) to bolster security and reduce the risk of future data breaches.
 
-Spend time investigating the incident, gathering evidence, and reporting to regulatory bodies and stakeholders. This approach will help minimize further damage and build [trust with your customers](https://breachsense.io/blog/data-breach-trust/).
+Spend time investigating the incident, gathering evidence, and reporting to regulatory bodies and stakeholders. This approach will help minimize further damage and build [trust with your customers](https://breachsense.com/blog/data-breach-trust/).
 ### #2. Evaluate the Damage
 After isolating the affected systems, your next step should be to conduct a thorough investigation into the data breach. 
 
@@ -50,13 +50,13 @@ Identifying the source of the breach can be facilitated by conducting comprehens
 
 Although it is possible to gather relevant information without such IT systems, it may be more time-consuming and resource-intensive.
 
-During the damage assessment, it is crucial to also investigate whether the breach resulted from leaked passwords, [human error](https://breachsense.io/blog/data-breach-human-error/), or software misconfiguration. Understanding the root cause and location of the breach, as well as whether it was internal or external, is critical to implementing measures to prevent recurrence.
+During the damage assessment, it is crucial to also investigate whether the breach resulted from leaked passwords, [human error](https://breachsense.com/blog/data-breach-human-error/), or software misconfiguration. Understanding the root cause and location of the breach, as well as whether it was internal or external, is critical to implementing measures to prevent recurrence.
 
 To determine the exact location of the breach, the company should compile a list of all users with access to the compromised system(s).
 ### #3. Address Possible Weaknesses
 After a data breach, it is important to address the weaknesses that led to the breach. This may involve collaborating with your IT security team or engaging external security experts for a forensic investigation.
 
-Based on the findings, you can then implement both immediate and long-term solutions to [address any vulnerabilities](https://breachsense.io/blog/vulnerabilities-cause-data-loss/) and prevent similar incidents from happening in the future.
+Based on the findings, you can then implement both immediate and long-term solutions to [address any vulnerabilities](https://breachsense.com/blog/vulnerabilities-cause-data-loss/) and prevent similar incidents from happening in the future.
 
 Immediate and long-term solutions should consider the following key factors, which often contribute to ransomware attacks:
 
@@ -68,7 +68,7 @@ Following a data breach, it's crucial to notify the appropriate parties to minim
 
 Here are the key stakeholders you should inform when a data breach occurs:
 Regulatory Bodies and Law Enforcement
-Depending on the sector and [type of breach](https://breachsense.io/blog/data-breach-types/), companies may be required to notify law enforcement authorities, such as the FBI or the OCR, based on federal or state laws. 
+Depending on the sector and [type of breach](https://breachsense.com/blog/data-breach-types/), companies may be required to notify law enforcement authorities, such as the FBI or the OCR, based on federal or state laws. 
 
 Data protection laws also require companies to report breaches within a specified time frame, as well as provide a detailed and thorough explanation of how and why they occurred and what the company is doing to resolve the issues.
 #### Customers, Clients, and Stakeholders
@@ -80,9 +80,9 @@ Prompt data breach notifications can help affected parties manage their risk and
 #### Cyber Insurance Companies
 Cyber liability insurance is highly recommended, especially for companies operating with critical data. 
 
-Although it doesn't [prevent data breaches](https://www.breachsense.io/blog/prevent-data-breach/), it can cover financial damages resulting from a breach, such as the costs of investigating and responding to the incident, potential legal fees, and damages resulting from lawsuits.
+Although it doesn't [prevent data breaches](https://www.breachsense.com/blog/prevent-data-breach/), it can cover financial damages resulting from a breach, such as the costs of investigating and responding to the incident, potential legal fees, and damages resulting from lawsuits.
 
-[Having data breach insurance](https://www.breachsense.io/blog/data-breach-insurance/) can help you respond to the incident effectively and efficiently.
+[Having data breach insurance](https://www.breachsense.com/blog/data-breach-insurance/) can help you respond to the incident effectively and efficiently.
 
 #### Staff and Third-Party Entities 
 Companies should also inform internal staff about the data breach and the steps being taken to resolve the issue. Third-party agencies affected by the breach, such as vendors, contractors, or suppliers, should also be notified.  
@@ -103,23 +103,23 @@ It’s important to perform security testing on an annual basis, as well as befo
 ### #6. Implement Fresh Measures for Data Security Governance
 After a data breach, the company needs to conduct an internal review of its policies and identify any security gaps that led to the incident. 
 
-To prevent the chance of another breach, you should also update your security measures. It is also necessary to review [incident response plans](https://www.breachsense.io/blog/data-breach-response-plan/) to ensure they cover all potential attack scenarios and have clear response procedures. 
+To prevent the chance of another breach, you should also update your security measures. It is also necessary to review [incident response plans](https://www.breachsense.com/blog/data-breach-response-plan/) to ensure they cover all potential attack scenarios and have clear response procedures. 
 
 If the plans are unclear, they should be revised.
 
 Business continuity and disaster recovery plans are also essential to maintain operations in the event of a breach. Regular reviews of all plans - incident response, business continuity, and disaster recovery - are necessary.
 
-Having an incident response team in place can help reduce the [cost of damages](https://www.breachsense.io/blog/cost-of-a-data-breach/) resulting from a breach. A designated individual or team, such as a Chief Information Security Officer (CISO) or Chief Information Officer (CIO), can lead the response effort and assemble IT security response teams dedicated to protecting customer data.
+Having an incident response team in place can help reduce the [cost of damages](https://www.breachsense.com/blog/cost-of-a-data-breach/) resulting from a breach. A designated individual or team, such as a Chief Information Security Officer (CISO) or Chief Information Officer (CIO), can lead the response effort and assemble IT security response teams dedicated to protecting customer data.
 ## 5 Common Data Breach Causes
 According to the [IBM 2021 Cost of a Data Breach Report](https://www.ibm.com/reports/data-breach), compromised or stolen login credentials were not only the primary cause of data breaches but also the hardest to identify.
 
-Wondering what else leads to a data breach? Let's delve into five of the most common [data breach causes](https://www.breachsense.io/blog/data-breach-causes/):
+Wondering what else leads to a data breach? Let's delve into five of the most common [data breach causes](https://www.breachsense.com/blog/data-breach-causes/):
 ### #1. Weak and Compromised User Credentials
-Weak and stolen credentials are among the most common causes of [data breaches](https://breachsense.io/blog/what-is-a-data-breach/). Passwords are often the first line of defense for protecting sensitive data, but they are also the weakest link in cybersecurity. 
+Weak and stolen credentials are among the most common causes of [data breaches](https://breachsense.com/blog/what-is-a-data-breach/). Passwords are often the first line of defense for protecting sensitive data, but they are also the weakest link in cybersecurity. 
 
 Cybercriminals use various techniques, such as phishing attacks, malware, and brute force attacks or credential stuffing, to obtain login credentials.
 
-To mitigate the risk of weak and stolen credentials, companies should implement strong password policies, 2FA(Two-Factor Authentication), and [data breach monitoring](https://breachsense.io).
+To mitigate the risk of weak and stolen credentials, companies should implement strong password policies, 2FA(Two-Factor Authentication), and [data breach monitoring](https://breachsense.com).
 ### #2. Social Engineering
 Social engineering is one of the three most common initial attack vectors leading to a data leak, along with unpatched systems and stolen credentials. 
 
@@ -137,7 +137,7 @@ Malware comes in different forms, including viruses, worms, Trojan horses, spywa
 
 Once malware infects a system, it can cause significant damage, including stealing sensitive information, disrupting system operations, encrypting files, and rendering systems unusable.
 ### #4. Third-Party Breaches
-A [third-party data breach](https://www.breachsense.io/blog/third-party-data-breach/) refers to a situation where your data is compromised, not due to a direct attack on your systems, but rather due to a data breach toward a third-party vendor or partner who has access to or stores your data.
+A [third-party data breach](https://www.breachsense.com/blog/third-party-data-breach/) refers to a situation where your data is compromised, not due to a direct attack on your systems, but rather due to a data breach toward a third-party vendor or partner who has access to or stores your data.
 
 Third-party vendors refer to any external parties with whom a company shares its data, such as cloud service providers, marketing agencies, or contractors.
 
@@ -151,8 +151,8 @@ In the event of a data breach, taking swift and decisive action is crucial to co
 
 Breachsense offers comprehensive and proactive cybersecurity solutions to help businesses effectively manage data breaches.
 
-The platform can help you avoid third-party data breaches by alerting you in real-time when your user's credentials appear in data breaches on the [dark web](https://www.breachsense.io/dark-web-monitoring/), allowing you to proactively reset stolen credentials before hackers can exploit them.
+The platform can help you avoid third-party data breaches by alerting you in real-time when your user's credentials appear in data breaches on the [dark web](https://www.breachsense.com/dark-web-monitoring/), allowing you to proactively reset stolen credentials before hackers can exploit them.
 
 With Breachsense, businesses can strengthen their cybersecurity defenses, minimize the risk of data breaches, and safeguard their critical data. 
 
-[Book a demo](https://www.breachsense.io/book-demo/). 
+[Book a demo](https://www.breachsense.com/book-demo/). 

@@ -16,13 +16,13 @@ In this article, we deep dive into how data breaches impact healthcare in 2023 b
 ## What Is a Data Breach in Healthcare?
 A data breach occurs when Protected Health Information (PHI) is accessed or disclosed by unauthorized parties. PHI refers to any information that can be used to identify an individual, including their health status and healthcare services provided to them. 
 
-[Data breaches](https://www.breachsense.io/blog/what-is-a-data-breach/) in the healthcare industry are a major concern as they can lead to significant harm to patients and their privacy, as well as severe financial consequences for the medical practice.
+[Data breaches](https://www.breachsense.com/blog/what-is-a-data-breach/) in the healthcare industry are a major concern as they can lead to significant harm to patients and their privacy, as well as severe financial consequences for the medical practice.
 
 Specifically, such breaches can lead to identity theft, insurance fraud, and even medical malpractice.
 
 Healthcare data is becoming an increasingly attractive target for cybercriminals. This is because such data can [be sold for up to ten times](https://www.reuters.com/article/us-cybersecurity-hospitals-idUSKCN0HJ21I20140924) the amount that credit card information can fetch on the dark web.
 
-Here are 14 [tried-and-true ways to prevent data breaches in healthcare](https://breachsense.io/blog/prevent-data-breaches-healthcare/) you wish you’d known sooner. 
+Here are 14 [tried-and-true ways to prevent data breaches in healthcare](https://breachsense.com/blog/prevent-data-breaches-healthcare/) you wish you’d known sooner. 
 ## 4 Impacts of Data Breaches in Healthcare
 In the ever-evolving world of healthcare, data breaches are a constant threat that can result in a range of negative consequences for patients and healthcare organizations alike. 
 
@@ -48,19 +48,19 @@ Medical identity theft occurs when someone steals a person's personal health inf
 
 Victims of medical identity theft may face difficulty accessing healthcare services and may experience harm as a result of incorrect medical treatment based on false information in their records.
 
-Want to safeguard your healthcare practice from a data breach? Learn how to [develop a data breach response plan](https://breachsense.io/blog/data-breach-response-plan/) with this article. 
+Want to safeguard your healthcare practice from a data breach? Learn how to [develop a data breach response plan](https://breachsense.com/blog/data-breach-response-plan/) with this article. 
 ## How Do Data Breaches Happen?
-Whether it's a malicious malware attack or a [third-party data breach](https://www.breachsense.io/blog/third-party-data-breach/), the risk of sensitive data being compromised is a constant concern for healthcare providers. 
+Whether it's a malicious malware attack or a [third-party data breach](https://www.breachsense.com/blog/third-party-data-breach/), the risk of sensitive data being compromised is a constant concern for healthcare providers. 
 
-Below, we'll explore some of the primary [causes leading to a data breach](https://www.breachsense.io/blog/data-breach-causes/):
+Below, we'll explore some of the primary [causes leading to a data breach](https://www.breachsense.com/blog/data-breach-causes/):
 
 * **Hacking and IT incidents**: Hacking and IT incidents are one of the most common causes of data breaches, accounting for [80% of all healthcare data breaches in 2022](https://fortifiedhealthsecurity.com/mediacoverage/bonus-features-february-5-2023-78-of-data-breaches-result-from-hacks-or-it-incidents-nova-scotia-taps-oracle-cerner-for-ehr-modernization-and-more/). Hackers use various techniques such as phishing, malware, exploiting leaked credentials, and brute-force attacks to gain unauthorized access to systems and steal sensitive information.
 * **Insider threats**: Employees or contractors with access to sensitive data can intentionally or unintentionally expose this information by sharing it with unauthorized individuals, misusing it, or falling victim to a phishing scam.
-* **Improper disposal of PHI**: Improper disposal of PHI is also a common cause of data breaches in healthcare. This occurs when organizations fail to properly dispose of data-containing devices, such as throwing away paper records or not wiping old hard drives before selling or donating them. This [leaves sensitive information vulnerable](https://breachsense.io/blog/vulnerabilities-cause-data-loss/) to unauthorized access and puts patients at risk of harm. 
+* **Improper disposal of PHI**: Improper disposal of PHI is also a common cause of data breaches in healthcare. This occurs when organizations fail to properly dispose of data-containing devices, such as throwing away paper records or not wiping old hard drives before selling or donating them. This [leaves sensitive information vulnerable](https://breachsense.com/blog/vulnerabilities-cause-data-loss/) to unauthorized access and puts patients at risk of harm. 
 * **Vulnerabilities in Your Servers**: Vulnerabilities in your organization's servers can also cause data breaches. Failure to implement adequate security measures such as encryption, password protection, and access controls can leave sensitive information vulnerable to cyberattacks.
 * **Physical Theft**: Mobile devices such as laptops, smartphones, or portable hard drives containing personal data can be lost or stolen, potentially leading to a data breach. Because of that, organizations must implement security protocols to encrypt and password-protect mobile devices containing sensitive information. 
 
-Knowing about the [different types of data breaches](https://breachsense.io/blog/data-breach-types/) can help you take better measures against them. Read all about them through our article. 
+Knowing about the [different types of data breaches](https://breachsense.com/blog/data-breach-types/) can help you take better measures against them. Read all about them through our article. 
 ## Costs of Data Breaches in Healthcare
 As we previously mentioned, data breaches in the healthcare industry have become more frequent, and their financial impact has become increasingly severe. 
 
@@ -70,7 +70,7 @@ The report also found that it took an average of 287 days for healthcare organiz
 
 The longer it takes to address a data breach the costlier it gets, considering that data breaches can become more severe with time.
 
-Aside from the [direct costs of investigating the breach](https://breachsense.io/blog/cost-of-a-data-breach/), notifying affected individuals, and providing credit monitoring services, a considerable amount of data breach costs in healthcare come from regulatory fines.
+Aside from the [direct costs of investigating the breach](https://breachsense.com/blog/cost-of-a-data-breach/), notifying affected individuals, and providing credit monitoring services, a considerable amount of data breach costs in healthcare come from regulatory fines.
 
 For example, if a medical practice experiences a data breach and is found to be in violation of HIPAA regulations, it could face significant fines from the regulatory body. These fines can add up quickly, depending on the severity and scope of the breach, and can have a substantial impact on the finances of the practice. 
 
@@ -84,7 +84,7 @@ In this section, we will explore three large medical record breaches and the imp
 * **Advocate Health Care Data Breach**: In 2013, a series of data breaches affected Advocate Health Care after four unencrypted laptops containing the medical information of 4.03 million patients were stolen. Advocate Health Care's lack of data encryption was a clear violation of the data protection requirements outlined in HIPAA. To send a strong message to other healthcare organizations about the consequences of such negligence, Advocate Health Care was fined $5.55 million by the Health and Human Services Department. 
 * **UCLA Health Data Breach**: In July 2015, UCLA Health discovered that hackers had gained access to their computer systems and had stolen personal and medical information belonging to 4.5 million patients. The investigation into the breach revealed that the attackers used a “[watering hole attack](https://en.wikipedia.org/wiki/Watering_hole_attack)". UCLA Health was fined $7.5 million for failing to report the breach in a timely manner, which was a clear violation of the breach notification protocol outlined in HIPPA.
 
-Here are some more [examples of famous data breaches](https://breachsense.io/blog/data-breach-examples/) to show you the devastating consequences a data breach can have on your business. 
+Here are some more [examples of famous data breaches](https://breachsense.com/blog/data-breach-examples/) to show you the devastating consequences a data breach can have on your business. 
 ## Conclusion
 In conclusion, despite the availability of abundant security measures out there, no healthcare provider is entirely immune to data breaches. 
 
@@ -94,6 +94,6 @@ But you’re not alone in this.
 
 Breachsense offers comprehensive and proactive cybersecurity solutions to help businesses and organizations in every industry effectively manage data breaches.
 
-We can help you avoid data breaches by alerting you in real-time when your user credentials appear in data breaches on the [dark web](https://www.breachsense.io/dark-web-monitoring/), allowing you to proactively reset stolen credentials before hackers can exploit them.
+We can help you avoid data breaches by alerting you in real-time when your user credentials appear in data breaches on the [dark web](https://www.breachsense.com/dark-web-monitoring/), allowing you to proactively reset stolen credentials before hackers can exploit them.
 
-Don’t waste any time - [book a demo](https://www.breachsense.io/book-demo/#book-demo)!
+Don’t waste any time - [book a demo](https://www.breachsense.com/book-demo/#book-demo)!

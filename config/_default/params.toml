@@ -27,7 +27,7 @@ breachSections= ["breaches"]
 [contact_info]
 address = "23811 Chagrin Blvd. Ste 200 Beachwood, Ohio 44122"
 phone = [""]
-email = ["info@breachsense.io", "support@breachsense.io"]
+email = ["info@breachsense.com", "support@breachsense.com"]
 
 # imaging processing
 [imaging]

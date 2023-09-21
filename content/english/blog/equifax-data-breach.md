@@ -12,15 +12,15 @@ As one of the major credit reporting agencies in the United States, Equifax held
 
 The breach exposed the personal data of approximately 147 million people, including Social Security Numbers, birth dates, and addresses. 
 
-In this case study, we will explore how the Equifax data breach occurred, the company's response, the [costs associated with the breach](https://www.breachsense.io/blog/cost-of-a-data-breach/), and lessons learned from this major cybersecurity failure.
+In this case study, we will explore how the Equifax data breach occurred, the company's response, the [costs associated with the breach](https://www.breachsense.com/blog/cost-of-a-data-breach/), and lessons learned from this major cybersecurity failure.
 ## How Did the Equifax Data Breach Happen?
-The Equifax [data breach was caused](https://www.breachsense.io/blog/data-breach-causes/) by exploiting a known vulnerability in the Apache Struts web application framework, which the company had not patched in a timely manner. 
+The Equifax [data breach was caused](https://www.breachsense.com/blog/data-breach-causes/) by exploiting a known vulnerability in the Apache Struts web application framework, which the company had not patched in a timely manner. 
 
 Once the attackers gained access to Equifax's systems, they were able to navigate the network and locate sensitive data. 
 
 Over a period of more than two months, the cybercriminals exfiltrated massive amounts of personal information, undetected by the company's security measures.
 ## Equifax's Response to the Data Breach
-Equifax's [response to the breach](https://breachsense.io/blog/data-breach-response-plan/) was widely criticized for several reasons, including delays in public disclosure, inadequate customer support, and offering a poorly-executed credit monitoring service. 
+Equifax's [response to the breach](https://breachsense.com/blog/data-breach-response-plan/) was widely criticized for several reasons, including delays in public disclosure, inadequate customer support, and offering a poorly-executed credit monitoring service. 
 
 That said, the company took several steps to address the incident and mitigate its effects, such as:
 
@@ -31,10 +31,10 @@ That said, the company took several steps to address the incident and mitigate i
 5. Implementing executive leadership changes, including the resignation of the CEO, CIO, and CSO.
 ## Equifax Data Breach Costs
 1. **Settlements, fines, and legal fees**: Equifax faced more than $700 million in settlements, fines, and legal fees. This included a $575 million settlement with the Federal Trade Commission (FTC), the Consumer Financial Protection Bureau (CFPB), and 50 U.S. states and territories, as well as additional legal expenses related to class-action lawsuits and other litigation.
-2. **Cybersecurity investments**: In the [aftermath of the breach](https://breachsense.io/blog/after-a-breach/), Equifax invested significantly in enhancing its cybersecurity infrastructure, implementing advanced threat detection and response tools, and hiring a dedicated cybersecurity team to bolster its security posture and continuously [monitor for data breaches](https://breachsense.io).
-3. **Loss of consumer trust and reputational damage**: The breach had a severe impact on Equifax's brand image and [consumer trust](https://breachsense.io/blog/data-breach-trust/). The company's stock value dropped, and it took considerable time and effort to rebuild its reputation and regain the confidence of customers and partners.
+2. **Cybersecurity investments**: In the [aftermath of the breach](https://breachsense.com/blog/after-a-breach/), Equifax invested significantly in enhancing its cybersecurity infrastructure, implementing advanced threat detection and response tools, and hiring a dedicated cybersecurity team to bolster its security posture and continuously [monitor for data breaches](https://breachsense.com).
+3. **Loss of consumer trust and reputational damage**: The breach had a severe impact on Equifax's brand image and [consumer trust](https://breachsense.com/blog/data-breach-trust/). The company's stock value dropped, and it took considerable time and effort to rebuild its reputation and regain the confidence of customers and partners.
 4. **Operational costs**: Equifax incurred substantial operational costs related to the breach investigation, remediation efforts, and customer support. This included the costs of setting up dedicated websites, hotlines, and other resources to assist affected customers and provide timely updates on the breach.
-5. **Increased regulatory scrutiny**: [The data breach](https://breachsense.io/blog/what-is-a-data-breach/) drew the attention of regulators, leading to increased scrutiny and oversight of the company's security practices. This added to the overall costs of compliance and ongoing reporting requirements.
+5. **Increased regulatory scrutiny**: [The data breach](https://breachsense.com/blog/what-is-a-data-breach/) drew the attention of regulators, leading to increased scrutiny and oversight of the company's security practices. This added to the overall costs of compliance and ongoing reporting requirements.
 6. **Potential future litigation**: The full extent of the financial impact of the Equifax data breach may not be known for years, as there is the possibility of additional lawsuits, settlements, and fines stemming from the incident.
 7. **Insurance costs**: Following the data breach, Equifax's insurance premiums for cybersecurity coverage likely increased, reflecting the heightened risk associated with the company's security practices.
 8. **Lost business opportunities**: The reputational damage and loss of trust may have led to lost business opportunities, as clients and partners reconsidered their relationships with Equifax in light of the breach.
