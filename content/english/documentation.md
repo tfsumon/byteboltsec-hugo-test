@@ -19,7 +19,7 @@ layout: "elements"
 ### Endpoint :
 | Domain Name           | Path             | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| api.breachsense.io      | /combo      | 
+| api.breachsense.com      | /combo      | 
 
 ### Supported Parameters :
 | Parameter           | Description             |
@@ -52,7 +52,7 @@ layout: "elements"
 ### Endpoint :
 | Domain Name           | Path             | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| api.breachsense.io      | /creds      | 
+| api.breachsense.com      | /creds      | 
 
 ### Supported Parameters :
 | Parameter           | Description             |
@@ -92,7 +92,7 @@ layout: "elements"
 ### Endpoint :
 | Domain Name           | Path             | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| api.breachsense.io      | /darkweb      | 
+| api.breachsense.com      | /darkweb      | 
 
 ### Supported Parameters :
 | Parameter           | Description             |
@@ -122,7 +122,7 @@ layout: "elements"
 ### Endpoint :
 | Domain Name           | Path             | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| api.breachsense.io      | /monitor      | 
+| api.breachsense.com      | /monitor      | 
 
 ### Supported Parameters :
 | Parameter           | Description             |
@@ -144,7 +144,7 @@ layout: "elements"
 ### Endpoint :
 | Domain Name           | Path             | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| api.breachsense.io      | /radar      | 
+| api.breachsense.com      | /radar      | 
 
 ### Supported Parameters :
 | Parameter           | Description             |
@@ -173,7 +173,7 @@ layout: "elements"
 ### Endpoint :
 | Domain Name           | Path             | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| api.breachsense.io      | /sessions      | 
+| api.breachsense.com      | /sessions      | 
 
 ### Supported Parameters :
 | Parameter           | Description             |
@@ -206,7 +206,7 @@ layout: "elements"
 ### Endpoint :
 | Domain Name           | Path             | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| api.breachsense.io      | /stealer      | 
+| api.breachsense.com      | /stealer      | 
 
 ### Supported Parameters :
 | Parameter           | Description             |
