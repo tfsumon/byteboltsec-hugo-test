@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://www.breachsense.io/"
+baseURL = "https://www.breachsense.com/"
 title = "Data Breach Monitoring | Breachsense"
 theme = "andromeda-hugo"
 # post pagination
