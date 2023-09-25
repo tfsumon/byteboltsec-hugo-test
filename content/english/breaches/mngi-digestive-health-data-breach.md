@@ -1,0 +1,17 @@
+---
+date: "2023-09-25"
+discovered: "September 25, 2023"
+title: "MNGI Digestive Health"
+image: "images/blog/ALPHV.png"
+author: "Breachsense Support"
+draft: false
+---
+
+| Data Breach Report           |              | 
+| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Victim      | mngastro.com      | 
+| Threat Actor      | ALPHV      | 
+| Date Discovered      | Sep 25, 2023      | 
+| Description      | MNGI Digestive Health is a nationally recognized leader in gastroenterology diagnosis, quality and care.      | 
+| Leak Size      | Unknown      | 
+

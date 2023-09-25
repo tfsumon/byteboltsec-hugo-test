@@ -1,17 +1,17 @@
 ---
 date: "2023-09-25"
 discovered: "September 25, 2023"
-title: "Leekes"
-image: "images/blog/NoEscape.png"
+title: "ECCO"
+image: "images/blog/Ransomed.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | leekes.co.uk      | 
-| Threat Actor      | NoEscape      | 
+| Victim      | ecco.bg      | 
+| Threat Actor      | Ransomed      | 
 | Date Discovered      | Sep 25, 2023      | 
-| Description      | Leekes is an online bathrooms, furniture, kitchens and home products company.      | 
-| Leak Size      | 130GB      | 
+| Description      | ECCO Shoes Bulgaria is an official shoe store.      | 
+| Leak Size      | Unknown      | 
 

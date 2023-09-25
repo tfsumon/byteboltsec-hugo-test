@@ -1,17 +1,17 @@
 ---
 date: "2023-09-25"
 discovered: "September 25, 2023"
-title: "Leekes"
-image: "images/blog/NoEscape.png"
+title: "F. Hinds"
+image: "images/blog/BianLian.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | leekes.co.uk      | 
-| Threat Actor      | NoEscape      | 
+| Victim      | fhinds.co.uk      | 
+| Threat Actor      | BianLian      | 
 | Date Discovered      | Sep 25, 2023      | 
-| Description      | Leekes is an online bathrooms, furniture, kitchens and home products company.      | 
-| Leak Size      | 130GB      | 
+| Description      | F. Hinds is a jewelery retailing chain, operating in England and Wales.      | 
+| Leak Size      | Unknown      | 
 

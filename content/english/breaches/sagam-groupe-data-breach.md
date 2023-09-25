@@ -1,17 +1,17 @@
 ---
 date: "2023-09-25"
 discovered: "September 25, 2023"
-title: "Leekes"
-image: "images/blog/NoEscape.png"
+title: "Sagam Groupe"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | leekes.co.uk      | 
-| Threat Actor      | NoEscape      | 
+| Victim      | sagam-intl.com      | 
+| Threat Actor      | ALPHV      | 
 | Date Discovered      | Sep 25, 2023      | 
-| Description      | Leekes is an online bathrooms, furniture, kitchens and home products company.      | 
-| Leak Size      | 130GB      | 
+| Description      | SAGAM Groupe is a furniture manufacturing company since 1973.      | 
+| Leak Size      | Unknown      | 
 

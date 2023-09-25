@@ -1,17 +1,17 @@
 ---
 date: "2023-09-25"
 discovered: "September 25, 2023"
-title: "Leekes"
-image: "images/blog/NoEscape.png"
+title: "MyShoes"
+image: "images/blog/Ransomed.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | leekes.co.uk      | 
-| Threat Actor      | NoEscape      | 
+| Victim      | myshoes.bg      | 
+| Threat Actor      | Ransomed      | 
 | Date Discovered      | Sep 25, 2023      | 
-| Description      | Leekes is an online bathrooms, furniture, kitchens and home products company.      | 
-| Leak Size      | 130GB      | 
+| Description      | MyShoes is a shoe and accessories store.      | 
+| Leak Size      | Unknown      | 
 

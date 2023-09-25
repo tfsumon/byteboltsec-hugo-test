@@ -1,17 +1,17 @@
 ---
 date: "2023-09-25"
 discovered: "September 25, 2023"
-title: "Leekes"
-image: "images/blog/NoEscape.png"
+title: "Taoglas"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | leekes.co.uk      | 
-| Threat Actor      | NoEscape      | 
+| Victim      | taoglas.com      | 
+| Threat Actor      | ALPHV      | 
 | Date Discovered      | Sep 25, 2023      | 
-| Description      | Leekes is an online bathrooms, furniture, kitchens and home products company.      | 
-| Leak Size      | 130GB      | 
+| Description      | Taoglas provides antenna products and RF service solutions for the IOT brands.      | 
+| Leak Size      | Unknown      | 
 

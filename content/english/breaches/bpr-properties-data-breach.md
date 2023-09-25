@@ -1,7 +1,7 @@
 ---
 date: "2023-09-25"
 discovered: "September 25, 2023"
-title: "Leekes"
+title: "BPR Properties"
 image: "images/blog/NoEscape.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | leekes.co.uk      | 
+| Victim      | bpr-properties.com      | 
 | Threat Actor      | NoEscape      | 
 | Date Discovered      | Sep 25, 2023      | 
-| Description      | Leekes is an online bathrooms, furniture, kitchens and home products company.      | 
-| Leak Size      | 130GB      | 
+| Description      | BPR Properties developed over 2000 acres in commercial and residential real estate.      | 
+| Leak Size      | 100GB      | 
 
