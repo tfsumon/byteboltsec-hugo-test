@@ -1,17 +1,17 @@
 ---
 date: "2023-09-27"
 discovered: "September 27, 2023"
-title: "Tormax"
-image: "images/blog/Losttrust.png"
+title: "Woody Anderson Ford"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | tormax.com      | 
-| Threat Actor      | Losttrust      | 
+| Victim      | woodyandersonford.com      | 
+| Threat Actor      | ALPHV      | 
 | Date Discovered      | Sep 27, 2023      | 
-| Description      | Tormax a leading manufacturer of automatic door systems worldwide with 25 Group companies and 500+ distributors.      | 
+| Description      | Woody Anderson Ford is an automotive company specializing in new Ford cars, used cars, and parts.      | 
 | Leak Size      | Unknown      | 
 

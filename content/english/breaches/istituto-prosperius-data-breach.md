@@ -1,17 +1,17 @@
 ---
 date: "2023-09-27"
 discovered: "September 27, 2023"
-title: "CannonDesign"
-image: "images/blog/DunghillLeak.png"
+title: "Istituto Prosperius"
+image: "images/blog/Rhysida.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | cannondesign.com      | 
-| Threat Actor      | DunghillLeak      | 
+| Victim      | prosperius.it      | 
+| Threat Actor      | Rhysida      | 
 | Date Discovered      | Sep 27, 2023      | 
-| Description      | CannonDesign is an integrated designing firm.      | 
-| Leak Size      | 2000GB      | 
+| Description      | Medical clinic in Florence, Italy.      | 
+| Leak Size      | Unknown      | 
 

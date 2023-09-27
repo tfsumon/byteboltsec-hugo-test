@@ -1,7 +1,7 @@
 ---
 date: "2023-09-27"
 discovered: "September 27, 2023"
-title: "Tormax"
+title: "Hoosier Uplands"
 image: "images/blog/Losttrust.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | tormax.com      | 
+| Victim      | hoosieruplands.org      | 
 | Threat Actor      | Losttrust      | 
 | Date Discovered      | Sep 27, 2023      | 
-| Description      | Tormax a leading manufacturer of automatic door systems worldwide with 25 Group companies and 500+ distributors.      | 
+| Description      | Hoosier Uplands is a local non-profit agency based in Southern Indiana that serves as an Area Agency on Aging, Community Action Agency, licensed Home Health Care and Hospice agency, and Community Housing Development Organization.      | 
 | Leak Size      | Unknown      | 
 

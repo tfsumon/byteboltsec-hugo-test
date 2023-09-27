@@ -1,17 +1,17 @@
 ---
 date: "2023-09-27"
 discovered: "September 27, 2023"
-title: "Tormax"
-image: "images/blog/Losttrust.png"
+title: "Lutheran Church and Preschool"
+image: "images/blog/BianLian.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | tormax.com      | 
-| Threat Actor      | Losttrust      | 
+| Victim      | lcoor.org      | 
+| Threat Actor      | BianLian      | 
 | Date Discovered      | Sep 27, 2023      | 
-| Description      | Tormax a leading manufacturer of automatic door systems worldwide with 25 Group companies and 500+ distributors.      | 
+| Description      | Lutheran Church of Our Redeemer is a diverse community of faith.      | 
 | Leak Size      | Unknown      | 
 

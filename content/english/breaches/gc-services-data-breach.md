@@ -1,17 +1,17 @@
 ---
 date: "2023-09-27"
 discovered: "September 27, 2023"
-title: "Tormax"
-image: "images/blog/Losttrust.png"
+title: "GC Services"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | tormax.com      | 
-| Threat Actor      | Losttrust      | 
+| Victim      | gcserv.com      | 
+| Threat Actor      | ALPHV      | 
 | Date Discovered      | Sep 27, 2023      | 
-| Description      | Tormax a leading manufacturer of automatic door systems worldwide with 25 Group companies and 500+ distributors.      | 
+| Description      | GC Services offers a wide array of accounts receivable solutions and customer care solutions to both public and private sector org.      | 
 | Leak Size      | Unknown      | 
 

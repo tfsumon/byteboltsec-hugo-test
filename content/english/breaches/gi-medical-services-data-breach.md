@@ -1,7 +1,7 @@
 ---
 date: "2023-09-27"
 discovered: "September 27, 2023"
-title: "Alexander City"
+title: "GI Medical Services"
 image: "images/blog/Losttrust.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | alexandercityal.gov      | 
+| Victim      | gastrostatenisland.com      | 
 | Threat Actor      | Losttrust      | 
 | Date Discovered      | Sep 27, 2023      | 
-| Description      | Alexander City, known to locals as "Alex City", is the largest city in Tallapoosa County, Alabama, United States.      | 
-| Leak Size      | 450GB      | 
+| Description      | GI Medical Services is Staten Island’s premiere provider of expert gastroenterology services.      | 
+| Leak Size      | Unknown      | 
 

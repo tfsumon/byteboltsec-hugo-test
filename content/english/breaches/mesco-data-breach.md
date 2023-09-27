@@ -1,17 +1,17 @@
 ---
 date: "2023-09-27"
 discovered: "September 27, 2023"
-title: "Tormax"
-image: "images/blog/Losttrust.png"
+title: "MESCO"
+image: "images/blog/8BASE.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | tormax.com      | 
-| Threat Actor      | Losttrust      | 
+| Victim      | buymesco.com      | 
+| Threat Actor      | 8BASE      | 
 | Date Discovered      | Sep 27, 2023      | 
-| Description      | Tormax a leading manufacturer of automatic door systems worldwide with 25 Group companies and 500+ distributors.      | 
+| Description      | MESCO is a leading distributor of abrasives, cutting tools, industrial adhesives, PPE equipment.      | 
 | Leak Size      | Unknown      | 
 

@@ -1,7 +1,7 @@
 ---
 date: "2023-09-27"
 discovered: "September 27, 2023"
-title: "Alexander City"
+title: "Immanuel Christian School"
 image: "images/blog/Losttrust.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | alexandercityal.gov      | 
+| Victim      | immanuelchristianschool.net      | 
 | Threat Actor      | Losttrust      | 
 | Date Discovered      | Sep 27, 2023      | 
-| Description      | Alexander City, known to locals as "Alex City", is the largest city in Tallapoosa County, Alabama, United States.      | 
-| Leak Size      | 450GB      | 
+| Description      | Immanuel Christian School is a kindergarten through 10th grade private Christian school in Fairfax County, Virginia, serving families throughout Northern Virginia, Washington, D.C. and Maryland.      | 
+| Leak Size      | 550GB      | 
 

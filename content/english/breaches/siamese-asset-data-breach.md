@@ -1,17 +1,17 @@
 ---
 date: "2023-09-27"
 discovered: "September 27, 2023"
-title: "Tormax"
-image: "images/blog/Losttrust.png"
+title: "Siamese Asset "
+image: "images/blog/Qilin.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | tormax.com      | 
-| Threat Actor      | Losttrust      | 
+| Victim      | siameseasset.co.th      | 
+| Threat Actor      | Qilin      | 
 | Date Discovered      | Sep 27, 2023      | 
-| Description      | Tormax a leading manufacturer of automatic door systems worldwide with 25 Group companies and 500+ distributors.      | 
+| Description      | Siamese Asset Public Company is a real estate company that develops and builds residential and commercial structures.      | 
 | Leak Size      | Unknown      | 
 

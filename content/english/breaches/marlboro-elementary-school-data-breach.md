@@ -1,7 +1,7 @@
 ---
 date: "2023-09-27"
 discovered: "September 27, 2023"
-title: "Alexander City"
+title: "Marlboro Elementary School"
 image: "images/blog/Losttrust.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | alexandercityal.gov      | 
+| Victim      | mtps.org      | 
 | Threat Actor      | Losttrust      | 
 | Date Discovered      | Sep 27, 2023      | 
-| Description      | Alexander City, known to locals as "Alex City", is the largest city in Tallapoosa County, Alabama, United States.      | 
-| Leak Size      | 450GB      | 
+| Description      | The Marlboro Township School District is a community public school district that serves students in pre-kindergarten through eighth grade in Marlboro Township in Monmouth County, New Jersey, United States.      | 
+| Leak Size      | 250GB      | 
 
