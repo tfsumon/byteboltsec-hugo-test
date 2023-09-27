@@ -152,6 +152,7 @@ layout: "elements"
 | <a href="http://lockbitkodidilol.onion">LOCKBIT</a>     | Tor     | OFFLINE     |
 | <a href="http://zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion">LOCKFILE </a>     | Tor     | OFFLINE     |
 | <a href="http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion">LORENZ</a>     | Tor     | ONLINE     |
+| <a href="http://hscr6cjzhgoybibuzn2xud7u4crehuoo4ykw3swut7m7irde74hdfzyd.onion">LOST TRUST</a>     | Tor     | ONLINE     |
 | <a href="http://rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion">LV </a>     | Tor     | OFFLINE     |
 | <a href="http://4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion">LV </a>     | Tor     | OFFLINE     |
 | <a href="http://malas2urovbyyavjzaezkt5ohljvyd5lt7vv7mnsgbf2y4bwlh72doqd.onion">MALAS</a>     | Tor     | ONLINE     |
