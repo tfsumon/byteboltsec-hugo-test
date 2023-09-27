@@ -2,7 +2,7 @@
 date: "2023-09-27"
 discovered: "September 27, 2023"
 title: "Procab"
-image: "images/blog/Losttrust.png"
+image: "images/blog/LostTrust.png"
 author: "Breachsense Support"
 draft: false
 ---
@@ -10,7 +10,7 @@ draft: false
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
 | Victim      | procab.se      | 
-| Threat Actor      | Losttrust      | 
+| Threat Actor      | LostTrust      | 
 | Date Discovered      | Sep 27, 2023      | 
 | Description      | Procab is a specialist in engineered and special valves.      | 
 | Leak Size      | Unknown      | 

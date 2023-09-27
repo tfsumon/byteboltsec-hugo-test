@@ -2,7 +2,7 @@
 date: "2023-09-27"
 discovered: "September 27, 2023"
 title: "Gold Coin Restaurant"
-image: "images/blog/Losttrust.png"
+image: "images/blog/LostTrust.png"
 author: "Breachsense Support"
 draft: false
 ---
@@ -10,7 +10,7 @@ draft: false
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
 | Victim      | goldcoinrestaurant.com      | 
-| Threat Actor      | Losttrust      | 
+| Threat Actor      | LostTrust      | 
 | Date Discovered      | Sep 27, 2023      | 
 | Description      | Gold Coin Restaurant is a company that operates in the Restaurants industry.      | 
 | Leak Size      | 250GB      | 

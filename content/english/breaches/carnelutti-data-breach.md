@@ -2,7 +2,7 @@
 date: "2023-09-27"
 discovered: "September 27, 2023"
 title: "Carnelutti"
-image: "images/blog/Losttrust.png"
+image: "images/blog/LostTrust.png"
 author: "Breachsense Support"
 draft: false
 ---
@@ -10,7 +10,7 @@ draft: false
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
 | Victim      | carnelutti.com      | 
-| Threat Actor      | Losttrust      | 
+| Threat Actor      | LostTrust      | 
 | Date Discovered      | Sep 27, 2023      | 
 | Description      | Carnelutti Law Firm is one of the best known corporate law firms in the Italian market with a strong international orientation.      | 
 | Leak Size      | Unknown      | 

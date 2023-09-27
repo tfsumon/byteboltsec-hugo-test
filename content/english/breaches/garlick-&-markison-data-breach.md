@@ -2,7 +2,7 @@
 date: "2023-09-27"
 discovered: "September 27, 2023"
 title: "Garlick & Markison"
-image: "images/blog/Losttrust.png"
+image: "images/blog/LostTrust.png"
 author: "Breachsense Support"
 draft: false
 ---
@@ -10,7 +10,7 @@ draft: false
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
 | Victim      | texaspatents.com      | 
-| Threat Actor      | Losttrust      | 
+| Threat Actor      | LostTrust      | 
 | Date Discovered      | Sep 27, 2023      | 
 | Description      | Garlick & Markison LLP is a boutique law firm specializing in patent portfolio building for its clients.      | 
 | Leak Size      | Unknown      | 
