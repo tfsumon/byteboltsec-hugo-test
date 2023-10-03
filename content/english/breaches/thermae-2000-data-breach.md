@@ -1,7 +1,7 @@
 ---
 date: "2023-10-02"
 discovered: "October 02, 2023"
-title: "Thermae 2OOO"
+title: "Thermae 2000"
 image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false

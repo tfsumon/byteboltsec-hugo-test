@@ -1,17 +1,17 @@
 ---
 date: "2023-10-03"
 discovered: "October 03, 2023"
-title: "Pain Care Specialists"
-image: "images/blog/ALPHV.png"
+title: "Ted Pella"
+image: "images/blog/8BASE.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | paincareoregon.com      | 
-| Threat Actor      | ALPHV      | 
+| Victim      | tedpella.com      | 
+| Threat Actor      | 8BASE      | 
 | Date Discovered      | Oct 03, 2023      | 
-| Description      | Pain Care Specialists is a healthcare company that provides pain management services.      | 
+| Description      | Ted Pella is a nanotechnology company specializing in electron microscopy supplies and instruments.      | 
 | Leak Size      | Unknown      | 
 

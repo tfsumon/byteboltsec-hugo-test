@@ -1,17 +1,17 @@
 ---
 date: "2023-10-03"
 discovered: "October 03, 2023"
-title: "Pain Care Specialists"
-image: "images/blog/ALPHV.png"
+title: "Vertical Development"
+image: "images/blog/Akira.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | paincareoregon.com      | 
-| Threat Actor      | ALPHV      | 
+| Victim      | verticaldev.com      | 
+| Threat Actor      | Akira      | 
 | Date Discovered      | Oct 03, 2023      | 
-| Description      | Pain Care Specialists is a healthcare company that provides pain management services.      | 
+| Description      | Vertical Development is the market leader in providing software solutions and services to the Automotive Aftermarket.      | 
 | Leak Size      | Unknown      | 
 

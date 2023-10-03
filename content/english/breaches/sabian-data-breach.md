@@ -1,17 +1,17 @@
 ---
 date: "2023-10-03"
 discovered: "October 03, 2023"
-title: "Pain Care Specialists"
-image: "images/blog/ALPHV.png"
+title: "Sabian"
+image: "images/blog/8BASE.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | paincareoregon.com      | 
-| Threat Actor      | ALPHV      | 
+| Victim      | sabian.com      | 
+| Threat Actor      | 8BASE      | 
 | Date Discovered      | Oct 03, 2023      | 
-| Description      | Pain Care Specialists is a healthcare company that provides pain management services.      | 
+| Description      | Sabian is a Canadian cymbal manufacturing company established in 1981 in Meductic, New Brunswick, where it is still headquartered.      | 
 | Leak Size      | Unknown      | 
 
