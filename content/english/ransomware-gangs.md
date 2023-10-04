@@ -149,6 +149,7 @@ layout: "elements"
 | <a href="http://lockbit7z2jwcskxpbokpemdxmltipntwlkmidcll2qirbu7ykg46eyd.onion">LOCKBIT 3.0 </a>     | Tor     | ONLINE     |
 | <a href="http://lockbitfile2tcudkcqqt2ve6btssyvqwlizbpv5vz337lslmhff2uad.onion">LOCKBIT 3.0 </a>     | Tor     | ONLINE     |
 | <a href="http://lockbitnotexk2vnf2q2zwjefsl3hjsnk4u74vq4chxrqpjclfydk4ad.onion">LOCKBIT 3.0 </a>     | Tor     | ONLINE     |
+| <a href="http://lockbitsup4yezcd5enk5unncx3zcy7kw6wllyqmiyhvanjj352jayid.onion">LOCKBIT 3.0 </a>     | Tor     | ONLINE     |
 | <a href="http://lockbitkodidilol.onion">LOCKBIT</a>     | Tor     | OFFLINE     |
 | <a href="http://zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion">LOCKFILE </a>     | Tor     | OFFLINE     |
 | <a href="http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion">LORENZ</a>     | Tor     | ONLINE     |
