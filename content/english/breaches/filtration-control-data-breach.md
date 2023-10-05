@@ -1,7 +1,7 @@
 ---
 date: "2023-10-05"
 discovered: "October 05, 2023"
-title: "Plumbase"
+title: "Filtration Control"
 image: "images/blog/Play.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | plumbase.co.uk      | 
+| Victim      | filtrationcontrol.com      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Oct 05, 2023      | 
-| Description      | Plumbase supplies heating, plumbing, bathrooms, renewables, and boiler spares to professional trade installers.      | 
-| Leak Size      | 1.5TB      | 
+| Description      | Filtration Control Ltd supplies and distributes the biggest names in engine filtration for the bus and coach, rail, industrial and marine sectors.      | 
+| Leak Size      | Unknown      | 
 

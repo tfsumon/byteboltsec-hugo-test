@@ -1,7 +1,7 @@
 ---
 date: "2023-10-05"
 discovered: "October 05, 2023"
-title: "Plumbase"
+title: "Charmant"
 image: "images/blog/Play.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | plumbase.co.uk      | 
+| Victim      | charmant.com      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Oct 05, 2023      | 
-| Description      | Plumbase supplies heating, plumbing, bathrooms, renewables, and boiler spares to professional trade installers.      | 
-| Leak Size      | 1.5TB      | 
+| Description      | Charmant Group is a quality eyewear manufacturer and distributor offering US-specific styles from our house and license brands.      | 
+| Leak Size      | Unknown      | 
 
