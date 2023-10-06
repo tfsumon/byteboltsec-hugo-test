@@ -1,17 +1,17 @@
 ---
 date: "2023-10-06"
 discovered: "October 06, 2023"
-title: "Low Keng Huat"
-image: "images/blog/BianLian.png"
+title: "Neovia"
+image: "images/blog/Snatch.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | lkhs.com.sg      | 
-| Threat Actor      | BianLian      | 
+| Victim      | neovia.fr      | 
+| Threat Actor      | Snatch      | 
 | Date Discovered      | Oct 06, 2023      | 
-| Description      | Low Keng Huat is a general building construction company.      | 
+| Description      | Neovia is an IT services company that has developed an innovative concept for its employees by placing them at the center of its strategy.      | 
 | Leak Size      | Unknown      | 
 

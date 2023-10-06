@@ -1,17 +1,17 @@
 ---
 date: "2023-10-06"
 discovered: "October 06, 2023"
-title: "Low Keng Huat"
-image: "images/blog/BianLian.png"
+title: "Cogal"
+image: "images/blog/Snatch.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | lkhs.com.sg      | 
-| Threat Actor      | BianLian      | 
+| Victim      | cogal.com      | 
+| Threat Actor      | Snatch      | 
 | Date Discovered      | Oct 06, 2023      | 
-| Description      | Low Keng Huat is a general building construction company.      | 
+| Description      | Cogal have been producing a wide range of household linen.      | 
 | Leak Size      | Unknown      | 
 
