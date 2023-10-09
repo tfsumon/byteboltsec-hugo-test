@@ -100,10 +100,10 @@ layout: "elements"
 | **date**      | only display results newer that this value. Value set in YYYYMMDD or unixtime formats      |
 | **lic**      | license key<br>can be sent via a GET parameter or request header      |
 | **r**      | return the number of remaining monthly queries allowed      |
-| **range**      | range - accepts a date range in YYYYMMDD-YYYYMMDD format      | 
+| **range**      | range - accepts a date range in YYYYMMDD-YYYYMMDD format (60 day limit)     | 
 | **search**      | search term - accepts a domain name      | 
 | **update**      | return the Unix timestamp the darkweb database was last updated      |
-| **unixtime**      | display the import date in unixtime (aliases: <i>unix</i>,<i>epoch</i>      |
+| **unixtime**      | display the import date in unixtime (aliases: <i>unix</i>,<i>epoch</i>)      |
 
 ### Output :
 | JSON Key           | Value             |
