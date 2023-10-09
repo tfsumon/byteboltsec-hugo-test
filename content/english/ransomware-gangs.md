@@ -126,6 +126,7 @@ layout: "elements"
 | <a href="http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion">KARMA</a>     | Tor     | OFFLINE     |
 | <a href="https://vipsuscription.org">KELVIN SECURITY</a>     | Clearnet     | ONLINE     |
 | <a href="http://knight3xppu263m7g4ag3xlit2qxpryjwueobh7vjdc3zrscqlfu3pqd.onion">KNIGHT </a>     | Tor     | ONLINE     |
+| <a href="http://nn5ua7gc7jkllpoztymtfcu64yjm7znlsriq3a6v5kw7l6jvirnczyyd.onion">LAMBDA </a>     | Tor     | ONLINE     |
 | <a href="http://et22fibzuzfyzgurm35sttm52qbzvdgzy5qhzy46a3gmkrrht3lec5ad.onion">LA PIOVRA</a>     | Tor     | OFFLINE     |
 | <a href="http://yeuajcizwytgmrntijhxphs6wn5txp2prs6rpndafbsapek3zd4ubcid.onion">LILITH</a>     | Tor     | OFFLINE     |
 | <a href="http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion">LOCKBIT 2.0 </a>     | Tor     | REBRANDED TO LB 3     |
