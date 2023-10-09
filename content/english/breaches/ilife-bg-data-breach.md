@@ -1,0 +1,17 @@
+---
+date: "2023-10-09"
+discovered: "October 09, 2023"
+title: "iLife.bg"
+image: "images/blog/Ransomed.png"
+author: "Breachsense Support"
+draft: false
+---
+
+| Data Breach Report           |              | 
+| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Victim      | ilife.bg      | 
+| Threat Actor      | Ransomed      | 
+| Date Discovered      | Oct 09, 2023      | 
+| Description      | iLife.bg specialized robot vacuum cleaners.      | 
+| Leak Size      | Unknown      | 
+
