@@ -1,17 +1,17 @@
 ---
 date: "2023-10-18"
 discovered: "October 18, 2023"
-title: "MVB Bank"
-image: "images/blog/ALPHV.png"
+title: "Kasperek USA Optical"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | mvbbanking.com      | 
-| Threat Actor      | ALPHV      | 
+| Victim      | kasperekusaoptical.com      | 
+| Threat Actor      | LockBit      | 
 | Date Discovered      | Oct 18, 2023      | 
-| Description      | MVB Bank is a financial institution that provides checking, savings, digital banking, loans, and more.      | 
+| Description      | Kasperek USA Optical is a wholesale optical distributor as well as a manufacturer.      | 
 | Leak Size      | Unknown      | 
 

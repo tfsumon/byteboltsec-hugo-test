@@ -1,17 +1,17 @@
 ---
 date: "2023-10-18"
 discovered: "October 18, 2023"
-title: "MVB Bank"
-image: "images/blog/ALPHV.png"
+title: "Piemme"
+image: "images/blog/BlackBasta.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | mvbbanking.com      | 
-| Threat Actor      | ALPHV      | 
+| Victim      | piemmeonline.it      | 
+| Threat Actor      | BlackBasta      | 
 | Date Discovered      | Oct 18, 2023      | 
-| Description      | MVB Bank is a financial institution that provides checking, savings, digital banking, loans, and more.      | 
+| Description      | Piemme is a marketing agency that deals with newspapers, periodicals, web, radio, and TV advertising.      | 
 | Leak Size      | Unknown      | 
 

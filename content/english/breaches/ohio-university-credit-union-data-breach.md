@@ -1,7 +1,7 @@
 ---
 date: "2023-10-18"
 discovered: "October 18, 2023"
-title: "German American Bank"
+title: "Ohio University Credit Union"
 image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | germanamerican.com      | 
+| Victim      | oucu.org      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Oct 18, 2023      | 
-| Description      | German American Bank offers a collection of personal banking solutions including checking and savings accounts, lending services and online resources.      | 
+| Description      | Ohio University Credit Union is a not-for-profit financial cooperative focused on improving the financial well being of members.      | 
 | Leak Size      | Unknown      | 
 

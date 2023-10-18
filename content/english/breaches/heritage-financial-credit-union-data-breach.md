@@ -1,7 +1,7 @@
 ---
 date: "2023-10-18"
 discovered: "October 18, 2023"
-title: "German American Bank"
+title: "Heritage Financial Credit Union"
 image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | germanamerican.com      | 
+| Victim      | heritagefcu.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Oct 18, 2023      | 
-| Description      | German American Bank offers a collection of personal banking solutions including checking and savings accounts, lending services and online resources.      | 
+| Description      | Heritage Federal Credit Union began with USW Local 104 union members conducting financial transactions out of the trunk of a car.      | 
 | Leak Size      | Unknown      | 
 

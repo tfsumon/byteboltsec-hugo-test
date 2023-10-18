@@ -1,7 +1,7 @@
 ---
 date: "2023-10-18"
 discovered: "October 18, 2023"
-title: "German American Bank"
+title: "Purdue Federal Credit Union"
 image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | germanamerican.com      | 
+| Victim      | purduefed.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Oct 18, 2023      | 
-| Description      | German American Bank offers a collection of personal banking solutions including checking and savings accounts, lending services and online resources.      | 
+| Description      | Purdue Federal Credit Union in Indiana offers members banking solutions including personal, student and business accounts and loans.      | 
 | Leak Size      | Unknown      | 
 

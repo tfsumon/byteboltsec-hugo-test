@@ -1,7 +1,7 @@
 ---
 date: "2023-10-18"
 discovered: "October 18, 2023"
-title: "German American Bank"
+title: "State Employees Credit Union (SECU)"
 image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | germanamerican.com      | 
+| Victim      | ncsecu.org      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Oct 18, 2023      | 
-| Description      | German American Bank offers a collection of personal banking solutions including checking and savings accounts, lending services and online resources.      | 
+| Description      | State Employees' Credit Union is an American state-chartered credit union headquartered in Raleigh, North Carolina regulated under the authority of the Credit Union Division of the North Carolina Department of Commerce.      | 
 | Leak Size      | Unknown      | 
 
