@@ -12,6 +12,6 @@ draft: false
 | Victim    | waikatodhb.health.nz      | 
 | Threat Actor    | ViceSociety      | 
 | Date Discovered    | Oct 10, 2021      | 
-| Description    | N/A      | 
+| Description    |  N/A      | 
 | Leak Size    | N/A      | 
 
