@@ -1,7 +1,7 @@
 ---
 date: "2023-10-29"
 discovered: "October 29, 2023"
-title: "Morrison Community Hospital"
+title: "Mutual Underwriters"
 image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | morrisonhospital.com      | 
+| Victim      | mutualunderwriters.net      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Oct 29, 2023      | 
-| Description      | Morrison Community Hospital is a Critical Access Hospital providing immediate life-improving medical services.      | 
-| Leak Size      | 8.6TB      | 
+| Description      | Mutual Underwriters provides life insurance, disability plans, retirement, general liability, inland marine, & personal insurance services.      | 
+| Leak Size      | 700GB      | 
 
