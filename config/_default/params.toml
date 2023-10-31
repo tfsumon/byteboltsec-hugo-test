@@ -53,7 +53,7 @@ link = "/book-demo#book-demo"
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
 keywords = ["data breach monitoring", "ransomware prevention", "Breachsense"]
-description = "Monitor for data breaches within your organization with Breachsense. Know when there’s a data breach in your organization and react in a timely manner."
+#description = "Monitor for data breaches within your organization with Breachsense. Know when there’s a data breach in your organization and react in a timely manner."
 author = "Breachsense"
 
 # matomo tracking: see https://matomo.org/
