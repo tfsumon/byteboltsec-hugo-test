@@ -1,17 +1,17 @@
 ---
 date: "2023-11-02"
 discovered: "November 02, 2023"
-title: "Traxall"
-image: "images/blog/8BASE.png"
+title: "Mankin Custom Motors"
+image: "images/blog/Knight.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | traxall.fr      | 
-| Threat Actor      | 8BASE      | 
+| Victim      | mcmtx.com      | 
+| Threat Actor      | Knight      | 
 | Date Discovered      | Nov 02, 2023      | 
-| Description      | Traxall France is today the leader in France in automobile fleet management.      | 
+| Description      | Mankin Custom Motors, LLC is a car dealer in Addison, TX.      | 
 | Leak Size      | Unknown      | 
 

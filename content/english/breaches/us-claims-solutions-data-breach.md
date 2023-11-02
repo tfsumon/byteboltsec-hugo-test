@@ -1,17 +1,17 @@
 ---
 date: "2023-11-02"
 discovered: "November 02, 2023"
-title: "Traxall"
-image: "images/blog/8BASE.png"
+title: "US Claims Solutions"
+image: "images/blog/Knight.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | traxall.fr      | 
-| Threat Actor      | 8BASE      | 
+| Victim      | usclaimssolutions.com      | 
+| Threat Actor      | Knight      | 
 | Date Discovered      | Nov 02, 2023      | 
-| Description      | Traxall France is today the leader in France in automobile fleet management.      | 
+| Description      | US Claims Solutions specializes in Commercial, Cargo and Personal Lines Insurance Claims.      | 
 | Leak Size      | Unknown      | 
 

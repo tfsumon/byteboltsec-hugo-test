@@ -1,7 +1,7 @@
 ---
 date: "2023-11-02"
 discovered: "November 02, 2023"
-title: "Traxall"
+title: "Aniel"
 image: "images/blog/8BASE.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | traxall.fr      | 
+| Victim      | aniel.fr      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Nov 02, 2023      | 
-| Description      | Traxall France is today the leader in France in automobile fleet management.      | 
+| Description      | Aniel Marketplace is the one-stop shop for the bodybuilder.      | 
 | Leak Size      | Unknown      | 
 

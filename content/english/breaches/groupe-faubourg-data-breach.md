@@ -1,7 +1,7 @@
 ---
 date: "2023-11-02"
 discovered: "November 02, 2023"
-title: "Traxall"
+title: "Groupe Faubourg"
 image: "images/blog/8BASE.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | traxall.fr      | 
+| Victim      | groupe-faubourg.com      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Nov 02, 2023      | 
-| Description      | Traxall France is today the leader in France in automobile fleet management.      | 
+| Description      | Groupe Faubourg is an industrial corporation that specializes in automobile body repair and services, as well as car supplies and selling.      | 
 | Leak Size      | Unknown      | 
 

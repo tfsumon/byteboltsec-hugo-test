@@ -1,17 +1,17 @@
 ---
 date: "2023-11-02"
 discovered: "November 02, 2023"
-title: "Traxall"
-image: "images/blog/8BASE.png"
+title: "HAL Allergy"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | traxall.fr      | 
-| Threat Actor      | 8BASE      | 
+| Victim      | hal-allergy.com      | 
+| Threat Actor      | ALPHV      | 
 | Date Discovered      | Nov 02, 2023      | 
-| Description      | Traxall France is today the leader in France in automobile fleet management.      | 
+| Description      | HAL Allergy Group is a pharmaceutical company that develops, produces and sells products for allergy diagnostic and allergen immunotherapy.      | 
 | Leak Size      | Unknown      | 
 
