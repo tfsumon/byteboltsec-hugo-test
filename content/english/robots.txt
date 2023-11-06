@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://www.breachsense.io/sitemap.xml
+Sitemap: https://www.breachsense.com/sitemap.xml
