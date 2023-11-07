@@ -18,7 +18,7 @@ layout: "elements"
 | <a href="http://54bb47h.blog">54bb47h</a>     | Clearnet     | OFFLINE     |
 | <a href="http://threeamkelxicjsaf2czjyz2lc4q3ngqkxhhlexyfcp2o6raw4rphyad.onion">3AM</a>     | Tor     | ONLINE     |
 | <a href="http://54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion">54bb47h </a>     | Tor     | OFFLINE     |
-| <a href="http://basemmnnqwxevlymli5bs36o5ynti55xojzvn246spahniugwkff2pad.onion">8BASE</a>     | Tor     | ONLINE     |
+| <a href="http://xb6q2aggycmlcrjtbjendcnnwpmmwbosqaugxsqb4nx6cmod3emy7sad.onion">8BASE</a>     | Tor     | ONLINE     |
 | <a href="http://abrahamm32umasogaqojib3ey2w2nwoafffrguq43tsyke4s3fz3w4yd.onion">Abrahams Ax </a>     | Tor     | ONLINE     |
 | <a href="http://3ev4metjirohtdpshsqlkrqcmxq6zu3d7obrdhglpy5jpbr7whmlfgqd.onion">ABYSS</a>     | Tor     | ONLINE     |
 | <a href="http://giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion">AgainstTheWest</a>     | Tor     | OFFLINE     |
