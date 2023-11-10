@@ -1,7 +1,7 @@
 ---
 date: "2023-11-10"
 discovered: "November 10, 2023"
-title: "City Furniture"
+title: "Autocommerce"
 image: "images/blog/Akira.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | cityfurniturehireltd.com      | 
+| Victim      | autocommerce.si      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Nov 10, 2023      | 
-| Description      | City Furniture Hire Limited provides quality rental furniture to meet your individual needs whether it be for events, exhibitions,conferences or your office.      | 
-| Leak Size      | Unknown      | 
+| Description      | Autocommerce, d.o.o is a general distributor for vehicles of brand marks Mercedes Benz and Smart on slovenian market.      | 
+| Leak Size      | 10GB      | 
 

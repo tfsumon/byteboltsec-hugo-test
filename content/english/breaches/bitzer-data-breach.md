@@ -1,7 +1,7 @@
 ---
 date: "2023-11-10"
 discovered: "November 10, 2023"
-title: "City Furniture"
+title: "Bitzer"
 image: "images/blog/Akira.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | cityfurniturehireltd.com      | 
+| Victim      | bitzer.de      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Nov 10, 2023      | 
-| Description      | City Furniture Hire Limited provides quality rental furniture to meet your individual needs whether it be for events, exhibitions,conferences or your office.      | 
-| Leak Size      | Unknown      | 
+| Description      | Bitzer manufactures reciprocating compressors, screw compressors,scroll compressors, condensing units, heat exchangers and pressure vessels.      | 
+| Leak Size      | 40GB      | 
 
