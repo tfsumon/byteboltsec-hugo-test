@@ -1,17 +1,17 @@
 ---
 date: "2023-11-17"
 discovered: "November 17, 2023"
-title: "Summit"
-image: "images/blog/RAGroup.png"
+title: "Unique Relations"
+image: "images/blog/Qilin.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | svprx.co.uk      | 
-| Threat Actor      | RAGroup      | 
+| Victim      | unique-relations.at      | 
+| Threat Actor      | Qilin      | 
 | Date Discovered      | Nov 17, 2023      | 
-| Description      | Summit is a pharmaceutical company that manufactures and supplies medicines for veterinary surgeons.      | 
+| Description      | Unique Relations offers professional PR advice and support for effective communication management and increased brand awareness.      | 
 | Leak Size      | Unknown      | 
 

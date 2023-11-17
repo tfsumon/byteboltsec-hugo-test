@@ -1,7 +1,7 @@
 ---
 date: "2023-11-17"
 discovered: "November 17, 2023"
-title: "Summit"
+title: "Chung Hwa"
 image: "images/blog/RAGroup.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | svprx.co.uk      | 
+| Victim      | chciworld.com.tw      | 
 | Threat Actor      | RAGroup      | 
 | Date Discovered      | Nov 17, 2023      | 
-| Description      | Summit is a pharmaceutical company that manufactures and supplies medicines for veterinary surgeons.      | 
+| Description      | Chung Hwa Chemical Industrial Works is a chemical manufacturing company      | 
 | Leak Size      | Unknown      | 
 

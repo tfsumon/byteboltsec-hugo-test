@@ -1,0 +1,17 @@
+---
+date: "2023-11-17"
+discovered: "November 17, 2023"
+title: "Goodhope"
+image: "images/blog/LockBit.png"
+author: "Breachsense Support"
+draft: false
+---
+
+| Data Breach Report           |              | 
+| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Victim      | goodhopeholdings.com      | 
+| Threat Actor      | LockBit      | 
+| Date Discovered      | Nov 17, 2023      | 
+| Description      | Goodhope Asia Holdings Ltd, incorporated in Singapore, is a holding company with investments in the food ingredient industry in Indonesia, Malaysia and India.      | 
+| Leak Size      | Unknown      | 
+

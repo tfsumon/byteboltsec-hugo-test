@@ -1,17 +1,17 @@
 ---
 date: "2023-11-17"
 discovered: "November 17, 2023"
-title: "Summit"
-image: "images/blog/RAGroup.png"
+title: "Museum of Natural History (Berlin)"
+image: "images/blog/Snatch.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | svprx.co.uk      | 
-| Threat Actor      | RAGroup      | 
+| Victim      | museumfuernaturkunde.berlin      | 
+| Threat Actor      | Snatch      | 
 | Date Discovered      | Nov 17, 2023      | 
-| Description      | Summit is a pharmaceutical company that manufactures and supplies medicines for veterinary surgeons.      | 
+| Description      | Museum of Natural History (Berlin) is the largest natural history museum in Germany.      | 
 | Leak Size      | Unknown      | 
 

@@ -1,17 +1,17 @@
 ---
 date: "2023-11-17"
 discovered: "November 17, 2023"
-title: "Summit"
-image: "images/blog/RAGroup.png"
+title: "Montachusett Regional Vocational Technical School"
+image: "images/blog/Snatch.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | svprx.co.uk      | 
-| Threat Actor      | RAGroup      | 
+| Victim      | montytech.net      | 
+| Threat Actor      | Snatch      | 
 | Date Discovered      | Nov 17, 2023      | 
-| Description      | Summit is a pharmaceutical company that manufactures and supplies medicines for veterinary surgeons.      | 
+| Description      | Montachusett Regional Vocational Technical School is an independent regional vocational-technical school.      | 
 | Leak Size      | Unknown      | 
 

@@ -1,7 +1,7 @@
 ---
 date: "2023-11-17"
 discovered: "November 17, 2023"
-title: "Summit"
+title: "Informist"
 image: "images/blog/RAGroup.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | svprx.co.uk      | 
+| Victim      | informistmedia.com      | 
 | Threat Actor      | RAGroup      | 
 | Date Discovered      | Nov 17, 2023      | 
-| Description      | Summit is a pharmaceutical company that manufactures and supplies medicines for veterinary surgeons.      | 
+| Description      | Informist Data & Analytics Pvt Ltd. is a leading provider of information in the credit space in India.      | 
 | Leak Size      | Unknown      | 
 

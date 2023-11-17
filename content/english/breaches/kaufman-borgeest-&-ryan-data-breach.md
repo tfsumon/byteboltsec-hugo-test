@@ -1,17 +1,17 @@
 ---
 date: "2023-11-17"
 discovered: "November 17, 2023"
-title: "Summit"
-image: "images/blog/RAGroup.png"
+title: "Kaufman Borgeest & Ryan"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | svprx.co.uk      | 
-| Threat Actor      | RAGroup      | 
+| Victim      | krblaw.com      | 
+| Threat Actor      | LockBit      | 
 | Date Discovered      | Nov 17, 2023      | 
-| Description      | Summit is a pharmaceutical company that manufactures and supplies medicines for veterinary surgeons.      | 
+| Description      | Kaufman Borgeest & Ryan LLP is a law firm that specializes in appellate practice, bankruptcy, commercial litigation.      | 
 | Leak Size      | Unknown      | 
 
