@@ -1,7 +1,7 @@
 ---
 date: "2023-11-21"
 discovered: "November 21, 2023"
-title: "Sabre"
+title: "NY Bravest"
 image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | sabre.co.uk      | 
+| Victim      | nybravestfcu.org      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Nov 21, 2023      | 
-| Description      | Sabre Insurance is a successful UK based insurer selling car insurance Company.      | 
+| Description      | NY Bravest Federal Credit Union offers finance, banking, and financial services.      | 
 | Leak Size      | Unknown      | 
 

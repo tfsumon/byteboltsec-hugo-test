@@ -1,7 +1,7 @@
 ---
 date: "2023-11-21"
 discovered: "November 21, 2023"
-title: "Sabre"
+title: "Brown Integrated"
 image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | sabre.co.uk      | 
+| Victim      | brownintegratedlogistics.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Nov 21, 2023      | 
-| Description      | Sabre Insurance is a successful UK based insurer selling car insurance Company.      | 
+| Description      | Brown Integrated Logistics is a logistics company specializing in warehousing and dedicated trucking services.      | 
 | Leak Size      | Unknown      | 
 

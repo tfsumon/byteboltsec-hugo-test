@@ -1,17 +1,17 @@
 ---
 date: "2023-11-21"
 discovered: "November 21, 2023"
-title: "Sabre"
-image: "images/blog/LockBit.png"
+title: "Etude Villa Florek"
+image: "images/blog/BlackBasta.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | sabre.co.uk      | 
-| Threat Actor      | LockBit      | 
+| Victim      | etude-villa.fr      | 
+| Threat Actor      | BlackBasta      | 
 | Date Discovered      | Nov 21, 2023      | 
-| Description      | Sabre Insurance is a successful UK based insurer selling car insurance Company.      | 
-| Leak Size      | Unknown      | 
+| Description      | Etude Villa Florek is a legal services in Tours, France.      | 
+| Leak Size      | 43GB      | 
 

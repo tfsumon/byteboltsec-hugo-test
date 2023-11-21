@@ -1,17 +1,17 @@
 ---
 date: "2023-11-21"
 discovered: "November 21, 2023"
-title: "Sabre"
-image: "images/blog/LockBit.png"
+title: "Bank of Ceylon"
+image: "images/blog/Cloak.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | sabre.co.uk      | 
-| Threat Actor      | LockBit      | 
+| Victim      | bankofceylon.co.uk      | 
+| Threat Actor      | Cloak      | 
 | Date Discovered      | Nov 21, 2023      | 
-| Description      | Sabre Insurance is a successful UK based insurer selling car insurance Company.      | 
+| Description      | Bank of Ceylon is a financial firm that offers financing, savings, lending, funding and consulting services for businesses and individuals.      | 
 | Leak Size      | Unknown      | 
 
