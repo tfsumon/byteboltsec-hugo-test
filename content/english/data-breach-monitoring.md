@@ -2,7 +2,7 @@
 title: "Data Breach Monitoring Solution | Breachsense"
 draft: false
 description: "Breachsense allows you to monitor data breaches and uncover leaked credentials, personal staff information, and more. Learn about it here."
-layout: "data-breach-monitoring"
+layout: "dark-web-monitoring"
 
 
 # Banner
