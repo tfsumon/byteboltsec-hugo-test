@@ -7,7 +7,7 @@ layout: "dark-web-monitoring"
 
 # Banner
 banner:
-  title: "Data Breach Monitoring Solution"
+  title: "Data Breach Monitoring"
   content: "Breachsense allows you to monitor data breaches for leaked account credentials, personal staff information, ransomware marketplace listings of sensitive company information, and more. By detecting data breaches in real time, you’ll be able to mitigate the risk and prevent cyberattacks before they happen."
   image: "images/BSStats.png"
   book_a_demo_button: true
