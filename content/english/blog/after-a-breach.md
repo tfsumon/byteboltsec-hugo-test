@@ -119,7 +119,7 @@ Weak and stolen credentials are among the most common causes of [data breaches](
 
 Cybercriminals use various techniques, such as phishing attacks, malware, and brute force attacks or credential stuffing, to obtain login credentials.
 
-To mitigate the risk of weak and stolen credentials, companies should implement strong password policies, 2FA(Two-Factor Authentication), and [data breach monitoring](https://breachsense.com).
+To mitigate the risk of weak and stolen credentials, companies should implement strong password policies, 2FA(Two-Factor Authentication), and [data breach monitoring](https://www.breachsense.com/data-breach-monitoring/).
 ### #2. Social Engineering
 Social engineering is one of the three most common initial attack vectors leading to a data leak, along with unpatched systems and stolen credentials. 
 

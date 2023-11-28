@@ -136,7 +136,7 @@ Data breaches can be devastating for businesses of all sizes.
 
 Protecting your business from data breaches requires more than just a plan - it requires a trusted partner with expertise in cybersecurity.
 
-Breachsense can be *that* reliable partner in your enterprise's cybersecurity journey, providing real-time alerts and [data breach monitoring services](https://www.breachsense.com/) that can help you detect, prevent, and respond to data breaches before they cause significant damage.
+Breachsense can be *that* reliable partner in your enterprise's cybersecurity journey, providing real-time alerts and [data breach monitoring services](https://www.breachsense.com/data-breach-monitoring/) that can help you detect, prevent, and respond to data breaches before they cause significant damage.
 
 Breachsense provides flexible integration with virtually any application, SIEM, or browser, making it easy for businesses to implement the service into their existing security tools. 
 
