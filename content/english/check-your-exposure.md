@@ -7,7 +7,7 @@ layout: "check-your-exposure"
 
 # Banner
 banner:
-  title: "Check Your Exposure & Detect Data Breaches"
+  title: "Dark Web Scanner"
 
 
 # No Data Breach Detected
