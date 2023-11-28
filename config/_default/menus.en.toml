@@ -6,13 +6,61 @@ name = "Home"
 url = ""
 weight = 1
 
+#[[main]]
+#name = "Why Breachsense"
+#url = "why-breachsense/"
+#weight = 2
+
+[[main]]
+weight = 3
+name = "Platform"
+hasChildren = true
+
+  [[main]]
+  parent = "Platform"
+  name = "Dark Web Monitoring"
+  url = "dark-web-monitoring/"
+  weight = 1
+  
+#  [[main]]
+#  parent = "Platform"
+#  name = "Data Breach Monitoring"
+#  url = "data-breach-monitoring/"
+#  weight = 2
+
+#[[main]]
+#weight = 4
+#name = "Solutions"
+#hasChildren = true
+
+#  [[main]]
+#  parent = "Solutions"
+#  name = "Enterprise Security Teams"
+#  url = "enterprise-security-teams/"
+#  weight = 1
+
+[[main]]
+name = "Recent Breaches"
+url = "breaches/"
+weight = 5
+
+[[main]]
+  name = "Dark Web Scanner"
+  url = "check-your-exposure/"
+  weight = 6
+
+[[main]]
+name = "About"
+url = "about/"
+weight = 7
+
 [[main]]
 name = "Blog"
 url = "blog/"
-weight = 6
+weight = 8
 
 [[main]]
-weight = 6
+weight = 9
 name = "Resources"
 hasChildren = true
 
@@ -30,30 +78,9 @@ hasChildren = true
 
   [[main]]
   parent = "Resources"
-  name = "Dark Web Monitoring"
-  url = "dark-web-monitoring/"
-  weight = 9
-
-  [[main]]
-  parent = "Resources"
   name = "Terms & Conditions"
   url = "terms-and-conditions/"
   weight = 10
-
-[[main]]
-name = "About"
-url = "about/"
-weight = 8
-
-[[main]]
-name = "Latest Breaches"
-url = "breaches/"
-weight = 24
-
-[[main]]
-  name = "Check your exposure"
-  url = "check-your-exposure/"
-  weight = 25
 
 # footer menu
 [[footer]]
