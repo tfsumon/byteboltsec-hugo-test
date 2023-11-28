@@ -22,11 +22,11 @@ hasChildren = true
   url = "dark-web-monitoring/"
   weight = 1
   
-#  [[main]]
-#  parent = "Platform"
-#  name = "Data Breach Monitoring"
-#  url = "data-breach-monitoring/"
-#  weight = 2
+  [[main]]
+  parent = "Platform"
+  name = "Data Breach Monitoring"
+  url = "data-breach-monitoring/"
+  weight = 2
 
 #[[main]]
 #weight = 4
