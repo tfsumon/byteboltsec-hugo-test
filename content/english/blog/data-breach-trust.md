@@ -18,7 +18,7 @@ According to Forbes, [80% of consumers in developed countries will abandon a bus
 
 Additionally, IDC projected that by 2019, 70% of major multinational corporations with origins in the United States and Europe would face significant cybersecurity attacks targeting the disruption of commodity distribution. 
 
-Such attacks not only present a [direct risk to a company's operations](https://breachsense.com/blog/after-a-breach/) but can also erode customer confidence in the brand.
+Such attacks not only present a [direct risk to a company's operations](https://www.breachsense.com/blog/after-a-breach/) but can also erode customer confidence in the brand.
 
 A March 2020 study by FTI Consulting disclosed that companies anticipate a 9% decline in their global annual revenue as a consequence of a data privacy crisis. 
 
@@ -27,11 +27,11 @@ The financial implications of losing customer trust reach beyond immediate reven
 Other than the loss of customer trust, six other types of consequences that follow a data breach are as follows:
 
 1. **Legal and regulatory penalties**: Non-compliance with data protection regulations can result in hefty fines, penalties, and legal actions.
-2. **Increased cybersecurity costs**: Companies must invest in improved security measures and [incident response plans](https://www.breachsense.com/blog/data-breach-response-plan/) to [prevent future data breaches](https://breachsense.com/blog/prevent-data-breach/).
+2. **Increased cybersecurity costs**: Companies must invest in improved security measures and [incident response plans](https://www.breachsense.com/blog/data-breach-response-plan/) to [prevent future data breaches](https://www.breachsense.com/blog/prevent-data-breach/).
 3. **Loss of intellectual property**: Stolen trade secrets or proprietary information can give competitors an advantage, damaging the company's market position.
-4. **Employee morale and productivity**: All the [different types of data breaches](https://breachsense.com/blog/data-breach-types/) can create a stressful work environment, leading to decreased employee morale and productivity.
+4. **Employee morale and productivity**: All the [different types of data breaches](https://www.breachsense.com/blog/data-breach-types/) can create a stressful work environment, leading to decreased employee morale and productivity.
 5. **Impact on stock prices**: Publicly traded companies may see their stock prices decline following a data breach, as investors lose confidence in the organization's ability to manage risk.
-6. **Higher customer acquisition costs**: Regaining trust and attracting new customers can be costly and time-consuming, as [businesses must prevent future breaches](https://breachsense.com/blog/small-business-data-breach-consequences/) and demonstrate their commitment to security and privacy.
+6. **Higher customer acquisition costs**: Regaining trust and attracting new customers can be costly and time-consuming, as [businesses must prevent future breaches](https://www.breachsense.com/blog/small-business-data-breach-consequences/) and demonstrate their commitment to security and privacy.
 ## Conclusion
 Data breaches have far-reaching consequences that can severely impact an organization's reputation, customer trust, and financial stability. 
 

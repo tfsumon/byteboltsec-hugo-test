@@ -14,7 +14,7 @@ In this article, we explore **five real-life examples of data breaches** and dig
 
 Let’s get started!
 ## 5 Famous Examples of Data Breaches
-Data breaches can lead to sensitive information getting stolen and then sold on the dark web or to [third parties](https://breachsense.com/blog/third-party-data-breach/). 
+Data breaches can lead to sensitive information getting stolen and then sold on the dark web or to [third parties](https://www.breachsense.com/blog/third-party-data-breach/). 
 
 There have been several high-profile data breaches in recent years that have led to the exposure of millions of user records to testify to how harmful data breaches can be.
 
@@ -97,11 +97,11 @@ In this section, we will explore three common causes of data breaches and leaks 
 ### #1. Weak and Compromised User Credentials
 Weak and stolen credentials are among the most common [causes of data breaches](https://www.breachsense.com/blog/data-breach-causes/). While passwords are often used to protect sensitive data, they can also be the weakest link in cybersecurity. 
 
-To reduce the risk of weak and stolen credentials, companies should not only [implement strong password policies](https://breachsense.com/blog/password-security-data-breach/) but also ensure that they have a robust cybersecurity monitoring program in place to detect and respond to potential breaches.
+To reduce the risk of weak and stolen credentials, companies should not only [implement strong password policies](https://www.breachsense.com/blog/password-security-data-breach/) but also ensure that they have a robust cybersecurity monitoring program in place to detect and respond to potential breaches.
 
 Two-factor authentication is another effective security measure that provides an additional layer of protection by requiring users to provide a second form of identification, through software or hardware token.
 ### #2. Social Engineering
-Social engineering attacks, such as phishing emails, phone calls, or in-person interactions, can have [serious consequences for businesses](https://breachsense.com/blog/small-business-data-breach-consequences/) as cybercriminals can use the data obtained to breach IT systems and launch further attacks.
+Social engineering attacks, such as phishing emails, phone calls, or in-person interactions, can have [serious consequences for businesses](https://www.breachsense.com/blog/small-business-data-breach-consequences/) as cybercriminals can use the data obtained to breach IT systems and launch further attacks.
 
 To prevent and mitigate the risks associated with social engineering attacks and data breaches, companies should increase spam filtering via email gateways and consider the implementation of antivirus and endpoint security tools.
 
@@ -133,7 +133,7 @@ This code is then executed when a user visits the affected webpage, allowing the
 
 XSS attacks can be prevented by implementing proper input sanitization and validation techniques, as well as security measures like [CSP (Content Security Policy)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP) and input filtering.
 ## 6 Ways to Prevent a Data Breach
-[Data breaches can be a costly](https://breachsense.com/blog/cost-of-a-data-breach/) and damaging experience for your company. 
+[Data breaches can be a costly](https://www.breachsense.com/blog/cost-of-a-data-breach/) and damaging experience for your company. 
 
 In this section, we'll share six tried-and-true ways to [prevent data breaches](https://www.breachsense.com/blog/prevent-data-breach/) and keep your sensitive information secure, starting with:
 ### #1. Multi-Factor Authentication
@@ -163,7 +163,7 @@ Regular employee training on data security best practices is a must when it come
 
 Employees should be educated on how to identify and respond to potential security threats such as phishing attacks and other forms of social engineering.
 
-*Learn about how helpful it can be to [have a data breach response plan](https://breachsense.com/blog/data-breach-response-plan/) in place and how you can build one that works for you with our article.*
+*Learn about how helpful it can be to [have a data breach response plan](https://www.breachsense.com/blog/data-breach-response-plan/) in place and how you can build one that works for you with our article.*
 ## 4 Ways to Recover From a Data Breach
 A [data breach](https://www.breachsense.com/blog/what-is-a-data-breach/) can lead to severe consequences, including financial losses, reputation damage, and identity theft. If a company falls victim to a data breach, it's crucial to take immediate action to contain the breach.
 
@@ -179,7 +179,7 @@ This involves identifying the type of data that was compromised and its potentia
 ### #3. Address Possible Weaknesses
 After conducting a damage evaluation, it is necessary to address the possible weaknesses that may have contributed to the breach. 
 
-This can involve conducting a risk assessment to identify any [vulnerabilities that were exploited](https://breachsense.com/blog/vulnerabilities-cause-data-loss/), evaluating existing security measures, and implementing additional security protocols to prevent future breaches.
+This can involve conducting a risk assessment to identify any [vulnerabilities that were exploited](https://www.breachsense.com/blog/vulnerabilities-cause-data-loss/), evaluating existing security measures, and implementing additional security protocols to prevent future breaches.
 ### #4. Notify All Stakeholders
 Following a data breach, it's crucial to notify the appropriate parties to minimize the potential harm to affected individuals and comply with relevant regulations. 
 
@@ -195,7 +195,7 @@ A data leak happens when confidential data is unintentionally made public, while
 
 A data breach typically involves an external event that leads to the compromise of data. This event is often initiated by a cybercriminal through actions like a phishing attack.
 
-A data leak, on the other hand, occurs due to internal factors. The confidential data may be exposed due to software vulnerabilities that internal security teams might overlook, or [insider threats](https://breachsense.com/blog/insider-threat-data-breach/) could deliberately create an attack vector for hackers to access the sensitive data.
+A data leak, on the other hand, occurs due to internal factors. The confidential data may be exposed due to software vulnerabilities that internal security teams might overlook, or [insider threats](https://www.breachsense.com/blog/insider-threat-data-breach/) could deliberately create an attack vector for hackers to access the sensitive data.
 
 The consequence of data leaks and data breaches is similar, as they both result in sensitive data being compromised. The main factor that distinguishes the two is the cause that leads to this outcome.
 ## Conclusion

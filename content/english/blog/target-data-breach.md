@@ -12,7 +12,7 @@ Over 40 million payment cards and the personal information of up to 70 million c
 
 The incident had far-reaching consequences, not only for the affected customers but also for Target itself. In this article, we will discuss [how the breach happened](https://www.breachsense.com/blog/data-breach-causes/), its financial implications, and lessons learned from this massive security failure.
 ## How Did the Target Data Breach Happen?
-The Target data breach was a result of a sophisticated cyberattack that exploited multiple vulnerabilities. The attackers initially gained access to Target's network through a [third-party HVAC vendor](https://breachsense.com/blog/third-party-data-breach/), who had been granted remote access to the company's systems for maintenance purposes. 
+The Target data breach was a result of a sophisticated cyberattack that exploited multiple vulnerabilities. The attackers initially gained access to Target's network through a [third-party HVAC vendor](https://www.breachsense.com/blog/third-party-data-breach/), who had been granted remote access to the company's systems for maintenance purposes. 
 
 Once inside, the attackers moved laterally through the network, eventually reaching Target's point-of-sale (POS) systems.
 
@@ -42,7 +42,7 @@ Overall, Target's response to [the data breach](https://www.breachsense.com/blog
 * **Total estimated cost**: The overall [cost of the data breach](https://www.breachsense.com/blog/cost-of-a-data-breach/) is estimated to have been over $202 million, factoring in settlements, fines, loss of revenue, and reputational damages.
 * **Reputational damage**: Target's brand image was significantly tarnished, with customers losing trust in the company's ability to protect their personal information. This reputational damage impacted customer loyalty and took years of effort to rebuild.
 * **Investments in cybersecurity**: In response to the breach, Target allocated substantial resources to improving its cybersecurity infrastructure, including implementing advanced threat detection and response tools, and establishing a dedicated cybersecurity team.
-* **Long-term impact on customer trust**: The [data breach had lasting effects on customer trust](https://breachsense.com/blog/data-breach-trust/), which translated into a prolonged period of lower sales and revenue for the company. It serves as a reminder of the long-term consequences of a massive data breach on a company's reputation and financial performance.
+* **Long-term impact on customer trust**: The [data breach had lasting effects on customer trust](https://www.breachsense.com/blog/data-breach-trust/), which translated into a prolonged period of lower sales and revenue for the company. It serves as a reminder of the long-term consequences of a massive data breach on a company's reputation and financial performance.
 ## Conclusion
 The Target data breach serves as a cautionary tale for organizations of all sizes, highlighting the importance of robust cybersecurity measures and the far-reaching consequences of a large-scale data breach. 
 

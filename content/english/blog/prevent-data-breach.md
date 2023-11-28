@@ -29,11 +29,11 @@ Cybercriminals use various tactics to trick employees into revealing private net
 
 Investing in robust training can be a proactive measure that protects your business from one of the leading causes of data breaches worldwide.
 
-To maintain a strong focus on cybersecurity, it is essential to pair a comprehensive cyber awareness training program with robust technical controls that [prevent human error](https://breachsense.com/blog/data-breach-human-error/). 
+To maintain a strong focus on cybersecurity, it is essential to pair a comprehensive cyber awareness training program with robust technical controls that [prevent human error](https://www.breachsense.com/blog/data-breach-human-error/). 
 
 This approach will help your employees identify and respond to phishing attempts effectively and enable your organization to mitigate potential cybersecurity risks.
 #### #2. Detect Internal Vulnerabilities
-[Managing internal security vulnerabilities](https://breachsense.com/blog/vulnerabilities-cause-data-loss/) is essential to maintaining a secure network. The range of potential vulnerabilities is vast, from misconfigurations to 0-day exploits in the wild.  
+[Managing internal security vulnerabilities](https://www.breachsense.com/blog/vulnerabilities-cause-data-loss/) is essential to maintaining a secure network. The range of potential vulnerabilities is vast, from misconfigurations to 0-day exploits in the wild.  
 
 To uncover these threats, a combined effort of internal audits, such as pen tests and red team engagements, as well as risk assessments and security questionnaires, is necessary.
 
@@ -130,7 +130,7 @@ Regularly updating security software is important, as it ensures that it has the
 
 Cybercriminals are constantly developing new methods to breach systems, which means that security software must be updated to stay ahead of these threats.
 ### #5. Protect Portable Devices
-[Implementing strong passwords](https://breachsense.com/blog/password-security-data-breach/), installing anti-theft applications, and applying other security measures that limit access solely to authorized users can help you secure portable devices against theft or loss.
+[Implementing strong passwords](https://www.breachsense.com/blog/password-security-data-breach/), installing anti-theft applications, and applying other security measures that limit access solely to authorized users can help you secure portable devices against theft or loss.
 
 Devices such as flash drives, mobile phones, tablets, and other portable gadgets are especially susceptible to theft or misplacement.
 ## 5 Common Data Breach Causes

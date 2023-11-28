@@ -13,15 +13,15 @@ Understanding the common vulnerabilities that can lead to data loss is essential
 In this article, we discuss 13 vulnerabilities that can cause data loss and provide practical tips to help your organization prevent and mitigate these risks.
 ## 15 Vulnerabilities That Cause Data Loss
 1. **Outdated software**: Unsupported or unpatched software can contain security vulnerabilities that expose your systems to cyberattacks and data loss.
-2. **Weak authentication**: [Poor password practices](https://breachsense.com/blog/password-security-data-breach/) or lack of multi-factor authentication can make it easier for attackers to gain unauthorized access to your systems.
-3. **[Insider threats](https://breachsense.com/blog/insider-threat-data-breach/)**: Malicious or negligent employees can intentionally or unintentionally compromise sensitive data.
-4. **[Human error](https://breachsense.com/blog/data-breach-human-error/)**: Accidental deletion, misconfiguration, or other mistakes can lead to data loss.
+2. **Weak authentication**: [Poor password practices](https://www.breachsense.com/blog/password-security-data-breach/) or lack of multi-factor authentication can make it easier for attackers to gain unauthorized access to your systems.
+3. **[Insider threats](https://www.breachsense.com/blog/insider-threat-data-breach/)**: Malicious or negligent employees can intentionally or unintentionally compromise sensitive data.
+4. **[Human error](https://www.breachsense.com/blog/data-breach-human-error/)**: Accidental deletion, misconfiguration, or other mistakes can lead to data loss.
 5. **Phishing attacks**: [Social engineering](https://www.enisa.europa.eu/topics/incident-response/glossary/what-is-social-engineering) tactics can trick employees into revealing sensitive information or granting access to unauthorized individuals.
 6. **Ransomware**: Malicious software that encrypts your data, rendering it inaccessible until a ransom is paid.
 7. **Hardware failure**: Physical damage to hardware, such as hard drives, can result in data loss.
 8. **Natural disasters**: Events like floods, fires, or earthquakes can damage physical infrastructure, leading to data loss.
 9. **Power outages**: Sudden power loss can cause data corruption or loss in systems without proper backup power supplies.
-10. **Network [vulnerabilities](https://breachsense.com/blog/vulnerabilities-cause-data-loss/)**: Unsecured networks can expose your systems to unauthorized access or data interception.
+10. **Network [vulnerabilities](https://www.breachsense.com/blog/vulnerabilities-cause-data-loss/)**: Unsecured networks can expose your systems to unauthorized access or data interception.
 11. **[Insecure third-party vendors](https://www.breachsense.com/blog/third-party-data-breach/)**: Security vulnerabilities in your vendors' systems can put your data at risk.
 12. **Data corruption**: Corruption of files or databases can render your data unreadable and unusable.
 13. **Inadequate backups**: Failure to maintain regular, secure backups can leave your organization vulnerable to data loss in the event of a disaster or system failure.

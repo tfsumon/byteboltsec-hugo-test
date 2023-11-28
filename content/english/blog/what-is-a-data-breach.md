@@ -20,7 +20,7 @@ Data breaches involve the intentional exposure of sensitive information, which i
 
 Data breaches are most common in industries that are dealing with large amounts of personal data, such as [finance and healthcare](https://www.cshub.com/attacks/articles/top-8-industries-reporting-data-breaches-in-the-first-half-of-2019). 
 ## 4 Types of Data Breaches
-With the persistent threat of data breaches affecting organizations of all types and sizes, it is important to understand the different types of [data breaches that could impact your business](https://breachsense.com/blog/small-business-data-breach-consequences/). 
+With the persistent threat of data breaches affecting organizations of all types and sizes, it is important to understand the different types of [data breaches that could impact your business](https://www.breachsense.com/blog/small-business-data-breach-consequences/). 
 
 Here are four of the most common [data breach types](https://www.breachsense.com/blog/data-breach-types/): 
 ### #1. Double Extortion Ransomware
@@ -34,7 +34,7 @@ Phishing is a social engineering attack, where cybercriminals attempt to obtain 
 
 Phishing attacks usually take the form of fraudulent emails, text messages, or websites that request users to provide personal or financial information.
 
-Because this type of [data breach comes from human error](https://breachsense.com/blog/data-breach-human-error/) rather than a technological flaw, combatting it is even more difficult.
+Because this type of [data breach comes from human error](https://www.breachsense.com/blog/data-breach-human-error/) rather than a technological flaw, combatting it is even more difficult.
 ### #3. SQL Injection
 SQL Injection, also known as SQLi, is a technique used to attack computer systems that involves inserting malicious SQL code into a backend database to obtain unauthorized access to information.
 
@@ -78,13 +78,13 @@ A [third-party breach](https://www.breachsense.com/blog/third-party-data-breach/
 
 This type of breach is becoming increasingly common as organizations continue to rely on third-party vendors such as cloud service providers, marketing agencies, or contractors, for various services and functions.
 
-Third-party breaches can occur due to a variety of reasons, such as unsecured access points, weak or stolen credentials, unpatched security vulnerabilities, or [malicious insider activity](https://breachsense.com/blog/insider-threat-data-breach/). 
+Third-party breaches can occur due to a variety of reasons, such as unsecured access points, weak or stolen credentials, unpatched security vulnerabilities, or [malicious insider activity](https://www.breachsense.com/blog/insider-threat-data-breach/). 
 ## 5 Consequences of Data Breaches
 In the event of a data breach, the consequence on your business can be severe.
 
 Some of the most impactful data breach consequences include:
 ### #1. Financial Losses
-Data breaches can cause serious financial harm to your organization in a variety of ways, including [direct costs associated with responding to the breach](https://breachsense.com/blog/cost-of-a-data-breach/) and indirect costs associated with reputational damage, loss of customers, or legal fines.
+Data breaches can cause serious financial harm to your organization in a variety of ways, including [direct costs associated with responding to the breach](https://www.breachsense.com/blog/cost-of-a-data-breach/) and indirect costs associated with reputational damage, loss of customers, or legal fines.
 
 The “[2022 Cost of a Data Breach Report](https://www.ibm.com/reports/data-breach)” by IBM and the Ponemon Institute found that the typical cost of a data breach has surged to an all-time high of $4.35 million. Nevertheless, many experts anticipate that average costs could exceed $5 million in 2023.
 ### #2. Reputational Damage
@@ -124,7 +124,7 @@ If a data breach takes place, private and sensitive information could be stolen 
 
 Below we will delve into some [examples of the biggest breaches](https://www.breachsense.com/blog/data-breach-examples/) that led to the exposure of millions of users:
 ### #1. First American Financial Corp.
-The First American Financial Corp. data breach occurred in May 2019 when a [vulnerability in the company's website exposed sensitive documents](https://breachsense.com/blog/vulnerabilities-cause-data-loss/) related to real estate transactions, dating back to 2003.
+The First American Financial Corp. data breach occurred in May 2019 when a [vulnerability in the company's website exposed sensitive documents](https://www.breachsense.com/blog/vulnerabilities-cause-data-loss/) related to real estate transactions, dating back to 2003.
 
 The breach compromised the personal and financial data of approximately 885 million individuals and was considered one of the largest data breaches in history. 
 
@@ -179,14 +179,14 @@ Establish a robust disaster recovery plan that outlines clear procedures for mit
 
 This plan should include designated contacts, communication strategies, and specific mitigation measures. 
 
-Ensure that all employees are familiar with the plan, so they can take appropriate actions immediately [after discovering a breach](https://breachsense.com/blog/after-a-breach/).
+Ensure that all employees are familiar with the plan, so they can take appropriate actions immediately [after discovering a breach](https://www.breachsense.com/blog/after-a-breach/).
 #### #5. Ongoing Data Breach Monitoring
 Ongoing data breach monitoring is a proactive approach to cybersecurity that involves continuously tracking and scanning various data sources, both public and private, to identify any indications of compromised information. 
 This process can include monitoring the dark web, hacker forums, paste sites, Telegram channels, and various other platforms where stolen data might be sold or shared. 
 ### 6 Tips for Employees
 
 1. **Be cautious with emails.** Be cautious when opening emails or attachments from unknown sources. Verify the sender and the content before opening any links or attachments.
-2. **[Use strong passwords](https://breachsense.com/blog/password-security-data-breach/).** Create strong passwords and never share them with anyone. Use a password manager to create unique passwords for each account.
+2. **[Use strong passwords](https://www.breachsense.com/blog/password-security-data-breach/).** Create strong passwords and never share them with anyone. Use a password manager to create unique passwords for each account.
 3. **Be mindful of personal information.** Do not disclose personal information to anyone, including over the phone or email, unless you have verified the identity of the person and the legitimacy of the request.
 4. **Be cautious on public Wi-Fi.** Avoid using public Wi-Fi networks to access sensitive information or log into work-related accounts.
 5. **Secure devices.** Always lock your computer or mobile device when not in use, and do not leave them unattended in public places.

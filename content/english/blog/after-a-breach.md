@@ -20,7 +20,7 @@ To help your business, we’ve put together a guide covering what causes data br
 
 Let’s dive in.
 ## 6 Things Your Company Should Do After a Data Breach
-[If your business falls victim to a data breach](https://breachsense.com/blog/small-business-data-breach-consequences/), it’s crucial to take certain actions to safeguard your interests, customers, and your reputation. 
+[If your business falls victim to a data breach](https://www.breachsense.com/blog/small-business-data-breach-consequences/), it’s crucial to take certain actions to safeguard your interests, customers, and your reputation. 
 
 Here is what you can do:
 ### #1. Contain the Breach
@@ -30,9 +30,9 @@ Here are some immediate actions you should take:
 
 * Disconnect your internet connection and remove all compromised servers, computers, and mobile devices from the network to prevent further spreading of the malware.
 * Disable remote access and check your firewalls to ensure all systems are updated and patched.
-* Update all other systems and [change passwords](https://breachsense.com/blog/password-security-data-breach/) to strong, unique ones for each account. Additionally, check the machines for infostealer malware and enable Multi-Factor Authentication (MFA) to bolster security and reduce the risk of future data breaches.
+* Update all other systems and [change passwords](https://www.breachsense.com/blog/password-security-data-breach/) to strong, unique ones for each account. Additionally, check the machines for infostealer malware and enable Multi-Factor Authentication (MFA) to bolster security and reduce the risk of future data breaches.
 
-Spend time investigating the incident, gathering evidence, and reporting to regulatory bodies and stakeholders. This approach will help minimize further damage and build [trust with your customers](https://breachsense.com/blog/data-breach-trust/).
+Spend time investigating the incident, gathering evidence, and reporting to regulatory bodies and stakeholders. This approach will help minimize further damage and build [trust with your customers](https://www.breachsense.com/blog/data-breach-trust/).
 ### #2. Evaluate the Damage
 After isolating the affected systems, your next step should be to conduct a thorough investigation into the data breach. 
 
@@ -50,13 +50,13 @@ Identifying the source of the breach can be facilitated by conducting comprehens
 
 Although it is possible to gather relevant information without such IT systems, it may be more time-consuming and resource-intensive.
 
-During the damage assessment, it is crucial to also investigate whether the breach resulted from leaked passwords, [human error](https://breachsense.com/blog/data-breach-human-error/), or software misconfiguration. Understanding the root cause and location of the breach, as well as whether it was internal or external, is critical to implementing measures to prevent recurrence.
+During the damage assessment, it is crucial to also investigate whether the breach resulted from leaked passwords, [human error](https://www.breachsense.com/blog/data-breach-human-error/), or software misconfiguration. Understanding the root cause and location of the breach, as well as whether it was internal or external, is critical to implementing measures to prevent recurrence.
 
 To determine the exact location of the breach, the company should compile a list of all users with access to the compromised system(s).
 ### #3. Address Possible Weaknesses
 After a data breach, it is important to address the weaknesses that led to the breach. This may involve collaborating with your IT security team or engaging external security experts for a forensic investigation.
 
-Based on the findings, you can then implement both immediate and long-term solutions to [address any vulnerabilities](https://breachsense.com/blog/vulnerabilities-cause-data-loss/) and prevent similar incidents from happening in the future.
+Based on the findings, you can then implement both immediate and long-term solutions to [address any vulnerabilities](https://www.breachsense.com/blog/vulnerabilities-cause-data-loss/) and prevent similar incidents from happening in the future.
 
 Immediate and long-term solutions should consider the following key factors, which often contribute to ransomware attacks:
 
@@ -68,7 +68,7 @@ Following a data breach, it's crucial to notify the appropriate parties to minim
 
 Here are the key stakeholders you should inform when a data breach occurs:
 Regulatory Bodies and Law Enforcement
-Depending on the sector and [type of breach](https://breachsense.com/blog/data-breach-types/), companies may be required to notify law enforcement authorities, such as the FBI or the OCR, based on federal or state laws. 
+Depending on the sector and [type of breach](https://www.breachsense.com/blog/data-breach-types/), companies may be required to notify law enforcement authorities, such as the FBI or the OCR, based on federal or state laws. 
 
 Data protection laws also require companies to report breaches within a specified time frame, as well as provide a detailed and thorough explanation of how and why they occurred and what the company is doing to resolve the issues.
 #### Customers, Clients, and Stakeholders
@@ -115,7 +115,7 @@ According to the [IBM 2021 Cost of a Data Breach Report](https://www.ibm.com/rep
 
 Wondering what else leads to a data breach? Let's delve into five of the most common [data breach causes](https://www.breachsense.com/blog/data-breach-causes/):
 ### #1. Weak and Compromised User Credentials
-Weak and stolen credentials are among the most common causes of [data breaches](https://breachsense.com/blog/what-is-a-data-breach/). Passwords are often the first line of defense for protecting sensitive data, but they are also the weakest link in cybersecurity. 
+Weak and stolen credentials are among the most common causes of [data breaches](https://www.breachsense.com/blog/what-is-a-data-breach/). Passwords are often the first line of defense for protecting sensitive data, but they are also the weakest link in cybersecurity. 
 
 Cybercriminals use various techniques, such as phishing attacks, malware, and brute force attacks or credential stuffing, to obtain login credentials.
 

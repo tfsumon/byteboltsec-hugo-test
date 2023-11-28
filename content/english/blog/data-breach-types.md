@@ -44,42 +44,42 @@ Keylogging, or keystroke recording, is a data breach technique where cybercrimin
 
 This information can include passwords, credit card numbers, and other sensitive data. These devices may be physically attached to a computer, or more commonly, a malicious software program may be installed on a user's device through an email attachment or malicious website. 
 
-[To prevent this data breach type](https://breachsense.com/blog/prevent-data-breach/), it's essential to employ reputable security software, maintain regular system updates, and encourage safe browsing habits among employees.
+[To prevent this data breach type](https://www.breachsense.com/blog/prevent-data-breach/), it's essential to employ reputable security software, maintain regular system updates, and encourage safe browsing habits among employees.
 ### #5. Stolen Information 
 One of the most straightforward types of data breaches involves directly stealing information. 
 
 This can occur through physical means, such as the theft of a laptop or smartphone, or digital methods, such as hacking into a network to access confidential files. The stolen information can then be sold, used for fraudulent activities, or leveraged for competitive advantage.
 
-An [example of such a data breach](https://breachsense.com/blog/data-breach-examples/) is what happened to Apple, where cyberattackers stole phone prototypes from their production lines and found ways of hacking people’s phones.  
+An [example of such a data breach](https://www.breachsense.com/blog/data-breach-examples/) is what happened to Apple, where cyberattackers stole phone prototypes from their production lines and found ways of hacking people’s phones.  
 
-Effectively dealing with information theft involves a multi-faceted approach, including physical security measures, robust cybersecurity defenses, [a robust data breach response plan](https://breachsense.com/blog/data-breach-response-plan/), and comprehensive employee training on data protection protocols.
+Effectively dealing with information theft involves a multi-faceted approach, including physical security measures, robust cybersecurity defenses, [a robust data breach response plan](https://www.breachsense.com/blog/data-breach-response-plan/), and comprehensive employee training on data protection protocols.
 ### #6. Brute Force Attack 
 A brute force attack is a trial-and-error method used by cybercriminals to test various passwords until they find the ones that work. 
 
 Through this method, the attacker systematically checks all possible combinations until the correct one is found. This attack type can be time-consuming but can be accelerated with the use of bots or powerful computers. 
 
-[Implementing complex passwords](https://breachsense.com/blog/password-security-data-breach/), enabling account lockouts after a certain number of failed attempts, and utilizing MFA can help deter brute force attacks.
+[Implementing complex passwords](https://www.breachsense.com/blog/password-security-data-breach/), enabling account lockouts after a certain number of failed attempts, and utilizing MFA can help deter brute force attacks.
 #7. SQL Injection Attack 
 SQL Injection is a type of cyberattack in which an attacker inserts malicious SQL code into a query. 
 
 The attacker can use a malicious payload to manipulate the database and gain unauthorized access to sensitive information. Meanwhile, this type of data breach can lead to data theft, data corruption, or even a loss of control over the database. 
 
-To prevent SQL Injection attacks, organizations should use parameterized queries, employ web application firewalls, and regularly update and patch their database management systems. Regular audits and penetration testing can also help identify and [fix vulnerabilities](https://breachsense.com/blog/vulnerabilities-cause-data-loss/) before they can be exploited.
+To prevent SQL Injection attacks, organizations should use parameterized queries, employ web application firewalls, and regularly update and patch their database management systems. Regular audits and penetration testing can also help identify and [fix vulnerabilities](https://www.breachsense.com/blog/vulnerabilities-cause-data-loss/) before they can be exploited.
 
-*Learn about [what your company should do after a data breach](https://breachsense.com/blog/after-a-breach/) to timely mitigate the risks and protect your reputation.*
+*Learn about [what your company should do after a data breach](https://www.breachsense.com/blog/after-a-breach/) to timely mitigate the risks and protect your reputation.*
 ## Why Do Data Breaches Happen?
 So now you know more about the most frequent data breach types. But why do they occur in the first place? 
 
-Some of the most [common data breach causes](https://breachsense.com/blog/data-breach-causes/) are:
+Some of the most [common data breach causes](https://www.breachsense.com/blog/data-breach-causes/) are:
 
-* **[Human error](https://breachsense.com/blog/data-breach-human-error/)**: This is among the most common data breach causes and it involves employees falling for phishing scams, misconfigured security settings, or failing to follow established data protection protocols. Even something as simple as leaving a logged-in computer unattended can lead to a data breach. 
-* **[Insider misuse](https://beachsense.io/blog/insider-threat-data-breach/)**: An unauthorized employee deliberately accesses the company’s system for personal gain or convenience. This type of data breach is particularly common in [highly regulated industries, like healthcare](https://breachsense.com/blog/impact-of-data-breach-healthcare/). 
+* **[Human error](https://www.breachsense.com/blog/data-breach-human-error/)**: This is among the most common data breach causes and it involves employees falling for phishing scams, misconfigured security settings, or failing to follow established data protection protocols. Even something as simple as leaving a logged-in computer unattended can lead to a data breach. 
+* **[Insider misuse](https://beachsense.io/blog/insider-threat-data-breach/)**: An unauthorized employee deliberately accesses the company’s system for personal gain or convenience. This type of data breach is particularly common in [highly regulated industries, like healthcare](https://www.breachsense.com/blog/impact-of-data-breach-healthcare/). 
 * **Stolen devices**: Physical theft of thumb drives, hard drives, laptops, tablets, phones, or any other device containing your company’s sensitive information. 
 * **Social engineering**: By using psychological manipulation to trick individuals into breaking normal security procedures or divulging confidential information, cybercriminals gain access to confidential information like passwords and bank information, or gain access to systems or networks for malicious purposes
 * **Unpatched security vulnerabilities**: These refer to identified weaknesses or flaws in a system's software or hardware that have not been addressed or fixed through updates or patches, leaving data open to cyber criminals. These vulnerabilities can be exploited by cybercriminals to gain unauthorized access to a system, enabling them to steal sensitive data, disrupt operations, or install malicious software.
-* **[Third-party breaches](https://breachsense.com/blog/third-party-data-breach/)**: A company's sensitive data is compromised through its relationships with external partners, vendors, or service providers that have access to their systems or data. 
+* **[Third-party breaches](https://www.breachsense.com/blog/third-party-data-breach/)**: A company's sensitive data is compromised through its relationships with external partners, vendors, or service providers that have access to their systems or data. 
 
-*Do you have a small business? Learn about the [consequences a data breach can have on a small business](https://breachsense.com/blog/small-business-data-breach-consequences/) and how to avoid one from happening to you.*
+*Do you have a small business? Learn about the [consequences a data breach can have on a small business](https://www.breachsense.com/blog/small-business-data-breach-consequences/) and how to avoid one from happening to you.*
 ## 8 Common Malware Cyber Attackers Use for Data Breaches
 Malware is an umbrella term for various types of malicious software, such as: 
 
@@ -94,7 +94,7 @@ Malware is an umbrella term for various types of malicious software, such as:
 ## Protect Your Business From Data Breaches
 If protecting your business’ data matters to you, [Breachense](https://www.breachsense.com/) is the answer. 
 
-Breachsense continually monitors your users, employees, and third-party software providers’ credentials and immediately notifies you of leaked or stolen data on the [dark web](https://breachsense.com/dark-web-monitoring/), averting a data breach before it even happens. 
+Breachsense continually monitors your users, employees, and third-party software providers’ credentials and immediately notifies you of leaked or stolen data on the [dark web](https://www.breachsense.com/dark-web-monitoring/), averting a data breach before it even happens. 
 
 Not to mention, its intuitive interface will fit effortlessly into any security tool you’re using. 
 

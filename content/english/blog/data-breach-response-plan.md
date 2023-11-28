@@ -20,7 +20,7 @@ A data breach response plan is a comprehensive strategy that outlines the steps 
 
 The plan should include all the respective procedures for containing the breach, identifying the cause of the breach, assessing the extent of the damage, notifying all affected parties, and implementing measures to prevent similar incidents in the future. 
 
-A data breach response plan is essential for any organization that handles sensitive information, as it can help minimize the [impact of a breach on your business](https://breachsense.com/blog/small-business-data-breach-consequences/) and customers. 
+A data breach response plan is essential for any organization that handles sensitive information, as it can help minimize the [impact of a breach on your business](https://www.breachsense.com/blog/small-business-data-breach-consequences/) and customers. 
 ### 4 Benefits of Having a Data Breach Response Plan In Place
 Having a data breach response plan in place can offer a variety of benefits to your business, including:
 
@@ -29,13 +29,13 @@ Having a data breach response plan in place can offer a variety of benefits to y
 * **Improving Response Time**: [IBM's report](https://www.ibm.com/reports/data-breach) shows that the average time to identify and contain a data breach was 280 days. An incident response plan contains a detailed plan of action for each particular scenario, including measures that employees should take, isolating affected areas, and more. These pre-planned steps will help your organization to minimize its response time to a large extent.
 * **Complying with Regulations**: Many industries are subject to data protection regulations that require businesses to have a data breach response plan in place. As a company, it is your responsibility to take appropriate measures to safeguard personal information from unauthorized access, loss, interference, or misuse.
 
-*Check out these [popular types of data breaches](https://breachsense.com/blog/data-breach-types/) to ensure your data breach response plan is able to protect you from the most common attacks out there.*
+*Check out these [popular types of data breaches](https://www.breachsense.com/blog/data-breach-types/) to ensure your data breach response plan is able to protect you from the most common attacks out there.*
 ## 6 Elements a Data Breach Response Plan Should Cover
 Having a comprehensive response plan in place is a **must** if you want to effectively reduce risks and potential damages from a data breach. 
 
 Here are some elements a data breach response plan must include:
 
-* **Definition of a data breach**: Clearly define what qualifies as a data breach in the context of your business activities to help staff recognize and report potential security and [insider threats](https://breachsense.com/blog/insider-threat-data-breach/).
+* **Definition of a data breach**: Clearly define what qualifies as a data breach in the context of your business activities to help staff recognize and report potential security and [insider threats](https://www.breachsense.com/blog/insider-threat-data-breach/).
 * **Method for evaluating and managing data breaches**: Develop a strategy that outlines the actions your staff and response team need to take in the event of a data breach, including potential containment and remediation strategies, and compliance with legislative or contractual requirements such as the Notifiable Data Breaches (NDB) scheme.
 * **Communications strategy**: To effectively handle a data breach, it's important to have a clear and immediate communication strategy in place. This includes identifying responsible parties, determining when affected individuals must be notified, and establishing criteria for reaching out to external stakeholders.
 * **Roles and responsibilities of staff**: Outline the responsibilities of staff members when a data breach or suspected breach occurs, including who they should inform, the circumstances in which a breach must be escalated to the response team, and who is authorized to make escalation decisions.
@@ -43,7 +43,7 @@ Here are some elements a data breach response plan must include:
 * **Analysis**: Develop a strategy for evaluating the [cause of data breaches](https://www.breachsense.com/blog/data-breach-causes/) and the effectiveness of the response, including addressing weaknesses in data handling, and conducting a post-breach assessment of the response and the data breach response plan.
 ## 6 Steps for Developing a Data Breach Response Plan
 #1. Assess Risks and Vulnerabilities in Your Business Data
-To create an effective data breach response plan, it is fundamental to first identify the risks and potential [vulnerabilities that threaten your business data](https://breachsense.com/blog/vulnerabilities-cause-data-loss/). This requires a thorough assessment of the impact each risk and vulnerability may have on your organization and its operations in the context of a data breach.
+To create an effective data breach response plan, it is fundamental to first identify the risks and potential [vulnerabilities that threaten your business data](https://www.breachsense.com/blog/vulnerabilities-cause-data-loss/). This requires a thorough assessment of the impact each risk and vulnerability may have on your organization and its operations in the context of a data breach.
 
 One area of concern is the risk of irresponsible or unethical employees who may intentionally or accidentally expose login credentials and access tokens to your internal network, or steal and sell valuable intellectual property. 
 
@@ -53,7 +53,7 @@ In addition, it is important to prepare for potential disruptions of service tha
 
 Evaluate the risk of sensitive data falling into the wrong hands, as it can result in identity theft, fraudulent transactions, industrial espionage, or even terrorism.
 
-It is also important to manage the potential loss of reputation that can arise from an incompetent response to a data breach event. This can have long-lasting consequences on your organization's brand and [customer trust](https://breachsense.com/blog/data-breach-trust/). 
+It is also important to manage the potential loss of reputation that can arise from an incompetent response to a data breach event. This can have long-lasting consequences on your organization's brand and [customer trust](https://www.breachsense.com/blog/data-breach-trust/). 
 
 By identifying and addressing these risks, your data breach response plan can be more effective in mitigating the damage caused by a breach event.
 ### #2. Preparation Drills
@@ -79,7 +79,7 @@ There are measures you can take to detect and contain a data breach event while 
 
 These measures include the following:
 
-* [Secure password policies](https://breachsense.com/blog/password-security-data-breach/), role-based segmented access, and multi-factor authentication can be used to mitigate the scale of a data breach.
+* [Secure password policies](https://www.breachsense.com/blog/password-security-data-breach/), role-based segmented access, and multi-factor authentication can be used to mitigate the scale of a data breach.
 * Penetration testing and [monitoring services](https://www.breachsense.com/dark-web-monitoring/) can be used to test and monitor system security, identify potential threats, and quickly respond to a breach.
 * Storage redundancy can be prepared to protect against accidental data loss or deliberate damage, with off-site remote backup services offering the best security.
 * Proper defense practices can be used to handle a [Denial-of-Service attack](https://www.cisa.gov/news-events/news/understanding-denial-service-attacks), while failure policies can be prepared in advance to resume services faster.
