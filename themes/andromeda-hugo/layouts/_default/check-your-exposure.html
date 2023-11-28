@@ -13,7 +13,7 @@
           </div>
           <div class="exposureSearchForm content">
             <input class="form-control shadow-none text-center inputURL" id="domain" type="url" placeholder="Domain Address" required>
-            <form action="/check-your-exposure/" method="GET">
+            <form id="exposureSearchForm">
               <div class="form-group mb-4">
                 <input class="hiddenURL" type="hidden" name="domain">
                 <p class="font-weight-bold invalid-feedback"></p>
@@ -187,13 +187,16 @@
 
 
 <script>
-  let exposureSearchParent = document.querySelector(".exposureSearchParent");
-  let no_data_breach_detected = document.querySelector(".no_data_breach_detected");
-  let data_breach_detected = document.querySelector(".data_breach_detected");
+    let exposureSearchParent = document.querySelector(".exposureSearchParent"); 
+    let no_data_breach_detected = document.querySelector(".no_data_breach_detected");
 
-  queryString = decodeURIComponent(window.location.search);
-  newQueryString = new URLSearchParams(queryString);
-  domain = encodeURI(newQueryString.get('domain'));
+    let data_breach_detected = document.querySelector(".data_breach_detected");
+document.getElementById('exposureSearchForm').addEventListener('submit', function(e) {
+    e.preventDefault(); // Prevent the default form submission
+ 
+
+    let domain = document.getElementById('domain').value;
+    let url = 'https://api.breachsense.com/stats?s=' + encodeURIComponent(domain);
 
   if (domain != 'null') {
     exposureSearchParent.classList.add("loadingState");
@@ -201,12 +204,12 @@
     document.querySelector("#dom").innerHTML = header;
   }
 
-  fetch("https://api.breachsense.io/stats?s=" + domain)
-    .then(function (response) {
-      return response.json();
-    })
-    .then(function (JSON) {
-      if (newQueryString.get('domain') != null || newQueryString.get('domain') != undefined) {
+    fetch(url)
+        .then(function(response) {
+            return response.json();
+        })
+        .then(function(JSON) {
+      if (domain != null || domain != undefined) {
         if (JSON.emp == 0 && JSON.usr == 0) {
           exposureSearchParent.classList.remove("loadingState");
           no_data_breach_detected.classList.remove("d-none");
@@ -223,9 +226,10 @@
       }
       // document.querySelector("#target").innerHTML = tgt;
     })
-    .catch(function (error) {
-      console.log("Error: " + error);
-    });
+        .catch(function(error) {
+            console.error('Error:', error);
+        });
+});
 </script>
 
 {{end}}

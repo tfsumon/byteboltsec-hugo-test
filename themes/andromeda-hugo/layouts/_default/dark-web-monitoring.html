@@ -148,35 +148,6 @@
 </section>
 {{end}}
 {{end}}
-
-{{with .Params.check_my_exposure}}
-{{if .enable}}
-<section class="banner">
-  <div class="container-xxl">
-    <div class="row text-center">
-      <div class="col-12">
-        <div class="block row justify-content-center no-gutters" data-aos="fade-up">
-          <div class="col-lg-10 px-0 px-xl-4">
-            <h2 class="mb-4" data-aos="fade-up">{{.title | markdownify}}</h2>
-	          <div class="content">
-              <form action="/check-your-exposure" method="GET" class="needs-validation" novalidate>
-                <div class="form-group mb-4">
-                  <input class="form-control shadow-none w-50" style="display:block; margin : 0 auto; background-color: #ffffff" id="domain" name="domain" type="domain" placeholder="Domain Name" required>
-                  <p class="font-weight-bold invalid-feedback"></p>
-                  <button class="btn btn-primary w-50 mt-4" type="submit" aria-label="Search">Check My Exposure</button>
-                </div>
-              </form>
-            </div>
-          </div>
-        </div>
-
-        <div class="has-circle"></div>
-      </div>
-    </div>
-  </div>
-</section>
-{{end}}
-{{end}}
 {{end}}
 
 {{with .Params.what_is_dark_web_monitoring}}
