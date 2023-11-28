@@ -96,4 +96,4 @@ Breachsense offers comprehensive and proactive cybersecurity solutions to help b
 
 We can help you avoid data breaches by alerting you in real-time when your user credentials appear in data breaches on the [dark web](https://www.breachsense.com/dark-web-monitoring/), allowing you to proactively reset stolen credentials before hackers can exploit them.
 
-Don’t waste any time - [book a demo](https://www.breachsense.com/book-demo/#book-demo)!
+Don’t waste any time - [book a demo](https://www.breachsense.com/book-demo/)!

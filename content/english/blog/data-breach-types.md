@@ -52,7 +52,7 @@ This can occur through physical means, such as the theft of a laptop or smartpho
 
 An [example of such a data breach](https://breachsense.com/blog/data-breach-examples/) is what happened to Apple, where cyberattackers stole phone prototypes from their production lines and found ways of hacking people’s phones.  
 
-Effectively dealing with information theft involves a multi-faceted approach, including physical security measures, robust cybersecurity defenses, [a robust data breach response plan](https://breachsense.com/blog/data-breach-response-plan), and comprehensive employee training on data protection protocols.
+Effectively dealing with information theft involves a multi-faceted approach, including physical security measures, robust cybersecurity defenses, [a robust data breach response plan](https://breachsense.com/blog/data-breach-response-plan/), and comprehensive employee training on data protection protocols.
 ### #6. Brute Force Attack 
 A brute force attack is a trial-and-error method used by cybercriminals to test various passwords until they find the ones that work. 
 
@@ -77,7 +77,7 @@ Some of the most [common data breach causes](https://breachsense.com/blog/data-b
 * **Stolen devices**: Physical theft of thumb drives, hard drives, laptops, tablets, phones, or any other device containing your company’s sensitive information. 
 * **Social engineering**: By using psychological manipulation to trick individuals into breaking normal security procedures or divulging confidential information, cybercriminals gain access to confidential information like passwords and bank information, or gain access to systems or networks for malicious purposes
 * **Unpatched security vulnerabilities**: These refer to identified weaknesses or flaws in a system's software or hardware that have not been addressed or fixed through updates or patches, leaving data open to cyber criminals. These vulnerabilities can be exploited by cybercriminals to gain unauthorized access to a system, enabling them to steal sensitive data, disrupt operations, or install malicious software.
-* **[Third-party breaches](https://breachsense.com/blog/third-party-data-breach)**: A company's sensitive data is compromised through its relationships with external partners, vendors, or service providers that have access to their systems or data. 
+* **[Third-party breaches](https://breachsense.com/blog/third-party-data-breach/)**: A company's sensitive data is compromised through its relationships with external partners, vendors, or service providers that have access to their systems or data. 
 
 *Do you have a small business? Learn about the [consequences a data breach can have on a small business](https://breachsense.com/blog/small-business-data-breach-consequences/) and how to avoid one from happening to you.*
 ## 8 Common Malware Cyber Attackers Use for Data Breaches

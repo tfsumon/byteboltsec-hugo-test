@@ -12,7 +12,7 @@ A recent study reveals that poor password security practices contribute to 61% o
 
 This article will discuss the reasons behind these breaches and provide actionable tips for businesses and organizations to improve password security, ultimately reducing the risk of falling victim to a data breach.
 ## Poor Password Management is a Leading Cause of Data Breaches
-One of the primary [reasons for data breaches](https://www.breachsense.com/blog/data-breach-causes) is poor password management. 
+One of the primary [reasons for data breaches](https://www.breachsense.com/blog/data-breach-causes/) is poor password management. 
 
 Several factors contribute to this issue, which can lead to unauthorized access and compromise of sensitive information. 
 

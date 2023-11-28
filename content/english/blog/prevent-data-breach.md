@@ -138,7 +138,7 @@ Understanding the root causes behind a data breach is critical for preventing on
 
 Here are some of the major factors that lead to data breaches:
 
-1. **Weak and Compromised User Credentials**: Weak and stolen credentials are among the most [common causes of data breaches](https://www.breachsense.com/blog/data-breach-causes). To mitigate the risk of weak and stolen credentials, companies should implement strong password policies that require users to create complex passwords and change them frequently. 
+1. **Weak and Compromised User Credentials**: Weak and stolen credentials are among the most [common causes of data breaches](https://www.breachsense.com/blog/data-breach-causes/). To mitigate the risk of weak and stolen credentials, companies should implement strong password policies that require users to create complex passwords and change them frequently. 
 2. **Social Engineering**: Social engineering is a technique used by cybercriminals to manipulate and deceive people into divulging sensitive information or performing actions that may compromise security. 
 3. **Malware**: Malware refers to any software designed to damage, disrupt, or gain unauthorized access to computer systems, networks, and data.
 4. **Third-party Breaches**: A [third-party data breach](https://www.breachsense.com/blog/third-party-data-breach/) happens when an unauthorized individual or a group of cyber attackers gains access to an organization's sensitive data through a third-party vendor or partner.

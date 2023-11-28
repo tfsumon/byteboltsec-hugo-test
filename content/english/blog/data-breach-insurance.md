@@ -58,7 +58,7 @@ In the event of a data breach impacting your company, both insurance categories 
 
 However, only cyber insurance offers legal safeguards - referred to as third-party coverage.
 
-Put simply, data breach insurance addresses expenses directly related to a data breach, such as forgone revenue and credit [monitoring services](https://www.breachsense.com/dark-web-monitoring), while cyber insurance also covers legal costs and potential regulatory penalties.
+Put simply, data breach insurance addresses expenses directly related to a data breach, such as forgone revenue and credit [monitoring services](https://www.breachsense.com/dark-web-monitoring/), while cyber insurance also covers legal costs and potential regulatory penalties.
 
 Data breach insurance additionally protects against losses not involving a computer. 
 

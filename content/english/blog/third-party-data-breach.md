@@ -107,7 +107,7 @@ Terminating a relationship with a vendor may be a difficult decision, particular
 
 Therefore, it is essential to have a contingency plan in place to ensure that the termination of a vendor relationship does not cause any disruption to your organization's operations. This plan should involve finding alternative vendors or in-house solutions to replace the services provided by them.
 ### #8. Implement Strict Password Policies and Multi-Factor Authentication
-According to Verizon Data Breach Investigations, most cyber attacks are a result of passwords that are either weak or have been compromised. Not just that, but the probability of credentials [being exposed on the dark web](https://www.breachsense.com/dark-web-monitoring) increases when the same password is utilized across various accounts.
+According to Verizon Data Breach Investigations, most cyber attacks are a result of passwords that are either weak or have been compromised. Not just that, but the probability of credentials [being exposed on the dark web](https://www.breachsense.com/dark-web-monitoring/) increases when the same password is utilized across various accounts.
 
 Implementing strict password policies and requiring multi-factor authentication (MFA) for vendors accessing your systems is essential if you want to avoid that.
 

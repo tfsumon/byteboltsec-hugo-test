@@ -84,7 +84,7 @@ In the event of a data breach, the consequence on your business can be severe.
 
 Some of the most impactful data breach consequences include:
 ### #1. Financial Losses
-Data breaches can cause serious financial harm to your organization in a variety of ways, including [direct costs associated with responding to the breach](https://breachsense.com/blog/cost-of-a-data-breach) and indirect costs associated with reputational damage, loss of customers, or legal fines.
+Data breaches can cause serious financial harm to your organization in a variety of ways, including [direct costs associated with responding to the breach](https://breachsense.com/blog/cost-of-a-data-breach/) and indirect costs associated with reputational damage, loss of customers, or legal fines.
 
 The “[2022 Cost of a Data Breach Report](https://www.ibm.com/reports/data-breach)” by IBM and the Ponemon Institute found that the typical cost of a data breach has surged to an all-time high of $4.35 million. Nevertheless, many experts anticipate that average costs could exceed $5 million in 2023.
 ### #2. Reputational Damage
