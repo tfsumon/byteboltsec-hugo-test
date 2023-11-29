@@ -98,7 +98,7 @@ testimonials:
 # Check My Exposure
 check_my_exposure:
   enable: true
-  title: "Check My Exposure"
+  title: "Dark Web Scanner"
   button:
     label: "Check My Exposure"
 
