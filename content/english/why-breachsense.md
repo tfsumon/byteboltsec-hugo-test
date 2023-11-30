@@ -24,7 +24,7 @@ prevent_cybercrime2:
 # Potential Effects
 potential_effects:
   enable: true
-  title: "Potential Effects of a Data Breach on Your Organization"
+  title: "Why data breach monitoring matters"
 
   info_list:
   - title: "Loss of Customer Trust."
