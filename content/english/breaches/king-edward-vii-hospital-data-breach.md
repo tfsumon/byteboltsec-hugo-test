@@ -1,17 +1,17 @@
 ---
 date: "2023-11-30"
 discovered: "November 30, 2023"
-title: "Ada-Borup-West School District"
-image: "images/blog/RansomwareBlog.png"
+title: "King Edward VII Hospital"
+image: "images/blog/Akira.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | ada.k12.mn.us      | 
-| Threat Actor      | RansomwareBlog      | 
+| Victim      | kingedwardvii.co.uk      | 
+| Threat Actor      | Akira      | 
 | Date Discovered      | Nov 30, 2023      | 
-| Description      | Ada-Borup-West School District is a school district in Clay County, Minnesota.      | 
+| Description      | King Edward VII Hospital is hospital and health care services providing firm that deals with health care services.      | 
 | Leak Size      | Unknown      | 
 

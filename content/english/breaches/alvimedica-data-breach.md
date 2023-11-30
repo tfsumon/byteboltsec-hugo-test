@@ -1,17 +1,17 @@
 ---
 date: "2023-11-30"
 discovered: "November 30, 2023"
-title: "Ada-Borup-West School District"
-image: "images/blog/RansomwareBlog.png"
+title: "Alvimedica"
+image: "images/blog/Snatch.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | ada.k12.mn.us      | 
-| Threat Actor      | RansomwareBlog      | 
+| Victim      | alvimedica.com      | 
+| Threat Actor      | Snatch      | 
 | Date Discovered      | Nov 30, 2023      | 
-| Description      | Ada-Borup-West School District is a school district in Clay County, Minnesota.      | 
+| Description      | Alvimedica is a manufacturer of coronary stents, balloon catheters, diagnostic and guiding catheters.      | 
 | Leak Size      | Unknown      | 
 

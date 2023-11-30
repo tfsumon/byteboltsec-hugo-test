@@ -1,17 +1,17 @@
 ---
 date: "2023-11-30"
 discovered: "November 30, 2023"
-title: "Ada-Borup-West School District"
-image: "images/blog/RansomwareBlog.png"
+title: "Futura Fundamentsysteme"
+image: "images/blog/Knight.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | ada.k12.mn.us      | 
-| Threat Actor      | RansomwareBlog      | 
+| Victim      | futura-energiesparen.de      | 
+| Threat Actor      | Knight      | 
 | Date Discovered      | Nov 30, 2023      | 
-| Description      | Ada-Borup-West School District is a school district in Clay County, Minnesota.      | 
+| Description      | Futura Fundamentsysteme is the market leader in Germany in the delivery and installation of energy-saving floor panels.      | 
 | Leak Size      | Unknown      | 
 

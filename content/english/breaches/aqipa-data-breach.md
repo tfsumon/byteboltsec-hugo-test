@@ -1,17 +1,17 @@
 ---
 date: "2023-11-30"
 discovered: "November 30, 2023"
-title: "Ada-Borup-West School District"
-image: "images/blog/RansomwareBlog.png"
+title: "Aqipa"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | ada.k12.mn.us      | 
-| Threat Actor      | RansomwareBlog      | 
+| Victim      | aqipa.com      | 
+| Threat Actor      | ALPHV      | 
 | Date Discovered      | Nov 30, 2023      | 
-| Description      | Ada-Borup-West School District is a school district in Clay County, Minnesota.      | 
+| Description      | Aqipa deals with the distribution and marketing of premium accessory products in the consumer electronics sector.      | 
 | Leak Size      | Unknown      | 
 
