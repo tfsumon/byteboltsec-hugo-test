@@ -9,7 +9,7 @@ prevent_cybercrime2:
   enable: true
   title: "Stop Cybercrime Before It Happens"
   content: >-
-    86% of breaches involve the use of stolen usernames & passwords. With the unprecended surge in cybercrime, firewalls, WAFs and EDR solutions are no longer enough. You need access to the same data criminals already know about your business, your clients and your software suppliers before they get exploited. 
+    86% of breaches involve the use of stolen usernames & passwords. With the unprecended surge in cybercrime, firewalls, WAFs and EDR solutions are no longer enough. You need access to the same data criminals already know about your business, your clients and your software suppliers before you get exploited.<br><br>Breachsense delivers actionable insights via our easy to use API driven platform.
 
   prevent_points:
     - title: "Prevent Fraudulent Purchases"
@@ -55,21 +55,6 @@ breachsense_is_for:
   - title: "Incident Response Investigations"
     icon: "las la-exclamation-triangle"
 
-# Prevent Cybercrime
-prevent_cybercrime:
-  enable: true
-  title: "Dark Web Monitoring Helps Prevent Cybercrime"
-  content: >-
-    By detecting data breaches in real time, your security team will be able to react immediately before any damage is done. The moment a breach is detected, you can:
-
-  prevent_points:
-    - title: "Disable Compromised Accounts"
-      icon: "las la-biohazard"
-    - title: "Prevent Fraudulent Purchases"
-      icon: "las la-money-check-alt"
-    - title: "Upgrade Your Security Measures"
-      icon: "las la-angle-double-up"
-
 # testimonials
 testimonials:   
   enable: true
@@ -90,5 +75,21 @@ testimonials:
     name: "Bill Mathews"
     designation: "CTO, Hurricane Labs "
     image: "images/brands/HL.png"
+
+
+# Prevent Cybercrime
+prevent_cybercrime:
+  enable: true
+  title: "Dark Web Monitoring Helps Prevent Cybercrime"
+  content: >-
+    By detecting data breaches in real time, your security team will be able to react immediately before any damage is done. The moment a breach is detected, you can:
+
+  prevent_points:
+    - title: "Disable Compromised Accounts"
+      icon: "las la-biohazard"
+    - title: "Prevent Fraudulent Purchases"
+      icon: "las la-money-check-alt"
+    - title: "Upgrade Your Security Measures"
+      icon: "las la-angle-double-up"
 
 ---
