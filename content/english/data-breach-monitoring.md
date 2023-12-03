@@ -8,7 +8,7 @@ layout: "dark-web-monitoring"
 # Banner
 banner:
   title: "Data Breach Monitoring"
-  content: "Breachsense allows you to monitor data breaches for leaked account credentials, personal staff information, ransomware marketplace listings of sensitive company information, and more. By detecting data breaches in real time, you’ll be able to mitigate the risk and prevent cyberattacks before they happen."
+  content: "Breachsense enables security teams to monitor data breaches for leaked account credentials, session tokens, employee data, sensitive company data leaked from double-extortion ransomware attacks, and more. By detecting data breaches in real time, you can mitigate the risk and prevent cyberattacks before they happen."
   image: "images/BSStats.png"
   book_a_demo_button: true
 
@@ -49,7 +49,7 @@ what_is_dark_web_monitoring:
   enable: true
   title: "What is Data Breach Monitoring"
   content: >-
-    Data breach monitoring is the process of monitoring data breaches for mentions of specific individuals, brands, phone numbers, and other types of sensitive information. With data breaches becoming increasingly common, ongoing monitoring is essential for ensuring the safety of your customers' and employees’ sensitive personal information.
+    Data breach monitoring is the process of monitoring data breaches for sensitve information connected with your brand, including credentials, session tokens, planned attacks and any other type of sensitive data leaked. With data breaches becoming increasingly common, ongoing monitoring is essential for ensuring the safety of your customers' and employees’ sensitive personal information.
 
   prevent_points:
     - title: "Disable Compromised Accounts"
