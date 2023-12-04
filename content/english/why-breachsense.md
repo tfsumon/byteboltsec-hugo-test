@@ -9,7 +9,7 @@ prevent_cybercrime2:
   enable: true
   title: "Stop Cybercrime Before It Happens"
   content: >-
-    86% of breaches involve the use of stolen usernames & passwords. With the unprecended surge in cybercrime, firewalls, WAFs and EDR solutions are no longer enough. You need access to the same data criminals already know about your business, your clients and your software suppliers before you get exploited.<br><br>Breachsense delivers actionable insights via our easy to use API driven platform.
+    86% of breaches involve the use of stolen usernames & passwords. With the unprecended surge in cybercrime, firewalls, WAFs and EDR solutions are no longer enough. You need access to the same data criminals already know about your business, your clients and your software suppliers before you get exploited.<br><br>Breachsense delivers actionable insights via our easy to use API-driven platform.
 
   prevent_points:
     - title: "Prevent Fraudulent Purchases"
