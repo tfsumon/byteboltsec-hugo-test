@@ -49,7 +49,7 @@ what_is_dark_web_monitoring:
   enable: true
   title: "What is Data Breach Monitoring"
   content: >-
-    Data breach monitoring is the process of monitoring data breaches for sensitve information connected with your brand, including credentials, session tokens, planned attacks and any other type of sensitive data leaked. With data breaches becoming increasingly common, ongoing monitoring is essential for ensuring the safety of your customers' and employees’ sensitive personal information.
+    Data breach monitoring is the process of monitoring data breaches for sensitive information connected with your brand, including credentials, session tokens, planned attacks and any other type of sensitive data leaked. With data breaches becoming increasingly common, ongoing monitoring is essential for ensuring the safety of your customers' and employees’ sensitive personal information.
 
   prevent_points:
     - title: "Disable Compromised Accounts"
