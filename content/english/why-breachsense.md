@@ -1,7 +1,7 @@
 ---
-title: "Why Breachsense | Breachsense"
+title: "Why Breachsense - Stop Cyber Crime Before It Happens"
 draft: false
-description: "Breachsense enables you to monitor data breaches and uncover leaked credentials, company data, and more."
+description: "Discover why Breachsense is the best option to monitor for and get alerted when your company’s data has been breached."
 layout: "why-breachsense"
 
 # Prevent Cybercrime

@@ -1,7 +1,7 @@
 ---
-title: "Dark Web Monitoring Solution | Breachsense"
+title: "Dark Web Monitoring - Breachsense - Monitor Dark Web for Leaked Data"
 draft: false
-description: "Breachsense allows you to monitor the dark web and uncover leaked credentials, personal staff information, and more. Learn about it here."
+description: "Discover the best dark web monitoring platform. Monitor dark web for your organization's data breaches. Get alerts if your data is found on the dark web."
 layout: "dark-web-monitoring"
 
 

@@ -1,7 +1,7 @@
 ---
-title: "Data Breach Monitoring Solution | Breachsense"
+title: "Data Breach Monitoring - Breachsense - Get Data Breach Alerts"
 draft: false
-description: "Breachsense allows you to monitor data breaches and uncover leaked credentials, personal staff information, and more. Learn about it here."
+description: "Discover the best data breach monitoring system. Monitor for data breaches in real time and get alerts when your data has been breached."
 layout: "dark-web-monitoring"
 
 
