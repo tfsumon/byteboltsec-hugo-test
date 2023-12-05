@@ -1,9 +1,11 @@
 ---
 title: "Breachesense - Data breach and dark web monitoring tool"
 description: "Use Breachsense to monitor your company's data for breaches in real time. Data breach protection for your organization."
+customClass: "custom-page"
 
 # banner
 banner:
+  h1: "Data breach and dark web monitoring solution"
   title: "Monitor Your Company for Data Breaches in Real Time"
   content: "Protect your organization & staff from data breaches. Breachsense monitors the dark web, private hacker forums, and criminal marketplaces to detect data breaches in real time enabling you to prevent cyber threats before they happen."
   image: "images/BSStats.png"
