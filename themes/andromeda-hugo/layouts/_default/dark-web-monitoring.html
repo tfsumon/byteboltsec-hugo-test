@@ -8,6 +8,7 @@
         <div class="block row justify-content-center no-gutters align-items-center text-center text-lg-left">
           <div class="col-lg-6" data-aos="fade-up">
             <div class="px-0 px-md-5 px-lg-0">
+              <h1 class="mb-4"><font color="#fe6019" size="+1">{{.h1}}</font></h1>
               <h2 class="mb-4">{{.title | markdownify}}</h2>
               <p>{{.content | markdownify}}</p>
               {{if .book_a_demo_button}}
@@ -70,7 +71,7 @@
 
 {{with .Params.detect_dark_web_leakage}}
 {{if .enable}}
-<section class="section">
+<section class="section has-bg">
   <div class="container">
     <div class="row">
       <div class="col-lg-6" data-aos="fade-up">
@@ -80,7 +81,7 @@
         </div>
       </div>
       <div class="col-lg-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
-        {{ partial "images/image" (dict "Src" .image "Alt" .title) }}
+        {{ partial "images/image" (dict "Src" .image "Alt" .alt) }}
       </div>
     </div>
   </div>
@@ -88,38 +89,36 @@
 {{end}}
 {{end}}
 
-{{with .Params.prevent_cybercrime}}
+{{with .Params.potential_effects}}
 {{if .enable}}
-<section class="section has-bg">
+<section class="section">
   <div class="container text-center">
     <div class="row mb-4">
       <div class="col-lg-8 mx-auto" data-aos="fade-up">
-        <h2 class="mb-4">{{.title | markdownify}}</h2>
-        <div class="content">{{.content | markdownify}}</div>
+        <h2 class="mb-4"><a href="{{.ahref}}">{{.title | markdownify}}</a></h2>
       </div>
     </div>
     <div class="row justify-content-center">
-      {{range $i, $e := .prevent_points}}
-      <div class="col-lg-3 col-md-6 col-sm-6" data-aos="fade-up" data-aos-delay="{{mul $i 100}}">
-        <div class="office-loc-item bg-white">
-          <span class="d-block h1 mb-3 pt-2"><i class="{{.icon}}"></i></span>
-          <h3 class="h5">{{.title | markdownify}}</h3>
+      {{range $i, $e := .info_list}}
+      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="{{mul $i 100}}">
+        <div class="office-loc-item py-5 bg-white shadow-none border-primary-light border">
+          <span class="icon-box d-block text-primary mb-4">
+            <i class="{{.icon}}"></i>
+          </span>
+          <h3 class="h4">{{.title | markdownify}}</h3>
+          <div class="content">{{.content | markdownify}}</div>
         </div>
       </div>
       {{end}}
-      <div class="text-center col-12 mt-5" data-aos="fade-up" data-aos-delay="500">
-        {{ partial "components/book-a-demo" }}
-      </div>
     </div>
   </div>
 </section>
 {{end}}
 {{end}}
 
-{{with site.GetPage "/"}}
 {{with .Params.testimonials}}
 {{if .enable}}
-<section class="section testimonials">
+<section class="section has-bg testimonials">
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
@@ -128,7 +127,6 @@
         </div>
       </div>
     </div>
-
     <div class="row justify-content-center align-items-center no-gutters testimonial-carousel">
       {{range .testimonials_quotes}}
       <div class="col-lg-4 col-md-6" data-aos="fade-up">
@@ -146,6 +144,32 @@
     </div>
   </div>
 </section>
+{{end}}
+
+{{ with site.GetPage "/"}}
+{{with .Params.breachsense_is_for}}
+{{if .enable}}
+<section class="section">
+  <div class="container text-center">
+    <div class="row mb-4">
+      <div class="col-lg-8 mx-auto" data-aos="fade-up">
+        <h2 class="mb-4">{{.title | markdownify}}</h2>
+        <div class="content">{{.content | markdownify}}</div>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      {{range $i, $e := .info_list}}
+      <div class="col-lg col-md-4 col-sm-6" data-aos="fade-up" data-aos-delay="{{mul $i 100}}">
+        <div class="office-loc-item bg-white">
+          <span class="d-block h1 mb-3 pt-2"><i class="{{.icon}}"></i></span>
+          <h3 class="h5">{{.title | markdownify}}</h3>
+        </div>
+      </div>
+      {{end}}
+    </div>
+  </div>
+</section>
+{{end}}
 {{end}}
 {{end}}
 
@@ -249,39 +273,9 @@
 {{end}}
 {{end}}
 
-{{ with site.GetPage "/"}}
-{{with .Params.breachsense_is_for}}
-{{if .enable}}
-<section class="section has-bg">
-  <div class="container text-center">
-    <div class="row mb-4">
-      <div class="col-lg-8 mx-auto" data-aos="fade-up">
-        <h2 class="mb-4">{{.title | markdownify}}</h2>
-        <div class="content">{{.content | markdownify}}</div>
-      </div>
-    </div>
-    <div class="row justify-content-center">
-      {{range $i, $e := .info_list}}
-      <div class="col-lg col-md-4 col-sm-6" data-aos="fade-up" data-aos-delay="{{mul $i 100}}">
-        <div class="office-loc-item bg-white">
-          <span class="d-block h1 mb-3 pt-2"><i class="{{.icon}}"></i></span>
-          <h3 class="h5">{{.title | markdownify}}</h3>
-        </div>
-      </div>
-      {{end}}
-      <div class="text-center col-12 mt-5" data-aos="fade-up" data-aos-delay="500">
-        {{ partial "components/book-a-demo" }}
-      </div>
-    </div>
-  </div>
-</section>
-{{end}}
-{{end}}
-{{end}}
-
 {{with .Params.faq}}
 {{if .enable}}
-<section class="section">
+<section class="section has-bg">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-xl-6 col-lg-8 col-md-10">
@@ -307,26 +301,6 @@
   </div>
 </section>
 {{end}}
-{{end}}
-
-{{with .Params.CTA}}
-<section class="call-to-action has-bg-color overflow-hidden">
-  <div class="container position-relative">
-    <div class="row">
-      <div class="col-lg-12">
-        <div class="block">
-          <div class="section-title text-center mb-0" data-aos="fade-up">
-            <h2 class="title underline-none">{{.title | markdownify}}</h2>
-
-            <a class="btn btn-primary" href="#book-a-demo">Book a Demo</a>
-          </div>
-        </div>
-
-        <div class="has-circle has-bg-anim" data-aos="fade-in"></div>
-      </div>
-    </div>
-  </div>
-</section>
 {{end}}
 
 {{ end }}

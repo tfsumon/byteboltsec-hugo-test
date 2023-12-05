@@ -7,8 +7,9 @@ layout: "dark-web-monitoring"
 
 # Banner
 banner:
-  title: "Data Breach Monitoring"
-  content: "Breachsense enables security teams to monitor data breaches for leaked account credentials, session tokens, employee data, sensitive company data leaked from double-extortion ransomware attacks, and more. By detecting data breaches in real time, you can mitigate the risk and prevent cyberattacks before they happen."
+  h1: "Data Breach Monitoring" 
+  title: "Detect data breaches in real-time, mitigate the risk, and stop cyberattacks before they happen with #1 data breach monitoring tool"
+  content: "Breachense helps you monitor data breaches for leaked account credentials, personal staff information, and more, and sends you automatic alerts as soon as it detects a data breach."
   image: "images/BSStats.png"
   book_a_demo_button: true
 
@@ -16,108 +17,83 @@ banner:
 # Detect Dark Web Leakage
 detect_dark_web_leakage:
   enable: true
-  title: "Monitor Data Breaches With Breachsense"
+  title: "How Breachsense Monitors Data Breaches for You"
   image: "images/Dashboard.png"
+  alt: "Data breach monitoring results showing alerts for compromised company data"
   content: >-
-    * Breachsense tracks open, deep, and dark web sources continuously, including Tor websites, private ransomware IRC and Telegram channels, cybercrime communities and forums, and more, ensuring that your security team is notified of the breach the moment it happens.
-    <br/>
+    * Breachsense tracks all layers of the darknet continuously, including Tor websites, private IRC and Telegram channels, ransomware threat actors, cybercrime communities and forums, and more.<br />
 
-    * Get notified whenever there’s a mention of your employees’, customers’, or executive staff’s usernames or passwords on dark web marketplaces.
-    <br/>
+    * Breachsense will notify you whenever it detects your employees’, customers’, or software suppliers’ usernames or passwords as well as any other relevant sensitive data on dark web marketplaces.<br />
 
-    * Detect threats or mentions of your clients, VIP staff, or executive team members and prevent threats before they become incidents.
+    * Detect leaked credentials, session tokens, sensitive company data and planned up & coming attacks related to your organization to prevent attacks before they happen.
 
-
-# Prevent Cybercrime
-prevent_cybercrime:
+# Potential Effects
+potential_effects:
   enable: true
-  title: "Data Breach Monitoring Helps Prevent Cybercrime"
-  content: >-
-    By detecting data breaches in real time, your security team will be able to react immediately before any damage is done. The moment a breach is detected, you can:
-
-  prevent_points:
-    - title: "Disable Compromised Accounts"
-      icon: "las la-biohazard"
-    - title: "Prevent Fraudulent Purchases"
-      icon: "las la-money-check-alt"
-    - title: "Upgrade Your Security Measures"
-      icon: "las la-angle-double-up"
-
-
-# What is Dark Web Monitoring
-what_is_dark_web_monitoring:
-  enable: true
-  title: "What is Data Breach Monitoring"
-  content: >-
-    Data breach monitoring is the process of monitoring data breaches for sensitive information connected with your brand, including credentials, session tokens, planned attacks and any other type of sensitive data leaked. With data breaches becoming increasingly common, ongoing monitoring is essential for ensuring the safety of your customers' and employees’ sensitive personal information.
-
-  prevent_points:
-    - title: "Disable Compromised Accounts"
-      icon: "las la-biohazard"
-    - title: "Prevent Fraudulent Purchases"
-      icon: "las la-money-check-alt"
-    - title: "Upgrade Your Security Measures"
-      icon: "las la-angle-double-up"
-
-
-# Why is Dark Web Monitoring
-why_dark_web_monitoring_important:
-  enable: true
-  title: "Data Breach Monitoring is More Important Than Ever"
-
-  topics:
-  - icon: "las la-building"
-    count_prefix: ""
-    count_number: "45"
-    count_suffix: "%"
-    content: "Of US companies reported a data breach in 2021, according to the Thales Data Threat Report"
-  - icon: "las la-money-bill-wave-alt"
-    count_prefix: "$"
-    count_number: "4.62"
-    count_suffix: " Million"
-    content: "Is the average cost of a data breach, including direct damages, administrative fines, and more (Varonis)."
-  - icon: "las la-users"
-    count_prefix: ""
-    count_number: "65"
-    count_suffix: "%"
-    content: "Of your customers are likely to lose trust in your organization after a data breach (BusinessToday)."
-
-
-# How Does Dark Web Monitoring Work?
-how_dark_web_monitoring_work:
-  enable: true
-  title: "How Does Data Breach Monitoring Work?"
-  content: >-
-    Breachsense continuously tracks millions of online sources, including IRC and Telegram channels, private cybercrime communities, ransomware marketplaces, and more. Your security team is notified the moment there are any mentions of your:
-
+  title: "Why Use Breachsense"
+  ahref: "/why-breachsense/"
+  content: "Find out more"
+  book_a_demo_button: true
   info_list:
-  - title: "Employee or customer account credentials"
-    icon: "las la-user-alt"
-  - title: "Login credentials to your C-level executive accounts"
-    icon: "las la-universal-access"
-  - title: "Credentials for remote access servers like SSH, Remote Desktop, and FTP"
-    icon: "las la-keyboard"
-  - title: "Internal company emails or documents"
-    icon: "las la-file-alt"
-  - title: "Employee corporate or government-issued IDs"
-    icon: "las la-id-card-alt"
+  - title: "Early Data Breach Detection and Response"
+    icon: "las la-exclamation-triangle"
+    content: "Automatically monitor for leaked credentials and other sensitive data. Get notified as soon as a breach is detected."
+  - title: "Easy Integration with Your CTI Toolset"
+    icon: "las la-compress-arrows-alt"
+    content: "Integrate our actionable data within you SOC and SIEM platforms by querying our APIs and consuming the JSON output."
+  - title: "Instant Alerts for Quick Incident Response"
+    icon: "las la-bell"
+    content: "Get instant notifications when sensitive information has been compromised. Prevent criminals from exploiting the exposed data."
 
+# testimonials
+testimonials:   
+  enable: true
+  title: "Boost Your Cyber Security with the #1 Data Breach Monitoring Platform Trusted by Great Companies from All Over the World"
+  
+  testimonials_quotes:
+  - quote: "Our team uses Breachsense data to gain initial access during pen tes
+ting and red team engagements. The API is simple to use and the support is alway
+s helpful and responds quickly."
+    name: "Gordon Maddern"
+    designation: "Technical Director, Red Cursor"
+    image: "images/brands/RC.png"
+
+  - quote: "Our Security Colony platform relies on Breachsense data as part of our dark web monitoring service. The data is continuously updated and high quality. Highly recommend!"
+    name: "Nick Ellsmore"
+    designation: "SVP Professional Services, Trustwave"
+    image: "images/brands/TW.png"
+
+  - quote: "We rely on Breachsense for a lot of data. Their frequent database updates, constant availability, and handling of big and small breaches alike means we are always covered."
+    name: "Bill Mathews"
+    designation: "CTO, Hurricane Labs "
+    image: "images/brands/HL.png"
 
 # faq
 faq:
   enable: true
   title: "Frequently Asked Questions"
   faq_items:
-  - question: "How does data breach monitoring help?"
-    answer: "Data breach monitoring helps you detect data breaches in your organization in real time, notifying you the moment there’s a mention of any sensitive information related to your organization. While you won’t be able to delete these mentions on the dark web, you will be able to apply preventative measures by canceling accounts, changing passwords, and so on, mitigating any potential damage."
+  - question: "What is Data Breach Monitoring?"
+    answer: "Data breach monitoring is the process of monitoring data breaches for mentions of specific individuals, brands, phone numbers, and other types of sensitive information. With data breaches becoming increasingly common, ongoing monitoring is essential for ensuring the safety of your customers' and employees’ sensitive personal information."
 
-  - question: "Is data breach monitoring worth it?"
-    answer: "Data breach monitoring is definitely worth it. Data breaches can be very costly for organizations, both in terms of monetary losses and customer trust. The average cost of a data breach can be up to $4.62 million, while up to 65% of your customers are likely to lose trust in your organization because of a breach. As such, data breach monitoring is essential for protecting your organization, staff, and customers."
+  - question: "How Does Data Breach Monitoring Work?"
+    answer: "Breachsense continuously tracks millions of online sources, including IRC and Telegram channels, private cybercrime communities, ransomware marketplaces, and more. Your security team is notified the moment there are any mentions of your:
 
-  - question: "I found mentions of my staff/clients’ sensitive information in a data breach. What now?"
-    answer: "The moment you detect sensitive information in a data breach, it’s time to act. Start by finding the exposed account credentials and changing passwords. Find the source of the leak, and patch it. Require 2-Factor Authentication to access all company applications to prevent unauthorized access. Train your staff on proper cybersecurity hygiene."
+* Employee or customer account credentials or other sensitive data <br />
+* Login credentials to your C-level executive accounts <br />
+* Credentials for remote access servers like SSH, Remote Desktop, and FTP<br />
+* Internal company emails or documents<br />
+* Employee corporate or government-issued IDs
+"
+
+  - question: "How Data Breach Monitoring Helps Prevent Cybercrime?"
+    answer: "By detecting data breaches in real time, your security team will be able to react immediately before any damage is done. The moment a breach is detected, you can:
+
+* Disable Compromised Accounts<br />
+* Prevent Fraudulent Purchases</br>
+* Upgrade Your Security Measures"
+ 
+  - question: "Is Data Breach the Same as Data Leak?"
+    answer: "It’s true that both terms - \"data breach\" and \"data leak\" - seem as if they referred to the same type of a cyber threat. In reality, however, they do have slightly different meanings. A data breach occurs where a third party gains unauthorized access, often malicious, to compromise sensitive information within a system or network. A data leak, on the other hand, usually means an unauthorized release of confidential data, whether intentional or unintentional by a third party but also an employee of a company."
     
-
-CTA:
-  title: "Prevent Targeted Attacks With Data Breach Monitoring"
 ---

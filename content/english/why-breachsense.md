@@ -31,13 +31,22 @@ what_is_breachsense:
 # How It Works
 how_it_works:
   enable: true
+  image: "images/Dashboard.png"
   title: "How It Works:"
-  bullets:
-    - Breachsense tracks all layers of the darknet continuously, including Tor websites, private IRC and Telegram channels, ransomware threat actors, cybercrime communities and forums, and more. 
-    - The curated data is then enriched with context, hashed passwords are cracked to plaintext and multiple search paths are indexed.
-    - Configure a list of assets you want to be notified about. Assets can be email addresses, domain names, IP addresses or hardware IDs. Notifications are sent via web hook or email.
-    - Query the API endpoints to receive all of the historical data known about a given asset. 
-    - Automate remediation by integrating our API driven platform into your defense framework.
+  content: >-
+    * Breachsense tracks all layers of the darknet continuously, including Tor websites, private IRC and Telegram channels, ransomware threat actors, cybercrime communities and forums, and more.
+    <br/>
+ 
+    * The curated data is then enriched with context, hashed passwords are cracked to plaintext and multiple search paths are indexed.
+    <br/> 
+
+    * Configure a list of assets you want to be notified about. Assets can be email addresses, domain names, IP addresses or hardware IDs. Notifications are sent via web hook or email.
+    <br/> 
+
+    * Query the API endpoints to receive all of the historical data known about a given asset. 
+    <br/> 
+
+    * Automate remediation by integrating our API driven platform into your defense framework.
 
 # Potential Effects
 potential_effects:
