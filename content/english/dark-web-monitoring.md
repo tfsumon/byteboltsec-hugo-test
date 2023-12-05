@@ -75,11 +75,15 @@ faq:
   - question: "How Does Dark Web Monitoring Work?"
     answer: "Breachsense is a dark web monitoring solution that continuously tracks millions of online sources, including IRC and Telegram channels, private cybercrime communities, ransomware marketplaces, and more. Your security team is notified the moment there are any mentions of your:
 
-* Employee or customer account credentials or other sensitive data <br />
-* Login credentials to your C-level executive accounts <br />
-* Credentials for remote access servers like SSH, Remote Desktop, and FTP<br />
-* Internal company emails or documents<br />
-* Employee corporate or government-issued IDs
+  * Employee or customer account credentials or other sensitive data <br />
+
+  * Login credentials to your C-level executive accounts <br />
+
+  * Credentials for remote access servers like SSH, Remote Desktop, and FTP<br />
+
+  * Internal company emails or documents<br />
+
+  * Employee corporate or government-issued IDs
 "
 
   - question: "How Data Breach Monitoring Helps Prevent Cybercrime?"
