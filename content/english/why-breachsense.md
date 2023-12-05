@@ -9,7 +9,14 @@ prevent_cybercrime2:
   enable: true
   title: "Stop Cybercrime Before It Happens"
   content: >-
-    86% of breaches involve the use of stolen usernames & passwords. With the unprecedented surge in cybercrime, firewalls, WAFs and EDR solutions are no longer enough. You need access to the same data criminals already know about your business, your clients and your software suppliers before you get exploited.<br><br>Breachsense delivers actionable insights via our easy to use API-driven platform.
+    FACT: 86% of breaches involve the use of stolen usernames & passwords. With the unprecedented surge in cybercrime, firewalls, WAFs and EDR solutions are no longer enough.<br><br>To protect your business, you need access to the same data criminals already know about your company, your clients and your software suppliers and you need to get it before they can have a chance to exploit it.<br><br>**Breachsense helps you monitor for data breaches in real-time so you can react before any damage is done.**
+
+# Prevent Cybercrime
+what_is_breachsense:
+  enable: true
+  title: "What is Breachsense"
+  content: >-
+    Breachsense monitors and indexes the dark web for leaked credentials, session tokens, company data and planned up & coming attacks. We send you alerts for any relevant leaked data to mitigate the risk before it's exploited. Alternatively, our data is extremely useful in pen testing engagements, incident response investigations, pre-sales presentations and M&A risk assessment processes.<br><br>By detecting data breaches in real time, you can mitigate the risk and prevent cyberattacks before they happen.
 
   prevent_points:
     - title: "Prevent Fraudulent Purchases"
@@ -21,19 +28,30 @@ prevent_cybercrime2:
     - title: "Power Incident Response Investigations"
       icon: "las la-tools"
 
+# How It Works
+how_it_works:
+  enable: true
+  title: "How It Works:"
+  bullets:
+    - Breachsense tracks all layers of the darknet continuously, including Tor websites, private IRC and Telegram channels, ransomware threat actors, cybercrime communities and forums, and more. 
+    - The curated data is then enriched with context, hashed passwords are cracked to plaintext and multiple search paths are indexed.
+    - Configure a list of assets you want to be notified about. Assets can be email addresses, domain names, IP addresses or hardware IDs. Notifications are sent via web hook or email.
+    - Query the API endpoints to receive all of the historical data known about a given asset. 
+    - Automate remediation by integrating our API driven platform into your defense framework.
+
 # Potential Effects
 potential_effects:
   enable: true
-  title: "Why data breach monitoring matters"
+  title: "Why is data breach monitoring so critical?"
 
   info_list:
-  - title: "Loss of Customer Trust."
+  - title: "Avoid Losing Customers' Trust"
     icon: "las la-person-booth"
     content: "A data breach can cause up to 65% of your customers to lose trust in your organization (BusinessToday)."
-  - title: "Significant Financial Losses."
+  - title: "Prevent Significant Financial Loss"
     icon: "las la-money-check"
     content: "The average cost of a data breach is around $4.62 million (Varonis)."
-  - title: "Fines & Fees."
+  - title: "Avoid Fines & Fees"
     icon: "las la-file-invoice-dollar"
     content: "Different regulatory agencies can impose certain fines depending on the reasons for the data breach."
 
@@ -43,6 +61,11 @@ breachsense_is_for:
   enable: true
   title: "Breachsense Is Perfect For"
 
+
+# testimonials
+testimonials:   
+  enable: true
+  title: "Breachsense is Trusted by Great Companies <br/> from All Over the World"
   info_list:
   - title: "Enterprise Security Teams"
     icon: "las la-user-friends"
@@ -54,11 +77,6 @@ breachsense_is_for:
     icon: "las la-user-astronaut"
   - title: "Incident Response Investigations"
     icon: "las la-exclamation-triangle"
-
-# testimonials
-testimonials:   
-  enable: true
-  title: "Trusted by Great Companies <br/> from All Over the World"
   
   testimonials_quotes:
   - quote: "Our team uses Breachsense data to gain initial access during pen testing and red team engagements. The API is simple to use and the support is always helpful and responds quickly."
@@ -75,21 +93,5 @@ testimonials:
     name: "Bill Mathews"
     designation: "CTO, Hurricane Labs "
     image: "images/brands/HL.png"
-
-
-# Prevent Cybercrime
-prevent_cybercrime:
-  enable: true
-  title: "Dark Web Monitoring Helps Prevent Cybercrime"
-  content: >-
-    By detecting data breaches in real time, your security team will be able to react immediately before any damage is done. The moment a breach is detected, you can:
-
-  prevent_points:
-    - title: "Disable Compromised Accounts"
-      icon: "las la-biohazard"
-    - title: "Prevent Fraudulent Purchases"
-      icon: "las la-money-check-alt"
-    - title: "Upgrade Your Security Measures"
-      icon: "las la-angle-double-up"
 
 ---
