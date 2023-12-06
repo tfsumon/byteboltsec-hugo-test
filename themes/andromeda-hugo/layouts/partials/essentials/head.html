@@ -41,7 +41,11 @@
 {{ end }}
 
 <!-- meta description -->
+{{ if and (ne .Section "breaches") ( ne .Params.author "Breachsense Support") }}
 <meta name="description" content="{{ .Params.description | default site.Params.metadata.description }}">
+{{ else if and (eq .Section "breaches") ( eq .Params.author "Breachsense Support") }}
+<mega name="description" content="Learn everything about the {{.Title}} data breach in {{.PublishDate.Format "2006"}}">
+{{ end }}
 
 <!-- meta author -->
 {{ with site.Params.metadata.author }}<meta name="author" content="{{ . }}">{{ end }}
