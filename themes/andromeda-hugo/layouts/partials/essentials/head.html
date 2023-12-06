@@ -1,8 +1,8 @@
 <meta charset="utf-8">
 {{ if and (eq .Section "breaches") ( eq .Params.author "Breachsense Support") }}
-<title>{{.Title}} Data Breach in {{.PublishDate.Format "2006"}} | Report by Breachsense</title>
+<title>{{.Title}} Data Breach in {{.PublishDate.Format "2006"}}</title>
 {{ else if and (eq .Section "breaches") ( ne .Params.author "Breachsense Support") }}
-<title> Latest Data Breaches - {{ now.Month }} {{ .Date.Format "2006" }} | Report by Breachsense</title>
+<title> Latest Data Breaches - {{ now.Month }} {{ .Date.Format "2006" }}</title>
 {{ else }}
 <title>{{.Title | default site.Title}}</title>
 {{ end }}
