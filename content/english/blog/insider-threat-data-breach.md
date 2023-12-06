@@ -1,8 +1,8 @@
 ---
 date: "2023-05-19"
-title: "Insider Threats Cause 60% of Data Breaches [Prevention Guide]"
+title: "How Insider Threats Cause Data Breaches"
 image: "images/blog/Insider Threats Cause 60_ of Data Breaches [Prevention Guide].png"
-description: "Discover the prevalence of insider threat data breaches and learn how to protect your organization with practical tips for prevention."
+description: "Discover how insider threats cause data breaches. Learn how to prevent data breaches through insider threats"
 author: "Breachsense"
 draft: false
 ---
