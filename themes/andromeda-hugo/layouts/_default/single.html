@@ -12,7 +12,7 @@
         {{ if fileExists (add `assets/` .) }}
         {{$img:= resources.Get . }}
 	<p align="center">
-	  <img loading="lazy" decoding="async" class="rounded-lg" src="{{$img.RelPermalink}}" alt="blog-post" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+	<img loading="lazy" decoding="async" class="rounded-lg" src="{{$img.RelPermalink}}" alt="{{ $.Params.title | default "blog-post" }}" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
 	</p>
         {{end}}
         {{end}}
