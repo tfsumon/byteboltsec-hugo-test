@@ -50,7 +50,7 @@ features:
 detect_data_breaches:
   enable: true
   title: "Detect Data Breaches in Real Time With Breachsense"
-  image: "images/Dashboard.png"
+  image: "images/SJSON.png"
   content: >-
     * Track open, deep, and dark web sources such as Tor websites, private ransomware IRC and Telegram channels, criminal forums, and cybercrime marketplaces.
     <br/>
