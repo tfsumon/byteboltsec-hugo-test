@@ -31,7 +31,7 @@ what_is_breachsense:
 # How It Works
 how_it_works:
   enable: true
-  image: "images/Dashboard.png"
+  image: "images/JSON.png"
   title: "How It Works:"
   content: >-
     * Breachsense tracks all layers of the darknet continuously, including Tor websites, private IRC and Telegram channels, ransomware threat actors, cybercrime communities and forums, and more.
