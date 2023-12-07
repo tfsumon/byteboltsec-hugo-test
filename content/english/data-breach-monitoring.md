@@ -51,9 +51,7 @@ testimonials:
   title: "Boost Your Cyber Security with the #1 Data Breach Monitoring Platform Trusted by Great Companies from All Over the World"
   
   testimonials_quotes:
-  - quote: "Our team uses Breachsense data to gain initial access during pen tes
-ting and red team engagements. The API is simple to use and the support is alway
-s helpful and responds quickly."
+  - quote: "Our team uses Breachsense data to gain initial access during pen testing and red team engagements. The API is simple to use and the support is always helpful and responds quickly."
     name: "Gordon Maddern"
     designation: "Technical Director, Red Cursor"
     image: "images/brands/RC.png"
