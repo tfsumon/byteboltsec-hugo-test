@@ -1,17 +1,17 @@
 ---
 date: "2023-12-07"
 discovered: "December 07, 2023"
-title: "FPZ"
-image: "images/blog/LockBit.png"
+title: "Visan"
+image: "images/blog/8BASE.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | fpz.com      | 
-| Threat Actor      | LockBit      | 
+| Victim      | visan.es      | 
+| Threat Actor      | 8BASE      | 
 | Date Discovered      | Dec 07, 2023      | 
-| Description      | FPZ designs and produces fluid handling technologies.      | 
+| Description      | Visan is a food production company that offers pet food and nutrition products.      | 
 | Leak Size      | Unknown      | 
 

@@ -1,17 +1,17 @@
 ---
 date: "2023-12-07"
 discovered: "December 07, 2023"
-title: "FPZ"
-image: "images/blog/LockBit.png"
+title: "Getrix"
+image: "images/blog/Akira.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | fpz.com      | 
-| Threat Actor      | LockBit      | 
+| Victim      | getrix.it      | 
+| Threat Actor      | Akira      | 
 | Date Discovered      | Dec 07, 2023      | 
-| Description      | FPZ designs and produces fluid handling technologies.      | 
-| Leak Size      | Unknown      | 
+| Description      | Getrix is the most used real estate management software in Italy.      | 
+| Leak Size      | 10GB      | 
 

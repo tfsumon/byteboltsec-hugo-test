@@ -1,17 +1,17 @@
 ---
 date: "2023-12-07"
 discovered: "December 07, 2023"
-title: "FPZ"
-image: "images/blog/LockBit.png"
+title: "German Energy Agency (dena)"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | fpz.com      | 
-| Threat Actor      | LockBit      | 
+| Victim      | dena.de      | 
+| Threat Actor      | ALPHV      | 
 | Date Discovered      | Dec 07, 2023      | 
-| Description      | FPZ designs and produces fluid handling technologies.      | 
+| Description      | The German Energy Agency is Germany's centre of expertise for energy efficiency, renewable energy sources and intelligent energy systems.      | 
 | Leak Size      | Unknown      | 
 

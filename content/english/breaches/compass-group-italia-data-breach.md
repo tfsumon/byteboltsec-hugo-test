@@ -1,17 +1,17 @@
 ---
 date: "2023-12-07"
 discovered: "December 07, 2023"
-title: "FPZ"
-image: "images/blog/LockBit.png"
+title: "Compass Group Italia"
+image: "images/blog/Akira.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | fpz.com      | 
-| Threat Actor      | LockBit      | 
+| Victim      | compass-group.it      | 
+| Threat Actor      | Akira      | 
 | Date Discovered      | Dec 07, 2023      | 
-| Description      | FPZ designs and produces fluid handling technologies.      | 
+| Description      | Compass Group Italia operates in the Hospitality industry.      | 
 | Leak Size      | Unknown      | 
 

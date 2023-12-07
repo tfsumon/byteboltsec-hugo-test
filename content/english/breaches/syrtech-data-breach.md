@@ -1,17 +1,17 @@
 ---
 date: "2023-12-07"
 discovered: "December 07, 2023"
-title: "FPZ"
-image: "images/blog/LockBit.png"
+title: "Syrtech"
+image: "images/blog/3AM.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | fpz.com      | 
-| Threat Actor      | LockBit      | 
+| Victim      | syrtech.com      | 
+| Threat Actor      | 3AM      | 
 | Date Discovered      | Dec 07, 2023      | 
-| Description      | FPZ designs and produces fluid handling technologies.      | 
+| Description      | Syrtech Perforating and Roll Forming is a company that provides perforated and roll-formed metal.      | 
 | Leak Size      | Unknown      | 
 
