@@ -21,7 +21,7 @@ detect_dark_web_leakage:
   image: "images/Dashboard.png"
   alt: "Dashboard showing results of monitoring dark web for company data leakage"
   content: >-
-    Breachsense’s dark web monitoring is a service that tracks open, deep, and dark web sources continuously, looking for your organization’s information - your employees’, customers’, and executive staff’s usernames or passwords - on the dark web. When data related to your organization is found, Breachsense notifies your security team instantly enabling you to prevent attacks before they happen.
+    Breachsense’s dark web monitoring service continuously tracks all layers of the dark web looking for any data associated with your organization, such as leaked company data or employees’, customers’, and executive staff’s usernames or passwords. When sensitive data related to your organization is found, Breachsense notifies your security team instantly enabling you to prevent attacks before they occur.<br> <br>According to the Verizon 2023 DBIR, 86% of all breaches involve stolen or weak passwords. Malicious users don't need to break in when they can simply log in. Reduce your risk of ransomware and other serious attacks by resetting leaked passwords before they're exploited.
 
 # Potential Effects
 potential_effects:
