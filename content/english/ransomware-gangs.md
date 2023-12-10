@@ -237,6 +237,7 @@ layout: "elements"
 | <a href="http://t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion/check_payment_form">RRANSOM </a>     | Tor     | OFFLINE     |
 | <a href="http://sekhmet.top">SEKHMET</a>     | Clearnet     | OFFLINE     |
 | <a href="http://lc65fb3wrvox6xlyn4hklwjcojau55diqxxylqs4qsfng23ftzijnxad.onion">SHADOW</a>     | Tor     | ONLINE     |
+| <a href="http://nv5p2mmpctvyqdyyi5zwh4gnifq2uxdx4etvnmaheqlrw6ordrjwxryd.onion">SIEGEDSEC</a>     | Tor     | ONLINE     |
 | <a href="http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion/index.php">SNATCH </a>     | Tor     | ONLINE     |
 | <a href="http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion">SODINOKIBI </a>     | Tor     | OFFLINE     |
 | <a href="http://solidb2jco63vbhx4sfimnqmwhtdjk4jbbgq7a24cmzzkfse4rduxgid.onion">SOLIDBIT </a>     | Tor     | OFFLINE     |
