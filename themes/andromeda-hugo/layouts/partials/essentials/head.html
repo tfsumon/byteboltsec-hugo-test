@@ -2,7 +2,7 @@
 {{ if and (eq .Section "breaches") ( eq .Params.author "Breachsense Support") }}
 <title>{{.Title}} Data Breach in {{.PublishDate.Format "2006"}}</title>
 {{ else if and (eq .Section "breaches") ( ne .Params.author "Breachsense Support") }}
-<title> Discover latest data breaches and most recent data breach incidents in {{ .Date.Format "2006" }}</title>
+<title>Latest Data Breaches and Most Recent Data Breach Incidents</title>
 {{ else }}
 <title>{{.Title | default site.Title}}</title>
 {{ end }}
@@ -44,7 +44,9 @@
 {{ if and (ne .Section "breaches") ( ne .Params.author "Breachsense Support") }}
 <meta name="description" content="{{ .Params.description | default site.Params.metadata.description }}">
 {{ else if and (eq .Section "breaches") ( eq .Params.author "Breachsense Support") }}
-<mega name="description" content="Learn everything about the {{.Title}} data breach in {{.PublishDate.Format "2006"}}">
+<meta name="description" content="Learn everything about the {{.Title}} data breach in {{.PublishDate.Format "2006"}}">
+{{ else if and (eq .Section "breaches") ( ne .Params.author "Breachsense Support") }}
+<meta name="description" content="Discover latest data breaches. See a constantly updated list of recent data breaches and see which companies had a data breach or leak in {{ .Date.Format "2006" }}.">
 {{ end }}
 
 <!-- meta author -->
