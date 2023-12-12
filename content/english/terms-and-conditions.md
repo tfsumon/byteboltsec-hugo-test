@@ -3,7 +3,7 @@ title: "Terms & Conditions"
 date: "2023-06-01"
 layout: "terms-and-conditions"
 draft: false
-description: "Breachsense terms of service"
+description: "Breachsense Terms of Service"
 ---
 **By Using The Service, The User Is Agreeing To Be Bound By This Agreement. If You Are Agreeing To This Agreement On Behalf Of Or For The Benefit Of A Company, Then The User Represents And Warrants That It Has The Necessary Authority To Agree To This Agreement On The Company’s Behalf.**
 
