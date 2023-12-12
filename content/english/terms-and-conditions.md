@@ -3,9 +3,9 @@ title: "Terms & Conditions"
 date: "2023-06-01"
 layout: "terms-and-conditions"
 draft: false
-
-description: "By Using The Service, The User Is Agreeing To Be Bound By This Agreement. If You Are Agreeing To This Agreement On Behalf Of Or For The Benefit Of A Company, Then The User Represents And Warrants That It Has The Necessary Authority To Agree To This Agreement On The Company’s"
+description: "Breachsense terms of service"
 ---
+**By Using The Service, The User Is Agreeing To Be Bound By This Agreement. If You Are Agreeing To This Agreement On Behalf Of Or For The Benefit Of A Company, Then The User Represents And Warrants That It Has The Necessary Authority To Agree To This Agreement On The Company’s Behalf.**
 
 The purpose of this “Terms of Service” is to inform you or the person or entity you represent (“you,” or “your”) of Breachsense's ("our") expectations regarding your use of our data breach search engine (the “Service”).
 The Service is the exclusive property of Breachsense or its licensors and is protected by United States of America and international intellectual property rights.
