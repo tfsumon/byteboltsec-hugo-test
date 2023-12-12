@@ -33,7 +33,7 @@ Want to monitor your company for data breaches? Check out our <a href="https://w
 <section class="section-sm" data-aos="fade-in">
   <div class="container-xxl">
     <div class="row justify-content-center">
-      <h2>{{ now.Month }} {{ .Date.Format "2006" }}</h2>
+      <h2>Data Breaches - {{ now.Month }} {{ .Date.Format "2006" }}</h2>
     </div>
     <div class="row justify-content-center">
       {{ $paginator := .Paginate (where site.RegularPages "Section" "in" site.Params.breachSections) }}
