@@ -7,7 +7,7 @@ draft: false
 who_we_are:
   enable: true
   #subtitle: "Why"
-  title: "Who we are"
+  title: "Prevent Cybercrime"
   description: "<p>Based on the Verizon Data Breach Investigations Report, the overwhelming majority of hacking related breaches involve compromised or weak passwords. We enable companies to reset these stolen credentials before criminals exploit them.<p>
 
 <p>Breachsense was founded in 2018 after spending nearly two decades providing penetration testing and red teaming services to financial and government clients all over the world. Based on the realization that publicly available breached credentials (usernames and passwords) allowed us to penetrate otherwise secured networks, the idea behind Breachsense was born. </p>
