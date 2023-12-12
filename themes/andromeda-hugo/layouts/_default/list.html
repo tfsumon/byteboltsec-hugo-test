@@ -4,6 +4,18 @@
 {{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq .Section "categories") (eq .Section "tags") }}
 {{ partial "components/page-header.html" . }}
 
+{{ if (eq .Section "blog") }}
+<section class="section">
+  <div class="container text-center">
+    <div class="row mb-4">
+      <div class="col-lg-8 mx-auto" data-aos="fade-up">
+        <h1 class="mb-4">The Breachsense Blog</h1>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+
 <section class="section-sm" data-aos="fade-in">
   <div class="container-xxl">
     <div class="row justify-content-center">
