@@ -16,7 +16,7 @@ what_is_breachsense:
   enable: true
   title: "What is Breachsense"
   content: >-
-    Breachsense monitors and indexes the dark web for leaked credentials, session tokens, company data and planned up & coming attacks. We send you alerts for any relevant leaked data to mitigate the risk before it's exploited. Alternatively, our data is extremely useful in pen testing engagements, incident response investigations, pre-sales presentations and M&A risk assessment processes.<br><br>By detecting data breaches in real time, you can mitigate the risk and prevent cyberattacks before they happen. Assess your risk with our <a href="https://www.breachsense.com/check-your-exposure/">dark web scanner</a>.
+    Breachsense monitors and indexes the dark web for leaked credentials, session tokens, company data and planned up & coming attacks. We send you alerts for any relevant leaked data to mitigate the risk before it's exploited. Alternatively, our data is extremely useful in pen testing engagements, incident response investigations, pre-sales presentations and M&A risk assessment processes.<br><br>By detecting data breaches in real time, you can mitigate the risk and prevent cyberattacks before they happen.
 
   prevent_points:
     - title: "Prevent Fraudulent Purchases"
