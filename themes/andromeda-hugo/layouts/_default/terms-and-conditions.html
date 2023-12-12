@@ -8,7 +8,7 @@
       <div class="col-lg-8">
 
         <p class="mb-3 font-weight-600 text-primary">Last Edited : {{.PublishDate.Format "Jan 02, 2006"}}</p>
-        <p class="lead text-uppercase text-black-200 mb-5">{{.Description | markdownify}}</p>
+	<h1>{{.Description | markdownify}}</h1>
 
         <div class="content">
           {{.Content}}
