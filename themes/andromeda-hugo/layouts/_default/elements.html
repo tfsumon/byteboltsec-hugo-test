@@ -6,10 +6,13 @@
     <div class="row">
       <div class="col-12 col-lg-12 mx-auto">
         <div class="content text-center">
-		{{ if (eq .RelPermalink "/ransomware-gangs/") }}
-		<h1>Monitored Ransomware Threat Actors</h1>
-		Last updated: {{ now.Month }} {{ now.Day}}, {{ now.Format "2006" }}<br><br>
-                {{ end }}
+          {{ if (eq .RelPermalink "/ransomware-gangs/") }}
+          <h1>Monitored Ransomware Threat Actors</h1>
+          Last updated: {{ now.Month }} {{ now.Day}}, {{ now.Format "2006" }}<br><br>
+          {{ end }}
+          {{ if (eq .RelPermalink "/documentation/") }}
+          <h1>API Documentation</h1>
+          {{ end }}
           {{.Content}}
         </div>
       </div>
