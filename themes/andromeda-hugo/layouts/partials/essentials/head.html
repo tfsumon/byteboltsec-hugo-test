@@ -2,7 +2,7 @@
 {{ if and (eq .Section "breaches") ( eq .Params.author "Breachsense Support") }}
 <title>{{.Title}} Data Breach in {{.PublishDate.Format "2006"}}</title>
 {{ else if and (eq .Section "breaches") ( ne .Params.author "Breachsense Support") }}
-<title> Latest Data Breaches - {{ now.Month }} {{ .Date.Format "2006" }}</title>
+<title> Discover latest data breaches and most recent data breach incidents in {{ .Date.Format "2006" }}</title>
 {{ else }}
 <title>{{.Title | default site.Title}}</title>
 {{ end }}
