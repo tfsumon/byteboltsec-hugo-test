@@ -1,11 +1,9 @@
 ---
 title: "Ransomware Threat Actors"
-description: "List of ransomware threat actors"
+description: "List of monitored ransomware threat actors"
 draft: false
 layout: "elements"
 ---
-
-### Current list of monitored ransomware threat actors
 
 | Name           | Tor / Clearnet             | Status     |
 | :-----------: | :-------------:     |:-------------:   
