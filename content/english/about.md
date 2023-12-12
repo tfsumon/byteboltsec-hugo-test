@@ -2,6 +2,7 @@
 title: "About"
 layout: "usecases"
 draft: false
+description: "Breachsense stops account takeover, ransomware, fraud and other types of cybercrime."
 
 # who_we_are
 who_we_are:
