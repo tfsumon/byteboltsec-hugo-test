@@ -1,9 +1,11 @@
 ---
 title: "Ransomware Threat Actors"
-description: "List of monitored ransomware threat actors"
+description: "List of ransomware threat actors"
 draft: false
 layout: "elements"
 ---
+
+### Current list of monitored ransomware threat actors
 
 | Name           | Tor / Clearnet             | Status     |
 | :-----------: | :-------------:     |:-------------:   
@@ -158,6 +160,7 @@ layout: "elements"
 | <a href="http://4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion">LV </a>     | Tor     | OFFLINE     |
 | <a href="http://i2gc52bwm2vu2wnohwi3cli7t7hj3y2q7qj3th2bs64h2eej7z5jcgqd.onion">MADCAT RANSOM</a>     | Tor     | ONLINE     |
 | <a href="http://malas2urovbyyavjzaezkt5ohljvyd5lt7vv7mnsgbf2y4bwlh72doqd.onion">MALAS</a>     | Tor     | ONLINE     |
+| <a href="https://malekteam.ac">MALEKTEAM</a>     | Clearnet     | ONLINE     |
 | <a href="http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion">MALLOX</a>     | Tor     | ONLINE     |
 | <a href="http://g5sbltooh2okkcb2.onion">MARKETO </a>     | Tor     | OFFLINE     |
 | <a href="http://jvdamsif53dqjycuozlaye2s47p7xij4x6hzwzwhzrqmv36gkyzohhqd.onion">MARKETO </a>     | Tor     | OFFLINE     |
