@@ -1,7 +1,7 @@
 ---
 date: "2023-12-14"
 discovered: "December 14, 2023"
-title: "Dawsongroup"
+title: "Altezze"
 image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | dawsongroup.co.uk      | 
+| Victim      | altezze.com.mx      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Dec 14, 2023      | 
-| Description      | Dawsongroup is a truck and trailer rental company.      | 
-| Leak Size      | 400GB      | 
+| Description      | Altezze manufactures furniture and home accessories.      | 
+| Leak Size      | 200GB      | 
 

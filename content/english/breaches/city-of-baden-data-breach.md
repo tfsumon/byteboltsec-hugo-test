@@ -1,17 +1,17 @@
 ---
 date: "2023-12-14"
 discovered: "December 14, 2023"
-title: "Dawsongroup"
-image: "images/blog/LockBit.png"
+title: "City of Baden"
+image: "images/blog/DragonForce.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | dawsongroup.co.uk      | 
-| Threat Actor      | LockBit      | 
+| Victim      | baden.ch      | 
+| Threat Actor      | DragonForce      | 
 | Date Discovered      | Dec 14, 2023      | 
-| Description      | Dawsongroup is a truck and trailer rental company.      | 
-| Leak Size      | 400GB      | 
+| Description      | City of Baden is a town and a municipality in Switzerland.      | 
+| Leak Size      | 3.15GB      | 
 

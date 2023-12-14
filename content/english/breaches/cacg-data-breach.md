@@ -1,17 +1,17 @@
 ---
 date: "2023-12-14"
 discovered: "December 14, 2023"
-title: "Dawsongroup"
-image: "images/blog/LockBit.png"
+title: "CACG"
+image: "images/blog/8BASE.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | dawsongroup.co.uk      | 
-| Threat Actor      | LockBit      | 
+| Victim      | cacg.fr      | 
+| Threat Actor      | 8BASE      | 
 | Date Discovered      | Dec 14, 2023      | 
-| Description      | Dawsongroup is a truck and trailer rental company.      | 
-| Leak Size      | 400GB      | 
+| Description      | CACG specialize in the sector of the catchment, treatment and distribution of water.      | 
+| Leak Size      | Unknown      | 
 
