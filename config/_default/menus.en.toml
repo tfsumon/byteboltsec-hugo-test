@@ -28,16 +28,29 @@ hasChildren = true
   url = "data-breach-monitoring/"
   weight = 2
 
-#[[main]]
-#weight = 4
-#name = "Solutions"
-#hasChildren = true
+[[main]]
+weight = 4
+name = "Solutions"
+hasChildren = true
 
-#  [[main]]
-#  parent = "Solutions"
-#  name = "Enterprise Security Teams"
-#  url = "enterprise-security-teams/"
-#  weight = 1
+  [[main]]
+  parent = "Solutions"
+  name = "Enterprise Security Teams"
+  url = "enterprise-security-teams/"
+  weight = 1
+
+  [[main]]
+  parent = "Solutions"
+  name = "Penetration Testing"
+  url = "penetration-testing/"
+  weight = 2
+
+  [[main]]
+  parent = "Solutions"
+  name = "Prevent Ransomware"
+  url = "prevent-ransomware/"
+  weight = 2
+
 
 [[main]]
 name = "Recent Breaches"
