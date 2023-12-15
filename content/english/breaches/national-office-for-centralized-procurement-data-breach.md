@@ -2,7 +2,7 @@
 date: "2023-12-13"
 discovered: "December 13, 2023"
 title: "National Office for Centralized Procurement"
-image: "images/blog/Romania.png"
+image: "images/blog/SiegedSec.png"
 author: "Breachsense Support"
 draft: false
 ---
