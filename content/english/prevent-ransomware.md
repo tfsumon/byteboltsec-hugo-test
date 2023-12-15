@@ -1,7 +1,7 @@
 ---
-title: "Data breach monitoring for enterprise security teams"
+title: "Data breach monitoring for SecOps teams"
 draft: false
-description: "Discover a dedicated data breach monitoring solution for enterprise secops to prevent ransomware attacks."
+description: "Discover a dedicated data breach monitoring solution for SecOps teams to prevent ransomware attacks."
 layout: "penetration-testing"
 
 
