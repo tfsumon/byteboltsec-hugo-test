@@ -19,7 +19,6 @@
       </div>
       <div class="col-lg-8">
         <div class="mb-5">
-          <h1>{{.Title | markdownify}}</h1>
           {{ $publishDate := .PublishDate.Format "Jan 02, 2006" }}
           {{ with site.GetPage (string .Params.Author | urlize | lower) }}
           <div class="d-flex align-items-center card-author mt-4">
@@ -44,7 +43,19 @@
         </div>
 
         <div class="content">
+          {{ if (eq .RelPermalink "/blog/what-is-a-data-breach/") }}
+          <h1 class="mb-4">{{.Params.h1}}</font></h1>
+          <br>
+          <h2 class="mb-4">{{.Params.h2}}</font></h2>
+          {{.Params.intro}}
+          <br><br>
+          <h2>Table of contents:</h2>
+          {{ .TableOfContents }}
           {{.Content}}
+
+          {{ else }}
+          {{.Content}}
+	  {{ end }}
         </div>
 
       </div>

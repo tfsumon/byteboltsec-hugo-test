@@ -1,203 +1,210 @@
 ---
-date: "2023-05-14"
-title: "What Is a Data Breach? All You Need to Know in 2023"
-image: "images/blog/What Is a Data Breach All You Need to Know in 2023.png"
-description: "Are you aware of what a data breach is & how it can harm your business? Learn all about data breaches & how to protect your business in 2023." 
+date: "2023-12-17"
+title: "What is a Data Breach: Definition, Causes, and Data Breach Process"
+description: "Discover what a data breach is. Learn everything to understand the concept of a data breach, how it happens, and how to protect your business from it." 
 author: "Breachsense"
+image: "images/blog/what-is-a-data-breach.png"
+h1: "What is a Data Breach"
+h2: "A data breach is a security incident where an unauthorized party gains access to confidential information and/or sensitive data."
+intro: "Keep on reading to learn more about what a data breach is, how it happens, and what the consequences of data breaches are that your company could face."
 draft: false
 ---
-Data breaches have become an increasingly prevalent issue in recent years, causing significant harm to individuals and businesses alike.
+You know - It wasn’t that long ago when terms like data breach or cyber attack seemed more like a thing from a sci-fi novel or a movie. It’s what happened to those exciting characters as they roamed through the galaxy, not a small business down the road. 
 
-So, what *exactly* is a data breach, and how can you protect your organization from one?
+But so much has changed…
 
-In this article, we define what data breaches are, explain their consequences, and provide practical tips to safeguard your sensitive information in 2023.
+For one, both of these terms are now a part of our everyday lives. Companies, big or small, face having their data accessed by unauthorized parties every day. For many, data breaches have become a serious issue to deal with. Our [recent data breaches](https://www.breachsense.com/breaches/) listing reports new attacks happening almost every day. 
 
-Let’s start! 
-## What Is a Data Breach?
-A data breach occurs when an unauthorized individual accesses, copies, steals or discloses sensitive or confidential data. 
+Our personal data is at risk, too, and we’ve learned to dread words like malware, hackers, cyber crime, or ransomware. 
 
-Data breaches involve the intentional exposure of sensitive information, which is what makes them different from data leaks, where the exposure is accidental.
+And as it happens, many of those either start with or are connected with data breaches. 
 
-Data breaches are most common in industries that are dealing with large amounts of personal data, such as [finance and healthcare](https://www.cshub.com/attacks/articles/top-8-industries-reporting-data-breaches-in-the-first-half-of-2019). 
-## 4 Types of Data Breaches
-With the persistent threat of data breaches affecting organizations of all types and sizes, it is important to understand the different types of [data breaches that could impact your business](https://www.breachsense.com/blog/small-business-data-breach-consequences/). 
+In this guide, I’ll help you understand the concept of a data breach, show you how those breaches typically happen, and discuss what measures you could be taking to prevent them in your business. 
 
-Here are four of the most common [data breach types](https://www.breachsense.com/blog/data-breach-types/): 
-### #1. Double Extortion Ransomware
-Double extortion ransomware is a technique used by threat actors to increase pressure on victims during a ransomware attack. 
+We’ve got quite a lot to cover, so let’s get started. 
 
-Instead of solely encrypting the victim's data and demanding a ransom for its decryption, the attackers also exfiltrate sensitive data and demand a second ransom to prevent its public disclosure or sale. This approach exploits the victim's fear of data exposure, reputational damage, and potential legal consequences. 
+## What is a data breach?
 
-As a result, having backups may not be sufficient to protect against such attacks, since the stolen data can still be used as leverage by the attackers, regardless of whether the encrypted data can be restored. 
-### #2. Phishing
-Phishing is a social engineering attack, where cybercriminals attempt to obtain sensitive information from individuals by disguising themselves as a trustworthy entity, such as a bank, government agency, or reputable company.
+The term - *data breach* - refers to a security incident in which an unauthorized party (typically a hacker or a cyber crime gang) gains access to confidential information or sensitive data. 
 
-Phishing attacks usually take the form of fraudulent emails, text messages, or websites that request users to provide personal or financial information.
+In other words, a data breach occurs when someone is able to access confidential data, typically stored on a computer or server, and extract it (copy or remove it) to use for their nefarious purposes. 
 
-Because this type of [data breach comes from human error](https://www.breachsense.com/blog/data-breach-human-error/) rather than a technological flaw, combatting it is even more difficult.
-### #3. SQL Injection
-SQL Injection, also known as SQLi, is a technique used to attack computer systems that involves inserting malicious SQL code into a backend database to obtain unauthorized access to information.
+And as the word breach might suggest, those criminals usually gain such access by unlawful and criminal means.
 
-If a SQL injection attack is successful, unauthorized parties can gain access to the database and depending on the database type and permissions set, even execute OS commands. 
-### #4. Recording Keystrokes
-Recording keystrokes, also known as [keylogging](https://en.wikipedia.org/wiki/Keystroke_logging), is a technique used by cybercriminals to capture and record every keystroke made on a computer or mobile device.
+*(By the way, we’ll be going through some of those means and processes used in a data breach shortly in this guide.)*
 
-Keyloggers can be implemented as either hardware or software and can be installed on a target device without the user's knowledge or consent. 
+**What sort of data are we talking about here, though?** 
 
-Once installed, the keylogger runs in the background, silently registering all the user’s keystrokes and sending the data to the attacker's command and control server.
-## 5 Data Breach Causes
-Understanding the main causes that can lead to a data breach is the first step in [preventing a data breach](https://www.breachsense.com/blog/prevent-data-breach/) from happening to your organization. 
+Data breaches can relate to any type of information, really. But in general, hackers and cybercriminals target data such as:
 
-Here are some of the most common data breach causes to look out for:
-### #1. Malware
-Malware is a type of software that is designed to cause harm or damage to a computer system, network, or device. 
+- Social Security numbers
+- Bank account numbers
+- Usernames, passwords, and other credentials
+- Customer data records
+- Employee information
+- Intellectual property and trade secrets
+- HIPAA-protected data
+- Business plans and strategies
+- Financial information, and more.
 
-Malware can be introduced to a system through various methods such as phishing emails, software vulnerabilities, or downloads from untrusted websites.
+The purpose of obtaining this data is usually so that hackers could use it for fraudulent activities. These can range from applying for credit cards in the victim’s name, conducting unauthorized transactions, threatening to release sensitive information for ransom, gaining a competitive advantage, and more. 
 
-Once installed, malware can carry out a variety of malicious activities such as stealing sensitive information, damaging files, or controlling the device remotely.
-### #2. Weak or Stolen Credentials
-Weak or stolen credentials refer to the use of easily guessable or compromised login credentials, which can be exploited by cybercriminals.
+However, regardless of the purpose for breaching a company’s data, the consequences of a data breach are beyond severe. 
 
-Weak credentials can be a result of poor password hygiene, such as using simple or easily guessable passwords, reusing passwords across multiple accounts, or failing to update passwords regularly.
+## Typical consequences of a data breach
 
-Stolen credentials, on the other hand, can be obtained through various methods such as phishing attacks, malicious software, social engineering tactics, or by exploiting software vulnerabilities.
-### #3. Social Engineering
-Social engineering refers to manipulating people into divulging confidential information or taking actions that can compromise the security of a computer system, network, or device.
+When the company’s data is breached, it’s not only their security that gets compromised. Most of the time, such companies face losses far beyond what could be measured financially.
 
-It is a form of psychological manipulation that exploits human behavior and emotions to gain access to sensitive data or systems. 
+But financial losses come into play here, too. 
 
-Social engineering attacks can take many forms, including phishing emails, phone calls, or in-person interactions. 
-### #4. Unpatched Security Vulnerabilities
-Unpatched vulnerabilities refer to security flaws in software, hardware, or operating systems that the vendor has identified but has not yet fixed with a patch or a software update.
+For example, according to [this report by IBM](https://www.ibm.com/reports/data-breach), globally, data breaches cost companies $4.45M, on average.
 
-Attackers can exploit unpatched vulnerabilities or zero-day vulnerabilities by using various attack methods such as deploying malware, conducting [brute-force attacks](https://en.wikipedia.org/wiki/Brute-force_attack), or employing [network sniffing](https://www.eccouncil.org/cybersecurity-exchange/ethical-hacking/what-are-sniffing-attacks/) to gain access to vulnerable systems.
+This [data by Statista](https://www.statista.com/statistics/1170520/worldwide-data-breach-fines-settlements/) shows the largest data breach fines in the US as of September 2023. Note the top result. The company got fined close to $1.2 billion with B!
 
-The impact of unpatched vulnerabilities can be significant, as it can create a ripple effect on other systems and networks that are connected to the affected system, leading to broader security concerns.
-### #5. Third-party Breaches
-A [third-party breach](https://www.breachsense.com/blog/third-party-data-breach/) refers to a data breach that occurs due to a security vulnerability of a third-party service provider or vendor that an organization uses to store or process data. 
+![data-breach-cost.png](../data-breach-cost.png)
 
-This type of breach is becoming increasingly common as organizations continue to rely on third-party vendors such as cloud service providers, marketing agencies, or contractors, for various services and functions.
+**However, a data breach results in more than financial losses and fines.** 
 
-Third-party breaches can occur due to a variety of reasons, such as unsecured access points, weak or stolen credentials, unpatched security vulnerabilities, or [malicious insider activity](https://www.breachsense.com/blog/insider-threat-data-breach/). 
-## 5 Consequences of Data Breaches
-In the event of a data breach, the consequence on your business can be severe.
+Following a data breach, most companies suffer:
 
-Some of the most impactful data breach consequences include:
-### #1. Financial Losses
-Data breaches can cause serious financial harm to your organization in a variety of ways, including [direct costs associated with responding to the breach](https://www.breachsense.com/blog/cost-of-a-data-breach/) and indirect costs associated with reputational damage, loss of customers, or legal fines.
+- Reputation damage and a loss of trust among customers. In many cases, such damage becomes almost irreparable. 
+[Fashion retailer Forever21 is a good example here](https://www.securityweek.com/500k-impacted-by-data-breach-at-fashion-retailer-forever-21/). The company’s POS system was targeted with malware, resulting in 500,000 customer accounts' data being stolen, and the company’s brand being forever stained (no pun intended.)
+- Lawsuits, penalties, and fines for failing to protect their customers’ sensitive information
+- Loss of sales and customers. Target reported that the total loss resulting from their [2013 data breach](https://www.nytimes.com/2017/05/23/business/target-security-breach-settlement.html) reached around $202M!
+- Impact on share value for publicly traded companies.
+- Costly disruption to their operations, and more.
 
-The “[2022 Cost of a Data Breach Report](https://www.ibm.com/reports/data-breach)” by IBM and the Ponemon Institute found that the typical cost of a data breach has surged to an all-time high of $4.35 million. Nevertheless, many experts anticipate that average costs could exceed $5 million in 2023.
-### #2. Reputational Damage
-If the company fails to prevent a data breach, especially one that involves sensitive customer information, its reputation can suffer a major blow.
+We need to clarify one more thing about what a data breach is, though…
 
-The reputational damage caused by a data breach can have long-term impacts on your company's bottom line and can be challenging to repair.
+### Not all cyberattacks are data breaches.
 
-Studies indicate that as many as 33% of customers in the retail, finance, and [healthcare industries](https://www.breachsense.com/blog/impact-of-data-breach-healthcare/) may cease doing business with companies that have experienced a breach. 
+Even I’ve been using both terms in this article, although, to my defense, not interchangeably. 
 
-Furthermore, 85% of customers are likely to share their negative experiences with others and about 33.5% will resort to social media to express their displeasure.
-### #3. Legal Repercussions
-Data breaches can also result in severe legal repercussions for companies that fail to adequately protect their customers' personal information. 
+But that said, although data breaches are a form of a cyberattack, not all cyberattacks are data breaches. 
 
-When sensitive data is lost or stolen, companies can face costly lawsuits and regulatory fines, and in some cases, even criminal charges.
+Let me explain. 
 
-The company may face lawsuits from customers affected by a breach seeking damages for any harm they have suffered as a result of it.
+As we’ve discussed already, a data breach occurs when an unauthorized party gains access and compromises sensitive information and confidential data. 
 
-In addition to lawsuits, companies that experience a data breach may also face fines and penalties. Many countries have data protection laws that require companies to take specific steps to protect customer data, such as the EU's General Data Protection Regulation (GDPR). 
-### #4. Loss of Sensitive Data
-Personal data refers to any information that can be used to identify a person, such as a name, password, IP address, credentials, and even biometric or genetic data. 
+And so, when hackers infected Forever 21’s point-of-sale systems with malware to extract customer data as they complete their purchases, they were conducting a data breach. 
 
-Losing this information could have a serious impact on someone's life, such as identity theft, financial fraud, and emotional distress.
+But when hackers try to overwhelm a web server with a DDoS attack, they are not engaging in a data breach. The same applies to such cyberattack techniques as credentials stuffing, brute force attacks, and more. 
 
-Biometric data is especially valuable to cybercriminals and can lead to more severe consequences than merely stolen credit card information or email addresses. 
+In the case of those attacks, the goal for conducting them is not to breach security to compromise data. 
 
-The primary reason for this heightened risk is that, unlike passwords or account numbers, biometric data, such as fingerprints, facial features, or iris patterns, are intrinsic to an individual and cannot be changed. 
+So, how do data breaches happen, then? 
 
-That’s why it's crucial to have a [data breach response plan](https://www.breachsense.com/blog/data-breach-response-plan/) in place to protect data privacy and reduce threats to your organization. 
-### #5. Disruptions to Business Operations
-A data breach can cause a significant amount of chaos and confusion within your organization, which can lead to delays in daily business operations. 
+Well, let’s go through that now. 
 
-If the breach involves sensitive information, there may be a need to shut down entire systems and applications, leading to a loss of productivity and revenue.
+## How data breaches happen typically
 
-The time and resources required to address the breach, identify the root cause, and implement remediation measures can also lead to significant disruptions. 
-## 4 Data Breach Examples
-If a data breach takes place, private and sensitive information could be stolen and exchanged [on the dark web](https://www.breachsense.com/dark-web-monitoring/) or sold to third parties.
+First of all, there is no single way in which a data breach happens. Cybercriminals use many different methods to achieve the objective of a data breach or compromise confidential information. 
 
-Below we will delve into some [examples of the biggest breaches](https://www.breachsense.com/blog/data-breach-examples/) that led to the exposure of millions of users:
-### #1. First American Financial Corp.
-The First American Financial Corp. data breach occurred in May 2019 when a [vulnerability in the company's website exposed sensitive documents](https://www.breachsense.com/blog/vulnerabilities-cause-data-loss/) related to real estate transactions, dating back to 2003.
+So, before we discuss the typical process behind a data breach, let me show you at least some of the most common ways that confidential data might get compromised. 
 
-The breach compromised the personal and financial data of approximately 885 million individuals and was considered one of the largest data breaches in history. 
+**Unintentional data breaches**
 
-The company faced legal action and financial penalties as a result of the breach.
-### #2. Marriott
-The Marriott data breach occurred in 2018 and involved the personal information of approximately 500 million customers.
+Unfortunately, mistakes happen, and sometimes they result in data being breached. Common examples of such innocent mistakes may include an employee mailing or emailing confidential documentation (i.e., medical records, contracts, etc.) to the wrong address. 
 
-The attackers used a type of malware, called a RAT (Remote Access Trojan), to secretly control and monitor a target’s computer. They also used [Mimikatz](https://en.wikipedia.org/wiki/Mimikatz) to find usernames and passwords stored in the system memory. 
+Another example - Leaving an unsecured laptop containing confidential information behind on a subway on the way home, completely by mistake, might result in a data breach, too. 
 
-The incident resulted in several investigations, lawsuits, and regulatory fines. Marriott has since implemented additional security measures to prevent similar breaches in the future.
-### #3. Equifax
-The Equifax data breach was a massive cyberattack that occurred in 2017, where hackers gained unauthorized access to the personal and financial information of over 147 million individuals. 
+And if it sounds improbable, consider this. In 2008, the US Ministry of Defense confirmed that [503 (!!!!) of their laptops went missing](https://www.theguardian.com/politics/2008/jun/12/defence.terrorism) in the decade prior. That’s an average of 53 computers, with potentially highly sensitive information on them, getting lost per year. 
 
-The breach was caused by a vulnerability in [Apache Struts](https://en.wikipedia.org/wiki/Apache_Struts_1) (a web application framework), which Equifax failed to patch despite being alerted to the issue months earlier. 
+Stupidity sometimes plays a role in unintentional data breaches, as well. It’s hard not to laugh at the example below, of course. But at the same time, it’s astonishing when you consider that such situations happen pretty frequently.
 
-The stolen data included names, Social Security numbers, birth dates, and addresses, as well as credit card and driver's license information for some individuals. 
+![data-breach-causes.png](../data-breach-causes.png)
 
-The breach had far-reaching consequences, including multiple investigations and lawsuits, and led to significant changes in the way companies handle and secure personal information.
-### #4. Verifications.io
-In 2019, the marketing email service provider Verifications.io suffered a data breach resulting in the exposure of 763 million email addresses and personal information such as names, phone numbers, and IP addresses. 
+**Insiders - employees and vendors - can deliberately participate in data breaches, too.**
 
-The unprotected database was discovered by security researchers who found that anyone with an internet connection could access the data.
+An angry or disgruntled employee might consciously forward sensitive information like internal company documents or a login and password to a third party. Hackers, then, can easily gain access and complete the data breach. 
 
-It was later revealed that the company had left the database unsecured on a publicly accessible server without any password protection or authentication.
-## How to Prevent Data Breaches
-As data breaches can cause serious reputational and financial damage to your business, it is essential to invest resources and efforts towards preventing them.
+**And finally, there are hackers.**
 
-In the following section, we will examine proven tips that both businesses and employees should take into account in order to safeguard sensitive data.
-### 5 Tips for Businesses
-#### #1. Employee Training
-Many data breaches occur due to human error or negligence, such as falling for phishing scams or using weak passwords. 
+These people perpetrate data breach attacks and intentionally aim to gain access to confidential and sensitive data for the purposes we’ve explained above. 
 
-By providing regular training on data security and privacy, organizations can educate their employees on best practices and keep them up-to-date with the latest threats and countermeasures.
+*NOTE* - When discussing the process for breaching a company’s data, we’ll primarily look at how hackers do it. 
 
-This can help prevent data breaches and minimize the impact of a potential breach. 
+Naturally, it’s impossible to predict how an honest mistake might happen. It’s equally impossible to define how an angry or disgruntled employee might decide to reveal their employer’s sensitive information. 
 
-Training is particularly important for small businesses, which may lack dedicated IT staff and resources to prioritize cybersecurity.
-#### #2. Up-to-Date Software
-Software updates not only offer new features and enhancements but also often include security patches and fixes for known vulnerabilities.
+*But we know how hackers typically plan and conduct those attacks. The process includes three steps, typically.* 
 
-Failing to update software can leave systems vulnerable to attacks that could potentially compromise customer data and lead to significant financial losses. 
+- **The first step is reconnaissance.** Hackers generally don’t pick targets at random. They research companies they want to breach and look for weaknesses they could exploit. This might also include looking for vulnerable staff members who would either give them access for a bribe, or unintentionally assist hackers in the breach via social engineering.
+- **Then comes the actual attack**, which would focus on exploiting whatever vulnerabilities the hacker discovered during their research. This is when the hacker gains access to the company’s systems.
+- Finally, once the hacker gains initial access they pivot until they locate the data they’re planning to steal and conduct the final part of the operation - **extracting said information from the company’s systems.**
 
-Therefore, keeping software up-to-date is an essential step in maintaining strong cybersecurity practices and preventing data breaches.
-#### #3. Implement access controls
-One way to exemplify how strict authorization processes can be effective in reducing data breaches resulting from unauthorized users is through the implementation of different access levels for employees. 
+The reason I’m mentioning this is to help you understand that most data breaches do not happen by chance. They are a result of deliberate planning and execution. 
 
-For instance, a company may establish three employee levels with varying degrees of access to data and resources, and stricter authorization processes for lower employee levels. 
+A big part of the process involves researching and looking for initial access vectors, many of which have nothing to do with vulnerabilities in the company’s systems…
 
-Access controls can be implemented through passwords, two-factor authentication, and other security measures.
-#### #4. Recovery Plan
-Establish a robust disaster recovery plan that outlines clear procedures for mitigating the effects of a data breach. 
+And attackers have quite a number of these methods at their disposal…
 
-This plan should include designated contacts, communication strategies, and specific mitigation measures. 
+### Common methods by which hackers are able to compromise a company’s systems
 
-Ensure that all employees are familiar with the plan, so they can take appropriate actions immediately [after discovering a breach](https://www.breachsense.com/blog/after-a-breach/).
-#### #5. Ongoing Data Breach Monitoring
-Ongoing data breach monitoring is a proactive approach to cybersecurity that involves continuously tracking and scanning various data sources, both public and private, to identify any indications of compromised information. 
-This process can include monitoring the dark web, hacker forums, paste sites, Telegram channels, and various other platforms where stolen data might be sold or shared. 
-### 6 Tips for Employees
+- **Using previously leaked credentials.** Often, previously breached data can appear on the dark web, and hackers can simply purchase it to gain access to their victims.
+- **Social Engineering.** Often, hackers trick people into unwittingly handing over sensitive nformation. A very common example of this is phishing, where hackers send fraudulent messages designed to trick individuals into sharing their personal information or downloading malware onto their computers. 
+Phishing messages often spoof real companies or civil services, making individuals think they are actually handing over their information to a legitimate source.
+- **SQL injection attacks.** In a SQLi attack, hackers inject malicious SQL code into a backend database resulting in access to sensitive data or even escalated privilages like shell access.
+- **Keylogging.** This technique involves installing malicious keylogging software that will record every keystroke a person makes on their keyboard. The data is then sent to the threat actor and can be used to glean information such as user credentials, credit card and bank details, and more.
+- **Weak credentials.** It’s hard to believe it, but it’s true. “123456” is still [the most commonly used password](https://www.cnbc.com/2023/11/16/most-common-passwords-70percent-can-be-cracked-in-less-than-a-second.html) in the world. Naturally, this is an extreme example. That said, hackers often do gain access to data through weak or default credentials.
+- **Security flaws and vulnerabilities.** During the reconnaissance phase, hackers often evaluate the company’s systems for unpatched vulnerabilities in both software and hardware. In some cases, malicious users have a specific exploit and use search engines like shodan to find vulnerable systems.
+- **Third-party breaches.** Finally, a breach might also occur as a result of a vulnerability of a third-party service provider. For example, a web host or email host’s vulnerability might help hackers gain access to their target’s data. Or at least to credentials they can exploit to gain initial access.
 
-1. **Be cautious with emails.** Be cautious when opening emails or attachments from unknown sources. Verify the sender and the content before opening any links or attachments.
-2. **[Use strong passwords](https://www.breachsense.com/blog/password-security-data-breach/).** Create strong passwords and never share them with anyone. Use a password manager to create unique passwords for each account.
-3. **Be mindful of personal information.** Do not disclose personal information to anyone, including over the phone or email, unless you have verified the identity of the person and the legitimacy of the request.
-4. **Be cautious on public Wi-Fi.** Avoid using public Wi-Fi networks to access sensitive information or log into work-related accounts.
-5. **Secure devices.** Always lock your computer or mobile device when not in use, and do not leave them unattended in public places.
-6. **Report any suspicious activity.** If you notice any suspicious activity or suspect a data breach, report it immediately to your IT department or supervisor.
-## Conclusion
-Are you worried about the security of your company's sensitive data? 
+## Can you prevent a data breach?
 
-With cyber-attacks becoming more and more prevalent, it's crucial to have a proactive approach to protect your organization from data breaches.
+I admit, it’s a natural question to ask after having read everything we’ve covered so far. And the answer is yes, but only to some degree. 
 
-With Breachsense, you'll receive real-time alerts whenever your user's credentials appear in data breaches on the dark web, enabling you to quickly reset stolen credentials before hackers can exploit them. 
+I do realize that my answer may suggest a grimmer reality in which data breaches are inevitable, but that’s not what I mean, so let me clarify. 
 
-Plus, the flexible integration means you can seamlessly implement our service into your existing security tools.
+There are steps a company can take to reduce the probability of a data breach happening. But as you’ve seen above, some causes of data breaches - *such as unintentional mistakes* *************or deliberate breaches by disgruntled employees************* - can be beyond anyone’s control. 
 
-Don't wait until it's too late - [book a demo today](https://www.breachsense.com/book-demo/)!
+That said, here are just some of the steps you could take to reduce the risk of a data breach occurring in your business.
+
+### #1. Employee training and technical controls
+
+As you’ve seen already, many breaches come as a result of unintentional errors and mistakes. Even more of them happen as a result of employees not understanding the methods hackers use to social engineer them to install malware or hand over access to the data in other ways. 
+
+While providing regular training on data security and privacy best practices can help, implementing technical controls that cannot be bypassed will have a greater effect. 
+
+### #2. Software and system updates
+
+Here’s something particularly important to remember about software: Even the most secure tool today might turn out to have a vulnerability at some point in the future. Both software developers and hackers regularly monitor vulnerability disclosures and Change Logs, searching for exploitable vulnerabilities. 
+
+This means that any out-of-date software that you use might contain vulnerabilities hackers can exploit to gain access to your data. 
+
+As a result, keeping software up-to-date is an essential step in maintaining strong cybersecurity practices and preventing data breaches.
+
+### #3. Relentless focus on security, even to the point of inconvenience
+
+This is often a controversial point. And certainly one that many employees and users tend to complain about, and I get it. Who wants to be going through hoops just to log in to their company account or email? 
+
+But at the same time, all these checks and authentications provide another barrier for hackers to get through if they want to access your data. 
+
+### #4. Access controls
+
+This approach is a variation of what I mentioned in the previous point. In this case, however, instead of adding authentication steps, you restrict who can access the data. This way, your company greatly limits the number of people with access to different data points, and reduce the potential for mistakes and errors resulting in a data breach. 
+
+In practice, companies should establish multiple employee roles. Each with varying degrees of access to data based on the roles requirements. 
+
+As a general rule, each role should have access to the minimum amount of resources as possible.
+
+### #5. Response and recovery plans
+
+Establish a robust disaster recovery plan that outlines clear procedures for mitigating the effects of a data breach.
+
+This plan should include designated contacts, communication strategies, and specific mitigation measures.
+
+Ensure that all employees are familiar with the plan so they can take appropriate actions immediately [after discovering a breach](https://www.breachsense.com/blog/after-a-breach/).
+
+### #6. Continuously monitor for potential breaches
+
+Last but not least, set up a system to proactively monitor for any potential data breaches. 
+
+With a data breach monitoring system like [Breachsense](https://www.breachsense.com/), you can continuously track and scan various data sources, both public and private, to identify any indicators of compromised information. 
+
+The process is based on monitoring the dark web, hacker forums, paste sites, Telegram channels, and various other platforms where stolen data might be sold or shared and notifying you if your data was found. 
+
+[Learn more about how data breach monitoring works and how it can help you prevent or mitigate cyber attacks](https://www.breachsense.com/data-breach-monitoring/). 
+
+### And that’s it…
+
+That’s everything you need to know to understand what a data breach is, how it happens, and what are the most common causes that could result in your company’s information being breached.
