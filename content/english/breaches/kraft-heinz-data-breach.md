@@ -1,17 +1,17 @@
 ---
 date: "2023-12-18"
 discovered: "December 18, 2023"
-title: "North Carolina Central University"
-image: "images/blog/CL0P.png"
+title: "Kraft Heinz"
+image: "images/blog/Snatch.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | nccu.edu      | 
-| Threat Actor      | CL0P      | 
+| Victim      | kraftheinzcompany.com      | 
+| Threat Actor      | Snatch      | 
 | Date Discovered      | Dec 18, 2023      | 
-| Description      | North Carolina Central University is a liberal arts college for African-American students.      | 
+| Description      | Kraft Heinz was an American food manufacturing and processing conglomerate.      | 
 | Leak Size      | Unknown      | 
 

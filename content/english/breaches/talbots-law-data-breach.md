@@ -1,17 +1,17 @@
 ---
 date: "2023-12-18"
 discovered: "December 18, 2023"
-title: "North Carolina Central University"
-image: "images/blog/CL0P.png"
+title: "Talbots Law"
+image: "images/blog/Cactus.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | nccu.edu      | 
-| Threat Actor      | CL0P      | 
+| Victim      | talbotslaw.co.uk      | 
+| Threat Actor      | Cactus      | 
 | Date Discovered      | Dec 18, 2023      | 
-| Description      | North Carolina Central University is a liberal arts college for African-American students.      | 
+| Description      | Talbots Law is a law firm that specializes in in criminal defence, divorce, employment, personal injury, trust, probate, and family law.      | 
 | Leak Size      | Unknown      | 
 

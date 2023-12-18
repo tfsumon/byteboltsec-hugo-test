@@ -1,17 +1,17 @@
 ---
 date: "2023-12-18"
 discovered: "December 18, 2023"
-title: "North Carolina Central University"
-image: "images/blog/CL0P.png"
+title: "E & J Gallo Winery"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | nccu.edu      | 
-| Threat Actor      | CL0P      | 
+| Victim      | ejgallo.com      | 
+| Threat Actor      | ALPHV      | 
 | Date Discovered      | Dec 18, 2023      | 
-| Description      | North Carolina Central University is a liberal arts college for African-American students.      | 
+| Description      | E&J Gallo Winery is a winery company that produces and distributes wines.      | 
 | Leak Size      | Unknown      | 
 

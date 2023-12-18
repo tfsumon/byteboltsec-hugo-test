@@ -5,8 +5,8 @@ description: "Discover what a data breach is. Learn everything to understand the
 author: "Breachsense"
 image: "images/blog/what-is-a-data-breach.png"
 h1: "What is a Data Breach"
-h2: "A data breach is a security incident where an unauthorized party gains access to confidential information and/or sensitive data."
-intro: "Keep on reading to learn more about what a data breach is, how it happens, and what the consequences of data breaches are that your company could face."
+intro1: "A data breach is a security incident where an unauthorized party gains access to confidential information and/or sensitive data."
+intro2: "Keep on reading to learn more about what a data breach is, how it happens, and what the consequences of data breaches are that your company could face."
 draft: false
 ---
 You know - It wasn’t that long ago when terms like data breach or cyber attack seemed more like a thing from a sci-fi novel or a movie. It’s what happened to those exciting characters as they roamed through the galaxy, not a small business down the road. 

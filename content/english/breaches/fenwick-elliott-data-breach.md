@@ -1,17 +1,17 @@
 ---
 date: "2023-12-18"
 discovered: "December 18, 2023"
-title: "North Carolina Central University"
-image: "images/blog/CL0P.png"
+title: "Fenwick Elliott"
+image: "images/blog/Cactus.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | nccu.edu      | 
-| Threat Actor      | CL0P      | 
+| Victim      | fenwickelliott.com      | 
+| Threat Actor      | Cactus      | 
 | Date Discovered      | Dec 18, 2023      | 
-| Description      | North Carolina Central University is a liberal arts college for African-American students.      | 
+| Description      | Fenwick Elliott is a UK law firm specializing in litigating construction and energy law cases.      | 
 | Leak Size      | Unknown      | 
 

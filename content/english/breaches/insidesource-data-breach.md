@@ -1,17 +1,17 @@
 ---
 date: "2023-12-18"
 discovered: "December 18, 2023"
-title: "North Carolina Central University"
-image: "images/blog/CL0P.png"
+title: "InsideSource"
+image: "images/blog/8BASE.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | nccu.edu      | 
-| Threat Actor      | CL0P      | 
+| Victim      | insidesource.com      | 
+| Threat Actor      | 8BASE      | 
 | Date Discovered      | Dec 18, 2023      | 
-| Description      | North Carolina Central University is a liberal arts college for African-American students.      | 
+| Description      | Insidesource is San Francisco and Silicon Valley's leading provider of new and pre-owned office furniture.      | 
 | Leak Size      | Unknown      | 
 

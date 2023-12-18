@@ -12,7 +12,7 @@
         {{ if fileExists (add `assets/` .) }}
         {{$img:= resources.Get . }}
 	<p align="center">
-	<img loading="lazy" decoding="async" class="rounded-lg" src="{{$img.RelPermalink}}" alt="{{ $.Params.title | default "blog-post" }}" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+	<img loading="lazy" decoding="async" class="rounded-lg" src="{{$img.RelPermalink}}" alt="{{ if $.Params.h1 }}{{$.Params.h1}}{{ else if $.Params.title }}{{$.Params.title}}{{else}}{{print "blog-post"}} {{end}}" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
 	</p>
         {{end}}
         {{end}}
@@ -45,11 +45,9 @@
         <div class="content">
           {{ if (eq .RelPermalink "/blog/what-is-a-data-breach/") }}
           <h1 class="mb-4">{{.Params.h1}}</font></h1>
-          <br>
-          <h2 class="mb-4">{{.Params.h2}}</font></h2>
-          {{.Params.intro}}
-          <br><br>
-          <h2>Table of contents:</h2>
+	  <p> {{.Params.intro1}} </p>
+	  <p> {{.Params.intro2}} </p>
+	  <p> <h2>Table of contents:</h2><p>
           {{ .TableOfContents }}
           {{.Content}}
 
