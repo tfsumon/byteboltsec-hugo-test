@@ -1,7 +1,7 @@
 ---
 date: "2023-08-24"
 discovered: "August 24, 2023"
-title: "Steven H. Heisler "
+title: "Steven H. Heisler"
 image: "images/blog/8BASE.png"
 author: "Breachsense Support"
 draft: false

@@ -1,7 +1,7 @@
 ---
 date: "2023-06-29"
 discovered: "June 29, 2023"
-title: "Jackson "
+title: "Jackson"
 image: "images/blog/CL0P.png"
 author: "Breachsense Support"
 draft: false

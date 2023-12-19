@@ -1,5 +1,5 @@
 ---
-title: "Penetration Testing - Breachsense - Escalate Privileges with Leaked Data"
+title: "Data breach monitoring for penetration testers"
 draft: false
 description: "Escalate privileges during penetration testing and red teaming engagements with plaintext credentials from the darkweb."
 layout: "penetration-testing"

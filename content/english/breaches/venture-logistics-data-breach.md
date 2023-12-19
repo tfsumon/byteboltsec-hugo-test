@@ -1,7 +1,7 @@
 ---
 date: "2023-06-15"
 discovered: "June 15, 2023"
-title: "Venture Logistics "
+title: "Venture Logistics"
 image: "images/blog/BlackSuit.png"
 author: "Breachsense Support"
 draft: false

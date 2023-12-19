@@ -1,7 +1,7 @@
 ---
 date: "2023-09-27"
 discovered: "September 27, 2023"
-title: "Siamese Asset "
+title: "Siamese Asset"
 image: "images/blog/Qilin.png"
 author: "Breachsense Support"
 draft: false

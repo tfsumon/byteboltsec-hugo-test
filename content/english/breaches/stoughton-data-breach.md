@@ -1,7 +1,7 @@
 ---
 date: "2023-06-29"
 discovered: "June 29, 2023"
-title: "Stoughton "
+title: "Stoughton"
 image: "images/blog/Akira.png"
 author: "Breachsense Support"
 draft: false

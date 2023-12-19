@@ -1,7 +1,7 @@
 ---
 date: "2023-12-18"
 discovered: "December 18, 2023"
-title: "Biomatrix "
+title: "Biomatrix"
 image: "images/blog/Medusa.png"
 author: "Breachsense Support"
 draft: false

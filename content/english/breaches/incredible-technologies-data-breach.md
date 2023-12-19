@@ -1,7 +1,7 @@
 ---
 date: "2023-04-11"
 discovered: "April 11, 2023"
-title: "Incredible Technologies "
+title: "Incredible Technologies"
 image: "images/blog/DunghillLeak.png"
 author: "Breachsense Support"
 draft: false

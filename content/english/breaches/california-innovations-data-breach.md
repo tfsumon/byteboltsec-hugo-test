@@ -1,7 +1,7 @@
 ---
 date: "2023-12-08"
 discovered: "December 08, 2023"
-title: "California Innovations "
+title: "California Innovations"
 image: "images/blog/Play.png"
 author: "Breachsense Support"
 draft: false

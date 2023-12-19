@@ -1,7 +1,7 @@
 ---
 date: "2023-07-27"
 discovered: "July 27, 2023"
-title: "Payback "
+title: "Payback"
 image: "images/blog/CL0P.png"
 author: "Breachsense Support"
 draft: false

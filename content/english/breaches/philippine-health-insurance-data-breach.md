@@ -1,7 +1,7 @@
 ---
 date: "2023-09-25"
 discovered: "September 25, 2023"
-title: "Philippine Health Insurance "
+title: "Philippine Health Insurance"
 image: "images/blog/Medusa.png"
 author: "Breachsense Support"
 draft: false

@@ -1,7 +1,7 @@
 ---
 date: "2023-08-21"
 discovered: "August 21, 2023"
-title: "International Civil Defense Organization "
+title: "International Civil Defense Organization"
 image: "images/blog/Medusa.png"
 author: "Breachsense Support"
 draft: false

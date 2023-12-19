@@ -1,7 +1,7 @@
 ---
 date: "2023-06-30"
 discovered: "June 30, 2023"
-title: "Maximum Prime Alimentos Eireli "
+title: "Maximum Prime Alimentos Eireli"
 image: "images/blog/8BASE.png"
 author: "Breachsense Support"
 draft: false

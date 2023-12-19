@@ -1,7 +1,7 @@
 ---
 date: "2023-10-17"
 discovered: "October 17, 2023"
-title: "Bank of Bartlett "
+title: "Bank of Bartlett"
 image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false

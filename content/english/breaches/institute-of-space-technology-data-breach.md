@@ -1,7 +1,7 @@
 ---
 date: "2023-03-07"
 discovered: "March 07, 2023"
-title: "Institute of Space Technology "
+title: "Institute of Space Technology"
 image: "images/blog/Medusa.png"
 author: "Breachsense Support"
 draft: false

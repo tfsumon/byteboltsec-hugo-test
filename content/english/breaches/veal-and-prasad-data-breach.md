@@ -1,7 +1,7 @@
 ---
 date: "2023-05-24"
 discovered: "May 24, 2023"
-title: "Veal and Prasad "
+title: "Veal and Prasad"
 image: "images/blog/8BASE.png"
 author: "Breachsense Support"
 draft: false

@@ -1,7 +1,7 @@
 ---
 date: "2023-05-08"
 discovered: "May 08, 2023"
-title: "Marshall "
+title: "Marshall"
 image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false

@@ -1,7 +1,7 @@
 ---
 Discovered: "December 12, 2022"
 date: "2022-12-12"
-title: "Maney "
+title: "Maney"
 image: "images/blog/Basta.png"
 author: "Breachsense Support"
 draft: false

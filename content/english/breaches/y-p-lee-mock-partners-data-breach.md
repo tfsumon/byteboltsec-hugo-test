@@ -1,7 +1,7 @@
 ---
 date: "2023-03-13"
 discovered: "March 13, 2023"
-title: "Y.P. Lee, Mock & Partners "
+title: "Y.P. Lee, Mock & Partners"
 image: "images/blog/Play.png"
 author: "Breachsense Support"
 draft: false

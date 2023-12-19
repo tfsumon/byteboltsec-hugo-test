@@ -1,7 +1,7 @@
 ---
 date: "2023-07-20"
 discovered: "July 20, 2023"
-title: "Lumberton "
+title: "Lumberton"
 image: "images/blog/Rhysida.png"
 author: "Breachsense Support"
 draft: false

@@ -1,7 +1,7 @@
 ---
 date: "2023-11-24"
 discovered: "November 24, 2023"
-title: "Unidesign Jewellery "
+title: "Unidesign Jewellery"
 image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false

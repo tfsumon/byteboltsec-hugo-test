@@ -1,7 +1,7 @@
 ---
 date: "2023-06-05"
 discovered: "June 05, 2023"
-title: "ELITech Group "
+title: "ELITech Group"
 image: "images/blog/Snatch.png"
 author: "Breachsense Support"
 draft: false
