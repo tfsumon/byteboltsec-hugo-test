@@ -111,6 +111,7 @@ layout: "elements"
 | src      | A URL containing data associated with the target      |
 | site      | The name of the threat actor      |
 | data      | The domain name associated with the victim      |
+| name      | The company name of the victim      |
 | found      | The date the data was indexed (in YYYYMMDD format)      |
 
 ### Test Data :
