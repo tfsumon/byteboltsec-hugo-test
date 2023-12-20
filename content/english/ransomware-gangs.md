@@ -26,7 +26,8 @@ layout: "elements"
 | <a href="https://akiralkzxzq2dsrzsrvbr2xgbbu2wgsmxryd4csgfameg52n7efvr2id.onion/">Akira </a>     | Tor     | ONLINE     |
 | <a href="http://kwvhrdibgmmpkhkidrby4mccwqpds5za6uo2thcw5gz75qncv7rbhyad.onion">AKO</a>     | Tor     | OFFLINE     |
 | <a href="http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion">ALPHV </a>     | Tor     | OFFLINE     |
-| <a href="http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion">ALPHV </a>     | Tor     | ONLINE     |
+| <a href="http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion">ALPHV </a>     | Tor     | OFFLINE     |
+| <a href="http://alphvuzxyxv6ylumd2ngp46xzq3pw6zflomrghvxeuks6kklberrbmyd.onion">ALPHV </a>     | Tor     | ONLINE     |
 | <a href="http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion">ALPHV </a>     | Tor     | ONLINE     |
 | <a href="http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion">ARVIN</a>     | Tor     | OFFLINE     |
 | <a href="http://xxz6hl6wwoa25er62tbjdxda4nxyt5iqziavb73mhda6q6zujsgfoxqd.onion">ARVIN</a>     | Tor     | OFFLINE     |
