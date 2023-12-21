@@ -1,17 +1,17 @@
 ---
 date: "2023-12-21"
 discovered: "December 21, 2023"
-title: "Yakult"
-image: "images/blog/DragonForce.png"
+title: "Room Hotel"
+image: "images/blog/Werewolves.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | yakult.com.au      | 
-| Threat Actor      | DragonForce      | 
+| Victim      | roomhotel-sochi.ru      | 
+| Threat Actor      | Werewolves      | 
 | Date Discovered      | Dec 21, 2023      | 
-| Description      | Yakult produces the highest quality probiotics.      | 
-| Leak Size      | 95.19GB      | 
+| Description      | Room Hotel operates in Hospitality industry.      | 
+| Leak Size      | Unknown      | 
 

@@ -1,17 +1,17 @@
 ---
 date: "2023-12-21"
 discovered: "December 21, 2023"
-title: "Yakult"
-image: "images/blog/DragonForce.png"
+title: "Amaks City Hotel"
+image: "images/blog/Werewolves.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | yakult.com.au      | 
-| Threat Actor      | DragonForce      | 
+| Victim      | krasnoyarsk.amaks      | 
+| Threat Actor      | Werewolves      | 
 | Date Discovered      | Dec 21, 2023      | 
-| Description      | Yakult produces the highest quality probiotics.      | 
-| Leak Size      | 95.19GB      | 
+| Description      | Amaks operates as a hotel in Krasnoyarsk.      | 
+| Leak Size      | Unknown      | 
 

@@ -1,7 +1,7 @@
 ---
 date: "2023-12-21"
 discovered: "December 21, 2023"
-title: "Aurora"
+title: "CROC"
 image: "images/blog/Werewolves.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | avrora24.ru      | 
+| Victim      | croc.ru      | 
 | Threat Actor      | Werewolves      | 
 | Date Discovered      | Dec 21, 2023      | 
-| Description      | The Aurora group of companies is a network of Thrift Stores, Service Centers, Jewelry Stores, and Sales Stores.      | 
+| Description      | CROC is a technology partner with comprehensive expertise in infrastructure building and improvement, IT system implementation, software solutions development, and service support.      | 
 | Leak Size      | Unknown      | 
 

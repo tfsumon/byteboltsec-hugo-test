@@ -1,7 +1,7 @@
 ---
 date: "2023-12-21"
 discovered: "December 21, 2023"
-title: "Yakult"
+title: "Kinetic Leasing"
 image: "images/blog/DragonForce.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | yakult.com.au      | 
+| Victim      | kineticlease.com      | 
 | Threat Actor      | DragonForce      | 
 | Date Discovered      | Dec 21, 2023      | 
-| Description      | Yakult produces the highest quality probiotics.      | 
-| Leak Size      | 95.19GB      | 
+| Description      | Kinetic Leasing is a general equipment financing company with offices in Fargo, North Dakota, and Marshall, Minnesota.      | 
+| Leak Size      | 33.96GB      | 
 
