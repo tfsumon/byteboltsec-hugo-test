@@ -247,7 +247,9 @@ layout: "elements"
 | <a href="http://zj2ex44e2b2xi43m2txk4uwi3l55aglsarre7repw7rkfwpj54j46iqd.onion">SPARTA</a>     | Tor     | OFFLINE     |
 | <a href="http://spookuhvfyxzph54ikjfwf2mwmxt572krpom7reyayrmxbkizbvkpaid.onion/blog">SPOOK DATA</a>     | Tor     | OFFLINE     |
 | <a href="http://3slz4povugieoi3tw7sblxoowxhbzxeju427cffsst5fo2tizepwatid.onion">STORMOUS</a>     | Tor     | OFFLINE     |
-| <a href="http://h3reihqb2y7woqdary2g3bmk3apgtxuyhx4j2ftovbhe3l5svev7bdyd.onion">STORMOUS</a>     | Tor     | ONLINE     |
+| <a href="http://h3reihqb2y7woqdary2g3bmk3apgtxuyhx4j2ftovbhe3l5svev7bdyd.onion">STORMOUS</a>     | Tor     | OFFLINE     |
+| <a href="http://pdcizqzjitsgfcgqeyhuee5u6uki6zy5slzioinlhx6xjnsw25irdgqd.onion">STORMOUS</a>     | Tor     | ONLINE     |
+| <a href="http://ransekgbpijp56bflufgxptwn5hej2rztx423v6sim2zrzz7xetnr2qd.onion">STORMOUS</a>     | Tor     | ONLINE     |
 | <a href="http://chat5sqrnzqewampznybomgn4hf2m53tybkarxk4sfaktwt7oqpkcvyd.onion/gate.php?data=">SUGAR </a>     | Tor     | OFFLINE     |
 | <a href="http://nbzzb6sa6xuura2z.onion">SUNCRYPT </a>     | Tor     | OFFLINE     |
 | <a href="http://x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion">SUNCRYPT </a>     | Tor     | OFFLINE     |
@@ -266,6 +268,7 @@ layout: "elements"
 | <a href="http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion">VICE SOCIETY</a>     | Tor     | ONLINE     |
 | <a href="http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion">VICE SOCIETY</a>     | Tor     | ONLINE     |
 | <a href="http://mrdxtxy6vqeqbmb4rvbvueh2kukb3e3mhu3wdothqn7242gztxyzycid.onion">VSOP </a>     | Tor     | OFFLINE     |
+| <a href="https://werewolves.pro/en/">WEREWOLVES GROUP</a>     | Clearnet     | ONLINE     |
 | <a href="http://nalr2uqsave7y2r235am5jsfiklfjh5h4jc5nztu3rzvmhklwt5j6kid.onion">X001XS</a>     | Tor     | ONLINE     |
 | <a href="http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion">XING LOCKER</a>     | Tor     | OFFLINE     |
 | <a href="http://wj3b2wtj7u2bzup75tzhnso56bin6bnvsxcbwbfcuvzpc4vcixbywlid.onion">XINOF</a>     | Tor     | OFFLINE     |
