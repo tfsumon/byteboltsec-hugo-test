@@ -59,7 +59,7 @@ weight = 5
 
 [[main]]
   name = "Dark Web Scanner"
-  url = "check-your-exposure/"
+  url = "dark-web-scanner/"
   weight = 6
 
 #[[main]]
