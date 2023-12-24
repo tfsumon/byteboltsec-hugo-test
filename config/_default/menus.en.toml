@@ -57,20 +57,20 @@ name = "Recent Breaches"
 url = "breaches/"
 weight = 5
 
+[[main]]
+  name = "Dark Web Scanner"
+  url = "check-your-exposure/"
+  weight = 6
+
 #[[main]]
-#  name = "Dark Web Scanner"
-#  url = "check-your-exposure/"
-#  weight = 6
+#name = "About"
+#url = "about/"
+#weight = 7
 
-[[main]]
-name = "About"
-url = "about/"
-weight = 7
-
-[[main]]
-name = "Blog"
-url = "blog/"
-weight = 8
+#[[main]]
+#name = "Blog"
+#url = "blog/"
+#weight = 8
 
 [[main]]
 weight = 9
@@ -79,21 +79,27 @@ hasChildren = true
 
   [[main]]
   parent = "Resources"
+  name = "About"
+  url = "about/"
+  weight = 1
+
+  [[main]]
+  parent = "Resources"
+  name = "Blog"
+  url = "blog/"
+  weight = 2
+
+  [[main]]
+  parent = "Resources"
   name = "Documentation"
   url = "documentation/"
-  weight = 1
+  weight = 3
   
   [[main]]
   parent = "Resources"
   name = "Ransomware Gangs"
   url = "ransomware-gangs/"
-  weight = 2
-
-#  [[main]]
-#  parent = "Resources"
-#  name = "Company"
-#  url = "about/"
-#  weight = 3
+  weight = 4
 
   [[main]]
   parent = "Resources"
