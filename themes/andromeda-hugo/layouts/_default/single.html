@@ -43,10 +43,12 @@
         </div>
 
         <div class="content">
-          {{ if (eq .RelPermalink "/blog/what-is-a-data-breach/") }}
+          {{ if or (eq .RelPermalink "/blog/what-is-a-data-breach/") (eq .RelPermalink "/blog/equifax-data-breach/")}}
           <h1 class="mb-4">{{.Params.h1}}</font></h1>
-	  <p> {{.Params.intro1}} </p>
-	  <p> {{.Params.intro2}} </p>
+	  <p> {{ .Params.intro1 | markdownify }} </p>
+	  <p> {{ .Params.intro2 | markdownify }} </p>
+	  <p> {{ .Params.intro3 | markdownify }} </p>
+	  <p> {{ .Params.intro4 | markdownify }} </p>
 	  <p> <h2>Table of contents:</h2><p>
           {{ .TableOfContents }}
           {{.Content}}

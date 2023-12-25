@@ -1,48 +1,60 @@
 ---
-date: "2023-05-24"
-title: "Equifax Data Breach - $700+ Million in Losses [Case Study]"
-image: "images/blog/Equifax Data Breach - $700+ Million in Losses [Case Study].png"
-description: "The Equifax data breach case study reveals how the breach occurred, the company's response, and the costs associated with the breach." 
+date: "2023-12-25"
+title: "Equifax Data Breach - a case study in how not to handle a breach"
+image: "images/blog/equifax-case-study.png"
+description: "The Equifax data breach case study covers how the breach occurred, the company's response, and the costs associated with the breach." 
 author: "Breachsense"
+h1: "Equifax data breach:  a case study"
+intro1: "In 2017, Equifax suffered a massive data breach often considered one of the most significant and devastating cybersecurity incidents in history."
+intro2: "As one of the major credit reporting agencies in the United States, Equifax held sensitive information on more than 800 million individuals and 88 million businesses worldwide."
+intro3: "The breach exposed the personal data of over than 40 percent of the population of the United States ( approximately 145 million people). The leaked data included names, birth dates, physical addresses as well as Social Security Numbers. A small subset of victims (around 200,000) had their credit card numbers exposed as well."
+intro4: "In this case study, we'll explore how the Equifax data breach happened, the company's response, the [costs associated with the breach](https://www.breachsense.com/blog/cost-of-a-data-breach/), and lessons learned."
 draft: false
 ---
-The 2017 Equifax data breach is considered one of the most significant and devastating cybersecurity incidents in history. 
-
-As one of the major credit reporting agencies in the United States, Equifax held sensitive information on more than 800 million individuals and 88 million businesses worldwide. 
-
-The breach exposed the personal data of approximately 147 million people, including Social Security Numbers, birth dates, and addresses. 
-
-In this case study, we will explore how the Equifax data breach occurred, the company's response, the [costs associated with the breach](https://www.breachsense.com/blog/cost-of-a-data-breach/), and lessons learned from this major cybersecurity failure.
 ## How Did the Equifax Data Breach Happen?
-The Equifax [data breach was caused](https://www.breachsense.com/blog/data-breach-causes/) by exploiting a known vulnerability in the Apache Struts web application framework, which the company had not patched in a timely manner. 
+Based on a [report](https://www.warren.senate.gov/imo/media/doc/2018.09.06%20GAO%20Equifax%20report.pdf) from the U.S. General Accounting office, the Equifax [data breach was caused](https://www.breachsense.com/blog/data-breach-causes/) by a combination of a number of issues. On March 10, 2017, initial access to their network was gained by exploiting the [CVE-2017-5638](https://nvd.nist.gov/vuln/detail/CVE-2017-5638) vulnerability on their online dispute portal. This flaw let malicious users send code within a specially crafted HTTP *content-type* header which was subsequently executed on the Apache Struts server. Although a patch existed for this vulnerability it was not applied in time.
 
-Once the attackers gained access to Equifax's systems, they were able to navigate the network and locate sensitive data. 
+On May 13, 2017, the attackers pivoted to other servers within the network due to a lack of proper network segmentation. Once on the other machines, the attackers found plaintext credentials which gave them access to even more servers.
 
-Over a period of more than two months, the cybercriminals exfiltrated massive amounts of personal information, undetected by the company's security measures.
-## Equifax's Response to the Data Breach
-Equifax's [response to the breach](https://www.breachsense.com/blog/data-breach-response-plan/) was widely criticized for several reasons, including delays in public disclosure, inadequate customer support, and offering a poorly-executed credit monitoring service. 
+During the period of May - July 2017, the data theives gained access to multiple databases containing sensitive information on hundreds of millions of people. When exfiltrating data, a very common technique among cybercriminals is to encrypt data in transit in order to make it more difficult for their victim to discover the attack. While Equifax had network monitoring tools in place that were supposed to decrypt, analyze and then re-encrypt the data, the monitoring tools didn't work because of an expired TLS certificate. In other words, because Equifax didn't renew their cert, encrypted traffic wasn't being inspected. As a result, they had zero visibility into the type of data that was leaving their network.
 
-That said, the company took several steps to address the incident and mitigate its effects, such as:
+On July 29, 2017, the expired certificate was renewed, at which point the administrators immediately noticed the suspicious activity. At this point the breach was discovered and an internal investigation was started. On September 8, 2017, more than a month into the investigation, Equifax publicized the breach. During the interim month of August, several Equifax executives sold company stock. This led to suspicions that they sold their stock ahead of an impending price decline due to the breach. In the end, only the (former) [chief information officer was charged with insider trading](https://www.sec.gov/news/press-release/2018-40).
 
-1. Notifying affected customers and offering free credit monitoring and identity theft protection services.
-2. Launching a dedicated website to provide information and updates about the breach.
-3. Collaborating with law enforcement agencies to investigate the breach and track down the perpetrators.
-4. Enhancing cybersecurity measures and investing in the improvement of its security infrastructure.
-5. Implementing executive leadership changes, including the resignation of the CEO, CIO, and CSO.
-## Equifax Data Breach Costs
-1. **Settlements, fines, and legal fees**: Equifax faced more than $700 million in settlements, fines, and legal fees. This included a $575 million settlement with the Federal Trade Commission (FTC), the Consumer Financial Protection Bureau (CFPB), and 50 U.S. states and territories, as well as additional legal expenses related to class-action lawsuits and other litigation.
-2. **Cybersecurity investments**: In the [aftermath of the breach](https://www.breachsense.com/blog/after-a-breach/), Equifax invested significantly in enhancing its cybersecurity infrastructure, implementing advanced threat detection and response tools, and hiring a dedicated cybersecurity team to bolster its security posture and continuously [monitor for data breaches](https://www.breachsense.com).
-3. **Loss of consumer trust and reputational damage**: The breach had a severe impact on Equifax's brand image and [consumer trust](https://www.breachsense.com/blog/data-breach-trust/). The company's stock value dropped, and it took considerable time and effort to rebuild its reputation and regain the confidence of customers and partners.
-4. **Operational costs**: Equifax incurred substantial operational costs related to the breach investigation, remediation efforts, and customer support. This included the costs of setting up dedicated websites, hotlines, and other resources to assist affected customers and provide timely updates on the breach.
-5. **Increased regulatory scrutiny**: [The data breach](https://www.breachsense.com/blog/what-is-a-data-breach/) drew the attention of regulators, leading to increased scrutiny and oversight of the company's security practices. This added to the overall costs of compliance and ongoing reporting requirements.
-6. **Potential future litigation**: The full extent of the financial impact of the Equifax data breach may not be known for years, as there is the possibility of additional lawsuits, settlements, and fines stemming from the incident.
-7. **Insurance costs**: Following the data breach, Equifax's insurance premiums for cybersecurity coverage likely increased, reflecting the heightened risk associated with the company's security practices.
-8. **Lost business opportunities**: The reputational damage and loss of trust may have led to lost business opportunities, as clients and partners reconsidered their relationships with Equifax in light of the breach.
+![Equifax how it happened illustration](../equifax-how-it-happened.png)
 
-Overall, the Equifax data breach demonstrates the extensive financial and reputational consequences that can result from a major cybersecurity incident. 
+## Who attacked Equifax
+Despite the large amount of data stolen, it never leaked onto the darkweb. Another clue is that despite the initial access gained on March 10, 2017, it wasn't until May 13, 2017, over two months later, that the attackers pivoted and started exfiltrating data.
 
-The costs associated with the breach highlight the importance of proactive security measures and prompt incident response to protect customer data and maintain trust in a company's brand.
-## Conclusion
-The Equifax data breach serves as a stark reminder of the importance of robust cybersecurity measures, timely patch management, and effective incident response. 
+Investigators believe that the first attack was carried out by initial access brokers exploiting the recent Struts vulnerability. Eventually they sold their access to more experienced attackers. In what the GAO report referred to as a “separate incident”, a different threat actor gained access to the online dispute portal on May 13, 2017 and used a number of techniques to retrieve the PII residing on other systems and exfiltrated that data.
 
-Companies must learn from Equifax's experience and prioritize data protection to safeguard their customers' sensitive information and maintain trust in their brand.
+On February 10, 2020, the United Stated Department of Justice [charged four members of the Chinese military with the attack](https://www.justice.gov/opa/pr/chinese-military-personnel-charged-computer-fraud-economic-espionage-and-wire-fraud-hacking). Why would the Chinese government be interested in the data? In 2015, the [U.S. Office of Personnel Management](https://en.wikipedia.org/wiki/Office_of_Personnel_Management_data_breach) was hacked leaking over 22.1 million records. In 2018, [ Marriott's Starwood hotel chain](https://www.reuters.com/article/uk-marriott-intnl-cyber-idUKKCN1NZ1AG/) was breached leaking approximately 500 million records as well. In both of these incidents, the highly sensitive data was never sold or traded on the dark web. This led investigators to connect the three breaches. The attacks are assumed to be an attempt by the Chinese government to build a dossier on millions of Americans with the intent to learn about U.S. government officials and intelligence officers. Specifically, the data leaked would shed light on individuals who could be manipulated due to financial trouble or blackmail attempts.
+
+## Equifax's response to the data breach
+Equifax's response to the breach was widely criticized for several reasons. Initially they created a standalone domain titled *equifaxsecurity2017.com*, to host information for the people affected by the breach. The domain name looked very suspicious as it's the same style that's often used in phishing attacks. To make matters worse, Equifax social media accounts pointed users to a domain titled h*securityequifax2017.com* by mistake.
+
+What perhaps outraged people the most was that the original language used on the site required victims to [ waive their lawsuit rights ](https://www.businessinsider.com/equifax-help-site-mandatory-arbitration-clause-waive-right-to-class-action-lawsuit-2017-9)in order to check whether they were affected. This was eventually updated. However, it's certainly a good lesson in how not to respond to an incident.
+
+Eventually a new domain, with yet another confusing name, was created where you can check if you were affected:
+
+[https://eligibility.equifaxbreachsettlement.com/en/Eligibility](https://eligibility.equifaxbreachsettlement.com/en/Eligibility).
+
+FWIW, this website is run by the FTC, not Equifax.
+## Equifax data breach costs
+Equifax had a $125 million cybersecurity insurance policy, with a $7.5 million deductible at the time of the breach. "We have received the maximum reimbursement under the insurance policy of $125 million, all of which was received prior to 2019," they said.
+
+In 2019, Equifax reached a settelment with the FTC. While the breach was entirely preventable, the incident cost them [$1.38 billion](https://www.darkreading.com/cyberattacks-data-breaches/2017-data-breach-will-cost-equifax-at-least-1-38-billion). The agreement reached required Equifax to set aside a minimum of $380.5 million for breach compensation and spend another $1 billion on improving its information security practices. As a direct result of the breach, the CEO, CSO and CIO all parted ways with the company. Then in June 2019, Moody’s downgraded Equifax's financial rating due to the escalating litigation and regulatory costs associated with the breach.
+
+## The Equifax data breach settlement
+The settlement reached offered free credit monitoring or up to $125 cash payment. Claimants who submitted a valid claim for credit monitoring services received an email with information on how to activate credit monitoring services with Experian. Victims were also eligible for at least 7 years of free identity restoration services to help them with the effects of identity theft and fraud.
+
+Victims had the option of claiming out-of-pocket losses (excluding losses of money and time spent freezing or unfreezing credit reports or purchasing credit monitoring or identity theft protection) by providing documentation but depending on the number of claims filed, the amount paid out is normally reduced.
+
+After the breach, U.S. lawmakers passed a law allowing consumers to freeze their credit reports at no cost. Until then, in some states, consumers had to pay for a credit freeze, which restricts access to a person’s credit file. A credit freeze makes it harder for identity thieves to open accounts in someone else’s name which can damage their credit score.
+
+![Equifax settlement website](../equifax-settlement.png)
+## Lessons learned
+- **Focus on the basics**: The breach was successful due to an unpatched vulnerability and an expired security certificate. Despite having both a patching process in place and security tools to detect the data exfiltration, neither were implemented and managed properly.
+- **Segment your network**: The attackers were able to pivot and access additional services due to a lack of network segmentation. By isolating systems you reduce the attack surface making containing a breach significantly easier.
+- **Implement Zero Trust:** Access to sensitive data should only be given to those who need it. By it's very nature, Zero Trust architecture requires aggresive monitoring which not only prevents privilage escalation issues but also enables security teams to identify unusual data access or exfiltration attempts quickly.
+
+
