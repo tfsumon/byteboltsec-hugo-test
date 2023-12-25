@@ -1,24 +1,30 @@
 ---
-date: "2023-12-25"
-title: "Equifax Data Breach - a case study in how not to handle a breach"
+date: "2023-06-25"
+title: "Equifax Data Breach - a case study"
 image: "images/blog/equifax-case-study.png"
 description: "The Equifax data breach case study covers how the breach occurred, the company's response, and the costs associated with the breach." 
 author: "Breachsense"
 h1: "Equifax data breach:  a case study"
 intro1: "In 2017, Equifax suffered a massive data breach often considered one of the most significant and devastating cybersecurity incidents in history."
 intro2: "As one of the major credit reporting agencies in the United States, Equifax held sensitive information on more than 800 million individuals and 88 million businesses worldwide."
-intro3: "The breach exposed the personal data of over than 40 percent of the population of the United States ( approximately 145 million people). The leaked data included names, birth dates, physical addresses as well as Social Security Numbers. A small subset of victims (around 200,000) had their credit card numbers exposed as well."
+intro3: "The breach exposed the personal data of over than 40 percent of the population of the United States (approximately 145 million people). The leaked data included names, birth dates, physical addresses as well as Social Security Numbers. A small subset of victims (around 200,000 people) had their credit card numbers exposed as well."
 intro4: "In this case study, we'll explore how the Equifax data breach happened, the company's response, the [costs associated with the breach](https://www.breachsense.com/blog/cost-of-a-data-breach/), and lessons learned."
 draft: false
 ---
 ## How Did the Equifax Data Breach Happen?
-Based on a [report](https://www.warren.senate.gov/imo/media/doc/2018.09.06%20GAO%20Equifax%20report.pdf) from the U.S. General Accounting office, the Equifax [data breach was caused](https://www.breachsense.com/blog/data-breach-causes/) by a combination of a number of issues. On March 10, 2017, initial access to their network was gained by exploiting the [CVE-2017-5638](https://nvd.nist.gov/vuln/detail/CVE-2017-5638) vulnerability on their online dispute portal. This flaw let malicious users send code within a specially crafted HTTP *content-type* header which was subsequently executed on the Apache Struts server. Although a patch existed for this vulnerability it was not applied in time.
+Based on a [report](https://www.warren.senate.gov/imo/media/doc/2018.09.06%20GAO%20Equifax%20report.pdf) from the U.S. General Accounting office, the Equifax [data breach was caused](https://www.breachsense.com/blog/data-breach-causes/) by a combination of issues. On March 10, 2017, initial access to their network was gained by exploiting the [CVE-2017-5638](https://nvd.nist.gov/vuln/detail/CVE-2017-5638) vulnerability on their online dispute portal. 
+
+This flaw let malicious users send code within a specially crafted HTTP *content-type* header which was subsequently executed on the Apache Struts server. Although a patch existed for this vulnerability it was not applied in time.
 
 On May 13, 2017, the attackers pivoted to other servers within the network due to a lack of proper network segmentation. Once on the other machines, the attackers found plaintext credentials which gave them access to even more servers.
 
-During the period of May - July 2017, the data theives gained access to multiple databases containing sensitive information on hundreds of millions of people. When exfiltrating data, a very common technique among cybercriminals is to encrypt data in transit in order to make it more difficult for their victim to discover the attack. While Equifax had network monitoring tools in place that were supposed to decrypt, analyze and then re-encrypt the data, the monitoring tools didn't work because of an expired TLS certificate. In other words, because Equifax didn't renew their cert, encrypted traffic wasn't being inspected. As a result, they had zero visibility into the type of data that was leaving their network.
+During the period of May - July 2017, the data theives gained access to multiple databases containing sensitive information on hundreds of millions of people. When exfiltrating data, a very common technique among cybercriminals is to encrypt data in transit in order to make it more difficult for their victim to discover the attack. 
 
-On July 29, 2017, the expired certificate was renewed, at which point the administrators immediately noticed the suspicious activity. At this point the breach was discovered and an internal investigation was started. On September 8, 2017, more than a month into the investigation, Equifax publicized the breach. During the interim month of August, several Equifax executives sold company stock. This led to suspicions that they sold their stock ahead of an impending price decline due to the breach. In the end, only the (former) [chief information officer was charged with insider trading](https://www.sec.gov/news/press-release/2018-40).
+While Equifax had network monitoring tools in place that were supposed to decrypt, analyze and then re-encrypt the data, the monitoring tools didn't work because of an expired TLS certificate. In other words, because Equifax didn't renew their cert, encrypted traffic wasn't being inspected. As a result, they had zero visibility into the type of data that was leaving their network.
+
+On July 29, 2017, the expired certificate was renewed, at which point the administrators immediately noticed the suspicious activity. At this point the breach was discovered and an internal investigation was started. On September 8, 2017, more than a month into the investigation, Equifax publicized the breach. 
+
+During the interim month of August, several Equifax executives sold company stock. This led to suspicions that they sold their stock ahead of an impending price decline due to the breach. In the end, only the (former) [chief information officer was charged with insider trading](https://www.sec.gov/news/press-release/2018-40).
 
 ![Equifax how it happened illustration](../equifax-how-it-happened.png)
 
@@ -27,7 +33,9 @@ Despite the large amount of data stolen, it never leaked onto the darkweb. Anoth
 
 Investigators believe that the first attack was carried out by initial access brokers exploiting the recent Struts vulnerability. Eventually they sold their access to more experienced attackers. In what the GAO report referred to as a “separate incident”, a different threat actor gained access to the online dispute portal on May 13, 2017 and used a number of techniques to retrieve the PII residing on other systems and exfiltrated that data.
 
-On February 10, 2020, the United Stated Department of Justice [charged four members of the Chinese military with the attack](https://www.justice.gov/opa/pr/chinese-military-personnel-charged-computer-fraud-economic-espionage-and-wire-fraud-hacking). Why would the Chinese government be interested in the data? In 2015, the [U.S. Office of Personnel Management](https://en.wikipedia.org/wiki/Office_of_Personnel_Management_data_breach) was hacked leaking over 22.1 million records. In 2018, [ Marriott's Starwood hotel chain](https://www.reuters.com/article/uk-marriott-intnl-cyber-idUKKCN1NZ1AG/) was breached leaking approximately 500 million records as well. In both of these incidents, the highly sensitive data was never sold or traded on the dark web. This led investigators to connect the three breaches. The attacks are assumed to be an attempt by the Chinese government to build a dossier on millions of Americans with the intent to learn about U.S. government officials and intelligence officers. Specifically, the data leaked would shed light on individuals who could be manipulated due to financial trouble or blackmail attempts.
+On February 10, 2020, the United Stated Department of Justice [charged four members of the Chinese military with the attack](https://www.justice.gov/opa/pr/chinese-military-personnel-charged-computer-fraud-economic-espionage-and-wire-fraud-hacking). Why would the Chinese government be interested in the data? In 2015, the [U.S. Office of Personnel Management](https://en.wikipedia.org/wiki/Office_of_Personnel_Management_data_breach) was hacked leaking over 22.1 million records. In 2018, [ Marriott's Starwood hotel chain](https://www.reuters.com/article/uk-marriott-intnl-cyber-idUKKCN1NZ1AG/) was breached leaking approximately 500 million records as well. In both of these incidents, the highly sensitive data was never sold or traded on the dark web. This led investigators to connect the three breaches. 
+
+The attacks are assumed to be an attempt by the Chinese government to build a dossier on millions of Americans with the intent to learn about U.S. government officials and intelligence officers. Specifically, the data leaked would shed light on individuals who could be manipulated due to financial trouble or blackmail attempts.
 
 ## Equifax's response to the data breach
 Equifax's response to the breach was widely criticized for several reasons. Initially they created a standalone domain titled *equifaxsecurity2017.com*, to host information for the people affected by the breach. The domain name looked very suspicious as it's the same style that's often used in phishing attacks. To make matters worse, Equifax social media accounts pointed users to a domain titled h*securityequifax2017.com* by mistake.
