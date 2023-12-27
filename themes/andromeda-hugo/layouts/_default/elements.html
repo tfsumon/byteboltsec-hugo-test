@@ -10,6 +10,14 @@
           <h1>Monitored Ransomware Threat Actors</h1>
           Last updated: {{ now.Month }} {{ now.Day}}, {{ now.Format "2006" }}<br><br>
           {{ end }}
+          {{ if (eq .RelPermalink "/telegram-channels/") }}
+          <h1>CTI Telegram Channels</h1>
+          Last updated: {{ now.Month }} {{ now.Day}}, {{ now.Format "2006" }}<br><br>
+          {{ end }}
+          {{ if (eq .RelPermalink "/darknet-markets/") }}
+          <h1>Darknet Markets</h1>
+          Last updated: {{ now.Month }} {{ now.Day}}, {{ now.Format "2006" }}<br><br>
+          {{ end }}
           {{ if (eq .RelPermalink "/documentation/") }}
           <h1>API Documentation</h1>
           {{ end }}
