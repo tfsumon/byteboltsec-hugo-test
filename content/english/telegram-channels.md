@@ -441,3 +441,5 @@ layout: "elements"
 | BidenCash CVV [ANTIPUBLIC] | <a href="https://t.me/bidencashfreecvv" rel="nofollow">https://t.me/bidencashfreecvv</a>|
 | D7BBUK | <a href="https://t.me/D7BBUK" rel="nofollow">https://t.me/D7BBUK</a>|
 | Kingsman | <a href="https://t.me/joinchat/xr2N5_kqYQE3ZDUy" rel="nofollow">https://t.me/joinchat/xr2N5_kqYQE3ZDUy</a>|
+| CyberToufan | <a href="https://t.me/CyberToufanBackup" rel="nofollow">https://t.me/CyberToufanBackup</a>|
+| Windef | <a href="https://t.me/win_def" rel="nofollow">https://t.me/win_def</a>|
