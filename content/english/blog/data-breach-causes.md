@@ -40,7 +40,7 @@ To help protect your accounts, use a password manager and have it generate uniqu
 
 Malware is malicious software that can not only steal credentials and session tokens (to bypass MFA) but has complete access to your device. It can steal files, encrypt and delete files, and even take screenshots. Malware is a broad term that includes viruses, worms, trojan horses, spyware, keyloggers, rootkits, adware, and ransomware attacks.
 
-A very common strain of malware very often used to gain initial access is Infostealer malware. The image below shows an example of the directory structure within the logs. The malware collects sensitive data like browser autofills, session cookies, browsing history as well as plaintext passwords captured before they're encrypted.
+A common strain of malware very often used to gain initial access is Infostealer malware. The image below shows an example of the directory structure within the stealer logs. The malware collects sensitive data like browser autofills, session cookies, browsing history as well as plaintext passwords captured before they're encrypted.
 
 ![InfoStealer malware tree](../InfostealerTree.png)
 
