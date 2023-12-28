@@ -1,100 +1,91 @@
 ---
-date: "2023-05-14"
-title: "5 Most Common Data Breach Causes in 2023"
-image: "images/blog/5 Most Common Data Breach Causes in 2023.png"
-description: "Is your business at risk of a data breach? Learn more about the top five causes of breaches in 2023 & how to best protect your company."
+date: "2023-12-28"
+title: "5 Most Common Data Breach Causes in 2024"
+image: "images/blog/data-breach-causes.png"
+description: "Is your business at risk of a data breach? Learn more about the top five causes of breaches in 2024 & how to best protect your company."
 author: "Breachsense"
+h1: "The 5 most common data breach causes in 2024"
+intro1: "As someone who collects leaked data for a living, it's clear that there is more data leaked every day than we can possibly index. If your organization stores sensitive data, then there's a good chance that you will experience a data breach at some point. To keep your company out of the news, it’s critical to understand the most common types of data breaches and how to mitigate those threats."
 draft: false
 ---
-Despite significant progress in enhancing cybersecurity, data breaches continue to be a major concern in today's technology-driven world. 
+## What is a data breach
 
-According to a recent report by IT Governance, data breaches increased by 12.7% in the first quarter of 2023 alone, affecting millions of individuals and businesses worldwide. 
+A [data breach](https://www.breachsense.com/blog/what-is-a-data-breach/) is a security incident where a threat actor accesses sensitive, protected, or confidential data without authorization. After gaining access to the data, a threat actor may attempt to steal, disclose it, or extort the data owner for financial gain.
 
-To combat the risk of data breaches, it is essential to identify the primary causes behind them.  
+Data breaches can include different types of data types, like personal information (e.g. social security numbers), financial data (e.g. credit card numbers), intellectual property, trade secrets, and other sensitive information. It's important to note that both small businesses and enterprises are targets.
 
-In this article, we examine some of the leading factors contributing to data breaches and provide recommendations on how to safeguard your business against these potential threats.
+Organizations handling sensitive data are responsible for protecting it. If a threat actor gains unauthorized access to sensitive data, the organization is legally held responsible. Once a data breach occurs, the repercussions can be quite severe, including financial loss, damage to reputation, legal consequences, and a loss of public trust. This is why organizations invest heavily in cybersecurity to prevent data breaches and to mitigate their impact if and when they occur.
 
-Let’s start. 
-## 5 Most Common Data Breach Causes
-The reasons behind a data breach can vary widely based on several factors, including the methods used by cybercriminals, the type of organization targeted, and more.
+## Data breach vs. data leak
 
-The following section will provide insights into five of the most common data breach causes.
-### #1. Malware
-Malware, short for "malicious software," is one of the most common causes of a [data breach](https://www.breachsense.com/blog/what-is-a-data-breach/). 
+Although the terms "data breach" and "data leak" are often used interchangeably, they have two distinct meanings. Data breaches are often the result of a deliberate attack by cybercriminals who exploit vulnerabilities in a system to gain access to the data.
 
-Malware is any software designed to infiltrate and damage computer systems, steal data, or disrupt a company’s routine operations such as processing data, communication, file sharing, and other business-related tasks. 
+The method of attack can involve hacking, malware attacks, or social engineering. The key aspect of a data breach though is an active, intentional effort by an unauthorized party to access data.
 
-Malware can take many forms, including viruses, Trojan horses, worms, and ransomware. Once it infects a system, malware can steal sensitive data, corrupt files, and even take control of the entire system.
+A data leak, on the other hand, refers to unintentional or accidental exposure of confidential information. Leaks often occur due to internal errors, such as misconfigured databases, unsecured servers, or inadvertent employee actions (like sending sensitive information to the wrong person or leaving documents unsecured).
 
-To protect against malware, it's important to have up-to-date antivirus software, avoid suspicious emails and downloads, and ensure that all operating systems are working with the latest security updates.
-### #2. Weak or Stolen Credentials
-Credentials refer to login information that allows access to a system, application, or network. 
+While leaked data can be exploited by cybercriminals once the data is exposed, the initial exposure itself is not usually the result of a targeted attack.
 
-Cybercriminals achieve this by using tactics such as credential stuffing or credential spraying to effortlessly gain unauthorized access, especially when weak and commonly used passwords are in place. 
+## 5 most common causes of data breaches 
 
-That’s why it’s important to ensure that your users are utilizing strong and complex passwords that are not related to personal information. 
-### #3. Social Engineering
-Social engineering is a tactic used by cybercriminals to manipulate people into divulging sensitive information or performing actions that can compromise data security. 
+### 1. Weak or Stolen Credentials (Passwords)
 
-Typically, social engineering attacks occur in several stages. 
+According to the [Verizon Data Breach Investigations Report](https://www.verizon.com/business/resources/reports/2023-data-breach-investigations-report-dbir.pdf), *86*% of breaches involve the use of stolen credentials. Cybercriminals steal usernames and passwords from several sources such as infostealer malware, 3rd party breaches, and social engineering.
 
-First, the attacker conducts research on the intended target to gather the necessary information required to launch the attack. 
+Although counter-intuitive, password complexity and forced password rotation aren't effective defenses for leaked passwords. In the case of infostealers, the malware captures the plaintext password before they're encrypted in transit and sends it to the threat actor.
 
-The attacker then builds trust with the victim and provides stimuli to trigger actions that compromise security, such as granting access to critical resources or disclosing confidential information. 
+To help protect your accounts, use a password manager and have it generate unique passwords for you. Make sure your system is fully patched and enable Multi-factor Authentication (MFA) wherever available. Infostealers can often bypass common antivirus solutions, so in addition, run periodic system cleaner scans in parallel.
 
-An effective approach to detecting and preventing social engineering is through technical controls that prevent [human error](https://www.breachsense.com/blog/data-breach-human-error/). 
-### #4. Unpatched Security Vulnerabilities
-When security teams fail to patch widely-used software vulnerabilities, they create an opportunity for cybercriminals to infiltrate networks. 
+### 2. Malware
 
-These unpatched [vulnerabilities are often exploited by attackers](https://www.breachsense.com/blog/vulnerabilities-cause-data-loss/) as an entry point to breach networks and can become an initial attack vector for ransomware.
+Malware is malicious software that can not only steal credentials and session tokens (to bypass MFA) but has complete access to your device. It can steal files, encrypt and delete files, and even take screenshots. Malware is a broad term that includes viruses, worms, trojan horses, spyware, keyloggers, rootkits, adware, and ransomware attacks.
 
-While security and software vendors continually scan, identify, and provide patches for new vulnerabilities, the software will always pose a certain degree of risk. 
+A very common strain of malware very often used to gain initial access is Infostealer malware. The image below shows an example of the directory structure within the logs. The malware collects sensitive data like browser autofills, session cookies, browsing history as well as plaintext passwords captured before they're encrypted.
 
-This is precisely why cybersecurity teams must continuously address known vulnerabilities and unpatched software. 
+![InfoStealer malware tree](../InfostealerTree.png)
 
-In addition, implementing software to automate and manage the patching process enables quicker and more effective patch management. 
+To protect against malware, it's important to keep your antivirus up to date, avoid pirated software, ensure your network is properly segmented to help contain a security breach and ensure that both your operating system and software are fully patched (and your device rebooted if required).
 
-Automated patch management can simplify the task of maintaining current operating systems and applications by first automating scans that evaluate devices within the network to identify missing patches for each system, software, or app. 
+### 3. Software Vulnerabilities
 
-Then, automated distribution delivers the necessary patches to all applicable devices.
-### #5. Third-party Breaches
-[Third-party data breaches](https://www.breachsense.com/blog/third-party-data-breach/) happen when sensitive data is stolen from a vendor or when their systems are used to access and steal confidential information stored on your systems. 
+Any significantly complex piece of software will have security vulnerabilities at some point. Security researchers and vendors regularly discover issues and create patches to help mitigate the risk before the vulnerabilities are exploited.
 
-The term "third-party vendors" refers to external parties with whom a company shares its data, which may include contractors, marketing agencies, or cloud service providers.
+Having said that, there tends to be a lag between when a vulnerability is discovered and when the software gets patched. On average it takes [an average of 38 days to patch a vulnerability](https://www.darkreading.com/cloud-security/it-takes-an-average-38-days-to-patch-a-vulnerability) This leaves a large window of opportunity for attackers to reverse engineer a security patch, create a working exploit, and find victims who haven't applied the fix yet.
 
-According to the [Cost of a Data Breach Report by IBM](https://www.ibm.com/downloads/cas/3R8N1DZJ), third-party involvement was one of the top five factors that amplified the cost of a data breach, adding an average of $370,000 to the total cost, which reached $4.29 million. 
+Where applicable, enable any automated patching systems available. Depending on the environment, patches may need testing in a controlled environment before widespread deployment. Conduct regular audits to locate any gaps in the patch management process. Finally, make sure you have backups and a regularly tested recovery plan to restore systems to their pre-patch state if required.
 
-That's why third-party risk management and vendor risk management are critical aspects of any organization's enterprise risk management plan.
+### 4. Third-party Breaches
 
-*And as for the most [common types of data breaches](https://www.breachsense.com/blog/data-breach-types/) out there, our article outlines everything you’ve got to watch out for in 2023.*
-## Data Breach Damage
-Data breaches can cause significant damage to both businesses and individuals, including financial losses, reputational damage, emotional distress, and more. 
+Third-party data breaches happen when sensitive data is stolen from a 3rd party vendor who stores data related to your organization. In many cases, this can simply be an employee who created an account with the vendor using their work email account.
 
-Here’s a quick look at five of the most significant ramifications of data breaches.
+Many people reuse the same passwords in multiple locations. This means that an attacker may be able to use a password leaked on a 3rd party app within your organization.
 
-* **Data Breach Damage for Organizations**: A data breach can have a significant impact on an organization, both financially and reputationally. The direct [costs associated with a data breach](https://www.breachsense.com/blog/cost-of-a-data-breach/) can include expenses related to incident response, forensic investigations, legal fees, regulatory fines, and lawsuits.
-* **Data Breach Damage for Individuals**: The exposure of personal and sensitive information, such as social security numbers, credit card details, and login credentials, due to data breaches can result in significant harm to individuals. This information can be sold on the dark web, leading to identity theft, financial fraud, and other types of malicious activities.
-* **[Data Breach Damage for Business](https://www.breachsense.com/blog/small-business-data-breach-consequences/)**: A data breach can have a devastating impact on businesses, particularly small and medium-sized ones (SMBs). Data breaches result in significant financial losses, with the average cost of a breach being around [$4.24 million](https://www.ibm.com/reports/data-breach?_ga=2.145424945.424390126.1682950905-55973012.1682950905), of which 38% accounts for lost business. The reputation of a company can also suffer a significant blow, as consumers tend to prefer doing business with [companies that they perceive as safe and trustworthy](https://www.breachsense.com/blog/data-breach-trust/).
+Require Multi-factor authentication (MFA) to access company resources. MFA mitigates the risk of leaked credentials from 3rd party breaches because a valid username and password are no longer enough to authenticate. In addition, encourage employees to use a password manager to store and generate all of the passwords.
 
-*Check out some [real-life examples of data breaches](https://www.breachsense.com/blog/data-breach-examples/) that caused significant damage to these household companies.*
-## How to Prevent a Data Breach
-Implementing and adhering to best practices that [bolster data breach prevention](https://www.breachsense.com/blog/prevent-data-breach/) is crucial for organizations and their employees. 
+### 5. Social Engineering
 
-Some of the best practices to consider are:
+Social engineering is a tactic used by cybercriminals to manipulate their victims into divulging sensitive information that can be used for fraudulent purposes. Unlike traditional hacking that relies on technical exploits, social engineering exploits human psychology and the tendency to trust.
 
-* **Train for Security Awareness**: By providing security awareness training, organizations can raise awareness about the importance of cybersecurity and teach employees how to identify and [respond to potential threats](https://www.breachsense.com/blog/data-breach-response-plan/).
-* **Zero-Trust Architecture**: Zero-Trust Architecture is a security framework that assumes that all users, devices, and applications are untrusted and must be verified before being granted access to a network or system. 
-* **Data Encryption**: Data encryption refers to the process of converting plain or unencrypted data into a code or cipher that can only be read or understood by authorized parties who have access to the encryption key. 
-* **Dark Web Monitoring**: [Dark web monitoring](https://www.breachsense.com/dark-web-monitoring/) involves actively searching and keeping track of your organization's data on the dark web. Dark web monitoring tools are designed to function like search engines, but specifically for the dark web. They assist in locating any leaked or stolen information, including [compromised passwords](https://www.breachsense.com/blog/password-security-data-breach/), breached credentials, sensitive data, and intellectual property that may be circulating on the dark web.
+Human error is often the weakest link when it comes to cybersecurity. Malicious users exploit techniques such as phishing scams, pretexting, baiting, vishing, and smishing to trick users into performing certain actions or sharing sensitive data.
 
-*If you don’t manage to prevent a data breach from happening, the next best thing is knowing what actions to take in the [aftermath of a data breach](https://www.breachsense.com/blog/after-a-breach/).*
-## Conclusion
-If safeguarding your organization's sensitive data is a top priority, [Breachsense](https://www.breachsense.com/) offers a proactive defense strategy that can help. 
+While security awareness training can be somewhat helpful, organizations should implement technical controls that prevent users from being able to make bad decisions.
 
-Breachsense constantly monitors your users, employees, and third-party software suppliers'  credentials and will immediately alert you of any suspicious activity to prevent data breaches before they happen. 
+A classic example of a phishing email from a bank is shown below. While the email looks like an official email from a (fictional) bank, it's essentially trying to trick the recipeint into clicking the link and submitting their credentials to a site run by the attacker.
 
-Not to mention, its user-friendly and flexible interface allows for easy integration into your current security tools.
+![phishing.png](../phishing.png)
 
-By taking an offensive approach to security, Breachsense empowers you to be one step ahead of potential attackers. Don't wait until it's too late to secure your data. 
+## How to prevent a data breach
 
-[Book a demo](https://www.breachsense.com/book-demo/).
+- **Integrate Cyber Threat Intelligence (CTI):** Ensure that your security team has ongoing visibility into your employees', customers', and software suppliers' leaked credentials and session tokens. Hackers don't need to break in when they can simply log in.
+- **Enable Multi-factor authentication:** Implementing MFA makes it significantly harder for attackers to exploit leaked credentials. Even if a password is compromised, an attacker still needs to bypass the additional authentication factors to gain access.
+- **Use a password manager:** A password manager will not only ensure that strong random passwords are used but also help prevent phishing attacks. Users are less likely to enter their credentials into a fraudulent website because the password manager won't autofill the credentials on the wrong site.
+- **VulnerabilityAssessments:** Companies should regularly map out their infrastructure and assess those systems for vulnerabilities. This includes both penetration testing, red teaming exercises and secure code reviews (where applicable).
+- **Backups:** Having off-site backups is standard practice at this point. Testing those backups and having a recovery plan that can restore servers to previous points in time is critical to prevent downtime in case of an attack.
+- **Segment the network:** In the event of a breach, having a properly segmented network will help limit the effects of the attack. By dividing the network into segments, the attack surface is drastically reduced.
+- **Encrypt sensitive data:** Encrypt all data, both at rest and in transit.This ensures that even if data is intercepted or accessed without authorization, it remains unreadable and secure.
+
+Once you understand how data breaches happen, you should be better equipped to prevent them. Breachsense continuously monitors the dark web for any leaked data that could be used to gain unauthorized access to your organization. Our platform alerts you whenever any relevant data surfaces so that your security team can prevent an attack before criminals exploit it.
+
+By taking an proactive approach to security, Breachsense empowers you to be one step ahead of cybercriminals. Don't wait until it's too late to secure your data.
+
+[Book a demo](https://www.breachsense.com/book-demo/)
