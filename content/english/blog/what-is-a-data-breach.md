@@ -13,11 +13,11 @@ You know - It wasn’t that long ago when terms like data breach or cyber attack
 
 But so much has changed…
 
-For one, both of these terms are now a part of our everyday lives. Companies, big or small, face having their data accessed by unauthorized parties every day. For many, data breaches have become a serious issue to deal with. Our [recent data breaches](https://www.breachsense.com/breaches/) listing reports new attacks happening almost every day. 
+For one, both of these terms are now a part of our everyday lives. Companies, big or small, face having their data accessed by unauthorized parties every day. For many, data breaches have become a serious issue to deal with. Our [recent data breach](https://www.breachsense.com/breaches/) listing reports new attacks happening almost every day. 
 
 Our personal data is at risk, too, and we’ve learned to dread words like malware, hackers, cyber crime, or ransomware. 
 
-And as it happens, many of those either start with or are connected with data breaches. 
+As it happens, many of those either start with or are connected with data breaches. 
 
 In this guide, I’ll help you understand the concept of a data breach, show you how those breaches typically happen, and discuss what measures you could be taking to prevent them in your business. 
 
@@ -90,7 +90,7 @@ And so, when hackers infected Forever 21’s point-of-sale systems with malware 
 
 But when hackers try to overwhelm a web server with a DDoS attack, they are not engaging in a data breach. The same applies to such cyberattack techniques as credentials stuffing, brute force attacks, and more. 
 
-In the case of those attacks, the goal for conducting them is not to breach security to compromise data. 
+In the case of those attacks, the goal of conducting them is not to breach security to compromise data. 
 
 So, how do data breaches happen, then? 
 
@@ -128,7 +128,7 @@ Naturally, it’s impossible to predict how an honest mistake might happen. It�
 
 *But we know how hackers typically plan and conduct those attacks. The process includes three steps, typically.* 
 
-- **The first step is reconnaissance.** Hackers generally don’t pick targets at random. They research companies they want to breach and look for weaknesses they could exploit. This might also include looking for vulnerable staff members who would either give them access for a bribe, or unintentionally assist hackers in the breach via social engineering.
+- **The first step is reconnaissance.** Hackers generally don’t pick targets at random. They research companies they want to breach and look for weaknesses they could exploit. This might also include looking for vulnerable staff members who would either give them access for a bribe or unintentionally assist hackers in the breach via social engineering.
 - **Then comes the actual attack**, which would focus on exploiting whatever vulnerabilities the hacker discovered during their research. This is when the hacker gains access to the company’s systems.
 - Finally, once the hacker gains initial access they pivot until they locate the data they’re planning to steal and conduct the final part of the operation - **extracting said information from the company’s systems.**
 
@@ -141,12 +141,12 @@ And attackers have quite a number of these methods at their disposal…
 ### Common methods by which hackers are able to compromise a company’s systems
 
 - **Using previously leaked credentials.** Often, previously breached data can appear on the dark web, and hackers can simply purchase it to gain access to their victims.
-- **Social Engineering.** Often, hackers trick people into unwittingly handing over sensitive nformation. A very common example of this is phishing, where hackers send fraudulent messages designed to trick individuals into sharing their personal information or downloading malware onto their computers. 
+- **Social Engineering.** Often, hackers trick people into unwittingly handing over sensitive information. A very common example of this is phishing, where hackers send fraudulent messages designed to trick individuals into sharing their personal information or downloading malware onto their computers. 
 Phishing messages often spoof real companies or civil services, making individuals think they are actually handing over their information to a legitimate source.
-- **SQL injection attacks.** In a SQLi attack, hackers inject malicious SQL code into a backend database resulting in access to sensitive data or even escalated privilages like shell access.
+- **SQL injection attacks.** In a SQLi attack, hackers inject malicious SQL code into a backend database resulting in access to sensitive data or even escalated privileges like shell access.
 - **Keylogging.** This technique involves installing malicious keylogging software that will record every keystroke a person makes on their keyboard. The data is then sent to the threat actor and can be used to glean information such as user credentials, credit card and bank details, and more.
 - **Weak credentials.** It’s hard to believe it, but it’s true. “123456” is still [the most commonly used password](https://www.cnbc.com/2023/11/16/most-common-passwords-70percent-can-be-cracked-in-less-than-a-second.html) in the world. Naturally, this is an extreme example. That said, hackers often do gain access to data through weak or default credentials.
-- **Security flaws and vulnerabilities.** During the reconnaissance phase, hackers often evaluate the company’s systems for unpatched vulnerabilities in both software and hardware. In some cases, malicious users have a specific exploit and use search engines like shodan to find vulnerable systems.
+- **Security flaws and vulnerabilities.** During the reconnaissance phase, hackers often evaluate the company’s systems for unpatched vulnerabilities in both software and hardware. In some cases, malicious users have a specific exploit and use search engines like Shodan to find vulnerable systems.
 - **Third-party breaches.** Finally, a breach might also occur as a result of a vulnerability of a third-party service provider. For example, a web host or email host’s vulnerability might help hackers gain access to their target’s data. Or at least to credentials they can exploit to gain initial access.
 
 ## Can you prevent a data breach?
@@ -181,9 +181,9 @@ But at the same time, all these checks and authentications provide another barri
 
 ### #4. Access controls
 
-This approach is a variation of what I mentioned in the previous point. In this case, however, instead of adding authentication steps, you restrict who can access the data. This way, your company greatly limits the number of people with access to different data points, and reduce the potential for mistakes and errors resulting in a data breach. 
+This approach is a variation of what I mentioned in the previous point. In this case, however, instead of adding authentication steps, you restrict who can access the data. This way, your company greatly limits the number of people with access to different data points and reduces the potential for mistakes and errors resulting in a data breach. 
 
-In practice, companies should establish multiple employee roles. Each with varying degrees of access to data based on the roles requirements. 
+In practice, companies should establish multiple employee roles. Each with varying degrees of access to data based on the role requirements. 
 
 As a general rule, each role should have access to the minimum amount of resources as possible.
 
@@ -207,4 +207,4 @@ The process is based on monitoring the dark web, hacker forums, [darknet markets
 
 ### And that’s it…
 
-That’s everything you need to know to understand what a data breach is, how it happens, and what are the most common causes that could result in your company’s information being breached.
+That’s everything you need to know to understand what a data breach is, how it happens, and what the most common causes that could result in your company’s information being breached.
