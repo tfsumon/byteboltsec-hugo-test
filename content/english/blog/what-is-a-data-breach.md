@@ -201,7 +201,7 @@ Last but not least, set up a system to proactively monitor for any potential dat
 
 With a data breach monitoring system like [Breachsense](https://www.breachsense.com/), you can continuously track and scan various data sources, both public and private, to identify any indicators of compromised information. 
 
-The process is based on monitoring the dark web, hacker forums, paste sites, Telegram channels, and various other platforms where stolen data might be sold or shared and notifying you if your data was found. 
+The process is based on monitoring the dark web, hacker forums, [darknet markets](https://www.breachsense.com/darknet-markets/), paste sites, [Telegram channels](https://www.breachsense.com/telegram-channels/), and various other platforms where stolen data might be sold or shared and notifying you if your data was found. 
 
 [Learn more about how data breach monitoring works and how it can help you prevent or mitigate cyber attacks](https://www.breachsense.com/data-breach-monitoring/). 
 
