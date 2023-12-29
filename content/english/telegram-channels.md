@@ -443,3 +443,4 @@ layout: "elements"
 | Kingsman | <a href="https://t.me/joinchat/xr2N5_kqYQE3ZDUy" rel="nofollow">https://t.me/joinchat/xr2N5_kqYQE3ZDUy</a>|
 | CyberToufan | <a href="https://t.me/CyberToufanBackup" rel="nofollow">https://t.me/CyberToufanBackup</a>|
 | Windef | <a href="https://t.me/win_def" rel="nofollow">https://t.me/win_def</a>|
+| UserSec | <a href="https://t.me/user_sec" rel="nofollow">https://t.me/user_sec</a>|
