@@ -1,6 +1,6 @@
 ---
 date: "2023-05-14"
-title: "6 Things a Company Should Do After a Data Breach in 2023"
+title: "6 Things a Company Should Do After a Data Breach in 2024"
 image: "images/blog/6 Things a Company Should Do After a Data Breach in 2023.png"
 description: "What should your company do after a data breach? Here are the 6 essential steps to contain the damage & optimize your security." 
 author: "Breachsense"

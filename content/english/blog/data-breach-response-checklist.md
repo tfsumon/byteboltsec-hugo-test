@@ -1,6 +1,6 @@
 ---
 date: "2023-05-18"
-title: "10-Point Data Breach Response Checklist [for 2023]"
+title: "10-Point Data Breach Response Checklist [for 2024]"
 image: "images/blog/10-Point Data Breach Response Checklist [for 2023].png"
 description: "Learn how to effectively respond to and prevent data breaches with our comprehensive 10-point data breach response checklist."
 author: "Breachsense"

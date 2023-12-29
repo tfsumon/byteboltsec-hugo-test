@@ -2,7 +2,7 @@
 date: "2023-05-14"
 title: "How to Develop a Data Breach Response Plan (W/ Steps & Tips)"
 image: "images/blog/How to Develop a Data Breach Response Plan (W Steps _ Tips).png"
-description: "Prevent data breaches & improve your security in 2023. Learn how to develop a data breach response plan with practical steps & expert tips."
+description: "Prevent data breaches & improve your security in 2024. Learn how to develop a data breach response plan with practical steps & expert tips."
 author: "Breachsense"
 draft: false
 ---

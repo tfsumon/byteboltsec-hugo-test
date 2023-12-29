@@ -1,14 +1,14 @@
 ---
 date: "2023-05-14"
-title: "5 Data Breach Examples (& Causes to Avoid in 2023)"
+title: "5 Data Breach Examples (& Causes to Avoid in 2024)"
 image: "images/blog/5 Data Breach Examples (_ Causes to Avoid in 2023).png"
-description: "Don't become the next data breach statistic. Learn about the top 5 data breach examples & some of the most common causes to avoid in 2023."
+description: "Don't become the next data breach statistic. Learn about the top 5 data breach examples & some of the most common causes to avoid in 2024."
 author: "Breachsense"
 draft: false
 ---
 The threat of data breaches has never been more real, with the past few years seeing a staggering increase in high-profile cases that have left businesses reeling from the financial and reputational fallout.
 
-As we navigate 2023, it's essential to stay ahead of the game and understand the root causes of these breaches to prevent them from happening to your organization.
+As we navigate 2024, it's essential to stay ahead of the game and understand the root causes of these breaches to prevent them from happening to your organization.
 
 In this article, we explore **five real-life examples of data breaches** and dig deep to uncover the common causes behind them. 
 

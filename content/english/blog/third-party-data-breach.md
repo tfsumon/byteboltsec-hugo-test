@@ -1,6 +1,6 @@
 ---
 date: "2023-05-14"
-title: "10 Steps to Prevent Third-Party Data Breaches in 2023"
+title: "10 Steps to Prevent Third-Party Data Breaches in 2024"
 image: "images/blog/10 Steps to Prevent Third-Party Data Breaches in 2023.png"
 description: "Third-party data breaches are becoming increasingly common. Learn about the steps you can take to prevent them & improve your security." 
 author: "Breachsense"
@@ -12,7 +12,7 @@ As more companies outsource various functions to third-party vendors, the risk o
 
 And, unfortunately, the consequences of a data breach can be severe, including financial losses, damage to reputation, as well as legal liabilities. 
 
-That’s why, in 2023, it's more important than ever to take proactive measures to prevent third-party data breaches. 
+That’s why, in 2024, it's more important than ever to take proactive measures to prevent third-party data breaches. 
 
 In this article, we will discuss ten practical steps that organizations can take to mitigate the risks associated with third-party vendors and partners and safeguard their sensitive information.
 ## What Is a Third-Party Data Breach?

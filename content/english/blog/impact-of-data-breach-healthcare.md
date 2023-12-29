@@ -1,18 +1,18 @@
 ---
 date: "2023-05-14"
-title: "How Do Data Breaches Impact Healthcare in 2023?"
+title: "How Do Data Breaches Impact Healthcare in 2024?"
 image: "/images/blog/How Do Data Breaches Impact Healthcare in 2023.png"
-description: "Is your healthcare data safe in 2023? Discover the consequences of data breaches in healthcare & what that means for your organization."
+description: "Is your healthcare data safe in 2024? Discover the consequences of data breaches in healthcare & what that means for your organization."
 author: "Breachsense"
 draft: false
 ---
-As we venture further into the digital age, the healthcare industry finds itself grappling with an unsettling issue in 2023 - data breaches. 
+As we venture further into the digital age, the healthcare industry finds itself grappling with an unsettling issue in 2024 - data breaches. 
 
 With digital systems becoming more deeply embedded in the industry, healthcare providers and patients face growing concerns over the security of sensitive information. 
 
 But how exactly do these breaches impact healthcare, and what are the ramifications for patients and providers alike?
 
-In this article, we deep dive into how data breaches impact healthcare in 2023 by explaining their causes and the potential consequences that come with them. 
+In this article, we deep dive into how data breaches impact healthcare in 2024 by explaining their causes and the potential consequences that come with them. 
 ## What Is a Data Breach in Healthcare?
 A data breach occurs when Protected Health Information (PHI) is accessed or disclosed by unauthorized parties. PHI refers to any information that can be used to identify an individual, including their health status and healthcare services provided to them. 
 

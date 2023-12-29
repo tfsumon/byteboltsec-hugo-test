@@ -1,6 +1,6 @@
 ---
 date: "2023-05-14"
-title: "10 Small Business Data Breach Consequences in 2023"
+title: "10 Small Business Data Breach Consequences in 2022"
 image: "images/blog/10 Small Business Data Breach Consequences in 2023.png"
 description: "Small business data breach consequences can be devastating. Learn how to protect your business with the best practices."
 author: "Breachsense"
