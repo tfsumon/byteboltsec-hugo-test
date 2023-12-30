@@ -76,6 +76,8 @@ layout: "elements"
 |  Data Leaks  | <a href="https://t.me/boosty66brvte" rel="nofollow">https://t.me/boosty66brvte</a>|
 |  Redline Data Leaks  | <a href="https://t.me/BorwitaFreeLogs" rel="nofollow">https://t.me/BorwitaFreeLogs</a>|
 |  Redline and Raccoon Data Logs  | <a href="https://t.me/bradmax_cloud" rel="nofollow">https://t.me/bradmax_cloud</a>|
+|  R00tk1t DB  | <a href="https://t.me/R00TK1TDB" rel="nofollow">https://t.me/R00TK1TDB</a>|
+|  R00tk1t Cyber Team  | <a href="https://t.me/R00TK1TOFF " rel="nofollow">https://t.me/R00TK1TOFF </a>|
 | breachdetector | <a href="https://t.me/breachdetector" rel="nofollow">https://t.me/breachdetector</a>|
 |  Data Leak Monitor | <a href="https://t.me/breachdetector" rel="nofollow">https://t.me/breachdetector</a>|
 |  Data Leaks  | <a href="https://t.me/BreachedData" rel="nofollow">https://t.me/BreachedData</a>|
@@ -444,3 +446,4 @@ layout: "elements"
 | CyberToufan | <a href="https://t.me/CyberToufanBackup" rel="nofollow">https://t.me/CyberToufanBackup</a>|
 | Windef | <a href="https://t.me/win_def" rel="nofollow">https://t.me/win_def</a>|
 | UserSec | <a href="https://t.me/user_sec" rel="nofollow">https://t.me/user_sec</a>|
+| Homeland Justice | <a href="https://t.me/justice_homeland" rel="nofollow">https://t.me/justice_homeland</a>|
