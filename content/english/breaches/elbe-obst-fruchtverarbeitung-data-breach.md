@@ -9,7 +9,7 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | ruchtverarbeitung.de      | 
+| Victim      | fruchtverarbeitung.de      | 
 | Threat Actor      | NoEscape      | 
 | Date Discovered      | Oct 10, 2023      | 
 | Description      | Elbe-Obst Fruchtverarbeitung is a fruit processing company from Horneburg.      | 
