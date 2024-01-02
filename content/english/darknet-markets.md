@@ -11,7 +11,7 @@ layout: "elements"
 | 2EASY | <a href="https://2easy.shop" rel="nofollow">https://2easy.shop</a> |  OFFLINE  |
 | 2EASY | <a href="https://2easy.cc" rel="nofollow">https://2easy.cc</a> |  ONLINE  |
 | ALLWORLDCARDS | <a href="https://href.li/?http://awcardsqtyy2nzjz4bqwbccvv6xr4bdcwcgfyewd7gsx5mhh63c2lsad.onion" rel="nofollow">https://href.li/?http://awcardsqtyy2nzjz4bqwbccvv6xr4bdcwcgfyewd7gsx5mhh63c2lsad.onion</a> |  OFFLINE  |
-| AlphaBay (Dark i2p) | <a href="tnaefzkcnhryeusi7hdpqujqiqmnbtah3dmjcg3gvezohunjuxbq.b32.i2p" rel="nofollow">tnaefzkcnhryeusi7hdpqujqiqmnbtah3dmjcg3gvezohunjuxbq.b32.i2p</a> |  ONLINE  |
+| AlphaBay (Dark i2p) | <a href="https://tnaefzkcnhryeusi7hdpqujqiqmnbtah3dmjcg3gvezohunjuxbq.b32.i2p" rel="nofollow">https://tnaefzkcnhryeusi7hdpqujqiqmnbtah3dmjcg3gvezohunjuxbq.b32.i2p</a> |  ONLINE  |
 | AlphaBay (Dark Tor) | <a href="http://alphabay522szl32u4ci5e3iokdsyth56ei7rwngr2wm7i5jo54j2eid.onion" rel="nofollow">http://alphabay522szl32u4ci5e3iokdsyth56ei7rwngr2wm7i5jo54j2eid.onion</a> |  ONLINE  |
 | Archetyp | <a href="http://4pt4axjgzmm4ibmxplfiuvopxzf775e5bqseyllafcecryfthdupjwyd.onion" rel="nofollow">http://4pt4axjgzmm4ibmxplfiuvopxzf775e5bqseyllafcecryfthdupjwyd.onion</a> |  ONLINE  |
 | ARES | <a href="http://sn2sfdqay6cxztroslaxa36covrhoowe6a5xug6wlm6ek7nmeiujgvad.onion" rel="nofollow">http://sn2sfdqay6cxztroslaxa36covrhoowe6a5xug6wlm6ek7nmeiujgvad.onion</a> |  ONLINE  |
@@ -58,7 +58,7 @@ layout: "elements"
 | DOCSHOP | <a href="https://doc-shop.ws" rel="nofollow">https://doc-shop.ws</a> |  OFFLINE  |
 | EMPIRE MARKET | <a href="http://2a2a2abbjsjcjwfuozip6idfxsxyowoi3ajqyehqzfqyxezhacur7oyd.onion" rel="nofollow">http://2a2a2abbjsjcjwfuozip6idfxsxyowoi3ajqyehqzfqyxezhacur7oyd.onion</a> |  ONLINE  |
 | ETERNITY | <a href="http://malwarewrn7fvd7zq243d74dxs3ca4wh5kw6i2opkzeusuoajtd2j5yd.onion" rel="nofollow">http://malwarewrn7fvd7zq243d74dxs3ca4wh5kw6i2opkzeusuoajtd2j5yd.onion</a> |  ONLINE  |
-| FREDDY | <a href="freddy.atshop.io" rel="nofollow">freddy.atshop.io</a> |  ONLINE  |
+| FREDDY | <a href="https://freddy.atshop.io" rel="nofollow">https://freddy.atshop.io</a> |  ONLINE  |
 | FreshTools | <a href="https://freshtools.net" rel="nofollow">https://freshtools.net</a> |  ONLINE  |
 | Genesis Market | <a href="https://genesis.market" rel="nofollow">https://genesis.market</a> |  OFFLINE  |
 | Genesis Market | <a href="https://g3n3sis.pro" rel="nofollow">https://g3n3sis.pro</a> |  OFFLINE  |

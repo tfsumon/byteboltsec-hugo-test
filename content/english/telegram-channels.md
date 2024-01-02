@@ -447,3 +447,4 @@ layout: "elements"
 | Windef | <a href="https://t.me/win_def" rel="nofollow">https://t.me/win_def</a>|
 | UserSec | <a href="https://t.me/user_sec" rel="nofollow">https://t.me/user_sec</a>|
 | Homeland Justice | <a href="https://t.me/justice_homeland" rel="nofollow">https://t.me/justice_homeland</a>|
+| QuartzSec | <a href="https://t.me/QuartzSec" rel="nofollow">https://t.me/QuartzSec</a>|
