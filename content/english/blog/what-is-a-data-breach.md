@@ -159,13 +159,13 @@ A company can take steps to reduce the probability of a data breach. But as you�
 
 Here are some steps you can take to reduce the risk of a data breach in your business.
 
-### #1. Employee training and technical controls
+### 1. Employee training and technical controls
 
 As you’ve seen already, many breaches result from unintentional errors and mistakes. Even more of them happen due to employees not understanding the methods hackers use to social engineer them to install malware or hand over access to the data in other ways. 
 
 While providing regular training on data security and privacy best practices can help, implementing technical controls that can't be bypassed will have a more significant effect. 
 
-### #2. Software and system updates
+### 2. Software and system updates
 
 Here’s something fundamental to remember about software: Even the most secure tool today might turn out to have a vulnerability at some point in the future. Both software developers and hackers regularly monitor vulnerability disclosures and Change Logs, searching for exploitable vulnerabilities. 
 
@@ -173,13 +173,13 @@ This means that any out-of-date software you use might contain vulnerabilities h
 
 As a result, keeping software up-to-date is an essential step in maintaining strong cybersecurity practices and preventing data breaches.
 
-### #3. Relentless focus on security, even to the point of inconvenience
+### 3. Relentless focus on security, even to the point of inconvenience
 
 This is often a controversial point. It's certainly one that many employees and users tend to complain about, and I get it. Who wants to go through hoops just to log in to their company account or email? 
 
 But at the same time, all these checks and authentications provide another barrier for hackers to get through if they want to access your data. 
 
-### #4. Access controls
+### 4. Access controls
 
 This approach is a variation of what I mentioned in the previous point. In this case, however, you restrict who can access the data instead of adding authentication steps. This way, your company dramatically limits the number of people accessing different data points and reduces the potential for mistakes and errors resulting in a data breach. 
 
@@ -187,7 +187,7 @@ In practice, companies should establish multiple employee roles. Each with varyi
 
 Generally, each role should have access to the minimum amount of resources possible.
 
-### #5. Response and recovery plans
+### 5. Response and recovery plans
 
 Establish a robust disaster recovery plan that outlines clear procedures for mitigating the effects of a data breach.
 
@@ -195,7 +195,7 @@ This plan should include designated contacts, communication strategies, and spec
 
 Ensure that all employees are familiar with the plan so they can take appropriate actions immediately [after discovering a breach](https://www.breachsense.com/blog/after-a-breach/).
 
-### #6. Continuously monitor for potential breaches
+### 6. Continuously monitor for potential breaches
 
 Last but not least, set up a system to proactively monitor for any potential data breaches. 
 
