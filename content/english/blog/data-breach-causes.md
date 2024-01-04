@@ -73,7 +73,7 @@ While security awareness training can be helpful, organizations should implement
 
 A classic example of a phishing email from a bank is shown below. While the email looks like an official email from a (fictional) bank, it's essentially trying to trick the recipient into clicking the link and submitting their credentials to a site run by the attacker.
 
-![phishing.png](../phishing.png)
+![phishing example](../phishing.png)
 
 ## How to prevent a data breach
 
