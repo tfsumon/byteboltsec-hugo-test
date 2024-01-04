@@ -1,11 +1,12 @@
 ---
 date: "2023-12-28"
-title: "The Top 5 Most Common Causes of Data Breaches in 2024"
+title: "5 Top Causes of Data Breaches - Data Breach Causes Explained"
 image: "images/blog/data-breach-causes.png"
-description: "Is your business at risk of a data breach? Learn more about the top five causes of breaches in 2024 & how to best protect your company."
+description: "Discover the most common causes of data breaches. Learn what causes a data breach and how data breaches can typically occur."
 author: "Breachsense"
-h1: "The top 5 most common causes of data breaches in 2024"
-intro1: "As someone who collects leaked data for a living, it's clear that more data is leaked daily than we can possibly index in a single day. If your organization stores sensitive data, there's a good chance you may experience a data breach at some point. To prevent your company from making headlines, it's crucial to understand the most common types of data breaches and learn how to prevent those from happening."
+h1: "5 Most Common Causes of Data Breaches"
+intro1: "Add before the first paragraph: Are you worried about your company's data being breached? Wondering what are the most common causes of a data breach that you should be preventing?"
+intro2: "As someone who collects leaked data for a living, it's clear that more data is leaked daily than we can possibly index in a single day. If your organization stores sensitive data, there's a good chance you may experience a data breach at some point. To prevent your company from making headlines, it's crucial to understand the most common types of data breaches and learn how to prevent those from happening."
 draft: false
 ---
 ## What is a data breach?

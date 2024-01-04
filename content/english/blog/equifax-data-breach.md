@@ -1,10 +1,10 @@
 ---
 date: "2023-06-25"
-title: "Equifax Data Breach - a case study"
+title: "Equifax Data Breach Case Study: Causes, Who Was Affected, and Settlement"
 image: "images/blog/equifax-case-study.png"
-description: "The Equifax data breach case study covers how the breach occurred, the company's response, and the costs associated with the breach." 
+description: "Learn everything about the Equifax data bread. Discover what happened, who was affected, settlement claims and more." 
 author: "Breachsense"
-h1: "Equifax data breach:  a case study"
+h1: "Equifax Data Breach Explained: A Case Study"
 intro1: "In 2017, Equifax suffered a massive data breach, often considered one of the most significant and devastating cybersecurity incidents in history."
 intro2: "As one of the major credit reporting agencies in the United States, Equifax held sensitive information on more than 800 million individuals and 88 million businesses worldwide."
 intro3: "The breach exposed the personal data of more than 40 percent of the population of the United States (approximately 145 million people). The leaked data included names, birth dates, physical addresses, and Social Security Numbers. A small subset of victims (around 200,000 people) had their credit card numbers exposed as well."
