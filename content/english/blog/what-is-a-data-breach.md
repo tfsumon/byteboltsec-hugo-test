@@ -61,7 +61,7 @@ For example, according to [this report by IBM](https://www.ibm.com/reports/data-
 
 This [data by Statista](https://www.statista.com/statistics/1170520/worldwide-data-breach-fines-settlements/) shows the most significant data breach fines in the US as of September 2023. Note the top result. The company got fined close to $1.2 billion with B!
 
-![data-breach-cost.png](../data-breach-cost.png)
+![breakdown of data breach fines in the U.S.](../data-breach-cost.png)
 
 **However, a data breach results in more than financial losses and fines.** 
 
@@ -112,7 +112,7 @@ And if it sounds improbable, consider this. In 2008, the US Ministry of Defense 
 
 Stupidity sometimes plays a role in unintentional data breaches, as well. It’s hard not to laugh at the example below, of course. But simultaneously, it's astonishing when you consider that such situations happen frequently.
 
-![data-breach-causes.png](../data-breach-causes.png)
+![Twitter post containing a banking customer's password](../data-breach-causes.png)
 
 **Insiders - employees and vendors - can deliberately participate in data breaches, too.**
 
