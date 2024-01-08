@@ -1,210 +1,145 @@
 ---
-date: "2023-05-14"
-title: "5 Data Breach Examples (& Causes to Avoid in 2024)"
-image: "images/blog/5 Data Breach Examples (_ Causes to Avoid in 2023).png"
-description: "Don't become the next data breach statistic. Learn about the top 5 data breach examples & some of the most common causes to avoid in 2024."
+date: "2024-01-08"
+title: "Data Breach Examples: 15 Biggest Data Breaches Explained"
+image: "images/blog/data-breach-examples.png"
+description: "Discover the 15 biggest data breach examples that occured recently. Learn what were the biggest data breaches lately."
 author: "Breachsense"
+h1: "The 15 biggest data breach examples in history"
+intro1: "FACT: Data breaches continue to make headlines in 2024"
+intro2: "Millions of sensitive records are [leaked or stolen daily](https://www.breachsense.com/breaches/), and cybercriminals exploit this data to commit fraud, steal data from their victims' networks, and launch ransomware attacks."
+intro3: "Learning from past incidents is one of the most effective strategies to increase your organization's cyber defenses. For that reason, we've compiled a list of the biggest data breach examples in recent history."
+intro4: "Before we begin, a quick disclaimer: The list was calculated based on the estimated number of records exposed, accounts affected, or users impacted."
 draft: false
 ---
-The threat of data breaches has never been more real, with the past few years seeing a staggering increase in high-profile cases that have left businesses reeling from the financial and reputational fallout.
+## 1. CAM4
 
-As we navigate 2024, it's essential to stay ahead of the game and understand the root causes of these breaches to prevent them from happening to your organization.
+**Date:** March 2020  
+**Impact:** 10.88 billion accounts
 
-In this article, we explore **five real-life examples of data breaches** and dig deep to uncover the common causes behind them. 
+The cam4.com is a popular adult streaming site based in Ireland and owned by Granity Entertainment. Despite being the largest breach in history, Cam4 wasn't actually hacked. The mistake made wasn't particularly unique either. The attackers found an exposed ElasticSearch database that didn't require authentication. Seven terabytes of data leaked, which included names, sexual orientations, chat scripts, payment logs, device information, geolocations, usernames, and hashed passwords. The Shodan search result showing the exposed ElasticSearch database is shown below:
 
-Let’s get started!
-## 5 Famous Examples of Data Breaches
-Data breaches can lead to sensitive information getting stolen and then sold on the dark web or to [third parties](https://www.breachsense.com/blog/third-party-data-breach/). 
+![Cam4 data breach example](../cam4.png)
 
-There have been several high-profile data breaches in recent years that have led to the exposure of millions of user records to testify to how harmful data breaches can be.
+Granity Entertainment took the database offline within 30 minutes of being notified. Despite the large amount of data that was publicly available, there's no evidence that the leaked data was indeed exploited. Criminals often exploit this type of data for blackmail, sextortion, and credential-stuffing attacks. Having an updated asset inventory is essential to ensure you haven't exposed any sensitive servers to the internet.
 
-Let's take a closer look at some examples:
-### #1. Equifax
-The Equifax data breach, which happened in 2017, is widely considered to be one of the largest data breaches in history. 
+## 2. Yahoo
 
-The credit reporting agency disclosed that the personal data of more than 147 million individuals were exposed. This included sensitive information such as names, birth dates, Social Security Numbers, addresses, and, in some cases, driver's license numbers and credit card information.
+**Date:** August 2013  
+**Impact:** 3 billion accounts
 
-The breach resulted from a vulnerability in an Equifax web server that should have been patched. However, internal process failures left the vulnerability unaddressed, providing attackers with an open door to exploit.
+When Yahoo initially disclosed the breach, the news of 1 billion compromised users seemed staggering. Ten months later, they updated that number to 3 billion accounts, meaning every Yahoo account that existed at the time. The attackers were inside Yahoo's network for three years before being discovered. It then took almost four years for Yahoo to complete the investigation into the breach. Of course, this attack is completely separate from their 2014 breach that impacted 500 million accounts.
 
-The attackers were able to take advantage of the web portal to access other servers because the systems were not properly segmented. They also discovered usernames and passwords stored in plain text, which enabled access to even more systems.
+The breach couldn't have come at a worse time for Yahoo. At the time, they recently announced an agreement to sell their main business to Verizon for $4.8bn. After disclosing the breach, the sale price was reduced by $3 million. Despite the large number of accounts affected, other incidents like the [Equifax breach](https://www.breachsense.com/blog/equifax-data-breach/), which only impacted 145.5 million people, might have had a greater negative impact overall due to the highly sensitive data involved.
 
-The attackers operated unnoticed for months, extracting data from the network in encrypted form. Equifax's failure to renew a TLS/SSL certificate on one of its internal security tools was the critical reason for the attackers' success.
+## 3.Alibaba (Taobao)
 
-The Equifax data breach had significant repercussions, including Congressional hearings and increased scrutiny of the credit reporting industry's data security practices. 
+**Date:** November 2019  
+**Impact:** 1.1 billion accounts
 
-As a result, Equifax paid a settlement of up to $700 million to affected individuals and regulatory agencies.
-### #2. Yahoo
-The Yahoo data breach was a series of cyberattacks on Yahoo's systems that took place between 2013 and 2014 but were not discovered until September 2016. 
+A software developer at a consulting company providing services to Alibaba's [Taobao shopping website](https://world.taobao.com/) scraped over 1.1 billion accounts, including usernames and phone numbers. The custom web crawler developed for this purpose scraped accounts for eight months until Alibaba noticed the activity. While the developer didn't access passwords, the scraped phone numbers have more significant consequences in China than in other parts of the world.
 
-The company disclosed that the attacks had resulted in the theft of personal data from all three billion user accounts on Yahoo's platform, making it one of the largest data breaches ever.
+In China, people are required to register with valid identification using their real name before obtaining a mobile phone number. By law, mobile numbers are considered personal information. Mobile phone numbers are often used to sign up for Chinese internet services. Knowing a person’s cellphone number makes it easier for malicious users to track down Chinese user's social media accounts and other personal information.
 
-The Yahoo data breach was initiated through a spear-phishing email that was sent in early 2014 to a Yahoo employee.
+## 4. Aadhaar
 
-Once the hacker gained access to the network, they focused on two primary targets: the user database and the Account Management Tool used to modify the database.
+**Date:** September 2019  
+**Impact:** 1.1 billion accounts
 
-To maintain access, the hacker installed a backdoor on a Yahoo server that granted them “free entry”. In December of that year, the hacker stole a backup copy of Yahoo's user database, which was then transferred to their computer.
+Aadhaar is a 12-digit unique ID number issued to citizens in India. The numbers are treated as private information, similar to social security numbers. More than 90% of the Indian population have Aadhaar numbers. People use their Aadhaar number to open a bank account, buy a SIM card, sign up for utilities, apply for welfare, and vote. Enrolling in Aadhaar isn't mandatory, but without it, Indian citizens can't access basic government services. In 2019, Indane, a state-owned gas and energy company, left an insecure API with access to the Aadhaar database online. Anyone could access the API without authentication. The leak exposed names, Aadhaar numbers, addresses, bank details, and services they are signed up to.
 
-The database contained valuable information such as names, phone numbers, password challenge questions and answers, and most critically, password recovery emails, and hashed passwords. 
+The Indian government department responsible for the database, The Unique Identification Authority (UIDAI), initially [denied the leak](https://twitter.com/UIDAI/status/977549605733679104). However, the security researcher who found the API endpoint noted that the API used a hardcoded token for access control. When translated, the token ironically was set to "INDAADHAARSECURESTATUS". This allowed anyone to query Aadhaar numbers against the database without any further authentication. Furthermore, the API had no rate limiting in place, allowing attackers to rotate numeric combinations enumerating all available Aadhaar IDs. Malicious users sold the data for approximately USD $7 on WhatsApp. Despite many notifications of the issue, it took the UIDAI months to take the API offline.
 
-Hashed passwords are passwords that have been processed through a hashing algorithm, such as bcrypt or argon2id, which transforms plain text into an incomprehensible combination of letters and numbers.
+![Aadhaar data breach example](../Aadhaar.png)
 
-Yahoo has stated that the hackers did not gain access to users' financial information, such as credit card numbers or bank account information, as that data was stored separately and encrypted.
+## 5. LinkedIn
 
-The breach had far-reaching consequences for Yahoo and its users, including damage to the company's reputation and numerous lawsuits from affected parties. The company paid a $117.5 million settlement.
-### #3. First American Financial Corporation
-In 2019, First American Financial Corp. suffered a major data leak due to poor data security measures and a flawed website design. 
+**Date:** June 2021  
+**Impact:** 700 million accounts
 
-While this incident was not a result of hacking, it highlights how easily private information can be accessed by unauthorized parties.
+A hacker using the moniker TomLiner advertised the sale of around 700 million LinkedIn users on a popular hacking forum. This represents approximately 90% of LinkedIn's total user base at the time. The same user leaked 500 million LinkedIn records three months earlier. The attacker exploited LinkedIn's API to collect the data. LinkedIn initially claimed this was not a breach and no private information was collected. However, the scraped data included full names, email addresses, phone numbers, physical locations, and more. Although no financial data or passwords were leaked, there was certainly enough information for identity theft and phishing attacks.
 
-The breach occurred due to a website design flaw called [IDOR (Insecure Direct Object Reference)](https://spanning.com/blog/insecure-direct-object-reference-web-based-application-security-part-6/), which allowed access to confidential information without verification or authentication procedures. This flaw meant that anyone with a link to the documents could view them without any restrictions. 
+## 6. Siba Weibo
 
-Additionally, since First American Financial Corp. logged their records in sequential order, users could modify the number in the URL to access other customer records.
+**Date:** March 2020  
+**Impact:** 538 million accounts
 
-As a result of the IDOR vulnerability, approximately 885 million files were exposed, including bank account numbers, bank statements, mortgage payment documents, wire transfer receipts containing social security numbers, and driver's licenses.
+A malicious user obtained part of Sina Weibo's database, impacting 538 million out of the 600 million total users they had at the time. Sina Weibo (now known as Weibo) is one of China's largest microblogging sites. Personal details data like names, usernames, genders, locations, and phone numbers were exposed. Passwords were not included, which is perhaps why the attacker sold the data for only ¥1,799 (USD 250). The ad selling the Weibo data is shown below:
 
-Fortunately, there were no reported cases of data being compromised or exploited. However, the breach resulted in First American being fined approximately $500,000 by the Securities and Exchange Commission (SEC)  for administrative errors and disregarding red flags in 2018.
+![Weibo data breach example](../weibo.png)
 
-The First American Financial Corp. data leak serves as a stark reminder of the importance of implementing strong cybersecurity measures to prevent unauthorized access to sensitive information.
-### #4. Facebook
-Despite being one of the biggest tech companies in the world, Facebook has faced several data leaks since going live in 2012. 
+Weibo initially [downplayed](https://weibo.com/2735327001/IzCMJioqC?from=page_1006062735327001_profile&wvr=6&mod=weibotime&type=comment) the severity of the attack. They said that no sensitive data like passwords were disclosed and that the information gathered was from publicly available data via a service that used phone numbers to locate Weibo accounts belonging to friends. However, they eventually admitted that if passwords were reused on other accounts, the data exposed could be used to associate accounts with those passwords.
 
-In April 2021, Facebook experienced one of its largest data breaches, when a massive amount of data related to more than 530 million Facebook users was posted publicly in an online hacking forum. 
+## 7. Facebook
 
-It is believed that the leaked data was obtained in 2019 when a group of hackers took advantage of a vulnerability in Facebook's contact importer.
+**Date:** April 2019  
+**Impact:** 533 million accounts
 
-At that time, Facebook users could easily find people by entering their phone numbers into the contact importer. The hackers scraped user profile data using this tool, in violation of Facebook's terms of service. Most of the data obtained was associated with users' phone numbers, while only 2.5 million email addresses were obtained.
+Approximately 533 million Facebook users' data was leaked, including profile names, ID numbers, email addresses, and phone numbers. The attacker scraped people’s Facebook profiles using a version of the contact importer function available before September 2019. The function was designed to help people use their contact lists to find friends to connect with. The function allowed users to upload a large set of phone numbers to see which ones matched Facebook users. Once the matched Facebook users were identified, malicious users could query a set of user profiles to obtain information about those users.
 
-Facebook addressed the vulnerability by September 2019 but opted not to notify the 530 million affected users about the data breach.
+Facebook didn't notify users about the leak because, at the time, there were [multiple](https://www.upguard.com/breaches/facebook-user-data-leak) [breaches](https://techcrunch.com/2019/09/04/facebook-phone-numbers-exposed/) [leaking](https://www.wired.com/story/cambridge-analytica-facebook-privacy-awakening/) [data](https://www.wired.com/story/how-facebook-hackers-compromised-30-million-accounts/) taken from Facebook itself as well as other companies circulating on various hacker forums. The vulnerability was [patched](https://twitter.com/Liz_Shepherd/status/1378398417450377222) in August of that year. While that specific avenue of attack was closed, Facebook recommends updating the [settings](https://www.facebook.com/help/131297846947406) that control who Facebook can suggest your profile to based on your email address or phone number.
 
-The Data Protection Commission of Ireland imposed a [$276 million fine](https://www.theverge.com/2022/11/28/23481786/meta-fine-facebook-data-leak-ireland-dpc-gdpr) on Facebook in November 2022 concerning the incident, for breaching the European Union's General Data Protection Regulation (GDPR).
-### #5. Microsoft 
-In early March 2021, the cybersecurity world was shocked by the news of a large-scale attack on Microsoft Exchange email servers. 
+## 8. Marriott (Starwood)
 
-The attack was carried out through a series of [zero-day](https://en.wikipedia.org/wiki/Zero-day_(computing)) exploits, which are software vulnerabilities unknown to the software developer and which have not been patched. In this case, the zero-day exploits targeted four vulnerabilities in Microsoft Exchange Server software, which allowed the attackers to gain access to email accounts and install malware.
+**Date: November 2018**  
+**Impact:** 500 million accounts
 
-The first vulnerability made it possible for the attackers to bypass authentication and gain access to the server, while the second vulnerability allowed them to write files to the server. 
+According to the company statement: “On September 8, 2018, Marriott received an alert from an internal security tool regarding an attempt to access the Starwood guest reservation database. Marriott learned that there had been unauthorized access to the Starwood network since 2014. Marriott recently discovered that an unauthorized party had copied and encrypted information, and took steps towards removing it. On November 19, 2018, Marriott was able to decrypt the information and determined that the contents were from the Starwood guest reservation database."
 
-The third vulnerability allowed the attackers to execute code on the server, and the fourth allowed them to steal data from it.
+The breached data included guests' names, phone numbers, dates of birth, genders, mailing addresses, email addresses, passport numbers, Starwood Preferred Guest account details, arrival and departure information, reservation dates, and communication preferences. Credit card details were included for a limited number of victims but were encrypted. Similar to the [Equifax breach](https://www.breachsense.com/blog/equifax-data-breach/)in 2017, the leaked data was never exploited or sold on the dark web. The attack was assumed to be perpetrated by the Chinese government in an attempt to build a dossier on American citizens.
 
-Once the attackers gained access to a server, they were able to install [web shells](https://www.microsoft.com/en-us/security/blog/2021/02/11/web-shell-attacks-continue-to-rise/), which are scripts that allow remote access. With web shells in place, the attackers could remotely execute commands and steal data, including emails, contacts, and other sensitive information.
+## 9. Yahoo!
 
-Despite Microsoft's efforts to release patches addressing the vulnerabilities exploited in the Microsoft Exchange email cyber attack, the effectiveness of these patches relied on individual server owners applying the updates promptly. Failure to update their systems would leave the vulnerabilities open to exploitation by attackers.
+**Date:** 2014  
+**Impact:** 500 million accounts
 
-The decentralized nature of the affected systems made it impossible for Microsoft to push immediate updates to all servers, as it could with cloud-based systems. 
-## 3 Common Data Breach Causes 
-In this section, we will explore three common causes of data breaches and leaks to gain a better understanding of their potential impact: 
+In a separate data breach from the 2013 security incident, hackers obtained data from over 500 million user accounts. The breached data included account names, telephone numbers, birth dates, email addresses, and hashed passwords. In some cases, security questions and answers were leaked as well. The attackers used manufactured session cookies to bypass authentication. The majority of the leaked passwords were hashed using bcrypt, which is quite difficult to crack. A small portion used the md5 hashing algorithm, which is quite easy to reverse into a plaintext password.
 
-### #1. Weak and Compromised User Credentials
-Weak and stolen credentials are among the most common [causes of data breaches](https://www.breachsense.com/blog/data-breach-causes/). While passwords are often used to protect sensitive data, they can also be the weakest link in cybersecurity. 
+In July 2016, a seller known as "Peace\_of\_Mind" put up the data for sale on a popular hacking forum. Two years after the breach, On September 2022, 2016, Yahoo! reported the breach and said that it believed the breach was committed by [state-sponsored hackers](https://www.washingtonpost.com/news/the-switch/wp/2016/09/22/report-yahoo-to-confirm-data-breach-affecting-hundreds-of-millions-of-accounts/ "Cyberwarfare"). Yahoo! learned of the attack in July 2016, during the same month it announced its deal to sell to Verizon. The two breaches negatively affected their share price.
 
-To reduce the risk of weak and stolen credentials, companies should not only [implement strong password policies](https://www.breachsense.com/blog/password-security-data-breach/) but also ensure that they have a robust cybersecurity monitoring program in place to detect and respond to potential breaches.
+## 10. Adult Friend Finder
 
-Two-factor authentication is another effective security measure that provides an additional layer of protection by requiring users to provide a second form of identification, through software or hardware token.
-### #2. Social Engineering
-Social engineering attacks, such as phishing emails, phone calls, or in-person interactions, can have [serious consequences for businesses](https://www.breachsense.com/blog/small-business-data-breach-consequences/) as cybercriminals can use the data obtained to breach IT systems and launch further attacks.
+**Date:** October 2016  
+**Impact:** 412 million accounts
 
-To prevent and mitigate the risks associated with social engineering attacks and data breaches, companies should increase spam filtering via email gateways and consider the implementation of antivirus and endpoint security tools.
+Six databases owned by FriendFinder Networks were hacked. The breach included 20 years' worth of historical data from Adultfriendfinder.com, Cams.com, Penthouse.com, and Stripshow.com. iCams.com, as well as an unknown domain. The breach included over 15 million "deleted" accounts that weren't actually removed from the databases. The leaked data included usernames, email addresses, and SHA1 hashed passwords.
 
-Employee education and training are also critical in helping to identify and avoid social engineering attacks.
-### #3. Malware
-Malware is a type of software designed to damage, disrupt or gain unauthorized access to computer systems, networks, and data. It comes in various forms, including viruses, worms, Trojan horses, spyware, ransomware, adware, and infostealers. 
+While we don't know who was behind the attack, the incident occurred around the same time that a hacker who goes by the handle Revolver disclosed a local file inclusion vulnerability on the AdultFriendFinder website. The flaw allows malicious users to execute code on the web server if exploited. An example shared on Twitter is shown below:
 
-Once it infects a system, it can cause significant damage, such as stealing sensitive information, disrupting system operations, encrypting files, and rendering systems unusable.
-## 4 Types of Data Breach
-To effectively safeguard your organization's data, it's important to understand the various [types of data breaches](https://www.breachsense.com/blog/data-breach-types/) that can occur. Below we will cover four of the most common types of data breaches:
-### #1. Ransomware
-Ransomware is malicious software that encrypts files stored on electronic devices, rendering them inaccessible to the owner. The latest versions of ransomware are increasingly sophisticated, with some even corrupting or erasing data.
+![AdultFriendFinder data breach example](../AFF.jpg)
 
-Moreover, cybercriminals can use ransomware to steal your files and use them to extort you, offering the option to pay up or risk having sensitive information exposed to the public.
-### #2. SQL Injection
-SQL Injection is a code injection technique that attackers use to exploit vulnerabilities in a web application's database layer. This technique allows an attacker to insert malicious SQL code into a query, which can then be used to manipulate the application's database, leading to various potential issues.
+## 11. MySpace
 
-SQL (Structured Query Language) is used by many web applications to interact with their databases. When a web application takes user input and includes it in an SQL query without properly sanitizing it, an attacker can include their own SQL commands which the database will execute.
+**Date:** August 2013  
+**Impact:** 360 million accounts
 
-To prevent SQL Injection attacks, developers should use prepared statements, parameterized queries, or ORM frameworks, all of which can ensure that user-supplied input is always treated as literal data, not executable code.
-### #3. Phishing
-Phishing is a malicious tactic in which attackers send fraudulent emails or messages to deceive recipients into revealing sensitive information such as login credentials, financial data, or personal information.
+Shortly before the Memorial Day weekend in 2016, MySpace disclosed a breach that exposed usernames, email addresses, and SHA1 hashed passwords. However, the hash only included the first ten characters of the password and converted that to lowercase before hashing. Furthermore, no salt was used in the hash. The accounts were both leaked on LeakedSource.com and sold on the dark web market, The Real Deal, for six bitcoins, which was around USD 3000 at the time.
 
-These emails or messages are designed to appear as if they are from trustworthy sources, such as reputable companies or organizations, and often contain links or attachments that, once clicked or downloaded, install malware on the victim's device.
-### #4. Cross-Site Scripting Attack (XSS)
-Cross-Site Scripting (XSS) is a type of web-based attack in which an attacker injects malicious code into a website, often through a vulnerable web application. 
+While the exact date of the breach is unknown, it appears that the data was from approximately 2008. The company [stated](https://myspace.com/pages/blog) that accounts created before June 11, 2013, on the old Myspace platform were affected. MySpace invalidated all passwords from those accounts and required users to reset their passwords to regain access.
 
-This code is then executed when a user visits the affected webpage, allowing the attacker to steal sensitive information or take control of the victim's session.
+## 12. NetEase
 
-XSS attacks can be prevented by implementing proper input sanitization and validation techniques, as well as security measures like [CSP (Content Security Policy)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP) and input filtering.
-## 6 Ways to Prevent a Data Breach
-[Data breaches can be a costly](https://www.breachsense.com/blog/cost-of-a-data-breach/) and damaging experience for your company. 
+**Date:** October 2015  
+**Impact:** 235 million user accounts
 
-In this section, we'll share six tried-and-true ways to [prevent data breaches](https://www.breachsense.com/blog/prevent-data-breach/) and keep your sensitive information secure, starting with:
-### #1. Multi-Factor Authentication
-Multi-factor authentication (MFA) is an effective way to prevent unauthorized access to sensitive data. 
+NetEase is a Chinese Internet technology company that provides various online services, including content, communications, and commerce. At the time, they operated one of China's most popular free email services. Attackers exploited unknown vulnerabilities in their 163.com and 126.com web applications and gained access to millions of email addresses and plaintext passwords. A dark web vendor who went by the handle “DoubleFlag” initially sold the data, which eventually became publicly available. While NetEase has denied the breach, numerous victims have [confirmed](https://haveibeenpwned.com/PwnedWebsites#NetEase) the password they used was in the breach.
 
-This requires users to provide multiple forms of authentication to access systems and data, making it much more difficult for cybercriminals to gain access.
-### #2. Regularly Update Software and Systems
-Software and systems that are not up-to-date can contain vulnerabilities that cybercriminals can exploit to gain unauthorized access to sensitive information.
+## 13. Experian (Court Ventures)
 
-Updates often include security patches that address known vulnerabilities and security flaws in software and systems. Failure to apply such patches leaves organizations at risk of a cyber attack, which can result in significant financial losses and reputational damage.
-### #3. Implement Encryption
-Encryption is a crucial security measure that can prevent data breaches by rendering sensitive information unreadable and unusable to unauthorized users. 
+**Date:** October 2013  
+**Impact:** 200 million personal records
 
-It works by converting plain text into cipher text using advanced mathematical algorithms that are almost impossible to decipher without the appropriate decryption key.
-### #4. Dark Web Monitoring
-Businesses can use [dark web monitoring](https://www.breachsense.com/dark-web-monitoring/) services to detect if any of their confidential data, such as leaked passwords, intellectual property, or other sensitive information, is being shared on the dark web. 
+Hieu Minh Ngo, a Vietnamese national, posed as a private investigator operating out of Singapore. Ngo purchased consumer records from Court Ventures and paid via cash wire transfers sent from a Singaporean bank. Court Ventures had an agreement with another company called US Info Search, whereby each company had access to the other's data. Ngo used his contract with Court Ventures to siphon data from US Info Search's database. The data included Social Security Numbers, dates of birth, phone numbers, addresses, previous addresses, email addresses as well as other sensitive data. By Ngo's arrest, his identity theft business had profited around USD 2 million and attracted more than 1,300 customers.
 
-These services use a combination of HumanInt, and OSINT, as well as automated or AI-powered scanning tools to search through billions of pages on the dark web constantly. 
+## 14. LinkedIn
 
-Whenever the service detects any information that matches the company's data, it sends an immediate alert to the IT team, notifying them of the exposure.
-### #5. Implement Clear Policies and Procedures
-Clear policies and procedures should be established to help employees understand their responsibilities in safeguarding data. 
+**Date:** June 2012  
+**Impact:** 164 million users
 
-This includes developing clear policies on password security, data access, and data storage.
-### #6. Conduct Employee Training
-Regular employee training on data security best practices is a must when it comes to data breaches. 
+After the initial breach in 2012, LinkedIn estimated that a hacker stole 6.5 million user's login credentials. In 2016, LinkedIn [admitted](https://www.linkedin.com/blog/member/trust-and-safety/protecting-our-members) that it severely underestimated the number of affected users. The passwords were hashed using SHA1 without a salt. The data was put up for sale on a Russian hacker forum for a mere five bitcoins (around USD 2000 at that time). LinkedIn invalidated passwords for any account created prior to the 2012 breach​ that hadn’t updated​ their password since.
 
-Employees should be educated on how to identify and respond to potential security threats such as phishing attacks and other forms of social engineering.
+## 15. Dubsmash
 
-*Learn about how helpful it can be to [have a data breach response plan](https://www.breachsense.com/blog/data-breach-response-plan/) in place and how you can build one that works for you with our article.*
-## 4 Ways to Recover From a Data Breach
-A [data breach](https://www.breachsense.com/blog/what-is-a-data-breach/) can lead to severe consequences, including financial losses, reputation damage, and identity theft. If a company falls victim to a data breach, it's crucial to take immediate action to contain the breach.
+**Date:** December 2018  
+**Impact:** 162 million user accounts
 
-Here are four important steps that organizations can take [in the aftermath of a data breach](https://www.breachsense.com/blog/after-a-breach/) to recover:
-### #1. Contain the Breach
-The first and most critical step in dealing with a cyber attack is to contain the potential damage by identifying and isolating affected systems. 
-
-Disconnecting the internet, removing compromised devices, updating systems, and changing passwords can help prevent further damage. 
-### #2. Evaluate the Damage
-Once the initial containment phase has been completed, organizations should investigate the extent of the damage. 
-
-This involves identifying the type of data that was compromised and its potential impact on individuals and the company itself.
-### #3. Address Possible Weaknesses
-After conducting a damage evaluation, it is necessary to address the possible weaknesses that may have contributed to the breach. 
-
-This can involve conducting a risk assessment to identify any [vulnerabilities that were exploited](https://www.breachsense.com/blog/vulnerabilities-cause-data-loss/), evaluating existing security measures, and implementing additional security protocols to prevent future breaches.
-### #4. Notify All Stakeholders
-Following a data breach, it's crucial to notify the appropriate parties to minimize the potential harm to affected individuals and comply with relevant regulations. 
-
-The company should provide details about the extent of the breach, the type of information that was compromised, and the measures being taken to prevent it from happening again.
-## FAQs on Data Breaches
-Do you still have some questions about data breaches? Check out our answers to the most frequently asked questions below: 
-### #1. How common are data breaches? 
-Data breaches are becoming increasingly common in today's digital landscape. [According to reports](https://www.securitymagazine.com/articles/87787-hackers-attack-every-39-seconds), the number of cyber attacks per day is estimated to be around 2,200, with an attack happening approximately every 39 seconds on average.
-### #2. Is Data Breach a Cyber Crime?
-Cybercrime refers to any illegal activity carried out using digital devices or the internet. When someone gains unauthorized access to a computer system or network and steals, exposes, or manipulates sensitive data, it is considered a cybercrime. 
-### #3. What Is the Difference Between a Data Breach and a Data Leak? 
-A data leak happens when confidential data is unintentionally made public, while a data breach happens as a result of a cyberattack.
-
-A data breach typically involves an external event that leads to the compromise of data. This event is often initiated by a cybercriminal through actions like a phishing attack.
-
-A data leak, on the other hand, occurs due to internal factors. The confidential data may be exposed due to software vulnerabilities that internal security teams might overlook, or [insider threats](https://www.breachsense.com/blog/insider-threat-data-breach/) could deliberately create an attack vector for hackers to access the sensitive data.
-
-The consequence of data leaks and data breaches is similar, as they both result in sensitive data being compromised. The main factor that distinguishes the two is the cause that leads to this outcome.
-## Conclusion
-The complexity of information technology systems, combined with human fallibility in making decisions about cybersecurity, creates inherent cybersecurity dangers. 
-
-In this environment, data breaches and leaks can occur frequently, making it critical for organizations to take proactive measures to protect sensitive information. 
-
-Breachsense specializes in helping businesses [avoid data breaches](https://www.breachsense.com/) by providing real-time alerts when user credentials appear on the dark web. 
-
-With easy integration and expertise in preventing account fraud, Breachsense offers an offensive approach to cybersecurity that can be a valuable defense for organizations of any size and industry.
-
-[Book a demo today](https://www.breachsense.com/book-demo/).
+Dubsmash, a popular video messaging service, suffered a data breach that leaked usernames, email addresses, PBKDF2 hashed passwords, geolocations, spoken languages, and phone numbers. The data was put up for sale along with 15 other hacked apps on the Dream Market. Although Dubsmash acknowledged the breach, they never disclosed how the breach happened. In the following year, Reddit purchased Dubsmash and subsequently shut it down.

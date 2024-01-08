@@ -43,7 +43,7 @@
         </div>
 
         <div class="content">
-          {{ if or (eq .RelPermalink "/blog/what-is-a-data-breach/") (eq .RelPermalink "/blog/equifax-data-breach/") (eq .RelPermalink "/blog/data-breach-causes/") (eq .RelPermalink "/blog/cost-of-a-data-breach/")}}
+          {{ if or (eq .RelPermalink "/blog/what-is-a-data-breach/") (eq .RelPermalink "/blog/equifax-data-breach/") (eq .RelPermalink "/blog/data-breach-causes/") (eq .RelPermalink "/blog/data-breach-examples/") (eq .RelPermalink "/blog/cost-of-a-data-breach/")}}
           <h1 class="mb-4">{{.Params.h1}}</font></h1>
 	  <p> {{ .Params.intro1 | markdownify }} </p>
 	  <p> {{ .Params.intro2 | markdownify }} </p>
