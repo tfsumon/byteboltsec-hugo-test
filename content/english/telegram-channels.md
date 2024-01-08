@@ -448,3 +448,5 @@ layout: "elements"
 | UserSec | <a href="https://t.me/user_sec" rel="nofollow">https://t.me/user_sec</a>|
 | Homeland Justice | <a href="https://t.me/justice_homeland" rel="nofollow">https://t.me/justice_homeland</a>|
 | QuartzSec | <a href="https://t.me/QuartzSec" rel="nofollow">https://t.me/QuartzSec</a>|
+| Exploits | <a href="https://t.me/APTANALYSIS" rel="nofollow">https://t.me/APTANALYSIS</a>|
+| 23andme Leak Database | <a href="https://t.me/Leak_23andme" rel="nofollow">https://t.me/Leak_23andme</a>|
