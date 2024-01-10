@@ -12,6 +12,6 @@ draft: false
 | Victim      | drjaimeschwartz.com      | 
 | Threat Actor      | Hunters      | 
 | Date Discovered      | Oct 24, 2023      | 
-| Description      | Dr. Jaime Schwartz is a true professional and is widely known for fixing some of the most complex plastic surgery problems in the industry.      | 
+| Description      | Jaime Schwartz MD, FACS is a board-certified plastic surgeon and an internationally recognized expert in plastic surgery, specializing in advanced surgical techniques.      | 
 | Leak Size      | Unknown      | 
 
