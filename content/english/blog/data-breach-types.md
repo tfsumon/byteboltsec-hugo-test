@@ -1,103 +1,198 @@
 ---
-date: "2023-05-14"
-title: "7 Data Breach Types to Avoid at All Costs in 2024"
-image: "images/blog/7 Data Breach Types to Avoid at All Costs in 2023.png"
-description: "There are more & more data breaches happening every day. Learn about the 7 most common data breach types to protect your organization!" 
+date: "2024-01-11"
+title: "7 Most Common Types of Data Breaches Explained"
+image: "images/blog/data-breach-types.png"
+description: "Discover the most common types of data breaches. Learn what types of data breaches you could experience in your company."
 author: "Breachsense"
+h1: "7 Most Common Types of Data Breaches"
+intro1: "There's no point in sugarcoating it - A data breach may be your business's worst nightmare."
+intro2: "For one, suffering a breach is guaranteed to [ruin your brand reputaion](https://www.journalofadvertisingresearch.com/content/57/1/3.short). A data breach will also negatively affect your revenue. Not to mention that you might face litigation and severe fines."
+intro3: "Unfortunately, data breaches continue to grow increasingly common. Just look at our listing of the [latest data breaches](https://www.breachsense.com/breaches/) to see it. New, and quite severe data breaches happen practically every day!"
+intro4: "Of course, understanding the different types of data breaches won’t directly protect your business. But it could help you become more vigilant about them.<br><br>With that in mind, we've compiled a list of the most common data breach types to help you understand how your data could become vulnerable.<br><br>It's a lot to cover so lets' right into it."
 draft: false
 ---
-A data breach may well be your business’s worst nightmare. 
+## 7 Most Common Data Breach Types
 
-It can ruin your brand reputation, eat away at revenue, and ultimately lose you clients. 
+These are the seven types of data breaches that each organization should avoid:
 
-Unfortunately, data breaches have grown increasingly common. 
+## 1. Double Extortion Ransomware
 
-In the third quarter of 2022, a whopping 15 million data records got exposed worldwide. And this figure is a 37 percent increase from the preceding quarter!
+The double extortion ransomware attack works in two ways. 
 
-So what can you do? 
+First, hackers encrypt the victim's files through malicious software, making them inaccessible. Next, they also threaten to leak sensitive information unless a second ransom is paid. 
 
-One of the first steps in protecting your organization from data breaches is *knowing* about the different types of data breaches. 
+How does a double extortion ransomware attack work:
 
-In this article, we outline seven data breach types to watch out for, explain why they happen, and list the most common ransomware out there.   
-## 7 Data Breach Types
-These are the seven types of data breaches that each organization should avoid: 
-### #1. Double Extortion Ransomware
-Double extortion ransomware is a particularly pernicious type of cyberattack [that has been on the rise](https://ciphertrace.com/ciphertrace-report-double-extortion-ransomware-jumped-by-nearly-500-last-year/). 
+- An attacker first gains access to the victim's system. This could happen through a whole range of methods like [phishing](https://www.techtarget.com/searchsecurity/definition/phishing), malware delivered via email, a malicious website, etc. 
+- Next, the attacker investigates the system to see what sensitive information they can access and exploit. 
+- Once the attacker identifies potentially valuable files, they steal those and move them to a remote server or location. At the same time, the data gets encrypted and locked, preventing the victim from gaining access to it. 
+- Then, the attacker demands a ransom to unlock the files.
+- If the victim refuses, the attacker moves to the second part of the attack - threatening to leak the data to the public or selling it on the dark web. 
 
-In this type of data breach, cybercriminals not only encrypt a company's data and demand a ransom for its release but also threaten to leak the stolen data publicly if the ransom is not paid. This two-pronged approach significantly increases the pressure on the victim to pay the ransom, hence the term "double extortion". 
+**EXAMPLE:** IT services giant Cognizant has found themselves a [victim of a double extortion attack in 2020](https://www.techtarget.com/searchsecurity/news/252481892/Cognizant-discloses-Maze-ransomware-attack). In April of that year, the company suffered a Maze ransomware infection. The attackers stole personally identifiable information from their network. 
 
-To protect your business against such attacks, you should make sure your system software is updated, backups taken regularly, and the network is properly segmented.
-### #2. Malware
-Malware is a broad term that encompasses various types of malicious software, including viruses, trojans, and spyware. 
+In one of the notification letters sent to customers, [the company admitted](https://oag.ca.gov/system/files/Letter%201.pdf):
 
-This malicious software can infiltrate a network or computer system, causing harm by deleting, altering, or stealing data. 
+*"The majority of the personal information that was impacted was information relating to our corporate credit cards."*
 
-Malware often enters a system through deceptive links, fraudulent emails, or infected software downloads. As such, protection against malware requires the use of comprehensive and up-to-date antivirus software, combined with employee education on recognizing and avoiding potential threats.
-### #3. Phishing
-Cybercriminals employ phishing to trick individuals into providing sensitive information, such as usernames, passwords, or credit card details. 
+**One thing worth remembering about double extortion ransomware:** The two-pronged approach significantly increases the pressure on the victim to pay the ransom. Backups won't help when the threat actor leaks your client's sensitive data.
 
-This is usually achieved by impersonating a trustworthy entity in an electronic communication, such as an email. Clicking on a link or opening an attachment in a phishing email can lead to data theft or malware infection. 
+**How to protect yourself from double extortion ransomware attack:**
 
-Effective strategies to combat phishing include training employees to recognize phishing attempts, implementing email filtering software, and encouraging the use of Multi-Factor Authentication (MFA).
-### #4. Recording Keystrokes 
-Keylogging, or keystroke recording, is a data breach technique where cybercriminals use a software or hardware device to record the keys struck on a keyboard without the user's knowledge. 
+- Make sure your system software is updated, 
+- Ensure your employees' and customers' leaked credentials are immediately reset
+- Take regular backups 
+- Segment your network to minimize the opportunity for an attacker to gain access to your entire network.
 
-This information can include passwords, credit card numbers, and other sensitive data. These devices may be physically attached to a computer, or more commonly, a malicious software program may be installed on a user's device through an email attachment or malicious website. 
+## 2. Malware
 
-[To prevent this data breach type](https://www.breachsense.com/blog/prevent-data-breach/), it's essential to employ reputable security software, maintain regular system updates, and encourage safe browsing habits among employees.
-### #5. Stolen Information 
-One of the most straightforward types of data breaches involves directly stealing information. 
+Malware is, by far, one of the most commonly associated terms with data breaches and cybercrime in general. 
 
-This can occur through physical means, such as the theft of a laptop or smartphone, or digital methods, such as hacking into a network to access confidential files. The stolen information can then be sold, used for fraudulent activities, or leveraged for competitive advantage.
+It is also one of the most significant threats we face today. Let me quote one statistic to emphasize the point. According to various sources, [560000 pieces of malware](https://www.getastra.com/blog/security-audit/malware-statistics/) are detected every day. I'm sure you'll agree that the numbers are almost unbelievable. 
 
-An [example of such a data breach](https://www.breachsense.com/blog/data-breach-examples/) is what happened to Apple, where cyberattackers stole phone prototypes from their production lines and found ways of hacking people’s phones.  
+Then again, there is something worth keeping in mind about malware - This broad term de facto encompasses various types of malicious software, including viruses, trojans, and spyware. So, although the overall numbers of malware detected are staggering, these do not refer to the same types of programs. 
 
-Effectively dealing with information theft involves a multi-faceted approach, including physical security measures, robust cybersecurity defenses, [a robust data breach response plan](https://www.breachsense.com/blog/data-breach-response-plan/), and comprehensive employee training on data protection protocols.
-### #6. Brute Force Attack 
-A brute force attack is a trial-and-error method used by cybercriminals to test various passwords until they find the ones that work. 
+Still, the fact remains that malware is one of the most common root causes of data breaches. 
 
-Through this method, the attacker systematically checks all possible combinations until the correct one is found. This attack type can be time-consuming but can be accelerated with the use of bots or powerful computers. 
+Here's how. 
 
-[Implementing complex passwords](https://www.breachsense.com/blog/password-security-data-breach/), enabling account lockouts after a certain number of failed attempts, and utilizing MFA can help deter brute force attacks.
-#7. SQL Injection Attack 
-SQL Injection is a type of cyberattack in which an attacker inserts malicious SQL code into a query. 
+Hackers use malware to gain initial access to a network or computer system, causing harm by deleting, altering, or stealing data.
 
-The attacker can use a malicious payload to manipulate the database and gain unauthorized access to sensitive information. Meanwhile, this type of data breach can lead to data theft, data corruption, or even a loss of control over the database. 
+Malware often enters a system through deceptive links, fraudulent emails, or by downloading infected software. It's common to receive an email with seemingly innocent links containing malware that can give an attacker initial access to the network. Often, these messages spoof actual messages, as if they were coming from genuine organizations.
 
-To prevent SQL Injection attacks, organizations should use parameterized queries, employ web application firewalls, and regularly update and patch their database management systems. Regular audits and penetration testing can also help identify and [fix vulnerabilities](https://www.breachsense.com/blog/vulnerabilities-cause-data-loss/) before they can be exploited.
+These messages aim to trick the recipient into thinking that these are genuine and to click on the malicious link included. The action usually triggers a malware download. 
 
-*Learn about [what your company should do after a data breach](https://www.breachsense.com/blog/after-a-breach/) to timely mitigate the risks and protect your reputation.*
-## Why Do Data Breaches Happen?
-So now you know more about the most frequent data breach types. But why do they occur in the first place? 
+Once downloaded, malware can execute various actions, such as stealing data, disrupting operations, or providing hackers with unauthorized access to the company's systems. 
 
-Some of the most [common data breach causes](https://www.breachsense.com/blog/data-breach-causes/) are:
+**EXAMPLE:** In a bit of an ironic twist of fate, in 2019, [hackers tried to use compromised login credentials belonging to the VPN and antivirus software company Avast](https://www.hackerone.com/knowledge-center/data-breach-examples-causes-and-how-prevent-next-breach) in order to gain access to their network and inject malware into their product. Had they been successful, any Avast user would automatically suffer from a malware attack, and that's without even knowing. Luckily, the attack was discovered before it led to a full-scale breach. 
 
-* **[Human error](https://www.breachsense.com/blog/data-breach-human-error/)**: This is among the most common data breach causes and it involves employees falling for phishing scams, misconfigured security settings, or failing to follow established data protection protocols. Even something as simple as leaving a logged-in computer unattended can lead to a data breach. 
-* **[Insider misuse](https://beachsense.io/blog/insider-threat-data-breach/)**: An unauthorized employee deliberately accesses the company’s system for personal gain or convenience. This type of data breach is particularly common in [highly regulated industries, like healthcare](https://www.breachsense.com/blog/impact-of-data-breach-healthcare/). 
-* **Stolen devices**: Physical theft of thumb drives, hard drives, laptops, tablets, phones, or any other device containing your company’s sensitive information. 
-* **Social engineering**: By using psychological manipulation to trick individuals into breaking normal security procedures or divulging confidential information, cybercriminals gain access to confidential information like passwords and bank information, or gain access to systems or networks for malicious purposes
-* **Unpatched security vulnerabilities**: These refer to identified weaknesses or flaws in a system's software or hardware that have not been addressed or fixed through updates or patches, leaving data open to cyber criminals. These vulnerabilities can be exploited by cybercriminals to gain unauthorized access to a system, enabling them to steal sensitive data, disrupt operations, or install malicious software.
-* **[Third-party breaches](https://www.breachsense.com/blog/third-party-data-breach/)**: A company's sensitive data is compromised through its relationships with external partners, vendors, or service providers that have access to their systems or data. 
+**How to protect yourself from malware-based security breaches:**
 
-*Do you have a small business? Learn about the [consequences a data breach can have on a small business](https://www.breachsense.com/blog/small-business-data-breach-consequences/) and how to avoid one from happening to you.*
-## 8 Common Malware Cyber Attackers Use for Data Breaches
-Malware is an umbrella term for various types of malicious software, such as: 
+Beyond having a fully patched system and running up-to-date antivirus, it's essential to use a non-privileged user account and only run software as root or an administrator when required. This severely limits the potential damage the malware can do when it executes without administrative privileges.
 
-* **Trojan**: A Trojan is a program that initially appears beneficial, but upon download, accesses sensitive data and can delete, modify, or obstruct it.
-* **Worm**: A worm is a type of software that infects your device via a downloaded file. It rapidly replicates and disseminates to other devices within the same network.
-* **Virus**: A virus is a code attached to a file that remains dormant after download until you open the file and start working on it.
-* **Adware**: Adware is software that collects data on your computer usage and then shows you ads based on that information. The issue arises when it harbors malware or redirects your browser to harmful sites. Not to mention, excessive adware can considerably slow down your system.
-* **Fileless malware**: Diverging from standard malware which operates on a system level, fileless malware works on the computer's memory, making them harder to detect.
-* **Infostealer malware**: Infostealer malware is malicious software that primarily focuses on stealing sensitive data from compromised systems, such as login credentials, personal information, and financial details. It typically infiltrates systems via phishing emails, malicious websites, or infected software downloads, and operates discreetly in the background to exfiltrate the targeted data without the user's knowledge.
-* **Spyware**: Spyware is a program that, once installed on your computer, enables data transfer from your hardware without your consent. It can expose confidential information such as financial details and passwords.
-* **Botnets**: Bots are malicious autonomous programs developed for tasks such as chatting, clicking on links, or spreading spam messages. The goal is to infect a system, steal data, or defraud by, for instance, tricking users into sharing sensitive information.
-## Protect Your Business From Data Breaches
-If protecting your business’ data matters to you, [Breachense](https://www.breachsense.com/) is the answer. 
+## 3. Phishing
 
-Breachsense continually monitors your users, employees, and third-party software providers’ credentials and immediately notifies you of leaked or stolen data on the [dark web](https://www.breachsense.com/dark-web-monitoring/), averting a data breach before it even happens. 
+Phishing is a type of social engineering attack that uses seemingly genuine email or SMS messages to trick recipients into performing an action. 
 
-Not to mention, its intuitive interface will fit effortlessly into any security tool you’re using. 
+But unlike a malware attack, which aims to have the person click on a link to download malicious software, phishing attacks aim to trick the victim into divulging sensitive information, such as passwords or financial details.
 
-Don’t wait until it’s too late to protect your data. 
+Cybercriminals often impersonate a trustworthy entity and provide a genuine reason why the person should take action on the message. 
 
-[Book a demo](https://www.breachsense.com/book-demo/).
+Here's one example of a phishing SMS message.
+
+![Example of a phishing message that can cauase a data breach](../eFlow.png) 
+
+In this case, hackers impersonated a toll payment company, eFlow, and scared the recipient into thinking that their account would be disabled. As the message suggests, the only way to prevent it would be to fill in the form by following a URL. 
+
+**The problem?** Well, for one, the URL does not match the company's website. Moreover, it is quite ridiculous and certainly not something a company would use for their terms and conditions. Usually, such a document would be part of their main website and not use a separate domain.
+
+I haven't clicked on the link, of course. But most likely, if I did, I'd see a form asking me to complete a whole range of personal information, thus delivering all that information to hackers on a platter!
+
+**EXAMPLE:** In July 2020, Twitter became a victim of a [clever phishing attack](https://www.ekransystem.com/en/blog/real-life-examples-insider-threat-caused-breaches) in which hackers targeted the company's employees working from home. Disguising themselves as Twitter IT administrators, hackers duped employees into providing them with their user credentials. This information, in turn, allowed hackers to access 130 private and corporate Twitter accounts (including those of Elon Musk, Bill Gates, Jeff Bezos, and more). Hackers used those accounts to promote a Bitcoin scam.
+
+**How to protect from phishing attacks:**
+
+Effective strategies to combat phishing include:
+
+- Implementing technical controls to prevent users from making bad decisions.
+- Training employees to recognize phishing attempts.
+- Implementing email filtering software.
+- Enforcing Multi-Factor Authentication (MFA) authentication everywhere.
+
+## 4. Recording Keystrokes
+
+Keylogging, or keystroke recording, is a data breach technique where cybercriminals use software or hardware devices to record the keystrokes on a keyboard without the user's knowledge.
+
+Since keystroke recording software captures everything the person types, it will eventually also capture passwords, credit card numbers, and other sensitive data. 
+
+Once activated, keylogging tools will clandestinely transmit the logged data to the attacker, enabling unauthorized access to personal and confidential information. 
+
+These devices may be physically attached to a computer, or more commonly, a malicious software program may be installed on a user's device through an email attachment or malicious website.
+
+Here's an actual example of a keylogger log file, as reported by [Wikimedia](https://commons.wikimedia.org/wiki/File:Keylogger-software-logfile-example.jpg). In this case, the log file contains the contents of an email with confidential market information.
+
+![Screenshot of a keylogging data breach](../keylogger.png)
+
+**EXAMPLE:** [In February 2015](https://www.opswat.com/blog/11-largest-data-breaches-all-time-updated), healthcare giant Anthem became a victim of a data breach that resulted from keylogging. The attack started with a phishing email sent to five of the company's employees. These messages duped recipients into clicking a link that, in turn, downloaded keylogging malware onto their computers. Thanks to this, attackers obtained their victims' passwords and, in turn, accessed the companies' data. The result was the theft of over 80 million records from the company's network. 
+
+**How to protect your company from a keylogging attack:**
+
+- Install strong and reputable security software
+- Employ password management software like Bitwarden so employees do not need to type passwords. If they don't type them, keyloggers can't record them. Password managers also ensure that the passwords are submitted to the correct website and not a phishing site. 
+
+## 5. Stolen Information
+
+One of the most straightforward types of data breaches involves directly stealing information.
+
+This can occur through physical means, such as the theft of a laptop or smartphone, or digital methods, such as hacking into a network to access confidential files. The stolen information is often sold, used for fraudulent activities, or leveraged for competitive advantage.
+
+**EXAMPLE:** In 2019, hackers exploited iPhone prototypes stolen from the company's production lines to identify vulnerabilities that would help them break into user's devices.
+
+As a matter of fact, the issue has become so prevalent that it sparked a market for "dev-fused" iPhone prototypes, with costs of such devices going as far as [$1800 per unit](https://www.theverge.com/2019/3/7/18255509/apple-iphone-dev-fused-stolen-prototype-switchboard-hack-vulnerability). 
+
+**How to protect yourself from this type of data breach:**
+
+This is one of the most complex types of data breaches to protect yourself from. One reason is having almost no control over what information could be stolen and exploited. Just like the Apple example, it's nearly impossible to predict what sort of vulnerabilities hackers would find in a prototype (or how someone even thought of looking for such vulnerabilities there.)
+
+As a result, effectively dealing with information theft involves a multi-faceted approach, including physical security measures, robust cybersecurity defenses, [a robust data breach response plan](https://www.breachsense.com/blog/data-breach-response-plan/), and comprehensive employee training on data protection protocols.
+
+## 6. Brute Force Attack
+
+You know - The key to understanding this type of data breach lies in the word "brute."
+
+In this type of cyberattack, hackers systematically try all possible combinations of passwords or encryption keys until they hit the bullseye.
+
+This method aims to identify and exploit weak and easily guessable passwords. And the logic behind it is sound. Weak passwords like "123456," "password," or "admin" still top the list of [the most common passwords](https://www.cnbc.com/2023/11/16/most-common-passwords-70percent-can-be-cracked-in-less-than-a-second.html), after all. 
+
+In fact, according to [cnbc.com](https://www.cnbc.com/2023/11/16/most-common-passwords-70percent-can-be-cracked-in-less-than-a-second.html), 17 of the world's 20 most common passwords can be cracked in less than a second. 
+
+Then again, what would you expect when you consider how weak these passwords are:
+
+![List of weak passwords that can be easily cracked with a brute force attack and result in a data breach](../WeakPass.png)
+
+([image source](https://www.cnbc.com/2023/11/16/most-common-passwords-70percent-can-be-cracked-in-less-than-a-second.html))
+
+Naturally, those are just the most common passwords. But most of us don't use those (hopefully!), and so, to successfully conduct a brute force attack, hackers require time and computational power.
+
+That said, these attacks are also quite common. According to Verizon research ([cited after Fortinet](https://www.fortinet.com/resources/cyberglossary/brute-force-attack)), brute force attacks accounted for 5% of all data breaches in 2017.
+
+In many cases, these attacks follow a specific process:
+
+- First, attackers identify a specific target - a system, application, or even user account, that they want to compromise. 
+- Next, they gather information about the target, including usernames and potential password hints that would allow them to get started with the brute force attack. 
+- They then generate a large number of potential passwords. Using a tool like hashcat enables them to generate millions of permutations very quickly.
+- Finally, depending on the protocol used, various freely available brute force tools can be used to send a large number of login attempts quickly.
+
+**EXAMPLE:** In 2015, [Dunkin\' Donuts became a victim of a brute force attack](https://www.strongdm.com/blog/brute-force-attack) that resulted in hackers gaining access to 19,715 user accounts from the company's loyalty app. They exploit this to steal tens of thousands of dollars of rewards cash.
+
+**How to prevent a brute force attack:**
+
+- Present a CAPTCHA after a number of failed login attempts,
+- Enforce MFA to help deter brute force attacks,
+- Implement a complex password policy.
+
+## 7. SQL Injection Attack 
+
+SQL Injection or SQLi is a type of cyber attack where an attacker manipulates SQL queries by injecting malicious code into a database via a vulnerable application. 
+
+This technique allows an attacker to gain unauthorized access to the database. In other words, attackers can exploit a SQLi to retrieve, modify, or delete data from the database. 
+
+SQLi normally exploits a lack of input validation in the application's database query logic. Successful SQL Injection attacks can lead to arbitrary code execution, loss of data integrity, unauthorized administrative access to the database as well as a data breaches.
+
+**EXAMPLE:** While it may sound like a movie plot, this attack actually happened. Hackers known as RedHack Collective used SQL injection to[ breach the Turkish government website](https://brightsec.com/blog/sql-injection-attack/) and erase debt to government agencies. 
+
+[According to the same source](https://brightsec.com/blog/sql-injection-attack/), 7-Eleven also found themselves victims of an SQL injection attack when hackers exploited this data breach type to access the company's retail systems and steal 130 million credit card numbers!
+
+**How to prevent SQL injection attacks:**
+
+- Use parameterized queries
+- Ensure the database user is running as a low-privileged account
+- Regular audits and penetration testing can also help identify and [fix vulnerabilities](https://www.breachsense.com/blog/vulnerabilities-cause-data-loss/) before they're exploited.
+
+### And that's it…
+
+Now you know the most common types of data breaches, along with information that could help you prevent them from happening at your business. 
+
+### Want to protect your organization from data breaches? Use data breach monitoring to detect security breaches in real-time and prevent cyberattacks before they happen. 
+
+### [FIND OUT MORE](https://www.breachsense.com/data-breach-monitoring/)
