@@ -451,3 +451,4 @@ layout: "elements"
 | Exploits | <a href="https://t.me/APTANALYSIS" rel="nofollow">https://t.me/APTANALYSIS</a>|
 | 23andme Leak Database | <a href="https://t.me/Leak_23andme" rel="nofollow">https://t.me/Leak_23andme</a>|
 | Kiborg Leak (Alphabank) | <a href="https://t.me/kiborg_leak" rel="nofollow">https://t.me/kiborg_leak</a>|
+| Lockbit 3.0 Main.js | <a href="https://t.me/ransomblackbit30" rel="nofollow">https://t.me/ransomblackbit30</a>|
