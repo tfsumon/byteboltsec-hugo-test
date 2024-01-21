@@ -4,6 +4,7 @@
 /sessions https://api.breachsense.com/sessions 301
 /episode* / 301
 /podcast* / 301
+/breaches/post-* /breaches/ 301
 /legal* /terms-and-conditions 301
 /api* https://api.breachsense.com/creds 301
 /api3* https://api.breachsense.com/api3 301
