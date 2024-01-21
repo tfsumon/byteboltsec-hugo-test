@@ -40,7 +40,7 @@ Other than human error, there are six other [types of data breaches](https://www
 2. **Ransomware**: A type of malware that encrypts data and demands payment for its release. Often delivered through phishing emails or [exploited vulnerabilities](https://www.breachsense.com/blog/vulnerabilities-cause-data-loss/).
 3. **Insider threats**: [Data breaches](https://www.breachsense.com/blog/what-is-a-data-breach/) caused by employees or contractors with authorized access to sensitive information. Can be malicious or unintentional.
 4. **Physical theft**: Unauthorized access to sensitive data through stolen devices or hardware, such as laptops, smartphones, or USB drives.
-5. **[Third-party breaches](https://www.breachsense.com/blog/third-party-data-breach/)**: This type of breach occurs when [a company's data is compromised](https://www.breachsense.com/blog/after-a-breach/) through a vendor or partner's systems, often due to inadequate security measures.
+5. **[Third-party breaches](https://www.breachsense.com/blog/third-party-data-breach/)**: This type of breach occurs when [a company\'s data is compromised](https://www.breachsense.com/blog/after-a-breach/) through a vendor or partner's systems, often due to inadequate security measures.
 6. **Distributed Denial of Service (DDoS) attacks**: Overwhelming a system with a flood of traffic, leading to a crash and potential data exposure.
 
 *[Preventing a data breach can be hard](https://www.breachsense.com/blog/prevent-data-breach/). Learn the best way to do it through our 9 tried and true ways.*
