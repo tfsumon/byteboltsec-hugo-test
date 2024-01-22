@@ -25,7 +25,6 @@ layout: "elements"
 |  BlackDragonSec  | <a href="https://t.me/+JMruw9EHhWtmYjc9" rel="nofollow">https://t.me/+JMruw9EHhWtmYjc9</a>|
 |  Data Leaks | <a href="https://t.me/+nCFeH8PT-XUxZjEy" rel="nofollow">https://t.me/+nCFeH8PT-XUxZjEy</a>|
 |  Luffich Logs - Redline Stealer | <a href="https://t.me/+NshXlCbUEZkxZDMy" rel="nofollow">https://t.me/+NshXlCbUEZkxZDMy</a>|
-|  Goblin's Free Logs  | <a href="https://t.me/+OZheKtZ368YxMDBl" rel="nofollow">https://t.me/+OZheKtZ368YxMDBl</a>|
 | TCG | <a href="https://t.me/+O7yT5lylY89lMTcy" rel="nofollow">https://t.me/+O7yT5lylY89lMTcy</a>|
 |  Adrastea Group | <a href="https://t.me/+paglZbHnhE8xMTA8" rel="nofollow">https://t.me/+paglZbHnhE8xMTA8</a>|
 |  Data Leaks | <a href="https://t.me/+T0l1VDuQzDpjYWQ0" rel="nofollow">https://t.me/+T0l1VDuQzDpjYWQ0</a>|
@@ -451,4 +450,11 @@ layout: "elements"
 | Exploits | <a href="https://t.me/APTANALYSIS" rel="nofollow">https://t.me/APTANALYSIS</a>|
 | 23andme Leak Database | <a href="https://t.me/Leak_23andme" rel="nofollow">https://t.me/Leak_23andme</a>|
 | Kiborg Leak (Alphabank) | <a href="https://t.me/kiborg_leak" rel="nofollow">https://t.me/kiborg_leak</a>|
+| Shad0de | <a href="https://t.me/xxShad0dexx" rel="nofollow">https://t.me/xxShad0dexx</a>|
+| Kiborg Leak (Alphabank) | <a href="https://t.me/kiborg_leak" rel="nofollow">https://t.me/kiborg_leak</a>|
 | Lockbit 3.0 Main.js | <a href="https://t.me/ransomblackbit30" rel="nofollow">https://t.me/ransomblackbit30</a>|
+| Joker's world of Free Database | <a href="https://t.me/jokersworlds" rel="nofollow">https://t.me/jokersworlds</a>|
+| d3ltaboys group 2 (DB Leaks) | <a href="https://t.me/leak_db2" rel="nofollow">https://t.me/leak_db2</a>|
+| d3ltaboys group 1 (DB Leaks) - Backup | <a href="https://t.me/leak_db1" rel="nofollow">https://t.me/leak_db1</a>|
+| d3ltaboys group 3 (DB Leaks) - Backup | <a href="https://t.me/leak_db3" rel="nofollow">https://t.me/leak_db3</a>|
+| Low-Cost-Database | <a href="https://t.me/LCdatabase" rel="nofollow">https://t.me/LCdatabase</a>|
