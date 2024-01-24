@@ -1,8 +1,8 @@
 ---
 date: "2024-01-24"
-title: "How to Find Data Breaches: 5 Top Sources To Find Breached Data"
+title: "How to Find Data Breaches - How to Check if Your Data's Been Breached"
 image: "images/blog/how-to-find-data-breaches.png"
-description: "Discover the 5 best sources to find your data in a data breach. Learn where to find data breaches."
+description: "Discover how to find data breaches. Learn how to check whether your information has been leaked."
 author: "Breachsense"
 h1: "How to Find Data Breaches"
 intro1: "Are you worried that your data might have been leaked in a data breach? Want to check it out but have no idea where to find information about data breaches?"
@@ -119,7 +119,7 @@ The APIs allow you to pivot on multiple data points to drill down into your targ
 - Find internal company documents leaked in a 3rd party vendor's ransomware attack
 - Receive alerts when a threat actor announces their intention to attack a target before the attack
 
-![Breachsense data breach API results](../JSON.png)
+![Breachsense data breach detection API results](../JSON.png)
 
 ### 2. Have I Been Pwned
 
@@ -129,7 +129,7 @@ The service allows you to search via email address or phone number and returns t
 
 Users can also sign up to receive notifications if their personal email address appears in future dumps.
 
-![Have I Been Pwned search results](../HIBP.png)
+![Have I Been Pwned search results showing that a particular email address has been found in a data breach.](../HIBP.png)
 
 ### 3. Dehashed
 
@@ -143,7 +143,7 @@ The search functionality supports wildcards, regexes, reverse passwords, as well
 
 Users can monitor email addresses, phone numbers, and usernames and receive alerts when they appear in 3rd party breaches.
 
-![Dehashed search results](../Dehashed.png)
+![Dehashed 3rd party breach search results for data breaches.](../Dehashed.png)
 
 ### 4. Intelligence X
 
@@ -163,7 +163,7 @@ Programmers often use Pastebin sites to share code snippets, but they can also b
 
 The service allows investigators to search for sensitive data that might have been posted as well as aid in incident response by quickly finding if any company data has been exposed.
 
-![PSBDMP search results](../Psbdmp.png)
+![PSBDMP paste search and data leaks monitor.](../Psbdmp.png)
 
 ## Conclusion
 
