@@ -1,7 +1,7 @@
 ---
 date: "2024-01-24"
 discovered: "January 24, 2024"
-title: "AGC"
+title: "High Arctic"
 image: "images/blog/BlackBasta.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | agc.com      | 
+| Victim      | haes.ca      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Jan 24, 2024      | 
-| Description      | AGC is a world-leading supplier of flat, automotive, display glass, chemicals, ceramics and other high-tech materials and components.      | 
-| Leak Size      | 1.5TB      | 
+| Description      | High Arctic is an energy services provider.      | 
+| Leak Size      | 345GB      | 
 
