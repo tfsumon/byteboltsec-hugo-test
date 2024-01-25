@@ -458,3 +458,4 @@ layout: "elements"
 | d3ltaboys group 1 (DB Leaks) - Backup | <a href="https://t.me/leak_db1" rel="nofollow">https://t.me/leak_db1</a>|
 | d3ltaboys group 3 (DB Leaks) - Backup | <a href="https://t.me/leak_db3" rel="nofollow">https://t.me/leak_db3</a>|
 | Low-Cost-Database | <a href="https://t.me/LCdatabase" rel="nofollow">https://t.me/LCdatabase</a>|
+| Leaks & Breaches | <a href="https://t.me/+ykoIXVJBirI0NzU0" rel="nofollow">https://t.me/+ykoIXVJBirI0NzU0</a>|

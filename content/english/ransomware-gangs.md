@@ -9,7 +9,7 @@ layout: "elements"
 
 | Name           | Tor / Clearnet             | Status     |
 | :-----------: | :-------------:     |:-------------:   
-| <a href="https://ransom.insicurezzadigitale.com/index.php" rel="nofollow">DRM - Dashboard Ransomware Monitor</a>     | Clearnet     | ONLINE     |
+| <a href="https://ransom.insicurezzadigitale.com/index.php" rel="nofollow">Ransomfeed</a>     | Clearnet     | ONLINE     |
 | <a href="https://ecrime.ch" rel="nofollow">eCrime Services</a>     | Clearnet     | ONLINE     |
 | <a href="https://www.ransomlook.io/" rel="nofollow">RANSOMWARE GROUPS MONITORING TOOL</a>     | Clearnet     | ONLINE     |
 | <a href="https://www.ransomware.live/" rel="nofollow">RANSOMWARE GROUPS MONITORING TOOL</a>     | Clearnet     | ONLINE     |
@@ -181,6 +181,7 @@ layout: "elements"
 | <a href="http://dfpc7yvle5kxmgg6sbcp5ytggy3oeob676bjgwcwhyr2pwcrmbvoilqd.onion" rel="nofollow">MINDWARE</a>     | Tor     | OFFLINE     |
 | <a href="http://mosesstaffm7hptp.onion" rel="nofollow">Moses Staff </a>     | Tor     | OFFLINE     |
 | <a href="http://mountnewsokhwilx.onion" rel="nofollow">MOUNT LOCKER</a>     | Tor     | OFFLINE     |
+| <a href="http://mydatae2d63il5oaxxangwnid5loq2qmtsol2ozr6vtb7yfm5ypzo6id.onion/blog" rel="nofollow">MYDATA / ALPHA LOCKER</a>     | Tor     | ONLINE     |
 | <a href="http://58b87e60649ccc808ac8mstiejnj.5s4ixqul2enwxrqv.onion" rel="nofollow">MYDECRYPTOR</a>     | Tor     | OFFLINE     |
 | <a href="http://moishddxqnpdxpababec6exozpl2yr7idfhdldiz5525ao25bmasxhid.onion" rel="nofollow">MOISHA</a>     | Tor     | OFFLINE     |
 | <a href="http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion" rel="nofollow">N3TW0RM</a>     | Tor     | OFFLINE     |
