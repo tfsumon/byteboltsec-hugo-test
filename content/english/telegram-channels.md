@@ -459,3 +459,10 @@ layout: "elements"
 | d3ltaboys group 3 (DB Leaks) - Backup | <a href="https://t.me/leak_db3" rel="nofollow">https://t.me/leak_db3</a>|
 | Low-Cost-Database | <a href="https://t.me/LCdatabase" rel="nofollow">https://t.me/LCdatabase</a>|
 | Leaks & Breaches | <a href="https://t.me/+ykoIXVJBirI0NzU0" rel="nofollow">https://t.me/+ykoIXVJBirI0NzU0</a>|
+| Cyber Dragon Russia | <a href="https://t.me/CyberDragonRussia" rel="nofollow">https://t.me/CyberDragonRussia</a>|
+| Anonymous Russia | <a href="https://t.me/ANONM0S_RU" rel="nofollow">https://t.me/ANONM0S_RU</a>|
+| BearSpaw | <a href="https://t.me/BEARSPAW_RESERVS" rel="nofollow">https://t.me/BEARSPAW_RESERVS</a>|
+| BearITArmy | <a href="https://t.me/BEARITARMY" rel="nofollow">https://t.me/BEARITARMY</a>|
+| DarkSeek Hacking Group | <a href="https://t.me/DarkSeek_rus" rel="nofollow">https://t.me/DarkSeek_rus</a>|
+| Patriot Black Matrix | <a href="https://t.me/Patriot_Black_Matrix" rel="nofollow">https://t.me/Patriot_Black_Matrix</a>|
+| ZOLF Combos | <a href="https://t.me/zolfcombo" rel="nofollow">https://t.me/zolfcombo</a>|
