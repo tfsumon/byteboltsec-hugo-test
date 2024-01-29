@@ -149,13 +149,16 @@ faq:
   title: "Frequently Asked Questions"
   faq_items:
   - question: "What is data breach monitoring?"
-    answer: "Data breach monitoring is the process of monitoring the open, dark, and deep web to uncover data breaches within your organization. Continuous data breach monitoring ensures that if a data breach does occur, your security team will be able to respond immediately."
+    answer: "Data breach monitoring is the process of monitoring the open, dark, and deep web to uncover data breaches within your organization. Continuous data breach monitoring ensures that if a data breach does occur, your security team will be able to respond immediately.<br><br>
+MORE INFO: [What is a data breach?](https://www.breachsense.com/blog/what-is-a-data-breach/)<br>
+MORE INFO: [What is data breach monitoring?](https://www.breachsense.com/data-breach-monitoring/)"
 
   - question: "Why is data breach monitoring important?"
     answer: "A data breach can lead to significant financial losses and decreased consumer trust in an organization. The average cost of a data breach is around $4.62 million (Varonis), and studies show that a data breach can cause 65% of customers to lose trust in an organization. As such, it’s very important for organizations to monitor for data breaches and, in case of a breach, react decisively."
 
   - question: "What are the common causes of data breaches?"
-    answer: "The most common causes of data breaches are weak and stolen credentials, backdoors, social engineering, malware, and unpatched applications, amongst other things."
+    answer: "The most common causes of data breaches are weak and stolen credentials, backdoors, social engineering, malware, and unpatched applications, amongst other things.<br><br>
+MORE INFO: [The most common causes of data breaches](https://www.breachsense.com/blog/data-breach-causes/)."
 
   - question: "How does Breachsense help prevent data breaches?"
     answer: "Breachsense continuously monitors the open, deep, and dark web for potential data breaches within an organization. Your security team is notified the moment there is a breach, allowing you to react in real time, preventing fraudulent purchases, account takeovers, and more."
