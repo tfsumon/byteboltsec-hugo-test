@@ -1,17 +1,17 @@
 ---
 date: "2024-01-30"
 discovered: "January 30, 2024"
-title: "Crowe"
-image: "images/blog/LockBit.png"
+title: "Black Butte Coal"
+image: "images/blog/INC_RANSOM.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | crowe.com.za      | 
-| Threat Actor      | LockBit      | 
+| Victim      | blackbuttecoal.com      | 
+| Threat Actor      | INC_RANSOM      | 
 | Date Discovered      | Jan 30, 2024      | 
-| Description      | Crowe LLP is a public accounting, consulting and technology firm.      | 
+| Description      | Black Butte Coal Company operates a coal mine.      | 
 | Leak Size      | Unknown      | 
 

@@ -1,17 +1,17 @@
 ---
 date: "2024-01-30"
 discovered: "January 30, 2024"
-title: "Crowe"
-image: "images/blog/LockBit.png"
+title: "Image Craft"
+image: "images/blog/BianLian.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | crowe.com.za      | 
-| Threat Actor      | LockBit      | 
+| Victim      | imcraft.com      | 
+| Threat Actor      | BianLian      | 
 | Date Discovered      | Jan 30, 2024      | 
-| Description      | Crowe LLP is a public accounting, consulting and technology firm.      | 
-| Leak Size      | Unknown      | 
+| Description      | Image Craft provides graphics solutions and printing services.      | 
+| Leak Size      | 1.9TB      | 
 

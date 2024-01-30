@@ -1,7 +1,7 @@
 ---
 date: "2024-01-30"
 discovered: "January 30, 2024"
-title: "Crowe"
+title: "GRIMME"
 image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | crowe.com.za      | 
+| Victim      | grimme.dk      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jan 30, 2024      | 
-| Description      | Crowe LLP is a public accounting, consulting and technology firm.      | 
+| Description      | GRIMME Skandinavien supplies and service special machines for potato and beet growing as well as for drying, storing and cooling potatoes, onions and carrots.      | 
 | Leak Size      | Unknown      | 
 

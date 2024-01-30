@@ -1,7 +1,7 @@
 ---
 date: "2024-01-30"
 discovered: "January 30, 2024"
-title: "Crowe"
+title: "ESE"
 image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | crowe.com.za      | 
+| Victim      | ese.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jan 30, 2024      | 
-| Description      | Crowe LLP is a public accounting, consulting and technology firm.      | 
+| Description      | ESE is the market leader for temporary storage solutions for waste and recyclable materials.      | 
 | Leak Size      | Unknown      | 
 

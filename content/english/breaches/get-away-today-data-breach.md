@@ -1,17 +1,17 @@
 ---
 date: "2024-01-30"
 discovered: "January 30, 2024"
-title: "Crowe"
-image: "images/blog/LockBit.png"
+title: "Get Away Today"
+image: "images/blog/Akira.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | crowe.com.za      | 
-| Threat Actor      | LockBit      | 
+| Victim      | getawaytoday.com      | 
+| Threat Actor      | Akira      | 
 | Date Discovered      | Jan 30, 2024      | 
-| Description      | Crowe LLP is a public accounting, consulting and technology firm.      | 
+| Description      | Get Away Today is an online travel booking service.      | 
 | Leak Size      | Unknown      | 
 

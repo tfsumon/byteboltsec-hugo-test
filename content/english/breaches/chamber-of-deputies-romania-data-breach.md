@@ -1,17 +1,17 @@
 ---
 date: "2024-01-30"
 discovered: "January 30, 2024"
-title: "Crowe"
-image: "images/blog/LockBit.png"
+title: "Chamber of Deputies (Romania)"
+image: "images/blog/Knight.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | crowe.com.za      | 
-| Threat Actor      | LockBit      | 
+| Victim      | cdep.ro      | 
+| Threat Actor      | Knight      | 
 | Date Discovered      | Jan 30, 2024      | 
-| Description      | Crowe LLP is a public accounting, consulting and technology firm.      | 
+| Description      | The Chamber of Deputies (Romanian: Camera Deputaților) is the lower house in Romania's bicameral parliament.      | 
 | Leak Size      | Unknown      | 
 
