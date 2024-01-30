@@ -1,5 +1,5 @@
 ---
-date: "2024-01-30"
+date: "2024-01-29"
 title: "How to Prevent Data Breaches Caused by Human Error - Human Error Based Data Breach Prevention"
 image: "images/blog/human-error.png"
 description: "Discover how to prevent a data breach caused by human error. Learn three ways to reduce the risk of human error that can lead to a data breach."
