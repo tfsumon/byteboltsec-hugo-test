@@ -1,7 +1,7 @@
 ---
 date: "2024-01-30"
 discovered: "January 30, 2024"
-title: "Solve Industrial Motion Group is a high-quality Metric and American Standard power transmission components and industrial-grade bearings."
+title: "Technica"
 image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
