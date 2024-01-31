@@ -73,7 +73,7 @@ This type of attack is gaining traction, especially[ on](https://www.youtube.com
 
 Company documents can encompass a wide range of sensitive information ranging from internal communications and financial records to strategic plans and intellectual property. 
 
-This type of data is often leaked due to a mix of human error, inadequate security practices, and deliberate malicious activities.
+This type of data is often leaked due to a mix of [human error](https://www.breachsense.com/blog/data-breach-human-error/), inadequate security practices, and deliberate malicious activities.
 
 Some of the main ways this happens include
 

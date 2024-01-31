@@ -93,7 +93,7 @@ In addition, this is the right time to assess the effectiveness of any network s
 
 Identifying the source of the breach can be facilitated by conducting comprehensive log analysis from various security systems, including the affected servers,[WAFs (Web Application Firewalls)](https://en.wikipedia.org/wiki/Web_application_firewall), Intrusion Detection Systems (IDS), Intrusion Prevention Systems (IPS), and firewalls. These systems should automatically log security events and provide valuable information on the location and timing of the breach, contributing to a more thorough understanding of the incident.
 
-During the damage assessment stage, it's crucial also to understand the source of the breach, whether the breach resulted from leaked passwords, human error, or software misconfiguration. Understanding the root cause and location of the breach, as well as whether it was internal or external, is critical to implementing measures to prevent recurrence.
+During the damage assessment stage, it's crucial also to understand the source of the breach, whether the breach resulted from leaked passwords, [human error](https://www.breachsense.com/blog/data-breach-human-error/), or software misconfiguration. Understanding the root cause and location of the breach, as well as whether it was internal or external, is critical to implementing measures to prevent recurrence.
 
 ### 3. Address Possible Weaknesses
 
