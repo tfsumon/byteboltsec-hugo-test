@@ -1,8 +1,8 @@
 ---
 date: "2024-01-29"
-title: "How to Prevent Data Breaches Caused by Human Error - Human Error Based Data Breach Prevention"
+title: "How human error causes data breaches"
 image: "images/blog/human-error.png"
-description: "Discover how to prevent a data breach caused by human error. Learn three ways to reduce the risk of human error that can lead to a data breach."
+description: "Discover how to human error causes so many data breaches. Learn how human error can lead to a data breach."
 h1: "Why are so many data breaches caused human error?"
 intro1: "The sad truth is history is filled with data breaches that were caused by human error."
 intro2: "A [joint study](https://www.tessian.com/resources/psychology-of-human-error-2022/) by Stanford and Tessian reported that employee mistakes cause 88 percent of data breach incidents."
@@ -173,7 +173,9 @@ It's important to note that training needs to be an ongoing process rather than 
 
 Regular testing can evaluate the training's effectiveness. For example, simulated phishing exercises can identify areas needing more focus in future training.
 
-### Humans can be the strongest link 
+## Closing thoughts
+
+When it comes to defending your network, Humans can be the strongest link.
 
 While studies show that 95% of cybersecurity breaches are caused by human error, they also highlight a clear path to reducing those breaches. 
 
