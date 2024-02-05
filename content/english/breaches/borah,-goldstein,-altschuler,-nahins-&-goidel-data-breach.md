@@ -1,0 +1,17 @@
+---
+date: "2024-02-05"
+discovered: "February 05, 2024"
+title: "Borah, Goldstein, Altschuler, Nahins & Goidel"
+image: "images/blog/Akira.png"
+author: "Breachsense Support"
+draft: false
+---
+
+| Data Breach Report           |              | 
+| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Victim      | borahgoldstein.com      | 
+| Threat Actor      | Akira      | 
+| Date Discovered      | Feb 05, 2024      | 
+| Description      | Borah, Goldstein, Altschuler, Nahins & Goidel, P.C. specializes in residential and commercial properties law.      | 
+| Leak Size      | Unknown      | 
+
