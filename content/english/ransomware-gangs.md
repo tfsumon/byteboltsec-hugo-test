@@ -90,7 +90,7 @@ layout: "elements"
 | <a href="http://powerj7kmpzkdhjg4szvcxxgktgk36ezpjxvtosylrpey7svpmrjyuyd.onion/" rel="nofollow">DARKPOWER</a>     | Tor     | OFFLINE     |
 | <a href="http://wkrlpub5k52rjigwxfm6m7ogid55kamgc5azxlq7zjgaopv33tgx2sqd.onion/" rel="nofollow">DARKRACE</a>     | Tor     | OFFLINE     |
 | <a href="http://darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion" rel="nofollow">DARKSIDE</a>     | Tor     | OFFLINE     |
-| <a href="http://sbc2zv2qnz5vubwtx3aobfpkeao6l4igjegm3xx7tk5suqhjkp5jxtqd.onion" rel="nofollow">DONUT BLOG</a>     | Tor     | OFFLINE     |
+| <a href="http://sbc2zv2qnz5vubwtx3aobfpkeao6l4igjegm3xx7tk5suqhjkp5jxtqd.onion" rel="nofollow">DONUT BLOG</a>     | Tor     | ONLINE     |
 | <a href="https://doq32rjiuomfghm5a4lyf3lwwakt2774tkv4ppsos6ueo5mhx7662gid.onion" rel="nofollow">DONUT DLS</a>     | Tor     | OFFLINE     |
 | <a href="http://dk4mkfzqai6ure62oukzgtypedmwlfq57yj2fube7j5wsoi6tuia7nyd.onion" rel="nofollow">DONUT DLS </a>     | Tor     | ONLINE     |
 | <a href="http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion" rel="nofollow">DOPPLE PAYMER</a>     | Tor     | OFFLINE     |
