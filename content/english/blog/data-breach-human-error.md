@@ -127,7 +127,7 @@ At the same time, employees will only make the right decisions if they know the 
 
 We can drastically reduce our risk by implementing a multi-faceted approach targeting the opportunity, environment, and proper training.
 
-**RECOMMENDED READING:** [What A Company Should Do Ater a Data Breach](https://www.breachsense.com/blog//after-a-breach)
+**RECOMMENDED READING:** [What A Company Should Do Ater a Data Breach](https://www.breachsense.com/blog/after-a-breach)
 
 ### Reduce the opportunity
 
