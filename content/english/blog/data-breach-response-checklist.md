@@ -3,7 +3,7 @@ date: "2024-01-30"
 title: "Data Breach Response Checklist: 5 Steps to a Data Breach Response Plan"
 image: "images/blog/data-breach-checklist.png"
 description: "Discover how to develop a data breach response plan with the data breach response checklist. Learn the 5 things your data breach response plan must include."
-h1: "5-step Data Breach Response Checklist"
+h1: "Five Step Data Breach Response Checklist"
 intro1: "Nowadays, data breaches have become an increasingly common threat to businesses of all sizes."
 intro2: "In fact, for many businesses, the question isn't whether their data will get breached; it's a question of when."
 intro3: "This also means that, as a business, you need to have a cyber incident response plan ready."
@@ -61,7 +61,7 @@ For that reason, before you start outlining steps to mitigate the effects of a d
 
 Typically, this list would include systems, specific applications, equipment, and data, but also people whose credentials, if leaked, could allow cybercriminals to gain access to your systems. 
 
-**Perform a Threat Modelling exercise: **Threat modeling is a process used to identify potential security threats, vulnerabilities, and the risks they pose to an organization. The goal is to understand the attack surface, prioritize potential threats, and implement strategies to mitigate or prevent those threats. It will show you where potential threats exist - such as employees downloading malware, falling prey to phishing attacks, or hackers penetrating your systems using stolen credentials. 
+**Perform a Threat Modelling exercise:** Threat modeling is a process used to identify potential security threats, vulnerabilities, and the risks they pose to an organization. The goal is to understand the attack surface, prioritize potential threats, and implement strategies to mitigate or prevent those threats. It will show you where potential threats exist - such as employees downloading malware, falling prey to phishing attacks, or hackers penetrating your systems using stolen credentials. 
 
 **TIP:** Use our free [dark web scanner](https://www.breachsense.com/dark-web-scanner/) to quickly check whether your employees' credentials and other sensitive data haven't been found in a recent data breach. 
 
