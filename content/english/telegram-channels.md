@@ -46,6 +46,7 @@ layout: "elements"
 |  [ Cyber.Anarchy.Squad ] | <a href="https://t.me/anarchy_squad" rel="nofollow">https://t.me/anarchy_squad</a>|
 |  Anonymous Russia channel | <a href="https://t.me/anon_by" rel="nofollow">https://t.me/anon_by</a>|
 | Anonymous Sudan | <a href="https://t.me/AnonymousSudan" rel="nofollow">https://t.me/AnonymousSudan</a>|
+| Anonymous Sudan | <a href="https://t.me/xAnonymousSudan" rel="nofollow">https://t.me/xAnonymousSudan</a>|
 | AntiPlumbers | <a href="https://t.me/AntiPlumbers" rel="nofollow">https://t.me/AntiPlumbers</a>|
 |  Killnet API DDoS Mirai  | <a href="https://t.me/APIddosMirai" rel="nofollow">https://t.me/APIddosMirai</a>|
 |  Data Leaks  | <a href="https://t.me/aresmainchannel" rel="nofollow">https://t.me/aresmainchannel</a>|
