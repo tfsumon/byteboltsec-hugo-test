@@ -189,7 +189,7 @@ Generally, each role should have access to the minimum amount of resources possi
 
 ### 5. Response and recovery plans
 
-Establish a robust disaster recovery plan that outlines clear procedures for mitigating the effects of a data breach.
+Establish a robust disaster recovery plan that outlines clear procedures for [mitigating the effects of a data breach](https://www.breachsense.com/blog/data-breach-mitigation/).
 
 This plan should include designated contacts, communication strategies, and specific mitigation measures.
 

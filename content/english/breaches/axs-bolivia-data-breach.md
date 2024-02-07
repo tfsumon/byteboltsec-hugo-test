@@ -1,17 +1,17 @@
 ---
 date: "2024-02-07"
 discovered: "February 07, 2024"
-title: "Tetrosyl"
-image: "images/blog/8BASE.png"
+title: "AXS Bolivia"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | tetrosyl.com      | 
-| Threat Actor      | 8BASE      | 
+| Victim      | axsbolivia.com      | 
+| Threat Actor      | LockBit      | 
 | Date Discovered      | Feb 07, 2024      | 
-| Description      | Tetrosyl Group Ltd. manufactures car care, automotive, and homecare products.      | 
+| Description      | AXS Bolivia is a Telecommunication industry that provides website hosting & internet-related services, telephony & wireless.      | 
 | Leak Size      | Unknown      | 
 

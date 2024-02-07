@@ -1,7 +1,7 @@
 ---
 date: "2024-02-07"
 discovered: "February 07, 2024"
-title: "Tetrosyl"
+title: "Ceralp"
 image: "images/blog/8BASE.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | tetrosyl.com      | 
+| Victim      | ceralp.fr      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Feb 07, 2024      | 
-| Description      | Tetrosyl Group Ltd. manufactures car care, automotive, and homecare products.      | 
+| Description      | Ceralp is an expert in accounting and statutory auditing.      | 
 | Leak Size      | Unknown      | 
 

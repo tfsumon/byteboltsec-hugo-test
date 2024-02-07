@@ -1,17 +1,17 @@
 ---
 date: "2024-02-07"
 discovered: "February 07, 2024"
-title: "Tetrosyl"
-image: "images/blog/8BASE.png"
+title: "Celeste"
+image: "images/blog/Akira.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | tetrosyl.com      | 
-| Threat Actor      | 8BASE      | 
+| Victim      | celeste.fr      | 
+| Threat Actor      | Akira      | 
 | Date Discovered      | Feb 07, 2024      | 
-| Description      | Tetrosyl Group Ltd. manufactures car care, automotive, and homecare products.      | 
+| Description      | Celeste is focused on providing high speed fiber optic network solutions.      | 
 | Leak Size      | Unknown      | 
 

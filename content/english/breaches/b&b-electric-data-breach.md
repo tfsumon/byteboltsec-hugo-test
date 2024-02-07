@@ -1,7 +1,7 @@
 ---
 date: "2024-02-07"
 discovered: "February 07, 2024"
-title: "Greater Richmond Transit"
+title: "B&B Electric"
 image: "images/blog/BianLian.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | ridegrtc.com      | 
+| Victim      | bandbelectric.com      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Feb 07, 2024      | 
-| Description      | GRTC Transit System operates public transit systems.      | 
-| Leak Size      | 1.5TB      | 
+| Description      | B&B Electric is an electrical contracting company that provides preventative maintenance and residential services.      | 
+| Leak Size      | 750GB      | 
 
