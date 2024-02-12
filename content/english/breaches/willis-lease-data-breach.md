@@ -1,7 +1,7 @@
 ---
 date: "2024-02-12"
 discovered: "February 12, 2024"
-title: "Willis Lease"
+title: "Willis Lease Finance Corporation"
 image: "images/blog/BlackBasta.png"
 author: "Breachsense Support"
 draft: false
