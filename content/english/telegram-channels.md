@@ -467,3 +467,4 @@ layout: "elements"
 | DarkSeek Hacking Group | <a href="https://t.me/DarkSeek_rus" rel="nofollow">https://t.me/DarkSeek_rus</a>|
 | Patriot Black Matrix | <a href="https://t.me/Patriot_Black_Matrix" rel="nofollow">https://t.me/Patriot_Black_Matrix</a>|
 | ZOLF Combos | <a href="https://t.me/zolfcombo" rel="nofollow">https://t.me/zolfcombo</a>|
+| Deanon ClubV7 | <a href="https://t.me/+WbDFfZ2OOvdjY2M0" rel="nofollow">https://t.me/+WbDFfZ2OOvdjY2M0</a>|
