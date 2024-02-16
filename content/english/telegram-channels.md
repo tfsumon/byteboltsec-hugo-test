@@ -452,7 +452,6 @@ layout: "elements"
 | 23andme Leak Database | <a href="https://t.me/Leak_23andme" rel="nofollow">https://t.me/Leak_23andme</a>|
 | Kiborg Leak (Alphabank) | <a href="https://t.me/kiborg_leak" rel="nofollow">https://t.me/kiborg_leak</a>|
 | Shad0de | <a href="https://t.me/xxShad0dexx" rel="nofollow">https://t.me/xxShad0dexx</a>|
-| Kiborg Leak (Alphabank) | <a href="https://t.me/kiborg_leak" rel="nofollow">https://t.me/kiborg_leak</a>|
 | Lockbit 3.0 Main.js | <a href="https://t.me/ransomblackbit30" rel="nofollow">https://t.me/ransomblackbit30</a>|
 | Joker's world of Free Database | <a href="https://t.me/jokersworlds" rel="nofollow">https://t.me/jokersworlds</a>|
 | d3ltaboys group 2 (DB Leaks) | <a href="https://t.me/leak_db2" rel="nofollow">https://t.me/leak_db2</a>|
