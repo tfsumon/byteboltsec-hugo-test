@@ -41,21 +41,22 @@ hasChildren = true
 
   [[main]]
   parent = "Solutions"
+  name = "Managed Service Providers"
+  url = "managed-service-providers/"
+  weight = 2
+
+  [[main]]
+  parent = "Solutions"
   name = "Penetration Testing"
   url = "penetration-testing/"
-  weight = 2
+  weight = 3
 
   [[main]]
   parent = "Solutions"
   name = "Prevent Ransomware"
   url = "prevent-ransomware/"
-  weight = 3
-  [[main]]
-
-  parent = "Solutions"
-  name = "Managed Service Providers"
-  url = "managed-service-providers/"
   weight = 4
+
 
 [[main]]
 name = "Recent Breaches"
