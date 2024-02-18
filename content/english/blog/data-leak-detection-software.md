@@ -65,11 +65,11 @@ Its effectiveness really depends on the particular solution's feature set.
 
 Here's a list of some of the most important features data leak detection software should support:
 
-- **Comprehensive Data Set:** The solution should use a combination of OSINT and HumInt to index a wide range of data source. These commonly include monitoring the dark web, hacker forums, [darknet markets](https://www.breachsense.com/darknet-markets/), paste sites, [Telegram channels](https://www.breachsense.com/telegram-channels/), and various [ransomware gangs](https://www.breachsense.com/ransomware-gangs/) and other threat actors' websites and social media channels.
+- **Comprehensive Data Set:** The solution should use a combination of OSINT and HumInt to index a wide range of data sources. These commonly include monitoring the dark web, hacker forums, [darknet markets](https://www.breachsense.com/darknet-markets/), paste sites, [Telegram channels](https://www.breachsense.com/telegram-channels/), and various [ransomware gangs](https://www.breachsense.com/ransomware-gangs/) and other threat actors' websites and social media channels.
 - **API Support:** Most security teams have too many dashboards they need to monitor. Choosing an API-driven solution lets you completely automate monitoring and end-to-end remediation.
 - **Real-Time Monitoring:** The ability to monitor assets in real-time is crucial for the early detection of potential risks. This includes monitoring of domain names, IP ranges, session tokens, and any company data that is being leaked or sold.
-- ******Integration with Existing Systems**:**** Effective data leak detection software should seamlessly integrate with existing security infrastructure, like SIEM (Security Information and Event Management) systems and your SOC (Security Operations Center).
-- **Alerting Mechanisms:** The ability to receive alerts via multiple channels, such as email or webhook, allows security teams greater flexibility in integratingalerts into their workflow.
+- **Integration with Existing Systems**: Effective data leak detection software should seamlessly integrate with existing security infrastructure, like SIEM (Security Information and Event Management) systems and your SOC (Security Operations Center).
+- **Alerting Mechanisms:** The ability to receive alerts via multiple channels, such as email or webhook, allows security teams greater flexibility in integrating alerts into their workflow.
 - **Incident Response Tools:** Capabilities for conducting incident response investigations to understand who a threat actor is, other usernames and passwords used by the attacker, as well the ability to pivot on various pieces of information to build a comprehensive picture of an attack.
 - **Ease of Use and Customization:** The software should be user-friendly and have a shallow learning curve to be easily integrated into an organization's current toolset.
 
