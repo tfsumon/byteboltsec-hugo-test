@@ -1,7 +1,7 @@
 ---
 date: "2024-02-19"
 discovered: "February 19, 2024"
-title: "Ohio Lottery"
+title: "Compression Leasing"
 image: "images/blog/DragonForce.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | ohiolottery.com      | 
+| Victim      | compressionleasing.com      | 
 | Threat Actor      | DragonForce      | 
 | Date Discovered      | Feb 19, 2024      | 
-| Description      | Ohio Lottery offers a variety of games including scratch offs, Keno, instant win and monitor games and the jackpot games Mega Millions, Powerball, Pick 3, Pick 4 and Pick 5, Rolling Cash 5 and Classic Lotto.      | 
-| Leak Size      | 94.74GB      | 
+| Description      | Compression Leasing provides compressor fabrication, piping packages, rental, leasing, and sales services.      | 
+| Leak Size      | 41.11GB      | 
 

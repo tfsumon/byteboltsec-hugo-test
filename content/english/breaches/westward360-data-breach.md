@@ -1,7 +1,7 @@
 ---
 date: "2024-02-19"
 discovered: "February 19, 2024"
-title: "Ohio Lottery"
+title: "Westward360"
 image: "images/blog/DragonForce.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | ohiolottery.com      | 
+| Victim      | westward360.com      | 
 | Threat Actor      | DragonForce      | 
 | Date Discovered      | Feb 19, 2024      | 
-| Description      | Ohio Lottery offers a variety of games including scratch offs, Keno, instant win and monitor games and the jackpot games Mega Millions, Powerball, Pick 3, Pick 4 and Pick 5, Rolling Cash 5 and Classic Lotto.      | 
-| Leak Size      | 94.74GB      | 
+| Description      | Westward360 is dedicated to providing exceptional community management, rental management and brokerage services.      | 
+| Leak Size      | 11GB      | 
 

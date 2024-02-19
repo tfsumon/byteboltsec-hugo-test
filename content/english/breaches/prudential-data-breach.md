@@ -1,17 +1,17 @@
 ---
-Discovered: "June 26, 2022"
-date: "2022-06-26"
+date: "2024-02-19"
+discovered: "February 19, 2024"
 title: "Prudential"
-image: "images/blog/Breaches.png"
+image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | prulite.com      | 
-| Threat Actor      | Ragnar_Locker      | 
-| Date Discovered      | Jun 26, 2022      | 
-| Description      | Prudential Lighting Corp is located in Los Angeles, CA, United States and is part of the Electric Lighting Equipment Manufacturing Industry.      | 
-| Leak Size      | 101GB      | 
+| Victim      | prudential.com      | 
+| Threat Actor      | ALPHV      | 
+| Date Discovered      | Feb 19, 2024      | 
+| Description      | Prudential Financial, Inc. is an American Fortune Global 500 and Fortune 500 company whose subsidiaries provide insurance, retirement planning, investment management, and other products and services to both retail and institutional customers throughout the United States and in over 40 other countries.      | 
+| Leak Size      | Unknown      | 
 
