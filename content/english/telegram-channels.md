@@ -467,3 +467,7 @@ layout: "elements"
 | Patriot Black Matrix | <a href="https://t.me/Patriot_Black_Matrix" rel="nofollow">https://t.me/Patriot_Black_Matrix</a>|
 | ZOLF Combos | <a href="https://t.me/zolfcombo" rel="nofollow">https://t.me/zolfcombo</a>|
 | Deanon ClubV7 | <a href="https://t.me/+WbDFfZ2OOvdjY2M0" rel="nofollow">https://t.me/+WbDFfZ2OOvdjY2M0</a>|
+| LulzSec | <a href="https://t.me/LulzSecOff" rel="nofollow">https://t.me/LulzSecOff</a>|
+| LAPSUS$ France | <a href="https://t.me/lapsusfr" rel="nofollow">https://t.me/lapsusfr</a>|
+| R00TK1TOFF | <a href="https://t.me/R00TK1TOFF" rel="nofollow">https://t.me/R00TK1TOFF</a>|
+| HackForce | <a href="https://t.me/HackForceAll" rel="nofollow">https://t.me/HackForceAll</a>|

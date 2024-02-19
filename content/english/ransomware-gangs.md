@@ -262,6 +262,7 @@ layout: "elements"
 | <a href="http://znuzuy4hkjacew5y2q7mo63hufhzzjtsr2bkjetxqjibk4ctfl7jghyd.onion/signin" rel="nofollow">TRIGONA </a>     | Tor     | ONLINE     |
 | <a href="http://trigonax2zb3fw34rbaap4cqep76zofxs53zakrdgcxzq6xzt24l5lqd.onion" rel="nofollow">TRIGONA</a>     | Tor     | OFFLINE     |
 | <a href="http://krsbhaxbki6jr4zvwblvkaqzjkircj7cxf46qt3na5o5sj2hpikbupqd.onion" rel="nofollow">TRIGONA</a>     | Tor     | ONLINE     |
+| <a href="http://orfc3joknhrzscdbuxajypgrvlcawtuagbj7f44ugbosuvavg3dc3zid.onion" rel="nofollow">TRISEC</a>     | Tor     | ONLINE     |
 | <a href="http://unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion" rel="nofollow">UNSAFE</a>     | Tor     | ONLINE     |
 | <a href="http://test.cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion" rel="nofollow">V IS VENDETTA</a>     | Tor     | ONLINE     |
 | <a href="http://vfokxcdzjbpehgit223vzdzwte47l3zcqtafj34qrr26htjo4uf3obid.onion" rel="nofollow">VFOKX </a>     | Tor     | OFFLINE     |
