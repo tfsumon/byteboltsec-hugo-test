@@ -2,7 +2,7 @@
 date: "2023-06-25"
 title: "Equifax Data Breach Case Study: Causes, Who Was Affected, and Settlement"
 image: "images/blog/equifax-case-study.png"
-description: "Learn everything about the Equifax data bread. Discover what happened, who was affected, settlement claims and more." 
+description: "Learn everything about the Equifax data breach. Discover what happened, who was affected, settlement claims and more." 
 author: "Breachsense"
 h1: "Equifax Data Breach Explained: A Case Study"
 intro1: "In 2017, Equifax suffered a massive data breach, often considered one of the most significant and devastating cybersecurity incidents in history."
