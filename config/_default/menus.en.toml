@@ -28,6 +28,12 @@ hasChildren = true
   url = "data-breach-monitoring/"
   weight = 2
 
+  [[main]]
+  parent = "Platform"
+  name = "Data Leak Monitoring"
+  url = "data-leak-monitoring/"
+  weight = 2
+
 [[main]]
 weight = 4
 name = "Solutions"

@@ -90,7 +90,7 @@ faq:
 * Employee corporate or government-issued IDs
 "
 
-  - question: "How Data Breach Monitoring Helps Prevent Cybercrime?"
+  - question: "How does Data Breach Monitoring Help Prevent Cybercrime?"
     answer: "By detecting data breaches in real time, your security team will be able to react immediately before any damage is done. The moment a breach is detected, you can:
 
 * Disable Compromised Accounts<br />
@@ -99,7 +99,7 @@ faq:
 
 * Upgrade Your Security Measures"
  
-  - question: "Is Data Breach the Same as Data Leak?"
+  - question: "Is a Data Breach the Same as Data Leak?"
     answer: "It’s true that both terms - \"data breach\" and \"data leak\" - seem as if they referred to the same type of a cyber threat. In reality, however, they do have slightly different meanings. A data breach occurs where a third party gains unauthorized access, often malicious, to compromise sensitive information within a system or network. A data leak, on the other hand, usually means an unauthorized release of confidential data, whether intentional or unintentional by a third party but also an employee of a company."
     
 ---
