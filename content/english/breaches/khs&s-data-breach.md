@@ -1,7 +1,7 @@
 ---
 date: "2024-02-22"
 discovered: "February 22, 2024"
-title: "Austen"
+title: "KHS&S"
 image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | austein-it.com      | 
+| Victim      | khss.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Feb 22, 2024      | 
-| Description      | Austin-IT is a new IT services company founded in April of 2009.      | 
+| Description      | KHS&S Contractors is a construction company providing themed construction and prefabricated building services.      | 
 | Leak Size      | Unknown      | 
 

@@ -1,17 +1,17 @@
 ---
 date: "2024-02-22"
 discovered: "February 22, 2024"
-title: "Austen"
-image: "images/blog/ALPHV.png"
+title: "Lancaster"
+image: "images/blog/Akira.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | austein-it.com      | 
-| Threat Actor      | ALPHV      | 
+| Victim      | lancasterco.com      | 
+| Threat Actor      | Akira      | 
 | Date Discovered      | Feb 22, 2024      | 
-| Description      | Austin-IT is a new IT services company founded in April of 2009.      | 
+| Description      | Lancaster is the largest paint sundries distributor in the United States.      | 
 | Leak Size      | Unknown      | 
 
