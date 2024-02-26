@@ -63,6 +63,7 @@ layout: "elements"
 | <a href="https://cactusbloguuodvqjmnzlwetjlpj6aggc6iocwhuupb47laukux7ckid.onion" rel="nofollow">CACTUS</a>     | Tor     | ONLINE     |
 | <a href="http://rwiajgajdr4kzlnrj5zwebbukpcbrjhupjmk6gufxv6tg7myx34iocad.onion" rel="nofollow">CHEERS</a>     | Tor     | OFFLINE     |
 | <a href="http://z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid.onion/login" rel="nofollow">CHILE LOCKER </a>     | Tor     | OFFLINE     |
+| <a href="http://ciphbitqyg26jor7eeo6xieyq7reouctefrompp6ogvhqjba7uo4xdid.onion" rel="nofollow">CIPHBIT</a>     | Tor     | ONLINE     |
 | <a href="http://cloak7jpvcb73rtx2ff7kaw2kholu7bdiivxpzbhlny4ybz75dpxckqd.onion" rel="nofollow">CLOAK</a>     | Tor     | ONLINE     |
 | <a href="http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion" rel="nofollow">CLOP</a>     | Tor     | ONLINE     |
 | <a href="http://toznnag5o3ambca56s2yacteu7q7x2avrfherzmz4nmujrjuib4iusad.onion" rel="nofollow">CLOP </a>     | Tor     | ONLINE     |
@@ -132,11 +133,11 @@ layout: "elements"
 | <a href="http://nn5ua7gc7jkllpoztymtfcu64yjm7znlsriq3a6v5kw7l6jvirnczyyd.onion" rel="nofollow">LAMBDA </a>     | Tor     | ONLINE     |
 | <a href="http://et22fibzuzfyzgurm35sttm52qbzvdgzy5qhzy46a3gmkrrht3lec5ad.onion" rel="nofollow">LA PIOVRA</a>     | Tor     | OFFLINE     |
 | <a href="http://yeuajcizwytgmrntijhxphs6wn5txp2prs6rpndafbsapek3zd4ubcid.onion" rel="nofollow">LILITH</a>     | Tor     | OFFLINE     |
-| <a href="http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion" rel="nofollow">LOCKBIT 2.0 </a>     | Tor     | REBRANDED TO LB 3     |
-| <a href="http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion" rel="nofollow">LOCKBIT 2.0 </a>     | Tor     | REBRANDED TO LB 3     |
-| <a href="http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion" rel="nofollow">LOCKBIT 2.0 </a>     | Tor     | REBRANDED TO LB 3     |
-| <a href="http://lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion" rel="nofollow">LOCKBIT 2.0 </a>     | Tor     | REBRANDED TO LB 3     |
-| <a href="http://lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion" rel="nofollow">LOCKBIT 2.0 </a>     | Tor     | REBRANDED TO LB 3     |
+| <a href="http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion" rel="nofollow">LOCKBIT 2.0 </a>     | Tor     | "REBRANDED" TO "THIS SITE IS NOW UNDER THE CONTROL OF THE UK, THE US AND THE CRONOS TASK FORCE"     |
+| <a href="http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion" rel="nofollow">LOCKBIT 2.0 </a>     | Tor     | "REBRANDED" TO "THIS SITE IS NOW UNDER THE CONTROL OF THE UK, THE US AND THE CRONOS TASK FORCE"     |
+| <a href="http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion" rel="nofollow">LOCKBIT 2.0 </a>     | Tor     | "REBRANDED" TO "THIS SITE IS NOW UNDER THE CONTROL OF THE UK, THE US AND THE CRONOS TASK FORCE"     |
+| <a href="http://lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion" rel="nofollow">LOCKBIT 2.0 </a>     | Tor     | "REBRANDED" TO "THIS SITE IS NOW UNDER THE CONTROL OF THE UK, THE US AND THE CRONOS TASK FORCE"     |
+| <a href="http://lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion" rel="nofollow">LOCKBIT 2.0 </a>     | Tor     | "REBRANDED" TO "THIS SITE IS NOW UNDER THE CONTROL OF THE UK, THE US AND THE CRONOS TASK FORCE"     |
 | <a href="http://lockbitaptq7ephv2oigdncfhtwhpqgwmqojnxqdyhprxxfpcllqdxad.onion" rel="nofollow">LOCKBIT 2.0 </a>     | Tor     | OFFLINE     |
 | <a href="http://lockbitaptstzf3er2lz6ku3xuifafq2yh5lmiqj5ncur6rtlmkteiqd.onion" rel="nofollow">LOCKBIT 2.0 </a>     | Tor     | OFFLINE     |
 | <a href="http://oyarbnujct53bizjguvolxou3rmuda2vr72osyexngbdkhqebwrzsnad.onion" rel="nofollow">LOCKBIT 2.0 </a>     | Tor     | OFFLINE     |
@@ -154,6 +155,13 @@ layout: "elements"
 | <a href="http://lockbitfile2tcudkcqqt2ve6btssyvqwlizbpv5vz337lslmhff2uad.onion" rel="nofollow">LOCKBIT 3.0 </a>     | Tor     | ONLINE     |
 | <a href="http://lockbitnotexk2vnf2q2zwjefsl3hjsnk4u74vq4chxrqpjclfydk4ad.onion" rel="nofollow">LOCKBIT 3.0 </a>     | Tor     | ONLINE     |
 | <a href="http://lockbitsup4yezcd5enk5unncx3zcy7kw6wllyqmiyhvanjj352jayid.onion" rel="nofollow">LOCKBIT 3.0 </a>     | Tor     | ONLINE     |
+| <a href="http://lockbit3753ekiocyo5epmpy6klmejchjtzddoekjlnt6mu3qh4de2id.onion" rel="nofollow">LOCKBIT 3.0 </a>     | Tor     | ONLINE     |
+| <a href="http://lockbit3g3ohd3katajf6zaehxz4h4cnhmz5t735zpltywhwpc6oy3id.onion" rel="nofollow">LOCKBIT 3.0 </a>     | Tor     | ONLINE     |
+| <a href="http://lockbit3olp7oetlc4tl5zydnoluphh7fvdt5oa6arcp2757r7xkutid.onion" rel="nofollow">LOCKBIT 3.0 </a>     | Tor     | ONLINE     |
+| <a href="http://lockbit435xk3ki62yun7z5nhwz6jyjdp2c64j5vge536if2eny3gtid.onion" rel="nofollow">LOCKBIT 3.0 </a>     | Tor     | ONLINE     |
+| <a href="http://lockbit4lahhluquhoka3t4spqym2m3dhe66d6lr337glmnlgg2nndad.onion" rel="nofollow">LOCKBIT 3.0 </a>     | Tor     | ONLINE     |
+| <a href="http://lockbit6knrauo3qafoksvl742vieqbujxw7rd6ofzdtapjb4rrawqad.onion" rel="nofollow">LOCKBIT 3.0 </a>     | Tor     | ONLINE     |
+| <a href="http://lockbit7ouvrsdgtojeoj5hvu6bljqtghitekwpdy3b6y62ixtsu5jqd.onion" rel="nofollow">LOCKBIT 3.0 </a>     | Tor     | ONLINE     |
 | <a href="http://lockbitkodidilol.onion" rel="nofollow">LOCKBIT</a>     | Tor     | OFFLINE     |
 | <a href="http://zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion" rel="nofollow">LOCKFILE </a>     | Tor     | OFFLINE     |
 | <a href="http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion" rel="nofollow">LORENZ</a>     | Tor     | ONLINE     |
@@ -253,8 +261,10 @@ layout: "elements"
 | <a href="http://spookuhvfyxzph54ikjfwf2mwmxt572krpom7reyayrmxbkizbvkpaid.onion/blog" rel="nofollow">SPOOK DATA</a>     | Tor     | OFFLINE     |
 | <a href="http://3slz4povugieoi3tw7sblxoowxhbzxeju427cffsst5fo2tizepwatid.onion" rel="nofollow">STORMOUS</a>     | Tor     | OFFLINE     |
 | <a href="http://h3reihqb2y7woqdary2g3bmk3apgtxuyhx4j2ftovbhe3l5svev7bdyd.onion" rel="nofollow">STORMOUS</a>     | Tor     | OFFLINE     |
-| <a href="http://pdcizqzjitsgfcgqeyhuee5u6uki6zy5slzioinlhx6xjnsw25irdgqd.onion" rel="nofollow">STORMOUS</a>     | Tor     | ONLINE     |
-| <a href="http://ransekgbpijp56bflufgxptwn5hej2rztx423v6sim2zrzz7xetnr2qd.onion" rel="nofollow">STORMOUS</a>     | Tor     | ONLINE     |
+| <a href="http://pdcizqzjitsgfcgqeyhuee5u6uki6zy5slzioinlhx6xjnsw25irdgqd.onion" rel="nofollow">STORMOUS </a>     | Tor     | ONLINE     |
+| <a href="http://stmxylixiz4atpmkspvhkym4xccjvpcv3v67uh3dze7xwwhtnz4faxid.onion" rel="nofollow">STORMOUS </a>     | Tor     | ONLINE     |
+| <a href="http://stmxylixiz4atpmkspvhkym4xccjvpcv3v67uh3dze7xwwhtnz4faxid.onion/10fes-e87d-9987f-96s-zzd6.html" rel="nofollow">STORMOUS </a>     | Tor     | ONLINE     |
+| <a href="http://ransekgbpijp56bflufgxptwn5hej2rztx423v6sim2zrzz7xetnr2qd.onion" rel="nofollow">STORMOUS</a>     | Tor     | OFFLINE     |
 | <a href="http://chat5sqrnzqewampznybomgn4hf2m53tybkarxk4sfaktwt7oqpkcvyd.onion/gate.php?data=" rel="nofollow">SUGAR </a>     | Tor     | OFFLINE     |
 | <a href="http://nbzzb6sa6xuura2z.onion" rel="nofollow">SUNCRYPT </a>     | Tor     | OFFLINE     |
 | <a href="http://x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion" rel="nofollow">SUNCRYPT </a>     | Tor     | OFFLINE     |
