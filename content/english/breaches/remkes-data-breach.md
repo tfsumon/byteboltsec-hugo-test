@@ -1,17 +1,17 @@
 ---
 date: "2024-02-26"
 discovered: "February 26, 2024"
-title: "MAGI"
-image: "images/blog/LockBit.png"
+title: "Remkes"
+image: "images/blog/Cactus.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | magierp.com      | 
-| Threat Actor      | LockBit      | 
+| Victim      | remkes.nl      | 
+| Threat Actor      | Cactus      | 
 | Date Discovered      | Feb 26, 2024      | 
-| Description      | Manufacturing Action Group Incorporated (MAGI) develops and supports high-quality ERP business solutions for small to mid-sized manufacturers.      | 
+| Description      | Remkes has more than 75 years of experience and specializes in the slaughter.      | 
 | Leak Size      | Unknown      | 
 

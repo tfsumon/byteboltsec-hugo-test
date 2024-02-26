@@ -1,17 +1,17 @@
 ---
 date: "2024-02-26"
 discovered: "February 26, 2024"
-title: "MAGI"
-image: "images/blog/LockBit.png"
+title: "IJM"
+image: "images/blog/Hunters.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | magierp.com      | 
-| Threat Actor      | LockBit      | 
+| Victim      | ijm.com      | 
+| Threat Actor      | Hunters      | 
 | Date Discovered      | Feb 26, 2024      | 
-| Description      | Manufacturing Action Group Incorporated (MAGI) develops and supports high-quality ERP business solutions for small to mid-sized manufacturers.      | 
+| Description      | IJM is one of Malaysia's leading conglomerates and is listed on the Main Market of Bursa Malaysia Securities Berhad.      | 
 | Leak Size      | Unknown      | 
 

@@ -1,7 +1,7 @@
 ---
 date: "2024-02-26"
 discovered: "February 26, 2024"
-title: "MAGI"
+title: "EquiLend"
 image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | magierp.com      | 
+| Victim      | equilend.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Feb 26, 2024      | 
-| Description      | Manufacturing Action Group Incorporated (MAGI) develops and supports high-quality ERP business solutions for small to mid-sized manufacturers.      | 
+| Description      | EquiLend is a global financial technology, data and analytics firm offering Trading, Post-Trade, Data & Analytics, RegTech and Platform Solutions for the securities finance industry.      | 
 | Leak Size      | Unknown      | 
 

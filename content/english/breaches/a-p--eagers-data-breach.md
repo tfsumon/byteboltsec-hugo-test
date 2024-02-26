@@ -1,7 +1,7 @@
 ---
 date: "2024-02-26"
 discovered: "February 26, 2024"
-title: "MAGI"
+title: "A.P. Eagers"
 image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | magierp.com      | 
+| Victim      | apeagers.com.au      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Feb 26, 2024      | 
-| Description      | Manufacturing Action Group Incorporated (MAGI) develops and supports high-quality ERP business solutions for small to mid-sized manufacturers.      | 
+| Description      | A.P. Eagers is an Australia's oldest listed automotive retail group.      | 
 | Leak Size      | Unknown      | 
 

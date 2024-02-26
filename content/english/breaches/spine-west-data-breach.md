@@ -1,7 +1,7 @@
 ---
 date: "2024-02-26"
 discovered: "February 26, 2024"
-title: "Apex"
+title: "Spine West"
 image: "images/blog/Monti.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | apexspedition.de      | 
+| Victim      | spinewest.com      | 
 | Threat Actor      | Monti      | 
 | Date Discovered      | Feb 26, 2024      | 
-| Description      | APEX GmbH has successfully positioned itself in the areas of international freight forwarding, ship delivery, sea freight, special transport and warehousing.      | 
-| Leak Size      | 100GB      | 
+| Description      | Spine West is a non-surgical physiatry medical practice specializing in physical medicine & rehab.      | 
+| Leak Size      | 450GB      | 
 

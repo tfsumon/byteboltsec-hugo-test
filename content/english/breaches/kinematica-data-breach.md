@@ -1,17 +1,17 @@
 ---
 date: "2024-02-26"
 discovered: "February 26, 2024"
-title: "MAGI"
-image: "images/blog/LockBit.png"
+title: "Kinematica"
+image: "images/blog/Qilin.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | magierp.com      | 
-| Threat Actor      | LockBit      | 
+| Victim      | kinematica.ch      | 
+| Threat Actor      | Qilin      | 
 | Date Discovered      | Feb 26, 2024      | 
-| Description      | Manufacturing Action Group Incorporated (MAGI) develops and supports high-quality ERP business solutions for small to mid-sized manufacturers.      | 
+| Description      | Kinematica Science & Development focuses on research and development to realize innovative projects in the field of homogenization.      | 
 | Leak Size      | Unknown      | 
 

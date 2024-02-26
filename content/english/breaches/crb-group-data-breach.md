@@ -1,7 +1,7 @@
 ---
 date: "2024-02-26"
 discovered: "February 26, 2024"
-title: "MAGI"
+title: "CRB Group"
 image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | magierp.com      | 
+| Victim      | crbgroup.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Feb 26, 2024      | 
-| Description      | Manufacturing Action Group Incorporated (MAGI) develops and supports high-quality ERP business solutions for small to mid-sized manufacturers.      | 
+| Description      | CRB Group offers process engineering, facility design and technical consulting for life sciences, food and advanced technology.      | 
 | Leak Size      | Unknown      | 
 
