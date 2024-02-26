@@ -1,6 +1,6 @@
 ---
 date: "2024-02-22"
-title: "What is a Data Leak: Definition, Causes, and Prevention"
+title: "What is a Data Leak: Definition, Causes, and Prevention."
 image: "images/blog/data-leak.png"
 description: "Discover what a data leak is. Learn everything about what a data leak is, how it happens, and how to protect your business from it." 
 author: "Breachsense"

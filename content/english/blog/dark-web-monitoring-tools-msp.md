@@ -1,6 +1,6 @@
 ---
 date: "2024-02-21"
-title: "15 Best Dark Web Monitoring Tools for MSPs"
+title: "15 Best Dark Web Monitoring Tools for MSPs."
 image: "images/blog/dark-web-monitoring-tools-msp.png"
 description: "Discover the best dark web monitoring tools for MSPs. Learn what tools MSPS should use to monitor the dark web for your clients' data."
 author: "Breachsense"

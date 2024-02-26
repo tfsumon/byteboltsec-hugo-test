@@ -1,6 +1,6 @@
 ---
 date: "2024-02-25"
-title: "How to prevent a data breach in your company: Definition, Causes, and Prevention"
+title: "How To Prevent a Data Breach In Your Company: Definition, Causes, and Prevention."
 image: "images/blog/data-breach-prevention.png"
 description: "Discover how to prevent a data breach in your company. Learn the causes and steps needed to prevent a data breach in your company." 
 author: "Breachsense"
