@@ -65,5 +65,3 @@ After the breach, U.S. lawmakers passed a law allowing consumers to freeze their
 - **Focus on the basics**: The breach was successful due to an unpatched vulnerability and an expired security certificate. Despite having a patching process and security tools to detect the data exfiltration, neither was implemented and managed correctly.
 - **Segment your network**: The attackers were able to pivot and access additional services due to a lack of network segmentation. By isolating systems, you reduce the attack surface, making containing a breach significantly easier.
 - **Implement Zero Trust:** Access to sensitive data should only be given to those who need it. By its very nature, Zero Trust architecture requires aggressive monitoring, which prevents privilege escalation issues and enables security teams to quickly identify unusual data access or exfiltration attempts.
-
-

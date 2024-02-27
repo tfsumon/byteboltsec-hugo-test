@@ -122,6 +122,6 @@ Flashpoint specializes in Business Risk Intelligence derived from dark web insig
 
 ### 10. ID Agent
 
-ID Agent provides dark web monitoring and identity theft protection services, focusing on safeguarding personal and business information. The platform offers monitoring services, including phishing simulations and training, to increase security awareness and defenses. ID Agent is geared towards small businesses and managed service providers (MSPs) looking to strengthen their cybersecurity posture and protect against identity theft and data breaches.
+ID Agent provides dark web monitoring and identity theft protection services, focusing on safeguarding personal and business information. The platform offers monitoring services, including phishing simulations and training, to increase security awareness and defenses. ID Agent is geared towards small businesses and [managed service providers (MSPs)](https://www.breachsense.com/dark-web-monitoring-msp/) looking to strengthen their cybersecurity posture and protect against identity theft and data breaches.
 
 ### Need real-time visibility into your breached data? Check out Breachsense, a powerful [dark web monitoring platform](https://www.breachsense.com/dark-web-monitoring/) that enables your security team to mitigate your breached data before it's exploited.
