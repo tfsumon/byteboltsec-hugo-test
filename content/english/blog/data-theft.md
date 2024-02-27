@@ -15,7 +15,7 @@ draft: false
 
 Data theft is the unauthorized access of sensitive information, often with the intention of using it for malicious purposes.
 
-The following types of data of often targeted:
+The following types of data are often targeted:
 
 - personal details (e.g., names, addresses, and social security numbers)
 - financial data (e.g., credit card numbers and bank account information)
