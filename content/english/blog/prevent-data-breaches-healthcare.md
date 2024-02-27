@@ -17,7 +17,7 @@ Several factors make the healthcare industry particularly attractive and vulnera
 
 ### Sensitive and valuable data 
 
-Healthcare organizations store sensitive patient information. These include patient names, social security numbers, dates of birth, complete medical records, insurance details, and billing information. 
+Healthcare organizations store [sensitive patient information](https://www.breachsense.com/blog/impact-of-data-breach-healthcare/). These include patient names, social security numbers, dates of birth, complete medical records, insurance details, and billing information. 
 
 For criminals, this data means the ability to use it for identity theft, fraud, or sell it on the dark web for significant sums.
 
