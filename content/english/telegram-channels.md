@@ -471,3 +471,4 @@ layout: "elements"
 | LAPSUS$ France | <a href="https://t.me/lapsusfr" rel="nofollow">https://t.me/lapsusfr</a>|
 | R00TK1TOFF | <a href="https://t.me/R00TK1TOFF" rel="nofollow">https://t.me/R00TK1TOFF</a>|
 | HackForce | <a href="https://t.me/HackForceAll" rel="nofollow">https://t.me/HackForceAll</a>|
+| Lapsus$ Group | <a href="https://t.me/GroupLapsus" rel="nofollow">https://t.me/GroupLapsus</a>|
