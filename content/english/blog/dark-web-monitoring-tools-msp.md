@@ -21,7 +21,7 @@ The goal of dark web monitoring is to help organizations detect when their sensi
 
 Identifying issues early enables MSPs to mitigate the risk for their clients before criminals exploit the leaked data. Remediation typically includes updating passwords, implementing additional security measures, or alerting authorities.
 
-## What causes data Breaches?
+## What causes data breaches?
 
 Before we talk about how dark web monitoring tools work, let's talk about what causes data breaches in the first place.
 
