@@ -108,7 +108,7 @@ Conduct thorough background checks on potential employees, contractors, and thir
 
 ### 7. Implement data loss prevention (DLP) tools
 
-Utilize DLP solutions to detect and prevent unauthorized data transfers, as well as ongoing dark web monitoring to ensure your data hasn't leaked.
+Utilize DLP solutions to detect and prevent unauthorized data transfers, as well as ongoing [dark web monitoring](https://www.breachsense.com/blog/data-leak-detection-software/) to ensure your data hasn't leaked.
 
 ### 8. Encourage reporting of suspicious behavior
 

@@ -82,19 +82,17 @@ Keeping the data breach lifecycle to less than 200 days was associated with an a
 
 ![Comparison of the cost of a data breach based on the data breach lifecycle](../cost9.png)
 
-How long is the average data breach lifecycle?
-----------------------------------------------
+## How long is the average data breach lifecycle?
 
 Detecting and containing a data breach as quickly as possible is crucial in minimizing the damage it can cause.
 
-The data breach lifecycle is the elapsed time between initial detection and containment. In other words, the time from when the incident was initially discovered until the organization resolves the situation and restores service after the breach.
+The data breach lifecycle is the elapsed time between [initial detection](https://www.breachsense.com/blog/data-breach-detection/) and containment. In other words, the time from when the incident was initially discovered until the organization resolves the situation and restores service after the breach.
 
 In 2022, the average time it took organizations to identify a breach was 207 days. In 2023, it only took 204 days. On the other hand, organizations needed an average of 73 days to contain a breach in 2023, while in 2022, it took an average of just 70 days.
 
 As noted before, the shorter the data breach lifecycle, the lower the overall business costs are to the organization.
 
-What was the most common initial attack vector?
------------------------------------------------
+## What was the most common initial attack vector?
 
 Stolen or compromised credentials were responsible for 31% of the breaches. Credentials are often leaked via infostealer malware, 3rd party breaches and phishing attacks.
 

@@ -15,7 +15,7 @@ draft: false
 ---
 ## What causes data leaks
 
-Before we talk about the components of a data leak prevention strategy, what are the major cuases of data leaks in the first place?
+Before we talk about the components of a data leak prevention strategy, what are the major causes of data leaks in the first place?
 
 Data leaks are caused by a number of factors. These range from [human error](https://www.breachsense.com/blog/data-breach-human-error/) to technical vulnerabilities.
 
@@ -31,7 +31,7 @@ Here are the top 5 primary factors that cause data leaks:
 
 ## Who needs to implement a data leak prevention strategy
 
-Now that we've covered what causes a data leak, let's talk about who this is relevant to.
+Now that we've covered what causes a data leak, let's talk about who this is relevant for.
 
 Data leak prevention is essential for any company with access to sensitive data.
 

@@ -27,7 +27,7 @@ There are a number of common causes of data leaks. In many cases, it's a combina
 - **Human Error:** Employees might accidentally send sensitive information to the wrong recipient, misconfigure databases, or lose devices containing sensitive data.
 - **Weak Security Measures:** Poor security practices, such as missing security patches, default passwords, password reuse, leaked passwords or insufficient access controls, allow unauthorized access to access sensitive data.
 - **Unsecured Websites and Applications:** Websites or applications with vulnerabilities can be exploited to access stored data (e.g., Insecure Direct Object Reference or SQL Injection)
-- **Server Misconfigurations:** Misconfigured servers or cloud storage buckets can accidentally expose sensitive data to the public.
+- **Server Misconfigurations:** Misconfigured servers or cloud storage buckets can accidentally expose sensitive data leading to [data theft](https://www.breachsense.com/blog/data-theft/).
 - **Phishing Attacks:** Social engineering attacks can be used to trick employees into revealing sensitive information through deceptive emails or messages.
 - **Third-Party Vendors:** Organizations often share data with vendors, partners, and contractors. If these third parties have weak security, data can be leaked through their systems.
 - **Insider Threats:** [Malicious insiders](https://www.breachsense.com/blog/insider-threat-data-breach/) may intentionally leak data for personal gain, to harm the organization, or as a form of protest.
