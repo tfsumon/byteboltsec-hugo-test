@@ -1,6 +1,6 @@
 ---
-date: "2023-11-13"
-discovered: "November 13, 2023"
+date: "2024-03-04"
+discovered: "March 04, 2024"
 title: "ESSER Gruppe"
 image: "images/blog/LockBit.png"
 author: "Breachsense Support"
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | digitaldruck-esser.de      | 
+| Victim      | esser-ps.de      | 
 | Threat Actor      | LockBit      | 
-| Date Discovered      | Nov 13, 2023      | 
-| Description      | ESSER Gruppe is a printing solutions firm that provides offset printing, photo calendars, photo books, and web printing services.      | 
+| Date Discovered      | Mar 04, 2024      | 
+| Description      | ESSER Gruppe offers modern and decentralized digital printing.      | 
 | Leak Size      | Unknown      | 
 

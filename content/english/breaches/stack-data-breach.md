@@ -1,17 +1,17 @@
 ---
 date: "2024-03-04"
 discovered: "March 04, 2024"
-title: "SBM"
-image: "images/blog/ALPHV.png"
+title: "Stack"
+image: "images/blog/Play.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | sbmco.in      | 
-| Threat Actor      | ALPHV      | 
+| Victim      | stackinfra.com      | 
+| Threat Actor      | Play      | 
 | Date Discovered      | Mar 04, 2024      | 
-| Description      | SBM & Co is a leading Practicing Chartered Accountant Firm based in Mumbai, India.      | 
+| Description      | Stack Infrastructure is a Information technology company that provides digital infrastructure.      | 
 | Leak Size      | Unknown      | 
 

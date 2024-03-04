@@ -1,7 +1,7 @@
 ---
 date: "2024-03-04"
 discovered: "March 04, 2024"
-title: "Smulders"
+title: "Jovani"
 image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | smulders.com      | 
+| Victim      | jovani.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Mar 04, 2024      | 
-| Description      | Smulders is a multidisciplinary and international construction company with an established reputation in the engineering, production, supply and assembly of heavy, technically complex and architectural steel structures.      | 
+| Description      | Jovani is a premiere designer of prom, evening and wedding dresses created with luxurious fabrics and details.      | 
 | Leak Size      | Unknown      | 
 

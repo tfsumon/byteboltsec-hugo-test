@@ -1,7 +1,7 @@
 ---
 date: "2024-03-04"
 discovered: "March 04, 2024"
-title: "Smulders"
+title: "Stark Power"
 image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | smulders.com      | 
+| Victim      | stark-power.de      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Mar 04, 2024      | 
-| Description      | Smulders is a multidisciplinary and international construction company with an established reputation in the engineering, production, supply and assembly of heavy, technically complex and architectural steel structures.      | 
+| Description      | Stark Power GmbH is an electrical-electronic manufacturing company based out of 21 Gewerbepark Birkenhain, Freigericht, Hesse, Germany.      | 
 | Leak Size      | Unknown      | 
 

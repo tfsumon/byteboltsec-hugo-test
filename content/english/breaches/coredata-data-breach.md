@@ -1,17 +1,17 @@
 ---
 date: "2024-03-04"
 discovered: "March 04, 2024"
-title: "SBM"
-image: "images/blog/ALPHV.png"
+title: "CoreData"
+image: "images/blog/Akira.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | sbmco.in      | 
-| Threat Actor      | ALPHV      | 
+| Victim      | coredata.ca      | 
+| Threat Actor      | Akira      | 
 | Date Discovered      | Mar 04, 2024      | 
-| Description      | SBM & Co is a leading Practicing Chartered Accountant Firm based in Mumbai, India.      | 
+| Description      | CoreData is developing software systems for engineers and engineering companies.      | 
 | Leak Size      | Unknown      | 
 

@@ -1,17 +1,17 @@
 ---
 date: "2024-03-04"
 discovered: "March 04, 2024"
-title: "SBM"
-image: "images/blog/ALPHV.png"
+title: "Hedlunds Papper"
+image: "images/blog/Play.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | sbmco.in      | 
-| Threat Actor      | ALPHV      | 
+| Victim      | hedlundspapper.se      | 
+| Threat Actor      | Play      | 
 | Date Discovered      | Mar 04, 2024      | 
-| Description      | SBM & Co is a leading Practicing Chartered Accountant Firm based in Mumbai, India.      | 
+| Description      | Hedlunds Pappersindustri is a paper mill that exports christmas paper and gift paper.      | 
 | Leak Size      | Unknown      | 
 

@@ -1,7 +1,7 @@
 ---
 date: "2024-03-04"
 discovered: "March 04, 2024"
-title: "SBM"
+title: "Mexican Port Infrastructure"
 image: "images/blog/ALPHV.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | sbmco.in      | 
+| Victim      | ipmaltamira.com.mx      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Mar 04, 2024      | 
-| Description      | SBM & Co is a leading Practicing Chartered Accountant Firm based in Mumbai, India.      | 
+| Description      | Mexican Port Infrastructure's mission is to remain a world-class port terminal, promoting environmental protection.      | 
 | Leak Size      | Unknown      | 
 
