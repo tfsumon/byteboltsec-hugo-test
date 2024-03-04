@@ -43,7 +43,7 @@ Here are some even more worrying statistics…
 
 According to the [International Association for Privacy Professionals](https://iapp.org/news/a/survey-45-of-businesses-suffered-data-breach-in-past-year/), around 45% of companies in the US suffered a data breach last year. (*If that’s not scary enough, consider this - Experts suggest that the data might be significantly higher since many data breaches remain undetected for a long time.*)
 
-Speaking of data breach detection, according to [another source](https://www.enterpriseappstoday.com/stats/data-breach-statistics.html), it takes companies an average of 277 days to discover their data was breached. 
+Speaking of [data breach detection](https://www.breachsense.com/blog/data-breach-detection-tools/), according to [another source](https://www.enterpriseappstoday.com/stats/data-breach-statistics.html), it takes companies an average of 277 days to discover their data was breached. 
 
 But what’s even worse is that a study cited by the source claims that that time has increased in 2023!
 

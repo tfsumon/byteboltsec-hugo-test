@@ -66,9 +66,9 @@ Data leak detection tools are an essential tool in an organization’s cyber def
       
 Breachsense supports automated alerts via multiple channels whenever sensitive data is exposed and integrates seamlessly with existing security SIEM and SOC solutions. Breachsense is particularly useful for offensive security teams, mid-market to large enterprises, and government organizations.
 
-### 2. Digital Shadows SearchLight
+### 2. ReliaQuest SearchLight
 
-Digital Shadows SearchLight offers dark web monitoring and digital risk protection services. The platform provides visibility into a wide range of digital risks, including exposed data, brand impersonation, and cyber threats. Digital Shadows combines data analytics with human intelligence to deliver actionable insights for organizations.
+ReliaQuest SearchLight offers dark web monitoring and digital risk protection services. The platform provides visibility into a wide range of digital risks, including exposed data, brand impersonation, and cyber threats. ReliaQuest combines data analytics with human intelligence to deliver actionable insights for organizations.
 
 ### 3. Recorded Future
 

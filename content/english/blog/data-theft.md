@@ -59,7 +59,7 @@ Data breaches are constantly in the news. It's an issue that affects both small 
 
 ## Tips for preventing data theft
 
-There are a number of steps you can take to reduce the risk and impact of a data breach. While there's no silver bullet, the following steps will help protect your sensitive data:
+There are a number of steps you can take to reduce the risk and impact of a [data breach](https://www.breachsense.com/blog/data-breach-detection-tools/). While there's no silver bullet, the following steps will help protect your sensitive data:
 
 - **Segment the network:** Divide your network into segments to make it harder for an attacker to move laterally across the entire network and access sensitive information
 - **Access controls:** Use role-based access controls (RBAC) to ensure employees only have access to the data and systems necessary for their roles.
