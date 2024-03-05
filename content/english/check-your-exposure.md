@@ -80,8 +80,7 @@ detect_dark_web_leakage:
   enable: true
   title: "What causes data breaches?"
   image: "images/JSON.png"
-  alt: "Dashboard showing results of monitoring dark web for company data leakag
-e"
+  alt: "Dashboard showing results of monitoring dark web for company data leakage"
   content: >-
    * Stolen or leaked credentials
 
@@ -95,7 +94,7 @@ e"
 
    * Social engineering / phishing attacks
 
-   * Disgrunteled or careless employees who intentionally or accidentally share sensitive data
+   * Disgruntled or careless employees who intentionally or accidentally share sensitive data
 
    * Lost of stolen devices which contain sensitive data
 
