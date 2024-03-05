@@ -181,6 +181,7 @@ layout: "elements"
 | <a href="http://qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion" rel="nofollow">MEDUSA LOCKER </a>     | Tor     | ONLINE     |
 | <a href="http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion" rel="nofollow">MEDUSA</a>     | Tor     | ONLINE     |
 | <a href="http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion" rel="nofollow">MEDUSA</a>     | Tor     | ONLINE     |
+| <a href="http://xfv4jzckytb4g3ckwemcny3ihv4i5p4lqzdpi624cxisu35my5fwi5qd.onion" rel="nofollow">MEDUSA</a>     | Tor     | ONLINE     |
 | <a href="http://meow6xanhzfci2gbkn3lmbqq7xjjufskkdfocqdngt3ltvzgqpsg5mid.onion" rel="nofollow">MEOW</a>     | Tor     | ONLINE     |
 | <a href="http://metacrptmytukkj7ajwjovdpjqzd7esg5v3sg344uzhigagpezcqlpyd.onion" rel="nofollow">METAENCRYPTER</a>     | Tor     | ONLINE     |
 | <a href="http://dkgn45pinr7nwvdaehemcrpgcjqf4fooit3c4gjw6dhzrp443ctvnoad.onion" rel="nofollow">MOGILEVICH</a>     | Tor     | ONLINE     |
