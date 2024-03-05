@@ -10,4 +10,4 @@
 /api3* https://api.breachsense.com/api3 301
 /blog/monitoring-dark-web* /dark-web-monitoring/ 301
 /blog/protect-your-staff* /dark-web-monitoring/ 301
-/check-your-exposure* /dark-web-scanner/ 301
+/dark-web-scanner/ /check-your-exposure/ 301

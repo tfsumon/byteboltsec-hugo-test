@@ -7,8 +7,8 @@ layout: "check-your-exposure"
 
 # Banner
 banner:
-  title: "Dark Web Scanner"
-
+  title: "Check your dark web exposure"
+  content: "Enter your domain name or email address to identify threats to your organization like employees with malware infected devices, stolen session cookies and credentials leaked in combo lists or third-party breaches."
 
 # No Data Breach Detected
 no_data_breach_detected:
@@ -56,6 +56,51 @@ data_breach_detected:
       <br>
 
       * **Continuously Monitor for Data Breaches.** Even if you do everything right, there’s still a risk of human error. Breachsense allows you to uncover data breaches in real time.
+
+# Potential Effects
+potential_effects:
+  enable: true
+  title: "Why Use Breachsense"
+  ahref: "/why-breachsense/"
+  content: "Breachsense provides security teams with actionable threat intelligence to prevent ransomware, account takeover, and online fraud."
+  book_a_demo_button: true
+  info_list:
+  - title: "Early Data Breach Detection and Response"
+    icon: "las la-exclamation-triangle"
+    content: "Automatically monitor for leaked credentials and other sensitive data. Get notified as soon as a breach is detected."
+  - title: "Easy Integration with Your CTI Toolset"
+    icon: "las la-compress-arrows-alt"
+    content: "Integrate our actionable data within you SOC and SIEM platforms by querying our APIs and consuming the JSON output."
+  - title: "Instant Alerts for Quick Incident Response"
+    icon: "las la-bell"
+    content: "Get instant notifications when sensitive information has been compromised. Prevent criminals from exploiting the exposed data."
+
+# Detect Dark Web Leakage
+detect_dark_web_leakage:
+  enable: true
+  title: "What causes data breaches?"
+  image: "images/JSON.png"
+  alt: "Dashboard showing results of monitoring dark web for company data leakag
+e"
+  content: >-
+   * Stolen or leaked credentials
+
+   * Misconfigured Security Settings
+
+   * Accidental Sharing of sensitive information with the wrong recipient
+   
+   * Third-party vendors with access to your data who experience a breach
+   
+   * Vulnerable websites or applications
+
+   * Social engineering / phishing attacks
+
+   * Disgrunteled or careless employees who intentionally or accidentally share sensitive data
+
+   * Lost of stolen devices which contain sensitive data
+
+   * Improper disposal of old devices and storage media which contain confidential information 
+   
 
 
 # features
