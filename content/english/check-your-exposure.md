@@ -1,7 +1,7 @@
 ---
-title: "Check Your Dark Web Exposure | Breachsense"
+title: "Dark Web Scanner - Check Your Dark Web Exposure"
 draft: false
-description: "Data breaches are more common than ever. Use Breachsense to scan the dark web and uncover data breaches within your organization."
+description: "Discover the best dark web scanner to check your exposure. Learn which company credentials have been exposed on the dark web."
 layout: "check-your-exposure"
 
 
