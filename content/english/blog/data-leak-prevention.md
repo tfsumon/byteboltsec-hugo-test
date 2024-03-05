@@ -37,7 +37,7 @@ There are a number of common causes of data leaks. In many cases, it's a combina
 
 Data leaks and data breaches are terms often used interchangeably, but they have distinct differences.
 
-A data leak is caused by an *unintentional* exposure of sensitive data, while a data breach is caused by a deliberate attack.
+A [data leak](https://www.breachsense.com/blog/data-leak/) is caused by an *unintentional* exposure of sensitive data, while a data breach is caused by a deliberate attack.
 
 While data leaks are often at least partially caused by human error, data breaches normally involve an attacker intentionally breaking into a system to steal data.
 

@@ -31,6 +31,7 @@ Well, this can happen in a number of ways.
 One is when a third-party vendor that holds your company’s data in their system suffers a breach. Hackers infiltrating the vendor’s systems automatically gain access to whatever data of yours is there as well.
 
 **EXAMPLE:** [In 2021, hackers breached Elekta's systems, a cloud storage provider.](https://healthitsecurity.com/news/elekta-data-breach-leaks-patient-info-at-oklahoma-cancer-center) In the attack, hackers also gained access to sensitive patient data of the Oklahoma Cancer Center that was stored on the Elekta servers. 
+In 2014, [Home Depot breach](https://www.breachsense.com/blog/home-depot-data-breach/) was compromised losing over 56 million payment card details when attackers gained access to a third-party vendor's credentials giving them access to Home Depot's payment system.
 
 In 2016, a data breach at Dropbox exposed the email addresses and passwords of 68 million users. The breach was caused by a Dropbox employee who had reused their work account's password on a third-party website that had been hacked. Hackers were then able to use this password to gain access to Dropbox’s network and steal user information.
 
@@ -41,6 +42,8 @@ In 2016, a data breach at Dropbox exposed the email addresses and passwords of 6
 **Uber:** In December 2022, Uber, the global ride-hailing giant, suffered a third-party data breach due to a compromised vendor. Teqtivity, an IT asset tracking, monitoring, and management service provider, confirmed that a hacker had breached its systems and accessed email addresses and other information belonging to more than 77,000 Uber employees.
 
 **SolarWinds:** In December 2020, SolarWinds confirmed that its network had been breached, and malware was injected into the software update functionality on its platform. The malware scanned downstream customer networks, detected security tools, and connected back to the attacker’s command and control servers. 18,000 customers were impacted, including government agencies and 14% of the Fortune 1000.
+
+**Target:** In November 2013, Target, one of the largest retail chains in the United States, experienced a [massive data breach](https://www.breachsense.com/blog/target-data-breach/) that compromised the personal and financial information of approximately 40 million customers. The attackers gained access to Target's network by using credentials stolen from a third-party vendor, and then installed malware on the point-of-sale (POS) systems to capture credit and debit card information during transactions. The financial impact of the breach was estimated at over $200 million.
 
 ## 10 Steps to Prevent Third-Party Data Breach
 

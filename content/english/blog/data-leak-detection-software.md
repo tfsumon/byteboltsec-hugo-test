@@ -24,7 +24,7 @@ It enables security teams to reduce their attack surface by resetting stolen cre
 
 ## What Causes Data Leaks?
 
-To better understand how data leak detection software works, it's important to understand what causes data leaks in the first place.
+To better understand how [data leak](https://www.breachsense.com/blog/data-leak/) detection software works, it's important to understand what causes data leaks in the first place.
 
 Data leaks happen for a number of reasons, ranging from technological vulnerabilities to [human error](https://www.breachsense.com/blog/data-breach-human-error/).
 

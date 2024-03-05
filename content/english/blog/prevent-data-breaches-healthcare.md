@@ -115,7 +115,7 @@ Healthcare organizations are subject to strict regulations and compliance requir
 
 One of the greatest challenges with data breaches is that they aren’t always easy to find. In fact, [many organizations go for months](https://www.enterpriseappstoday.com/stats/data-breach-statistics.html) without even realizing that something’s amiss.
 
-At the same time, the best way to prevent a data breach is to mitigate the risk before it's exploited.
+At the same time, the best way to [prevent a data breach](https://www.breachsense.com/blog/prevent-data-breaches-healthcare/) is to mitigate the risk before it's exploited.
 
 Luckily, there are several data breach detection tools that let you monitor and get alerted to potential threats before they become issues. 
 

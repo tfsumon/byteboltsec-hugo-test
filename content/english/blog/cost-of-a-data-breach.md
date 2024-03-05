@@ -29,7 +29,7 @@ The average cost per record in 2023 was USD 165. Over the last seven years, ther
 
 ### 2. 51% of organizations plan to increase their investment in security after a breach.
 
-Despite the continued rise in data breach costs, participants were almost split on whether they plan to increase spending on security after an incident. Of the 51% that increased spending after a breach, the most common investment was in Incident Response planning and testing at 50%. Next was employee training at 46%. Threat detection and response technologies came in third at 38%. A breakdown of the most common investments made is shown below:
+Despite the continued rise in data breach costs, participants were almost split on whether they plan to increase spending on security after an incident. Of the 51% that increased spending after a breach, the most common investment was in Incident Response planning and testing at 50%. Next was employee training at 46%. [Threat detection](https://www.breachsense.com/blog/data-leak-detection-software/) and response technologies came in third at 38%. A breakdown of the most common investments made is shown below:
 
 ![Most common investment types after a breach](../cost3.png)
 
@@ -56,7 +56,7 @@ In comparison, the average cost when law enforcement wasn't involved was USD 5.1
 
 ### 6. The average cost of a breach in the healthcare industry has grown by 53.3%.
 
-Despite the high levels of regulation and being considered critical infrastructure by the US government, the healthcare industry continues to experience the highest data breach costs across all sectors. Over the past three years, the average healthcare data breach cost has ballooned by 53%. In 2023, the average cost hit USD 10.93 million.
+Despite the high levels of regulation and being considered critical infrastructure by the US government, the [healthcare industry](https://www.breachsense.com/blog/impact-of-data-breach-healthcare/) continues to experience the highest data breach costs across all sectors. Over the past three years, the average healthcare data breach cost has ballooned by 53%. In 2023, the average cost hit USD 10.93 million.
 
 Here's a breakdown of the cost of a data breach per industry:
 

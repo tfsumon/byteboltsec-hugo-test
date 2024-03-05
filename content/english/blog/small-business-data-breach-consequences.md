@@ -105,7 +105,7 @@ Consider working with an external cybersecurity expert to help you develop a dat
 
 When it comes to securing your business’s digital assets, there are several important software solutions that you’ll want to have in place.
 
-These include firewalls, antivirus software, data breach monitoring, and endpoint detection and response solutions.
+These include firewalls, antivirus software, [data breach monitoring](https://www.breachsense.com/blog/data-leak-detection-software/), and endpoint detection and response solutions.
 
 ### 3. Keep Systems Up To Date
 
