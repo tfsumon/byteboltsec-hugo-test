@@ -80,7 +80,7 @@ detect_dark_web_leakage:
   enable: true
   title: "What causes data breaches?"
   image: "images/JSON.png"
-  alt: "Dashboard showing results of monitoring dark web for company data leakage"
+  alt: "API output showing results of a dark web scan in JSON format"
   content: >-
    * Stolen or leaked credentials
 
