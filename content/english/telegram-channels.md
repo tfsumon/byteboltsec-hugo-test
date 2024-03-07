@@ -25,6 +25,7 @@ layout: "elements"
 |  BlackDragonSec  | <a href="https://t.me/+JMruw9EHhWtmYjc9" rel="nofollow">https://t.me/+JMruw9EHhWtmYjc9</a>|
 |  Data Leaks | <a href="https://t.me/+nCFeH8PT-XUxZjEy" rel="nofollow">https://t.me/+nCFeH8PT-XUxZjEy</a>|
 |  Luffich Logs - Redline Stealer | <a href="https://t.me/+NshXlCbUEZkxZDMy" rel="nofollow">https://t.me/+NshXlCbUEZkxZDMy</a>|
+|  Goblin's Free Logs  | <a href="https://t.me/+OZheKtZ368YxMDBl" rel="nofollow">https://t.me/+OZheKtZ368YxMDBl</a>|
 | TCG | <a href="https://t.me/+O7yT5lylY89lMTcy" rel="nofollow">https://t.me/+O7yT5lylY89lMTcy</a>|
 |  Adrastea Group | <a href="https://t.me/+paglZbHnhE8xMTA8" rel="nofollow">https://t.me/+paglZbHnhE8xMTA8</a>|
 |  Data Leaks | <a href="https://t.me/+T0l1VDuQzDpjYWQ0" rel="nofollow">https://t.me/+T0l1VDuQzDpjYWQ0</a>|
@@ -293,6 +294,7 @@ layout: "elements"
 | nohidespace | <a href="https://t.me/nohidespace" rel="nofollow">https://t.me/nohidespace</a>|
 |  NoName057(16) chat | <a href="https://t.me/noname05716engchat" rel="nofollow">https://t.me/noname05716engchat</a>|
 |  NoName057(16) Eng | <a href="https://t.me/noname05716eng" rel="nofollow">https://t.me/noname05716eng</a>|
+| NoName057(16) RUS | <a href="http://t.me/noname05716" rel="nofollow">http://t.me/noname05716</a>|
 |  Data Leaks  | <a href="https://t.me/NullLeak" rel="nofollow">https://t.me/NullLeak</a>|
 |  Market  | <a href="https://t.me/O1chat" rel="nofollow">https://t.me/O1chat</a>|
 |  Observer Cloud Redline Stealer (Harvests other channels)  | <a href="https://t.me/ObserverCloud" rel="nofollow">https://t.me/ObserverCloud</a>|
@@ -304,6 +306,8 @@ layout: "elements"
 | peass | <a href="https://t.me/peass" rel="nofollow">https://t.me/peass</a>|
 |  PHANTOM DEV  | <a href="https://t.me/phantom_tg" rel="nofollow">https://t.me/phantom_tg</a>|
 | Phoenix group | <a href="https://t.me/phoenixinform" rel="nofollow">https://t.me/phoenixinform</a>|
+| PHOENIX | <a href="https://t.me/phoenix_inform" rel="nofollow">https://t.me/phoenix_inform</a>|
+| PHOENIX | <a href="https://t.me/+k56KDQRn8FplN2Qy" rel="nofollow">https://t.me/+k56KDQRn8FplN2Qy</a>|
 | Poena Market | <a href="https://t.me/poenamarket" rel="nofollow">https://t.me/poenamarket</a>|
 |  Data Leaks  | <a href="https://t.me/privatecombos" rel="nofollow">https://t.me/privatecombos</a>|
 |  Logs Market  | <a href="https://t.me/Privatedata77new" rel="nofollow">https://t.me/Privatedata77new</a>|
@@ -415,6 +419,7 @@ layout: "elements"
 | APT Iran | <a href="https://t.me/APTIRAN" rel="nofollow">https://t.me/APTIRAN</a>|
 | Rdp Stealer | <a href="https://t.me/rdpstealer" rel="nofollow">https://t.me/rdpstealer</a>|
 | ZulikGroup | <a href="https://t.me/ZulikGroupTG" rel="nofollow">https://t.me/ZulikGroupTG</a>|
+| ZulikGroup Chat | <a href="https://t.me/ZulikGroupChat" rel="nofollow">https://t.me/ZulikGroupChat</a>|
 | Jambi Cyber Team | <a href="https://t.me/jambicyberteam" rel="nofollow">https://t.me/jambicyberteam</a>|
 | FiveFamilies | <a href="https://t.me/FiveFamilies" rel="nofollow">https://t.me/FiveFamilies</a>|
 | Leaks & Breaches | <a href="https://t.me/Leaked_BreachDBS" rel="nofollow">https://t.me/Leaked_BreachDBS</a>|
@@ -433,6 +438,10 @@ layout: "elements"
 | ACEH | <a href="https://t.me/AC3HCYBER" rel="nofollow">https://t.me/AC3HCYBER</a>|
 | Killnet Palestina | <a href="https://t.me/Killnet_Palestine" rel="nofollow">https://t.me/Killnet_Palestine</a>|
 | UserSec Killnet Affiliated | <a href="https://t.me/user_sec" rel="nofollow">https://t.me/user_sec</a>|
+| UserSec | <a href="https://t.me/user_secc" rel="nofollow">https://t.me/user_secc</a>|
+| UserSec Reserve | <a href="https://t.me/usersec_reservs" rel="nofollow">https://t.me/usersec_reservs</a>|
+| UserSec Collective | <a href="https://t.me/usersec_collective" rel="nofollow">https://t.me/usersec_collective</a>|
+| UserSec Chat | <a href="https://t.me/usersec_chat" rel="nofollow">https://t.me/usersec_chat</a>|
 | DragonForce Malaysia | <a href="https://t.me/dragonforceio" rel="nofollow">https://t.me/dragonforceio</a>|
 | Cyber Threat Intelligence Feeds | <a href="https://t.me/ctifeeds" rel="nofollow">https://t.me/ctifeeds</a>|
 | WeedSec | <a href="https://t.me/weedforumslol" rel="nofollow">https://t.me/weedforumslol</a>|
@@ -460,8 +469,10 @@ layout: "elements"
 | Low-Cost-Database | <a href="https://t.me/LCdatabase" rel="nofollow">https://t.me/LCdatabase</a>|
 | Leaks & Breaches | <a href="https://t.me/+ykoIXVJBirI0NzU0" rel="nofollow">https://t.me/+ykoIXVJBirI0NzU0</a>|
 | Cyber Dragon Russia | <a href="https://t.me/CyberDragonRussia" rel="nofollow">https://t.me/CyberDragonRussia</a>|
+| Cyber Dragon | <a href="https://t.me/+lYYyb3exPNFjNmRi" rel="nofollow">https://t.me/+lYYyb3exPNFjNmRi</a>|
 | Anonymous Russia | <a href="https://t.me/ANONM0S_RU" rel="nofollow">https://t.me/ANONM0S_RU</a>|
-| BearSpaw | <a href="https://t.me/BEARSPAW_RESERVS" rel="nofollow">https://t.me/BEARSPAW_RESERVS</a>|
+| BearSpaw (now they are Digital Revolt) | <a href="https://t.me/BEARSPAW_RESERVS" rel="nofollow">https://t.me/BEARSPAW_RESERVS</a>|
+| Digital Revolt | <a href="https://t.me/Digital_Revolt_hack" rel="nofollow">https://t.me/Digital_Revolt_hack</a>|
 | BearITArmy | <a href="https://t.me/BEARITARMY" rel="nofollow">https://t.me/BEARITARMY</a>|
 | DarkSeek Hacking Group | <a href="https://t.me/DarkSeek_rus" rel="nofollow">https://t.me/DarkSeek_rus</a>|
 | Patriot Black Matrix | <a href="https://t.me/Patriot_Black_Matrix" rel="nofollow">https://t.me/Patriot_Black_Matrix</a>|
@@ -472,3 +483,16 @@ layout: "elements"
 | R00TK1TOFF | <a href="https://t.me/R00TK1TOFF" rel="nofollow">https://t.me/R00TK1TOFF</a>|
 | HackForce | <a href="https://t.me/HackForceAll" rel="nofollow">https://t.me/HackForceAll</a>|
 | Lapsus$ Group | <a href="https://t.me/GroupLapsus" rel="nofollow">https://t.me/GroupLapsus</a>|
+| Народная CyberАрмия | <a href="https://t.me/CyberArmyofRussia_Reborn" rel="nofollow">https://t.me/CyberArmyofRussia_Reborn</a>|
+| Beregini | <a href="https://t.me/hackberegini" rel="nofollow">https://t.me/hackberegini</a>|
+| Server Killers | <a href="https://t.me/ServerKillers" rel="nofollow">https://t.me/ServerKillers</a>|
+| 22C | <a href="https://t.me/+SrY0b7MukCVmNDk1" rel="nofollow">https://t.me/+SrY0b7MukCVmNDk1</a>|
+| Coup Team | <a href="https://t.me/CoupTeam" rel="nofollow">https://t.me/CoupTeam</a>|
+| Lulzsec Muslims | <a href="https://t.me/lulzsecmuslimsworld" rel="nofollow">https://t.me/lulzsecmuslimsworld</a>|
+| Sylhet Gang-SG | <a href="https://t.me/SylhetGangSgOfficial" rel="nofollow">https://t.me/SylhetGangSgOfficial</a>|
+| Anonymous Collective | <a href="https://t.me/AnonCollective" rel="nofollow">https://t.me/AnonCollective</a>|
+| Just Evil | <a href="https://t.me/WeJustEvil" rel="nofollow">https://t.me/WeJustEvil</a>|
+| Horus Evolution | <a href="https://t.me/horusteam_official" rel="nofollow">https://t.me/horusteam_official</a>|
+| Horus Forum | <a href="https://t.me/HorusForumRus" rel="nofollow">https://t.me/HorusForumRus</a>|
+| DARKNET | <a href="https://t.me/killmilk_rus" rel="nofollow">https://t.me/killmilk_rus</a>|
+| Zarya | <a href="https://t.me/informZarya" rel="nofollow">https://t.me/informZarya</a>|
