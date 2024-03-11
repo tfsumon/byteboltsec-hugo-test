@@ -496,3 +496,4 @@ layout: "elements"
 | Horus Forum | <a href="https://t.me/HorusForumRus" rel="nofollow">https://t.me/HorusForumRus</a>|
 | DARKNET | <a href="https://t.me/killmilk_rus" rel="nofollow">https://t.me/killmilk_rus</a>|
 | Zarya | <a href="https://t.me/informZarya" rel="nofollow">https://t.me/informZarya</a>|
+| Handala Hack | <a href="https://t.me/Handala_hack" rel="nofollow">https://t.me/Handala_hack</a>|
