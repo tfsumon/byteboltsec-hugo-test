@@ -1,17 +1,17 @@
 ---
 date: "2024-03-12"
 discovered: "March 12, 2024"
-title: "QI Group"
-image: "images/blog/Play.png"
+title: "Denninger’s"
+image: "images/blog/Medusa.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | qigroup.ca      | 
-| Threat Actor      | Play      | 
+| Victim      | denningers.com      | 
+| Threat Actor      | Medusa      | 
 | Date Discovered      | Mar 12, 2024      | 
-| Description      | QI Group of Companies is an industrial service and supply company that offers industrial solutions for oil sands and pipelines.      | 
+| Description      | Denninger’s is the food company that owns 5 retail locations, a manufacturing plant and a warehouse.      | 
 | Leak Size      | Unknown      | 
 

@@ -1,7 +1,7 @@
 ---
 date: "2024-03-12"
 discovered: "March 12, 2024"
-title: "QI Group"
+title: "Bitec"
 image: "images/blog/Play.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | qigroup.ca      | 
+| Victim      | bitecsmi.com      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Mar 12, 2024      | 
-| Description      | QI Group of Companies is an industrial service and supply company that offers industrial solutions for oil sands and pipelines.      | 
+| Description      | Bitec is a custom precision machine shop.      | 
 | Leak Size      | Unknown      | 
 

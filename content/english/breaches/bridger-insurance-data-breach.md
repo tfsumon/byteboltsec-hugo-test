@@ -1,7 +1,7 @@
 ---
 date: "2024-03-12"
 discovered: "March 12, 2024"
-title: "QI Group"
+title: "Bridger Insurance"
 image: "images/blog/Play.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | qigroup.ca      | 
+| Victim      | bridgerins.com      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Mar 12, 2024      | 
-| Description      | QI Group of Companies is an industrial service and supply company that offers industrial solutions for oil sands and pipelines.      | 
+| Description      | Bridger Insurance is an insurance company that provides property, mobile, and auto insurance services.      | 
 | Leak Size      | Unknown      | 
 

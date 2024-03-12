@@ -1,17 +1,17 @@
 ---
 date: "2024-03-12"
 discovered: "March 12, 2024"
-title: "QI Group"
-image: "images/blog/Play.png"
+title: "American Renal Associates"
+image: "images/blog/Medusa.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | qigroup.ca      | 
-| Threat Actor      | Play      | 
+| Victim      | innovativerenal.com      | 
+| Threat Actor      | Medusa      | 
 | Date Discovered      | Mar 12, 2024      | 
-| Description      | QI Group of Companies is an industrial service and supply company that offers industrial solutions for oil sands and pipelines.      | 
+| Description      | American Renal Associates is one of the largest. dialysis services providers in the United States.      | 
 | Leak Size      | Unknown      | 
 

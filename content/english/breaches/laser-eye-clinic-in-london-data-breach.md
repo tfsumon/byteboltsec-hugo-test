@@ -1,17 +1,17 @@
 ---
 date: "2024-03-12"
 discovered: "March 12, 2024"
-title: "QI Group"
-image: "images/blog/Play.png"
+title: "Laser Eye Clinic in London"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | qigroup.ca      | 
-| Threat Actor      | Play      | 
+| Victim      | lec-london.uk      | 
+| Threat Actor      | LockBit      | 
 | Date Discovered      | Mar 12, 2024      | 
-| Description      | QI Group of Companies is an industrial service and supply company that offers industrial solutions for oil sands and pipelines.      | 
+| Description      | Laser Eye Clinic in London is a LASIK surgeon in London.      | 
 | Leak Size      | Unknown      | 
 

@@ -1,17 +1,17 @@
 ---
-date: "2023-07-12"
-discovered: "July 12, 2023"
+date: "2024-03-12"
+discovered: "March 12, 2024"
 title: "Canada Revenue Agency"
-image: "images/blog/CL0P.png"
+image: "images/blog/Play.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | canada.ca      | 
-| Threat Actor      | CL0P      | 
-| Date Discovered      | Jul 12, 2023      | 
-| Description      | The Canada Revenue Agency is the revenue service of the Canadian federal government, and most provincial and territorial governments.      | 
+| Victim      | zsb.ca      | 
+| Threat Actor      | Play      | 
+| Date Discovered      | Mar 12, 2024      | 
+| Description      | The Canada Revenue Agency is the revenue service of the Canadian federal government and most provincial and territorial governments.      | 
 | Leak Size      | Unknown      | 
 

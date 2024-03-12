@@ -1,17 +1,17 @@
 ---
 date: "2024-03-12"
 discovered: "March 12, 2024"
-title: "QI Group"
-image: "images/blog/Play.png"
+title: "Tocci Building"
+image: "images/blog/Medusa.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | qigroup.ca      | 
-| Threat Actor      | Play      | 
+| Victim      | tocci.com      | 
+| Threat Actor      | Medusa      | 
 | Date Discovered      | Mar 12, 2024      | 
-| Description      | QI Group of Companies is an industrial service and supply company that offers industrial solutions for oil sands and pipelines.      | 
+| Description      | Tocci Building Corporation, founded in 1985, is one of the construction management firms in New England.      | 
 | Leak Size      | Unknown      | 
 
