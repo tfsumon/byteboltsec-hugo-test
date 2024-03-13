@@ -1,17 +1,17 @@
 ---
 date: "2024-03-13"
 discovered: "March 13, 2024"
-title: "Bechtold"
-image: "images/blog/Play.png"
+title: "Forstinger"
+image: "images/blog/8BASE.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | bechtoldfenster.de      | 
-| Threat Actor      | Play      | 
+| Victim      | forstinger.com      | 
+| Threat Actor      | 8BASE      | 
 | Date Discovered      | Mar 13, 2024      | 
-| Description      | Theo Bechtold GmbH & Co KG. manufactures building products.      | 
+| Description      | Forstinger is a retailer for car and bike accessories as well as a leading fast fitting service provider.      | 
 | Leak Size      | Unknown      | 
 

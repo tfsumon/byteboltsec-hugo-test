@@ -1,17 +1,17 @@
 ---
 date: "2024-03-13"
 discovered: "March 13, 2024"
-title: "Bechtold"
-image: "images/blog/Play.png"
+title: "Brooks Tropicals"
+image: "images/blog/Rhysida.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | bechtoldfenster.de      | 
-| Threat Actor      | Play      | 
+| Victim      | brookstropicals.com      | 
+| Threat Actor      | Rhysida      | 
 | Date Discovered      | Mar 13, 2024      | 
-| Description      | Theo Bechtold GmbH & Co KG. manufactures building products.      | 
+| Description      | Brooks Tropicals is a producer, importer, and supplier of tropical fruits and vegetables.      | 
 | Leak Size      | Unknown      | 
 

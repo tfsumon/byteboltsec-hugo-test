@@ -1,17 +1,17 @@
 ---
 date: "2024-03-13"
 discovered: "March 13, 2024"
-title: "Bechtold"
-image: "images/blog/Play.png"
+title: "Federchimica"
+image: "images/blog/8BASE.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | bechtoldfenster.de      | 
-| Threat Actor      | Play      | 
+| Victim      | federchimica.it      | 
+| Threat Actor      | 8BASE      | 
 | Date Discovered      | Mar 13, 2024      | 
-| Description      | Theo Bechtold GmbH & Co KG. manufactures building products.      | 
+| Description      | Federchimica is the National Federation of the Chemical Industry. Founded in 1920, over 1300 companies currently belong to it.      | 
 | Leak Size      | Unknown      | 
 

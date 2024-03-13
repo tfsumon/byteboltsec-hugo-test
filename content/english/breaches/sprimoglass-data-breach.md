@@ -1,17 +1,17 @@
 ---
 date: "2024-03-13"
 discovered: "March 13, 2024"
-title: "Bechtold"
-image: "images/blog/Play.png"
+title: "Sprimoglass"
+image: "images/blog/8BASE.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | bechtoldfenster.de      | 
-| Threat Actor      | Play      | 
+| Victim      | sprimoglass.be      | 
+| Threat Actor      | 8BASE      | 
 | Date Discovered      | Mar 13, 2024      | 
-| Description      | Theo Bechtold GmbH & Co KG. manufactures building products.      | 
+| Description      | Sprimoglass manufactures glass & glass products such as insulated, solar control, triple glazing, warm edge, and safety glasses.      | 
 | Leak Size      | Unknown      | 
 

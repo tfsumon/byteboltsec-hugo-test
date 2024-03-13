@@ -1,17 +1,17 @@
 ---
 date: "2024-03-13"
 discovered: "March 13, 2024"
-title: "Bechtold"
-image: "images/blog/Play.png"
+title: "Walker Sandford"
+image: "images/blog/BlackSuit.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | bechtoldfenster.de      | 
-| Threat Actor      | Play      | 
+| Victim      | walkersandford.co.uk      | 
+| Threat Actor      | BlackSuit      | 
 | Date Discovered      | Mar 13, 2024      | 
-| Description      | Theo Bechtold GmbH & Co KG. manufactures building products.      | 
+| Description      | Walker Sandford currently manage a broad range of flatted and commercial properties in the central belt of Scotland.      | 
 | Leak Size      | Unknown      | 
 
