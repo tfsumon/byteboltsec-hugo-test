@@ -1,7 +1,7 @@
 ---
 date: "2024-03-14"
 discovered: "March 14, 2024"
-title: "Remkes"
+title: "Ammega"
 image: "images/blog/Cactus.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | remkes.nl      | 
+| Victim      | ammega.com      | 
 | Threat Actor      | Cactus      | 
 | Date Discovered      | Mar 14, 2024      | 
-| Description      | Remkes - GPS has more than 75 years of experience and specializes in the slaughter, yarn and further processing of poultry meat.      | 
-| Leak Size      | 190GB      | 
+| Description      | Ammega is a holding company whose brands provide power transmission, lightweight process, and conveyor belting, and fluid power solutions.      | 
+| Leak Size      | 3TB      | 
 
