@@ -10,7 +10,7 @@ intro2: "According to [Verizon](https://www.verizon.com/business/resources/repor
 intro3: "This statistic highlights a pervasive problem almost all businesses struggle with."
 intro4: "Threat actors leverage leaked credentials to gain access to their targets leading to a full blown data breach."
 intro5: "From financial losses to reputational damage, the [consequences of a data breach](https://www.breachsense.com/blog/data-breach-consequences/) can be far-reaching and long-lasting."
-intro6: "In this post, we'll cover what data leak detection tools are, who needs them, and the top 10 tools organizations can use to detect data breaches."
+intro6: "In this post, we'll cover what [data breach detection](https://www.breachsense.com/data-breach-software/) tools are, who needs them, and the top 10 tools organizations can use to detect data breaches."
 draft: false
 ---
 ## What are data breach detection tools?
