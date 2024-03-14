@@ -54,6 +54,7 @@ layout: "elements"
 | <a href="http://dlyo7r3n4qy5fzv4645nddjwarj7wjdd6wzckomcyc7akskkxp4glcad.onion" rel="nofollow">BLACKBYTE </a>     | Tor     | OFFLINE     |
 | <a href="http://fl3xpz5bmgzxy4fmebhgsbycgnz24uosp3u4g33oiln627qq3gyw37ad.onion" rel="nofollow">BLACKBYTE </a>     | Tor     | OFFLINE     |
 | <a href="http://jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad.onion" rel="nofollow">BLACKBYTE </a>     | Tor     | ONLINE     |
+| <a href="http://53d5skw4ypzku4bfq2tk2mr3xh5yqrzss25sooiubmjz67lb3gdivcad.onion" rel="nofollow">BLACKBYTE </a>     | Tor     | ONLINE     |
 | <a href="http://blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion" rel="nofollow">BLACKMATTER</a>     | Tor     | OFFLINE     |
 | <a href="http://supp24maprinktc7uizgfyqhisx7lkszb6ogh6lwdzpac23w3mh4tvyd.onion/EWX33VYY3IGOXSG5ZZ2" rel="nofollow">BLACKMATTER Support</a>     | Tor     | OFFLINE     |
 | <a href="http://black3gnkizshuynieigw6ejgpblb53mpasftzd6pydqpmq2vn2xf6yd.onion" rel="nofollow">BLACKOUT</a>     | Tor     | ONLINE     |

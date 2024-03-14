@@ -498,3 +498,5 @@ layout: "elements"
 | Zarya | <a href="https://t.me/informZarya" rel="nofollow">https://t.me/informZarya</a>|
 | Handala Hack | <a href="https://t.me/Handala_hack" rel="nofollow">https://t.me/Handala_hack</a>|
 | InfraShutdown - DDoS | <a href="https://t.me/InfraShutdown" rel="nofollow">https://t.me/InfraShutdown</a>|
+| Meris botnet | <a href="https://t.me/meris_botnet" rel="nofollow">https://t.me/meris_botnet</a>|
+| Meris botnet main channel | <a href="https://t.me/redstresserorg" rel="nofollow">https://t.me/redstresserorg</a>|
