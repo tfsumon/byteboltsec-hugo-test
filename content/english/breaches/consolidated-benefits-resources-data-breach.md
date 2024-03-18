@@ -1,17 +1,17 @@
 ---
 date: "2024-03-18"
 discovered: "March 18, 2024"
-title: "Dinamic Oil"
-image: "images/blog/Trigona.png"
+title: "Consolidated Benefits Resources"
+image: "images/blog/BianLian.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | dinamicoil.com      | 
-| Threat Actor      | Trigona      | 
+| Victim      | cbrcloud.com      | 
+| Threat Actor      | BianLian      | 
 | Date Discovered      | Mar 18, 2024      | 
-| Description      | Dinamic Oil is a family owned Italian company active in the hydraulic and mechanical engineering sectors for more than 40 years.      | 
+| Description      | Consolidated Benefits Resources (CBR) is a claims administrator for Oklahoma workers compensation insurers.      | 
 | Leak Size      | Unknown      | 
 

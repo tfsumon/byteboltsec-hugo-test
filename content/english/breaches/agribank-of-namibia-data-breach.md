@@ -1,17 +1,17 @@
 ---
 date: "2024-03-18"
 discovered: "March 18, 2024"
-title: "Dinamic Oil"
-image: "images/blog/Trigona.png"
+title: "Agribank of Namibia"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | dinamicoil.com      | 
-| Threat Actor      | Trigona      | 
+| Victim      | agribank.com.na      | 
+| Threat Actor      | LockBit      | 
 | Date Discovered      | Mar 18, 2024      | 
-| Description      | Dinamic Oil is a family owned Italian company active in the hydraulic and mechanical engineering sectors for more than 40 years.      | 
+| Description      | Agribank of Namibia is a financial institution that offers financing services for agriculture.      | 
 | Leak Size      | Unknown      | 
 

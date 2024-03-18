@@ -1,17 +1,17 @@
 ---
 date: "2024-03-18"
 discovered: "March 18, 2024"
-title: "Dinamic Oil"
-image: "images/blog/Trigona.png"
+title: "Aculabs"
+image: "images/blog/INC_RANSOM.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | dinamicoil.com      | 
-| Threat Actor      | Trigona      | 
+| Victim      | aculabs.com      | 
+| Threat Actor      | INC_RANSOM      | 
 | Date Discovered      | Mar 18, 2024      | 
-| Description      | Dinamic Oil is a family owned Italian company active in the hydraulic and mechanical engineering sectors for more than 40 years.      | 
+| Description      | Aculabs is a clinical laboratory that specializes in servicing long-term and sub-acute facilities.      | 
 | Leak Size      | Unknown      | 
 

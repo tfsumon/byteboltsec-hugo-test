@@ -1,7 +1,7 @@
 ---
 date: "2024-03-18"
 discovered: "March 18, 2024"
-title: "Dinamic Oil"
+title: "Bwizer"
 image: "images/blog/Trigona.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | dinamicoil.com      | 
+| Victim      | bwizer.com      | 
 | Threat Actor      | Trigona      | 
 | Date Discovered      | Mar 18, 2024      | 
-| Description      | Dinamic Oil is a family owned Italian company active in the hydraulic and mechanical engineering sectors for more than 40 years.      | 
+| Description      | Bwizer has emerged as a leading platform providing comprehensive educational resources and training programs tailored to professionals in the healthcare and wellness sectors.      | 
 | Leak Size      | Unknown      | 
 
