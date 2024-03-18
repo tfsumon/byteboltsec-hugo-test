@@ -55,7 +55,7 @@ Attackers target various types of sensitive data. Some of the most common types 
 7. **Corporate Data**: Internal company documents, strategic plans, financial reports, contracts, internal communications and sensitive information related to the day to day operations of the business.
 8. **Supply Chain Information**: Data about suppliers, logistics and manufacturing processes, which can be used to disrupt operations or for competitive advantage.
 
-Unauthorized access to any of these types of data can have significant legal, financial, and reputational consequences for businesses. This is why having the proper defenses in place, a [data breach response plan](https://www.breachsense.com/blog/data-breach-response/) and cyber insurance is critical as part of a comprehensive risk management strategy.
+Unauthorized access to any of these types of data can have significant legal, financial, and reputational consequences for businesses. This is why having the proper defenses in place, a [data breach response plan](https://www.breachsense.com/blog/data-breach-response/) and cyber insurance is critical as part of a comprehensive [risk management strategy](www.breachsense.com/blog/data-risk-management/).
 
 ## How to recover from a breach
 

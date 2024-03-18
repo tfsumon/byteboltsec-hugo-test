@@ -137,7 +137,7 @@ Establish and enforce strict access controls for sensitive information and criti
 
 ### 5. Train employees on cybersecurity best practices
 
-Provide ongoing training for employees on cybersecurity best practices, including how to recognize phishing attacks, the importance of strong passwords, and how to securely handle sensitive patient information. Regular training will ensure that staff members are able to identify and prevent potential threats.
+Provide ongoing training for employees on [cybersecurity best practices](https://www.breachsense.com/blog/data-security-best-practices/), including how to recognize phishing attacks, the importance of strong passwords, and how to securely handle sensitive patient information. Regular training will ensure that staff members are able to identify and prevent potential threats.
 
 ### 6. Encrypt sensitive data
 
