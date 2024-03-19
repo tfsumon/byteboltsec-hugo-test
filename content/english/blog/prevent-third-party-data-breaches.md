@@ -44,16 +44,16 @@ Similar to first-party data breaches, third-party data breaches occur for a vari
 
 In recent years, third-party data breaches have become increasingly common, exposing sensitive information and causing significant damage to both organizations and individuals. Here are some notable examples:
 
-- **AT&amp;T:** In March 2024, 73 million AT&amp;T accounts had their data leaked due to a [breach of a third-party vendor's system](https://www.msn.com/en-us/news/other/at-t-says-massive-breach-didn-t-originate-from-its-systems/ar-BB1k5W8v). The data was originally put up for sale in 2021 and then was released for free in 2024
+- **AT&amp;T:** In March 2024, 73 million AT&amp;T accounts had their data leaked due to a [breach of a third-party vendor\'s system](https://www.msn.com/en-us/news/other/at-t-says-massive-breach-didn-t-originate-from-its-systems/ar-BB1k5W8v). The data was originally put up for sale in 2021 and then was released for free in 2024
 - **Chick-fil-A:** In March 2023, Chick-fil-A reported a credential stuffing attack that compromised 71,473 accounts, with data obtained from a [third-party source](https://cybernews.com/news/chick-fil-a-hacked-financial-information-stolen/).
-- **T-Mobile**: In January 2023, T-Mobile suffered a data breach exposing the personal information of over 40 million customers due to a [third-party vendor's system breach](https://www.theverge.com/2023/1/20/23563825/tmobile-data-breach-api-customer-accounts-hacker-security).
+- **T-Mobile**: In January 2023, T-Mobile suffered a data breach exposing the personal information of over 40 million customers due to a [third-party vendor\'s system breach](https://www.theverge.com/2023/1/20/23563825/tmobile-data-breach-api-customer-accounts-hacker-security).
 - **Okta**: In October 2023, Okta's third-party, Rightway Healthcare, experienced a [security incident](https://cybernews.com/news/okta-employees-third-party-breach-rightway-healthcare-/) exposing personal and healthcare data of nearly 5,000 Okta employees and their dependents.
 - **Dollar Tree**: In August 2023, Dollar Tree announced a [data breach](https://www.securityweek.com/dollar-tree-impacted-by-zeroedin-data-breach-affecting-2-million-individuals/) affecting almost 2 million people due to a hack of service provider Zeroed-In Technologies.
 - **MOVEit Vulnerability Exploit**: In May 2023, several organizations and US government agencies experienced [intrusions](https://techcrunch.com/2023/08/25/moveit-mass-hack-by-the-numbers/) related to a vulnerability in MOVEit Transfer. The breach was estimated to affect over 60 million people.
 - **Uber**: In December 2022, Uber confirmed a [third-party data breach](https://www.bleepingcomputer.com/news/security/uber-suffers-new-data-breach-after-attack-on-vendor-info-leaked-online/) after hackers accessed data via the company’s vendor, Teqtivity
-- **UK Metropolitan Police:**In August 2023, The Metropolitan Police suffered a data breach due to a third-party vendor. The breach leaked officers' and staff's names, ranks, photos, vetting levels, and pay numbers.
-- **SolarWinds** (December 2020) SolarWinds, a software company that provides IT management tools, was the [victim of a supply chain attack](https://www.techtarget.com/whatis/feature/SolarWinds-hack-explained-Everything-you-need-to-know) that allowed hackers to access the systems of several government agencies and private companies through a compromised software update.
-- **Marriott** (September 2018) Marriott International revealed a data breach that exposed personal information of around 500 million guests. The [breach](https://www.wired.com/story/marriott-hacked-yes-again-2020/) was traced back to a third-party reservation system used by Starwood, which Marriott had acquired in 2016.
+- **UK Metropolitan Police:** In August 2023, The Metropolitan Police suffered a data breach due to a third-party vendor. The breach leaked officers' and staff's names, ranks, photos, vetting levels, and pay numbers.
+- **SolarWinds**: In December 2020, SolarWinds, a software company that provides IT management tools, was the [victim of a supply chain attack](https://www.techtarget.com/whatis/feature/SolarWinds-hack-explained-Everything-you-need-to-know) that allowed hackers to access the systems of several government agencies and private companies through a compromised software update.
+- **Marriott**: In September 2018, Marriott International revealed a data breach that exposed personal information of around 500 million guests. The [breach](https://www.wired.com/story/marriott-hacked-yes-again-2020/) was traced back to a third-party reservation system used by Starwood, which Marriott had acquired in 2016.
 
 ## Best Practices for Preventing Third-Party Security Breaches
 
@@ -67,14 +67,15 @@ Organizations often rely on external vendors, suppliers, and service providers f
 6. **Multi-Factor Authentication:** Implement multi-factor authentication (MFA) for all third-party access to your systems and data, reducing the risk of unauthorized access through compromised credentials.
 7. **Secure Software Development:** If working with third-party software vendors, ensure they follow secure software development practices, such as code reviews, vulnerability testing, and secure coding practices.
 8. **Incident Response Plan:** Ensure that third parties have an [incident response plan](https://www.breachsense.com/blog/data-breach-response-checklist/) in place and that it aligns with your organization's plan. Clearly define roles and responsibilities in the event of a security breach.
-9. **Continuous Monitoring:** Implement continuous monitoring of third-party activities and security practices. Use tools and technologies to detect any unusual or suspicious behavior.
-10. **Data Encryption:** Ensure that sensitive data is encrypted both in transit and at rest. This adds an extra layer of security in case of a breach.
-11. **Threat Intelligence:** [Da](https://www.breachsense.com/data-breach-monitoring/)[ta brea](https://www.breachsense.com/data-breach-monitoring/)[ch monitoring](https://www.breachsense.com/data-breach-monitoring/) services provide threat intelligence by tracking underground forums, dark web markets, and other sources where stolen data is leaked or sold. This intelligence can help identify if your vendors have been compromised and your data has been exposed.
+9. **Data Encryption:** Ensure that sensitive data is encrypted both in transit and at rest. This adds an extra layer of security in case of a breach.
+10. **Threat Intelligence:** [Da](https://www.breachsense.com/data-breach-monitoring/)[ta brea](https://www.breachsense.com/data-breach-monitoring/)[ch monitoring](https://www.breachsense.com/data-breach-monitoring/) services provide threat intelligence by tracking underground forums, dark web markets, and other sources where stolen data is leaked or sold. This intelligence can help identify if your vendors have been compromised and your data has been exposed.
 
 ## How Breachsense Can Help Prevent Third-Party Data Breaches
 
 Organizations have control over their own networks. They can add tooling, monitor traffic, and run security audits at will. However, they have much less visibility into the security of their vendors.
 
-Breachsense helps security teams by continuously monitoring the dark web for leaked data from third-party service providers. By proactively resetting credentials and session tokens before criminals exploit the data, organizations can mitigate the risk of third-party dependencies.
+Breachsense helps mitigate that risk by continuously monitoring the dark web for leaked data associated with your third-party service providers. 
+
+By proactively resetting leaked credentials and session tokens businesses can mitigate their risk before criminals exploit the data.
 
 If your team needs visibility into your third-party vendors, [book a meeting](https://www.breachsense.com/book-demo/) to see how Breachsense can help.
