@@ -35,7 +35,7 @@ There is a large range of malicious information available on the dark web. Some 
 
 ## How do you gather threat intelligence on the dark web
 
-The safest way to gather threat intel from the dark web is via a monitoring service from a vendor who focuses on this. Breachsense is a [dark web monitoring solution](https://www.breachsense.com/dark-web-monitoring/) that enables your organization to leverage threat intelligence without the need for specialized staff.
+The safest way to gather threat intel from the dark web is via a [monitoring service](https://www.breachsense.com/blog/best-dark-web-monitoring-services/) from a vendor who focuses on this. Breachsense is a [dark web monitoring solution](https://www.breachsense.com/dark-web-monitoring/) that enables your organization to leverage threat intelligence without the need for specialized staff.
 
 The other option is to do this manually. The dark web isn't indexed by search engines like the clear web. As a result, it's a bit more challenging to find useful data. Note, the dark web can be dangerous without the proper OpSec. If you prefer the manual approach then here are some steps to help guide you.
 
@@ -73,7 +73,7 @@ Choosing the [best tool](https://www.breachsense.com/blog/data-breach-detection-
 5. **Integration:** Check if the tool can integrate with your existing security stack, such as SIEM (Security Information and Event Management) or incident response platforms, for a streamlined security workflow.
 6. **Privacy and Security:** Ensure that the tool itself is secure and respects your privacy. It should not expose your sensitive data during the monitoring process.
 7. **Support and Training:** Consider the level of customer support and training provided by the vendor. Good support can help you effectively utilize the tool and respond to incidents.
-8. **Cost:** Evaluate the pricing structure of the tool and ensure it fits within your budget. Consider the return on investment in terms of the potential cost savings from preventing a data breach or identity theft.
+8. **Cost:** Evaluate the pricing structure of the tool and ensure it fits within your budget. Consider the return on investment in terms of the potential cost savings from preventing a data breach or [identity theft](https://www.breachsense.com/blog/dark-web-identity-theft/).
 
 ## Automate your dark web threat intelligence
 

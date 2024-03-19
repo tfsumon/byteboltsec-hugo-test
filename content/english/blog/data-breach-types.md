@@ -193,6 +193,6 @@ SQLi normally exploits a lack of input validation in the application's database 
 
 Now you know the most common types of data breaches, along with information that could help you prevent them from happening at your business. 
 
-### Want to protect your organization from data breaches? Use data breach monitoring to detect security breaches in real-time and prevent cyberattacks before they happen. 
+### Want to protect your organization from data breaches? Use [data breach monitoring](https://www.breachsense.com/blog/dark-web-monitoring-guide/) to detect security breaches in real-time and prevent cyberattacks before they happen. 
 
 ### [FIND OUT MORE](https://www.breachsense.com/data-breach-monitoring/)

@@ -18,6 +18,8 @@ The dark web refers to a "hidden" part of the internet that can only be accessed
 
 While the dark web itself is not illegal, a significant part of it hosts illegal marketplaces for breached data, drugs, weapons, and other illicit goods and services. However, there are also legitimate uses of the dark web, like bypassing censorship, protecting political dissidents, allowing whistleblowing, and enabling anonymous communication.
 
+RECOMMENDED READING: [Is dark web monitoring worth it](https://www.breachsense.com/blog/dark-web-monitoring-worth-it/)
+
 ## What kind of data is available on the dark web?
 
 The dark web is often associated with illegal activities, like buying and selling breached data. The following types of data are often targeted:

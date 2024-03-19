@@ -38,7 +38,7 @@ Despite the continued rise in data breach costs, participants were almost split 
 Organizations that leverage security AI and automation contained a data breach 108 days faster than organizations that don't. In addition, the average data breach cost was USD 3.60 million, which was USD 1.76 million less than organizations that don't use these capabilities.
 
 ### 4. Only a third of breaches were identified by internal security teams and tools.
-Internal security teams and tools identified only 33% of breaches. In 40% of the breaches, a benign third party identified the issue. In cases of ransomware, the attacker disclosed 27% of breaches to their victims.
+Internal security teams and [tools](https://www.breachsense.com/blog/dark-web-monitoring-tools/) identified only 33% of breaches. In 40% of the breaches, a benign third party identified the issue. In cases of ransomware, the attacker disclosed 27% of breaches to their victims.
 
 The average cost of an attack, when disclosed by the attackers, was USD 5.23 million. This number is 19.5% (or USD 30,000) more than the average cost when the breach was identified via an organization's internal security team. On average, breaches found by an internal security team cost USD 4.30 million. This number is over USD 1 million less than when the attackers disclosed the breach.
 

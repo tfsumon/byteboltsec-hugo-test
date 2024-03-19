@@ -29,7 +29,7 @@ Data breaches typically happen in one of several ways:
 - **Physical Theft:** Devices like laptops, hard drives, or paper records containing sensitive data can be stolen.
 - **Weak Passwords:** Using easily guessable passwords or password reuse can allow attackers to easily gain access to accounts and data.
 - **Misconfigured Servers:** Improperly configured databases or cloud storage can unintentionally expose data to the public internet.
-- **Third-Party Vendors:** Breaches in third-party services or vendors that have access to your organization's data can also lead to a data breach.
+- **Third-Party Vendors:** [Breaches in third-party services or vendors](https://www.breachsense.com/blog/target-data-breach/) that have access to your organization's data can also lead to a data breach.
 
 ## What can attackers do With stolen data
 
