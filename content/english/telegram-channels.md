@@ -500,3 +500,57 @@ layout: "elements"
 | InfraShutdown - DDoS | <a href="https://t.me/InfraShutdown" rel="nofollow">https://t.me/InfraShutdown</a>|
 | Meris botnet | <a href="https://t.me/meris_botnet" rel="nofollow">https://t.me/meris_botnet</a>|
 | Meris botnet main channel | <a href="https://t.me/redstresserorg" rel="nofollow">https://t.me/redstresserorg</a>|
+| Emirates&Team І (Stealer Logs) | <a href="https://t.me/+lOX1jn9YKS03ZTcy" rel="nofollow">https://t.me/+lOX1jn9YKS03ZTcy</a>|
+| WLFR Project (Stealer Logs) | <a href="https://t.me/typicaltemshchik" rel="nofollow">https://t.me/typicaltemshchik</a>|
+| DNFTM Cloud (Stealer Logs) | <a href="https://t.me/dnftm_cloud" rel="nofollow">https://t.me/dnftm_cloud</a>|
+| Cloud Leaks BR (Stealer Logs) | <a href="https://t.me/CloudLeaksBR" rel="nofollow">https://t.me/CloudLeaksBR</a>|
+| DVD Cloud (Stealer Logs) | <a href="https://t.me/clouddvd" rel="nofollow">https://t.me/clouddvd</a>|
+| Sega Cloud (Stealer Logs) | <a href="https://t.me/segacloud" rel="nofollow">https://t.me/segacloud</a>|
+| RealCloud (Stealer Logs) | <a href="https://t.me/realcloud0" rel="nofollow">https://t.me/realcloud0</a>|
+| Invite Link - OMEGA Cloud (Stealer Logs) | <a href="https://t.me/+IqEnwfj7CLU1Yjcy" rel="nofollow">https://t.me/+IqEnwfj7CLU1Yjcy</a>|
+| DarkSide Cloud (Stealer Logs) | <a href="https://t.me/DarkSideCloud" rel="nofollow">https://t.me/DarkSideCloud</a>|
+| Invite Link - Harmony Cloud (Stealer Logs) | <a href="https://t.me/+FnHchisk1aU0ODVi" rel="nofollow">https://t.me/+FnHchisk1aU0ODVi</a>|
+| Chrono Logs (Stealer Logs) | <a href="https://t.me/chrono_logs" rel="nofollow">https://t.me/chrono_logs</a>|
+| Invite Link - Luffich Cloud (Stealer Logs) | <a href="https://t.me/+lGosRlDC-UJhMDYy" rel="nofollow">https://t.me/+lGosRlDC-UJhMDYy</a>|
+| БЕСПЛАТНЫЕ ЛОГИ (Stealer Logs) | <a href="https://t.me/logs_cloud_free_true" rel="nofollow">https://t.me/logs_cloud_free_true</a>|
+| Storm Cloud (Stealer Logs) | <a href="https://t.me/stormcloudlogs" rel="nofollow">https://t.me/stormcloudlogs</a>|
+| Nuttela Combo's (Repackaged Combo Lists) | <a href="https://t.me/SNAKEDBS" rel="nofollow">https://t.me/SNAKEDBS</a>|
+| Tichan Cloud (Stealer Logs) | <a href="https://t.me/tichancloud" rel="nofollow">https://t.me/tichancloud</a>|
+| BHF Cloud (Stealer Logs) | <a href="https://t.me/BHF_CLOUD" rel="nofollow">https://t.me/BHF_CLOUD</a>|
+| HelloKitty Log Cloud (Stealer Logs) | <a href="https://t.me/HelloKittyCloud" rel="nofollow">https://t.me/HelloKittyCloud</a>|
+| Skyline Cloud (Stealer Logs) | <a href="https://t.me/Skyl1neCloud" rel="nofollow">https://t.me/Skyl1neCloud</a>|
+| Solaris Cloud (Stealer Logs) | <a href="https://t.me/solariscloud" rel="nofollow">https://t.me/solariscloud</a>|
+| Dragon Cloud (Stealer Logs) | <a href="https://t.me/dragoncloud1" rel="nofollow">https://t.me/dragoncloud1</a>|
+| Octopus Logs (Combo Lists) | <a href="https://t.me/OCTOPUSCLOUDLOGS" rel="nofollow">https://t.me/OCTOPUSCLOUDLOGS</a>|
+| Tiny Cloud Logs (Stealer Logs) | <a href="https://t.me/TinyLogs" rel="nofollow">https://t.me/TinyLogs</a>|
+| Power Cloud Logs (Stealer Logs) | <a href="https://t.me/powercloudlogs" rel="nofollow">https://t.me/powercloudlogs</a>|
+| Darkness Cloud (Stealer Logs) | <a href="https://t.me/darknescloud" rel="nofollow">https://t.me/darknescloud</a>|
+| Game Logs (Stealer Logs) | <a href="https://t.me/gameslogscloud" rel="nofollow">https://t.me/gameslogscloud</a>|
+| Mariatri Cloud (Repackaged Stealer Logs) | <a href="https://t.me/Mariarticloud" rel="nofollow">https://t.me/Mariarticloud</a>|
+| WLFR Project Cloud (Stealer Logs) | <a href="https://t.me/wlfrcloud" rel="nofollow">https://t.me/wlfrcloud</a>|
+| Lulzsec Cloud Logs (Filtered Stealer Logs/Cookies) | <a href="https://t.me/LulzsecCloudLogs" rel="nofollow">https://t.me/LulzsecCloudLogs</a>|
+| Invite Link - Stone Island Cloud Logs (Stealer Logs) | <a href="https://t.me/+-ol2dIgjU3YwYzAy" rel="nofollow">https://t.me/+-ol2dIgjU3YwYzAy</a>|
+| Werd Cloud Logs (Repackaged Stealer Logs) | <a href="https://t.me/werd1kcloud" rel="nofollow">https://t.me/werd1kcloud</a>|
+| Burn Cloud Logs (Stealer Logs) | <a href="https://t.me/BurnCloudLogs" rel="nofollow">https://t.me/BurnCloudLogs</a>|
+| Arcane Logs (Stealer Logs) | <a href="https://t.me/mercedesbenzcloud" rel="nofollow">https://t.me/mercedesbenzcloud</a>|
+| Pegasus Cloud (Stealer Logs) | <a href="https://t.me/PegasusCloud" rel="nofollow">https://t.me/PegasusCloud</a>|
+| Samurai Cloud (Stealer Logs) | <a href="https://t.me/SamuraiCloud" rel="nofollow">https://t.me/SamuraiCloud</a>|
+| Europe Cloud (Stealer Logs) | <a href="https://t.me/EuropeCloud" rel="nofollow">https://t.me/EuropeCloud</a>|
+| Arthouse Cloud (Stealer Logs) | <a href="https://t.me/free_logs_cloud_ArtHouse" rel="nofollow">https://t.me/free_logs_cloud_ArtHouse</a>|
+| Ganja Cloud (Stealer Logs) | <a href="https://t.me/ganjacloud" rel="nofollow">https://t.me/ganjacloud</a>|
+| Enigma Reborn (Stealer Logs) | <a href="https://t.me/enigmaLogS" rel="nofollow">https://t.me/enigmaLogS</a>|
+| Redscript Logs (Stealer Logs) | <a href="https://t.me/Redscritp" rel="nofollow">https://t.me/Redscritp</a>|
+| Ninja Byte Combos (Combo Lists) | <a href="https://t.me/NinjaByte" rel="nofollow">https://t.me/NinjaByte</a>|
+| StoneCloud Logs (Stealer Logs) | <a href="https://t.me/stonecloudtg" rel="nofollow">https://t.me/stonecloudtg</a>|
+| Casper Cloud (Stealer Logs) | <a href="https://t.me/CLOUDCASPERLINK" rel="nofollow">https://t.me/CLOUDCASPERLINK</a>|
+| Moon Cloud (Stealer Logs) | <a href="https://t.me/mooncloudfree" rel="nofollow">https://t.me/mooncloudfree</a>|
+| Manticore (Stealer Logs) | <a href="https://t.me/ManticoreCloud" rel="nofollow">https://t.me/ManticoreCloud</a>|
+| Trident Cloud (Stealer Logs) | <a href="https://t.me/Trident_Cloud" rel="nofollow">https://t.me/Trident_Cloud</a>|
+| Invite Link - Neverhode Logs (Stealer Logs) | <a href="https://t.me/+2ofZFLh--cdhYzJh" rel="nofollow">https://t.me/+2ofZFLh--cdhYzJh</a>|
+| ATM Cloud (Stealer Logs) | <a href="https://t.me/ATM_LOGS" rel="nofollow">https://t.me/ATM_LOGS</a>|
+| Tizix Cloud (Stealer Logs) | <a href="https://t.me/Logs_Tizix" rel="nofollow">https://t.me/Logs_Tizix</a>|
+| Invite Link - DaisyCloud New (Stealer Logs) | <a href="https://t.me/+uuz8-qLUNeU2ZmI0" rel="nofollow">https://t.me/+uuz8-qLUNeU2ZmI0</a>|
+| M.M Cloud (Stealer Logs) | <a href="https://t.me/MaisonMarjelaCloud" rel="nofollow">https://t.me/MaisonMarjelaCloud</a>|
+| CVV190 Cloud (Stealer Logs) | <a href="https://t.me/cvv190_cloud" rel="nofollow">https://t.me/cvv190_cloud</a>|
+| Mirage Cloud (Stealer Logs) | <a href="https://t.me/miragelogscloud" rel="nofollow">https://t.me/miragelogscloud</a>|
+| Fehu Cloud (Stealer Logs) | <a href="https://t.me/FehuCloud" rel="nofollow">https://t.me/FehuCloud</a>|

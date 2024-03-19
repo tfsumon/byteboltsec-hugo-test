@@ -8,6 +8,7 @@ layout: "elements"
 | Name           | URL                | Status     |
 | :-----------: | :-------------:     |:-------------:
 | 0-DAY | <a href="https://0-day.shop" rel="nofollow">https://0-day.shop</a> |  ONLINE  |
+| Darth maul shop | <a href="https://1977.ws/" rel="nofollow">https://1977.ws/</a> |  ONLINE  |
 | 2EASY | <a href="https://2easy.shop" rel="nofollow">https://2easy.shop</a> |  OFFLINE  |
 | 2EASY | <a href="https://2easy.cc" rel="nofollow">https://2easy.cc</a> |  ONLINE  |
 | ALLWORLDCARDS | <a href="https://href.li/?http://awcardsqtyy2nzjz4bqwbccvv6xr4bdcwcgfyewd7gsx5mhh63c2lsad.onion" rel="nofollow">https://href.li/?http://awcardsqtyy2nzjz4bqwbccvv6xr4bdcwcgfyewd7gsx5mhh63c2lsad.onion</a> |  OFFLINE  |
@@ -89,6 +90,7 @@ layout: "elements"
 | ODIN | <a href="https://odinshop.se" rel="nofollow">https://odinshop.se</a> |  ONLINE  |
 | ODIN | <a href="https://odinshoyi3y5clejn3klyggxrmq5sy5efdiremz353z6ucdujgdiccad.onion" rel="nofollow">https://odinshoyi3y5clejn3klyggxrmq5sy5efdiremz353z6ucdujgdiccad.onion</a> |  ONLINE  |
 | ONLYONE | <a href="https://only-one.cc" rel="nofollow">https://only-one.cc</a> |  OFFLINE  |
+| ORVX SHOP | <a href="https://orvx.pw/" rel="nofollow">https://orvx.pw/</a> |  ONLINE  |
 | Pois0n | <a href="https://pois0ncc.ru" rel="nofollow">https://pois0ncc.ru</a> |  ONLINE  |
 | PROBIV | <a href="https://probiv.one" rel="nofollow">https://probiv.one</a> |  ONLINE  |
 | RESCATOR | <a href="https://rescator.cn" rel="nofollow">https://rescator.cn</a> |  ONLINE  |
@@ -128,3 +130,12 @@ layout: "elements"
 | XLEET (Dark) | <a href="http://xleetg4krpki4irlaelwacpfhfxnhpizuipxc7f3aztu7265fqvinfad.onion" rel="nofollow">http://xleetg4krpki4irlaelwacpfhfxnhpizuipxc7f3aztu7265fqvinfad.onion</a> |  ONLINE  |
 | XLEET (Deep) | <a href="https://xleet.is" rel="nofollow">https://xleet.is</a> |  ONLINE  |
 | ZISMO | <a href="https://zismo.biz" rel="nofollow">https://zismo.biz</a> |  ONLINE  |
+| FIREARMS 72 (Deep) | <a href="http://fa72ibhl677j77dq4rt6bmiplwhpfymq2glwl5e2i563vkrcg4elfkyd.onion" rel="nofollow">http://fa72ibhl677j77dq4rt6bmiplwhpfymq2glwl5e2i563vkrcg4elfkyd.onion</a> |  ONLINE  |
+| CAREBBAEN (Deep) | <a href="http://cardpl74ltmwe4o7pgpefljcng6qr36cnn7gzer2wermedxz3volxkqd.onion" rel="nofollow">http://cardpl74ltmwe4o7pgpefljcng6qr36cnn7gzer2wermedxz3volxkqd.onion</a> |  ONLINE  |
+| VORON MARKET (Deep) | <a href="http://vorodtm2plbuobna3wmkifs53saq4mlv5v7ye5ltj25puxsbt7hdrwqd.onion" rel="nofollow">http://vorodtm2plbuobna3wmkifs53saq4mlv5v7ye5ltj25puxsbt7hdrwqd.onion</a> |  ONLINE  |
+| WOLF BANK HACKER (Deep) | <a href="http://wolft3xm254bvmv63hoe5v66kazyp7qoy2donh6fniwhur3qfynwljad.onion" rel="nofollow">http://wolft3xm254bvmv63hoe5v66kazyp7qoy2donh6fniwhur3qfynwljad.onion</a> |  ONLINE  |
+| DARK TOOLS (Deep) | <a href="http://darkhuo35yiohrsdlbdhhrtl5ds7jtv5x2cjusqqebalj5vtrdqgqoid.onion" rel="nofollow">http://darkhuo35yiohrsdlbdhhrtl5ds7jtv5x2cjusqqebalj5vtrdqgqoid.onion</a> |  ONLINE  |
+| UNDERGROUND MARKET (Deep) | <a href="http://undeb6m465pjocdl6kvyiwefj5xxzcu3hgzngpfe5eolw764suu5v3id.onion" rel="nofollow">http://undeb6m465pjocdl6kvyiwefj5xxzcu3hgzngpfe5eolw764suu5v3id.onion</a> |  ONLINE  |
+| CC SALE (Deep) | <a href="http://csalryx3xenotyljyttsju6jfthrjyt6ijwd3zzykhkpyfoeao2nxaqd.onion" rel="nofollow">http://csalryx3xenotyljyttsju6jfthrjyt6ijwd3zzykhkpyfoeao2nxaqd.onion</a> |  ONLINE  |
+| CREDIT CARD DUMPS (Deep) | <a href="http://cdumhlyjn3q6rzed5jtqzramrtznaahics5d2zhpspstw5stfkew3qqd.onion" rel="nofollow">http://cdumhlyjn3q6rzed5jtqzramrtznaahics5d2zhpspstw5stfkew3qqd.onion</a> |  ONLINE  |
+| PREPAID CARD STORE (Deep) | <a href="http://preplyqxgvapegf44xvv3c2kgccyi7enmcbqpck63j54c6av4fj2e2qd.onion" rel="nofollow">http://preplyqxgvapegf44xvv3c2kgccyi7enmcbqpck63j54c6av4fj2e2qd.onion</a> |  ONLINE  |

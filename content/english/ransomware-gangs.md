@@ -42,6 +42,7 @@ layout: "elements"
 | <a href="http://nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion" rel="nofollow">BABUK</a>     | Tor     | ONLINE     |
 | <a href="http://babydovegkmhbontykziyq7qivwzy33mu4ukqefe4mqpiiwd3wibnjqd.onion" rel="nofollow">BABYDUCK </a>     | Tor     | OFFLINE     |
 | <a href="http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion" rel="nofollow">BIANLIAN</a>     | Tor     | ONLINE     |
+| <a href="http://bianlivemqbawcco4cx4a672k2fip3guyxudzurfqvdszafam3ofqgqd.onion" rel="nofollow">BIANLIAN</a>     | Tor     | ONLINE     |
 | <a href="http://mmeeiix2ejdwkmseycljetmpiwebdvgjts75c63camjofn2cjdoulzqd.onion" rel="nofollow">BIT/LOLKEK/GLOBEIMPOSTER </a>     | Tor     | OFFLINE     |
 | <a href="http://nclen75pwlgebpxpsqhlcnxsmdvpyrr7ogz36ehhatfmkvakeyden6ad.onion" rel="nofollow">BIT/LOLKEK/GLOBEIMPOSTER </a>     | Tor     | OFFLINE     |
 | <a href="http://obzuqvr5424kkc4unbq2p2i67ny3zngce3tbdr37nicjqesgqcgomfqd.onion" rel="nofollow">BIT/LOLKEK/GLOBEIMPOSTER </a>     | Tor     | OFFLINE     |
@@ -239,6 +240,7 @@ layout: "elements"
 | <a href="http://xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion" rel="nofollow">RANSOM HOUSE</a>     | Tor     | OFFLINE     |
 | <a href="http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion" rel="nofollow">RANSOM HOUSE</a>     | Tor     | ONLINE     |
 | <a href="http://ransomxifxwc5eteopdobynonjctkxxvap77yqifu2emfbecgbqdw6qd.onion" rel="nofollow">RANSOM HUB</a>     | Tor     | ONLINE     |
+| <a href="http://ransomgxjnwmu5ceqwo2jrjssxpoicolmgismfpnslaixg3pgpe5qcad.onion/" rel="nofollow">RANSOM HUB Archives</a>     | Tor     | ONLINE     |
 | <a href="http://k63fo4qmdnl4cbt54sso3g6s5ycw7gf7i6nvxl3wcf3u6la2mlawt5qd.onion" rel="nofollow">RANSOMED </a>     | Tor     | OFFLINE     |
 | <a href="http://f6amq3izzsgtna4vw24rpyhy3ofwazlgex2zqdssavevvkklmtudxjad.onion" rel="nofollow">RANSOMED </a>     | Tor     | ONLINE     |
 | <a href="http://sewo2yliwvgca3abz565nsnnx3khi6x7t5ccpbvvg6wgce4bk2jagiad.onion" rel="nofollow">RANSOM CORP</a>     | Tor     | OFFILINE     |
