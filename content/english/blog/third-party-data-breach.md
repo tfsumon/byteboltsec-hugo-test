@@ -16,7 +16,7 @@ draft: false
 ---
 ## What Is a Third-Party Data Breach?
 
-Before we discuss ways to prevent third-party data breaches, let’s cover some basics. 
+Before we discuss ways to [prevent third-party data breaches](https://www.breachsense.com/blog/prevent-third-party-data-breaches/), let’s cover some basics. 
 
 When we talk about a third-party vendor, we mean any external party that the company shares its data with. This could include cloud service providers, marketing agencies, contractors, and so on. 
 

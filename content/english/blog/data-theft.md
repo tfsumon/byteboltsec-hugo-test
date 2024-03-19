@@ -46,7 +46,7 @@ Attackers use various methods and techniques to gain unauthorized access to data
 4. **Phishing**: Cybercriminals use deceptive emails, messages, or websites to trick their victims into revealing sensitive information, like passwords or financial details. Social engineering attacks often mimic legitimate messages from trusted sources.
 5. [Insider Threats](https://www.breachsense.com/blog/data-breach-human-error/): Employees or other insiders with legitimate access to an organization's systems may intentionally or unintentionally leak or steal data. This can occur due to malicious intent, negligence, or social engineering.
 6. **Physical Theft**: Data can be stolen through the physical theft of devices such as laptops, smartphones, external hard drives, or USB drives that contain sensitive information.
-7. **Third-Party Vendors:** Attackers target third-party services or vendors that have access to your organization’s data. Supply chain attacksexploit weaknesses in vendors to gain unauthorized access to their systems and, by extension, the data of their clients.
+7. **Third-Party Vendors:** Attackers target [third-party services or vendors](https://www.breachsense.com/blog/prevent-third-party-data-breaches/) that have access to your organization’s data. Supply chain attacksexploit weaknesses in vendors to gain unauthorized access to their systems and, by extension, the data of their clients.
 
 ## Examples of data theft
 
