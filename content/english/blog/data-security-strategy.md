@@ -61,4 +61,6 @@ Here's a list of common data security solutions every company should implement:
 13. **Patch Management:** Regularly updating software and systems with the latest security patches helps protect against known vulnerabilities and exploits.
 14. **Dark Web Monitoring:** Regularly [monitor the dark web](https://www.breachsense.com/dark-web-monitoring/) for any signs of compromised or stolen data related to your organization, and use this information to reset leaked credentials and session tokens before the data is exploited.
 
+Each of these solutions plays an important part in your overall data security strategy. However, the general trend in data breaches is for attackers to leverage Living Off The Land (LOTL) techniques. This means that threat actors use legitimate tools and software already present on their target systems to bypass detection. In fact, according to Verizon, 86% of breaches involve the use of stolen credentials. Again, this is the easiest way to bypass detection and gain access to your network.
+
 ### Does your security team need visibility into your organization's leaked data? [Book a demo](https://www.breachsense.com/book-demo/) to see how Breachsense can help.
