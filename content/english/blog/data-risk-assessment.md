@@ -45,7 +45,7 @@ Performing a repeatable data risk assessment requires a systematic process. Here
 
 ## Common risk mitigation strategies
 
-With the average cost of a data breach at USD 4.45 million (Verizon), implementing the right mitigation strategies is critical. Some common mitigation strategies include:
+With the average cost of a data breach at USD 4.45 million (Verizon), implementing the right mitigation strategies is critical. Some common mitigation strategies that every business should implement are:
 
 1. **Access Controls:** Implementing access controls, such as role-based access, least privilege principles, and multi-factor authentication, can help mitigate the risk of unauthorized access to sensitive files.
 2. **Network Segmentation:** Implementing network segmentation and separating critical systems and data from less secure environments can limit the potential impact of a breach.
