@@ -31,7 +31,7 @@ Data risk management is important for several reasons:
 
 ## Eight steps to perform a data risk assessment
 
-Before you can manage risk, you first need to identify and prioritize the risks to your data. This is often done through a data risk assessment. The process involves the following steps:
+Before you can manage risk, you first need to identify and prioritize the risks to your data. This is often done through a [data risk assessment](https://www.breachsense.com/blog/data-risk-assessment/). The process involves the following steps:
 
 1. **Identify Data Assets:** Begin by identifying and inventorying all data assets within your organization. This includes databases, files, applications, and any other repositories where data is stored or processed.
 2. **Classify Data:** Classify data based on its sensitivity and importance to your organization. This could include categories such as public, internal, confidential, or highly confidential. Classification helps determine the level of protection required for different types of data.
