@@ -80,4 +80,4 @@ Breachsense helps mitigate that risk by continuously monitoring the dark web for
 
 By proactively resetting leaked credentials and session tokens businesses can mitigate their risk before criminals exploit the data.
 
-If your team needs visibility into your third-party vendors, [book a meeting](https://www.breachsense.com/book-demo/) to see how Breachsense can help.
+### If your team needs visibility into your third-party vendors, [book a meeting](https://www.breachsense.com/book-demo/) to see how Breachsense can help.
