@@ -134,6 +134,7 @@ layout: "elements"
 | <a href="https://3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion" rel="nofollow">KARAKURT </a>     | Tor     | ONLINE     |
 | <a href="http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion" rel="nofollow">KARMA</a>     | Tor     | OFFLINE     |
 | <a href="https://vipsuscription.org" rel="nofollow">KELVIN SECURITY</a>     | Clearnet     | ONLINE     |
+| <a href="http://kill432ltnkqvaqntbalnsgojqqs2wz4lhnamrqjg66tq6fuvcztilyd.onion" rel="nofollow">KILLSEC</a>     | Tor     | ONLINE     |
 | <a href="http://knight3xppu263m7g4ag3xlit2qxpryjwueobh7vjdc3zrscqlfu3pqd.onion" rel="nofollow">KNIGHT </a>     | Tor     | ONLINE     |
 | <a href="http://nn5ua7gc7jkllpoztymtfcu64yjm7znlsriq3a6v5kw7l6jvirnczyyd.onion" rel="nofollow">LAMBDA </a>     | Tor     | ONLINE     |
 | <a href="http://et22fibzuzfyzgurm35sttm52qbzvdgzy5qhzy46a3gmkrrht3lec5ad.onion" rel="nofollow">LA PIOVRA</a>     | Tor     | OFFLINE     |
@@ -228,6 +229,7 @@ layout: "elements"
 | <a href="http://quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion" rel="nofollow">QUANTUM</a>     | Tor     | ONLINE     |
 | <a href="http://pa32ymaeu62yo5th5mraikgw5fcvznnsiiwti42carjliarodltmqcqd.onion" rel="nofollow">RA GROUP</a>     | Tor     | ONLINE     |
 | <a href="http://hkpomcx622gnqp2qhenv4ceyrhwvld3zwogr4mnkdeudq2txf55keoad.onion" rel="nofollow">RA GROUP </a>     | Tor     | ONLINE     |
+| <a href="http://raworldw32b2qxevn3gp63pvibgixr4v75z62etlptg3u3pmajwra4ad.onion" rel="nofollow">RAWORLD</a>     | Tor     | ONLINE     |
 | <a href="http://z5jixbfejdu5wtxd2baliu6hwzgcitlspnttr7c2eopl5ccfcjrhkqid.onion" rel="nofollow">RABBIT HOLE</a>     | Tor     | ONLINE     |
 | <a href="http://p6o7m73ujalhgkiv.onion" rel="nofollow">RAGNAR LOCKER</a>     | Tor     | OFFLINE     |
 | <a href="http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion" rel="nofollow">RAGNAR LOCKER</a>     | Tor     | ONLINE     |
