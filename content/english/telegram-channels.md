@@ -8,13 +8,11 @@ layout: "elements"
 | Name           | Channel        
 | :-----------: | :-------------:   
 |  RED HACKERS ALLIANCE  | <a href="https://t.me/+6OJjr1dDbQw1NDli" rel="nofollow">https://t.me/+6OJjr1dDbQw1NDli</a>|
-|  GODELESS CLOUD Botnet Logs | <a href="https://t.me/+8DxOrHQdrzw1ZjUy" rel="nofollow">https://t.me/+8DxOrHQdrzw1ZjUy</a>|
 |  0x_dump alternative channel | <a href="https://t.me/+8UWtFO9H_9dhODVk" rel="nofollow">https://t.me/+8UWtFO9H_9dhODVk</a>|
 | Ares private channel | <a href="https://t.me/+9ETFYLy5Tc1lNzBh" rel="nofollow">https://t.me/+9ETFYLy5Tc1lNzBh</a>|
 |  Goblin's Database  | <a href="https://t.me/+9P5FQ85afTc4NGNl" rel="nofollow">https://t.me/+9P5FQ85afTc4NGNl</a>|
 |  AresLoader  | <a href="https://t.me/+Bat9QqJcSuE0MTg1" rel="nofollow">https://t.me/+Bat9QqJcSuE0MTg1</a>|
 |  Atlantis Cyber Army A.I.G. - backup | <a href="https://t.me/+eOtgrt4gB68wM2Qy" rel="nofollow">https://t.me/+eOtgrt4gB68wM2Qy</a>|
-|  HUBHEAD Logs | <a href="https://t.me/+fcxhFl9JSRE3YTdi" rel="nofollow">https://t.me/+fcxhFl9JSRE3YTdi</a>|
 |  Data Leaks  | <a href="https://t.me/+fR-06lKTQ_VmODA0" rel="nofollow">https://t.me/+fR-06lKTQ_VmODA0</a>|
 |  Goblin's Hub (private)  | <a href="https://t.me/+FuLjnRtP3BhiZDNl" rel="nofollow">https://t.me/+FuLjnRtP3BhiZDNl</a>|
 |  voidy - database storage | <a href="https://t.me/+ghq2ayK6ybIwYmJi" rel="nofollow">https://t.me/+ghq2ayK6ybIwYmJi</a>|
@@ -24,15 +22,12 @@ layout: "elements"
 |  The Collective Sentinel | <a href="https://t.me/+jCjbvdsUSJIzN2Vl" rel="nofollow">https://t.me/+jCjbvdsUSJIzN2Vl</a>|
 |  BlackDragonSec  | <a href="https://t.me/+JMruw9EHhWtmYjc9" rel="nofollow">https://t.me/+JMruw9EHhWtmYjc9</a>|
 |  Data Leaks | <a href="https://t.me/+nCFeH8PT-XUxZjEy" rel="nofollow">https://t.me/+nCFeH8PT-XUxZjEy</a>|
-|  Luffich Logs - Redline Stealer | <a href="https://t.me/+NshXlCbUEZkxZDMy" rel="nofollow">https://t.me/+NshXlCbUEZkxZDMy</a>|
-|  Goblin's Free Logs  | <a href="https://t.me/+OZheKtZ368YxMDBl" rel="nofollow">https://t.me/+OZheKtZ368YxMDBl</a>|
 | TCG | <a href="https://t.me/+O7yT5lylY89lMTcy" rel="nofollow">https://t.me/+O7yT5lylY89lMTcy</a>|
 |  Adrastea Group | <a href="https://t.me/+paglZbHnhE8xMTA8" rel="nofollow">https://t.me/+paglZbHnhE8xMTA8</a>|
 |  Data Leaks | <a href="https://t.me/+T0l1VDuQzDpjYWQ0" rel="nofollow">https://t.me/+T0l1VDuQzDpjYWQ0</a>|
 |  Killnet Store Chat  | <a href="https://t.me/+uV_Lxf2uOHhkMjAy" rel="nofollow">https://t.me/+uV_Lxf2uOHhkMjAy</a>|
 |  KILLNET  | <a href="https://t.me/+Uxo9r92Ho5ZkYjdi" rel="nofollow">https://t.me/+Uxo9r92Ho5ZkYjdi</a>|
 |  VIP Config - configs, combos, etc  | <a href="https://t.me/+UYKtaIt6KFGlFwBJ" rel="nofollow">https://t.me/+UYKtaIt6KFGlFwBJ</a>|
-|  Log Leaks Group | <a href="https://t.me/+V_oM-vx0YnSN7nzH" rel="nofollow">https://t.me/+V_oM-vx0YnSN7nzH</a>|
 |  Darks chat | <a href="https://t.me/+wlf3z9fVHqgzYzk1" rel="nofollow">https://t.me/+wlf3z9fVHqgzYzk1</a>|
 |  Team BlackDragonSec  | <a href="https://t.me/+x9tlrn-DoOw0NmNl" rel="nofollow">https://t.me/+x9tlrn-DoOw0NmNl</a>|
 |  Kingsman | <a href="https://t.me/+xr2N5_kqYQE3ZDUy" rel="nofollow">https://t.me/+xr2N5_kqYQE3ZDUy</a>|
@@ -58,14 +53,12 @@ layout: "elements"
 | Combo List | <a href="https://t.me/asdcloud" rel="nofollow">https://t.me/asdcloud</a>|
 | Atlantis - CyberArmy - A.I.G | <a href="https://t.me/atlantiscyberarmy" rel="nofollow">https://t.me/atlantiscyberarmy</a>|
 |  Against The West  | <a href="https://t.me/atw2022" rel="nofollow">https://t.me/atw2022</a>|
-| Bank Logs | <a href="https://t.me/banklogplug2" rel="nofollow">https://t.me/banklogplug2</a>|
 | The Jacuzzi | <a href="https://t.me/baphchat" rel="nofollow">https://t.me/baphchat</a>|
 |  Combo List | <a href="https://t.me/base_brutesu" rel="nofollow">https://t.me/base_brutesu</a>|
 |  Data Leaks  | <a href="https://t.me/baseleak" rel="nofollow">https://t.me/baseleak</a>|
 |  Data Leaks | <a href="https://t.me/BAZU_BD" rel="nofollow">https://t.me/BAZU_BD</a>|
 |  Data Leaks | <a href="https://t.me/bazubd" rel="nofollow">https://t.me/bazubd</a>|
 |  BEAR IT ARMY  | <a href="https://t.me/BEARITARMY" rel="nofollow">https://t.me/BEARITARMY</a>|
-|  Redline Stealer  | <a href="https://t.me/berserklogs" rel="nofollow">https://t.me/berserklogs</a>|
 | Illicit Service | <a href="https://t.me/best_cracking_soft" rel="nofollow">https://t.me/best_cracking_soft</a>|
 |  Bl00dy ransomware gang  | <a href="https://t.me/bl00dy_Ransomware_Gang" rel="nofollow">https://t.me/bl00dy_Ransomware_Gang</a>|
 |  Checkers, Hacking Tools  | <a href="https://t.me/Bl4ck_Room" rel="nofollow">https://t.me/Bl4ck_Room</a>|
@@ -75,8 +68,6 @@ layout: "elements"
 | Bloodnet | <a href="https://t.me/BLOODNET_RUS" rel="nofollow">https://t.me/BLOODNET_RUS</a>|
 | blueteamzone | <a href="https://t.me/blueteamzone" rel="nofollow">https://t.me/blueteamzone</a>|
 |  Data Leaks  | <a href="https://t.me/boosty66brvte" rel="nofollow">https://t.me/boosty66brvte</a>|
-|  Redline Data Leaks  | <a href="https://t.me/BorwitaFreeLogs" rel="nofollow">https://t.me/BorwitaFreeLogs</a>|
-|  Redline and Raccoon Data Logs  | <a href="https://t.me/bradmax_cloud" rel="nofollow">https://t.me/bradmax_cloud</a>|
 |  R00tk1t DB  | <a href="https://t.me/R00TK1TDB" rel="nofollow">https://t.me/R00TK1TDB</a>|
 |  R00tk1t Cyber Team  | <a href="https://t.me/R00TK1TOFF " rel="nofollow">https://t.me/R00TK1TOFF </a>|
 | breachdetector | <a href="https://t.me/breachdetector" rel="nofollow">https://t.me/breachdetector</a>|
@@ -90,7 +81,6 @@ layout: "elements"
 |  Data Leaks  | <a href="https://t.me/c0xCee" rel="nofollow">https://t.me/c0xCee</a>|
 |  News  | <a href="https://t.me/canyoupwnme" rel="nofollow">https://t.me/canyoupwnme</a>|
 |  Data Leaks  | <a href="https://t.me/cas_files" rel="nofollow">https://t.me/cas_files</a>|
-|  Log Leaks Channel | <a href="https://t.me/cbanke_logs" rel="nofollow">https://t.me/cbanke_logs</a>|
 |  Data Leaks  | <a href="https://t.me/cbanke_market" rel="nofollow">https://t.me/cbanke_market</a>|
 |  Market | <a href="https://t.me/cbanke_market" rel="nofollow">https://t.me/cbanke_market</a>|
 |  Data Leaks | <a href="https://t.me/cbanke" rel="nofollow">https://t.me/cbanke</a>|
@@ -99,9 +89,6 @@ layout: "elements"
 | Civilan dark code | <a href="https://t.me/civiliandarkcode404" rel="nofollow">https://t.me/civiliandarkcode404</a>|
 | Clean Tools | <a href="https://t.me/clean_tools_net" rel="nofollow">https://t.me/clean_tools_net</a>|
 | Free Data Breaches Provider | <a href="https://t.me/cloudata_free_databases" rel="nofollow">https://t.me/cloudata_free_databases</a>|
-|  UnixSeller89 Redline Stealer  | <a href="https://t.me/CloudLogsPrivate" rel="nofollow">https://t.me/CloudLogsPrivate</a>|
-|  Redline LogZone | <a href="https://t.me/cloudlogs" rel="nofollow">https://t.me/cloudlogs</a>|
-|  Redline Logs | <a href="https://t.me/cloudmika" rel="nofollow">https://t.me/cloudmika</a>|
 | club1337 | <a href="https://t.me/club1337" rel="nofollow">https://t.me/club1337</a>|
 |  Combo List | <a href="https://t.me/combo2021" rel="nofollow">https://t.me/combo2021</a>|
 |  Combo List  | <a href="https://t.me/combo_listt" rel="nofollow">https://t.me/combo_listt</a>|
@@ -117,7 +104,6 @@ layout: "elements"
 |  Configs, Combos  | <a href="https://t.me/CrackerConfigs" rel="nofollow">https://t.me/CrackerConfigs</a>|
 |  Configs, Combos  | <a href="https://t.me/Crackers_Club" rel="nofollow">https://t.me/Crackers_Club</a>|
 | Cracking, spamming, carding | <a href="https://t.me/Craxpro_Channel" rel="nofollow">https://t.me/Craxpro_Channel</a>|
-| Bank Logs | <a href="https://t.me/Creditunionbanksstore" rel="nofollow">https://t.me/Creditunionbanksstore</a>|
 |  Crew Combo Teams | <a href="https://t.me/crewcomboteams" rel="nofollow">https://t.me/crewcomboteams</a>|
 |  Combo List | <a href="https://t.me/crewcomboteam" rel="nofollow">https://t.me/crewcomboteam</a>|
 |  Crypt_0x00  | <a href="https://t.me/CryptoGinzo" rel="nofollow">https://t.me/CryptoGinzo</a>|
@@ -125,7 +111,6 @@ layout: "elements"
 | cyb3rtr0nian | <a href="https://t.me/cyb3rtr0nian" rel="nofollow">https://t.me/cyb3rtr0nian</a>|
 |  News & Info Sharing  | <a href="https://t.me/cybdetective" rel="nofollow">https://t.me/cybdetective</a>|
 |  CA XXII Hacktivist Gang  | <a href="https://t.me/cyberactiveXXII" rel="nofollow">https://t.me/cyberactiveXXII</a>|
-| CyberSecurityTechnologies | <a href="https://t.me/CyberSecurityTechnologies" rel="nofollow">https://t.me/CyberSecurityTechnologies</a>|
 |  Data Leaks | <a href="https://t.me/D3atr0y3d" rel="nofollow">https://t.me/D3atr0y3d</a>|
 |  Devilzone 1 - configs, combos  | <a href="https://t.me/D3v1LZoNe" rel="nofollow">https://t.me/D3v1LZoNe</a>|
 |  Combo List | <a href="https://t.me/DailyCombos1" rel="nofollow">https://t.me/DailyCombos1</a>|
@@ -141,7 +126,6 @@ layout: "elements"
 |  Data Leaks  | <a href="https://t.me/darxe_base" rel="nofollow">https://t.me/darxe_base</a>|
 | data1eaks | <a href="https://t.me/data1eaks" rel="nofollow">https://t.me/data1eaks</a>|
 |  Data Leaks  | <a href="https://t.me/Database_breached" rel="nofollow">https://t.me/Database_breached</a>|
-| Leaked Database & Fresh Log | <a href="https://t.me/database_leak" rel="nofollow">https://t.me/database_leak</a>|
 | Database Market | <a href="https://t.me/databasemarkett" rel="nofollow">https://t.me/databasemarkett</a>|
 | databreach | <a href="https://t.me/databreach" rel="nofollow">https://t.me/databreach</a>|
 |  Combo List | <a href="https://t.me/datacloudspace" rel="nofollow">https://t.me/datacloudspace</a>|
@@ -162,21 +146,16 @@ layout: "elements"
 | Eaglecyber | <a href="https://t.me/eaglecyberwashere" rel="nofollow">https://t.me/eaglecyberwashere</a>|
 |  Selling Accounts  | <a href="https://t.me/ehdanstock" rel="nofollow">https://t.me/ehdanstock</a>|
 |  8BASE  | <a href="https://t.me/eightbase" rel="nofollow">https://t.me/eightbase</a>|
-|  Logs  | <a href="https://t.me/eliteband" rel="nofollow">https://t.me/eliteband</a>|
 |  Eternity Malware  | <a href="https://t.me/EternityMalwareTeam" rel="nofollow">https://t.me/EternityMalwareTeam</a>|
 |  UNLISTEDLEAKS | <a href="https://t.me/EVILEAKSU" rel="nofollow">https://t.me/EVILEAKSU</a>|
-|  Logs Market  | <a href="https://t.me/expertsa11m" rel="nofollow">https://t.me/expertsa11m</a>|
-|  Logs | <a href="https://t.me/expertsa11m" rel="nofollow">https://t.me/expertsa11m</a>|
 |  Exploits  | <a href="https://t.me/exploit_db_com" rel="nofollow">https://t.me/exploit_db_com</a>|
 | Exposed Forum | <a href="https://t.me/exposedannouncements" rel="nofollow">https://t.me/exposedannouncements</a>|
-|  Fatecloud Logs | <a href="https://t.me/fatecloud" rel="nofollow">https://t.me/fatecloud</a>|
 |  Market  | <a href="https://t.me/flannels" rel="nofollow">https://t.me/flannels</a>|
 |  Fr33 d4t4 - stolen redline from other channels | <a href="https://t.me/fr33d4t4" rel="nofollow">https://t.me/fr33d4t4</a>|
 |  Defaulf Cloud (Redline Stealer) | <a href="https://t.me/freeDEFAULFcloud" rel="nofollow">https://t.me/freeDEFAULFcloud</a>|
 | freedomf0x | <a href="https://t.me/freedomf0x" rel="nofollow">https://t.me/freedomf0x</a>|
 | Freshtools Market | <a href="https://t.me/freshtoolsnet" rel="nofollow">https://t.me/freshtoolsnet</a>|
 |  Combo List | <a href="https://t.me/friendastrokal" rel="nofollow">https://t.me/friendastrokal</a>|
-|  Frilogs Redline Stealer - Usually logs pillaged from other sites  | <a href="https://t.me/frilogs" rel="nofollow">https://t.me/frilogs</a>|
 | fuckeddb | <a href="https://t.me/fuckeddb" rel="nofollow">https://t.me/fuckeddb</a>|
 |  Data Leaks & Hacktivism group  | <a href="https://t.me/GhostSecc" rel="nofollow">https://t.me/GhostSecc</a>|
 | GitTools | <a href="https://t.me/GitTools" rel="nofollow">https://t.me/GitTools</a>|
@@ -200,7 +179,6 @@ layout: "elements"
 | Data Breaches Provider | <a href="https://t.me/HQ_COMBO" rel="nofollow">https://t.me/HQ_COMBO</a>|
 | Data Breaches Provider | <a href="https://t.me/HQCracking" rel="nofollow">https://t.me/HQCracking</a>|
 | Proxy service | <a href="https://t.me/HQPROX" rel="nofollow">https://t.me/HQPROX</a>|
-|  Redline Malware Logs  | <a href="https://t.me/HUBLOGS" rel="nofollow">https://t.me/HUBLOGS</a>|
 |  Selling Accounts  | <a href="https://t.me/hudyhstock" rel="nofollow">https://t.me/hudyhstock</a>|
 | Hydra Market Rebuild | <a href="https://t.me/hydramarketrebuild" rel="nofollow">https://t.me/hydramarketrebuild</a>|
 | icrewhackers | <a href="https://t.me/icrewhackers" rel="nofollow">https://t.me/icrewhackers</a>|
@@ -220,13 +198,10 @@ layout: "elements"
 | Large Hacking Group | <a href="https://t.me/joinchat/AAAAAEedZM6cBNj764phgQ" rel="nofollow">https://t.me/joinchat/AAAAAEedZM6cBNj764phgQ</a>|
 | joinchat | <a href="https://t.me/joinchat/AAAAAFGhhcV9p1Rm2f_Emw" rel="nofollow">https://t.me/joinchat/AAAAAFGhhcV9p1Rm2f_Emw</a>|
 |  Forum  | <a href="https://t.me/joinchat/AAAAAFNLmVP0ZCy51tNOig" rel="nofollow">https://t.me/joinchat/AAAAAFNLmVP0ZCy51tNOig</a>|
-|  Logs Market | <a href="https://t.me/joinchat/aLzjwn_93JtkMDA8" rel="nofollow">https://t.me/joinchat/aLzjwn_93JtkMDA8</a>|
-|  Logs  | <a href="https://t.me/joinchat/Cyv2m5zFE6JmMjVi" rel="nofollow">https://t.me/joinchat/Cyv2m5zFE6JmMjVi</a>|
 |  Data Leaks  | <a href="https://t.me/joinchat/VBAj4Hc6Xki5lG_H" rel="nofollow">https://t.me/joinchat/VBAj4Hc6Xki5lG_H</a>|
 | joinchat | <a href="https://t.me/joinchat/WCSE2vgon6IYGLgz" rel="nofollow">https://t.me/joinchat/WCSE2vgon6IYGLgz</a>|
 |  Data Leaks  | <a href="https://t.me/joinchat/YHUDj7dEmNE1NWQ0" rel="nofollow">https://t.me/joinchat/YHUDj7dEmNE1NWQ0</a>|
 | joinchat | <a href="https://t.me/joinchat/YR89p_rg8Oo0Y2Ux" rel="nofollow">https://t.me/joinchat/YR89p_rg8Oo0Y2Ux</a>|
-| Logs Market | <a href="https://t.me/joinchat/ZST8YodAuzo2NGVk" rel="nofollow">https://t.me/joinchat/ZST8YodAuzo2NGVk</a>|
 |  Joker Reborn Redline Stealer  | <a href="https://t.me/joker_reborn" rel="nofollow">https://t.me/joker_reborn</a>|
 |  Data Leaks  | <a href="https://t.me/JustAn0x" rel="nofollow">https://t.me/JustAn0x</a>|
 |  Karakurt | <a href="https://t.me/karakurt_news" rel="nofollow">https://t.me/karakurt_news</a>|
@@ -255,7 +230,6 @@ layout: "elements"
 |  Data Leaks, Combo List | <a href="https://t.me/leakes4" rel="nofollow">https://t.me/leakes4</a>|
 | Data Leaks | <a href="https://t.me/leakinformation" rel="nofollow">https://t.me/leakinformation</a>|
 |  Data Leaks | <a href="https://t.me/leaklicks" rel="nofollow">https://t.me/leaklicks</a>|
-| LeakLogs Official | <a href="https://t.me/leaklogs_official" rel="nofollow">https://t.me/leaklogs_official</a>|
 |  Data Leaks | <a href="https://t.me/leaksdatabase" rel="nofollow">https://t.me/leaksdatabase</a>|
 |  Data Leaks | <a href="https://t.me/LeaksData" rel="nofollow">https://t.me/LeaksData</a>|
 | Leaks Directory | <a href="https://t.me/leaksdirectory" rel="nofollow">https://t.me/leaksdirectory</a>|
@@ -267,17 +241,11 @@ layout: "elements"
 |  Legion Russia  | <a href="https://t.me/Legion_Russia" rel="nofollow">https://t.me/Legion_Russia</a>|
 | Legion Leaker | <a href="https://t.me/LEGIONLEAKER" rel="nofollow">https://t.me/LEGIONLEAKER</a>|
 |  LockBit APT  | <a href="https://t.me/LockBit_APT" rel="nofollow">https://t.me/LockBit_APT</a>|
-|  Data Leaks | <a href="https://t.me/Log_Market_Place" rel="nofollow">https://t.me/Log_Market_Place</a>|
-| Logs Market | <a href="https://t.me/logsgang2" rel="nofollow">https://t.me/logsgang2</a>|
-|  Luxury Logs Redline Stealer  | <a href="https://t.me/LuxuryLogsCloud" rel="nofollow">https://t.me/LuxuryLogsCloud</a>|
 | Free Data Breaches Provider | <a href="https://t.me/MAilAccessCracker" rel="nofollow">https://t.me/MAilAccessCracker</a>|
 |  Data Leaks  | <a href="https://t.me/MaillAccessTop" rel="nofollow">https://t.me/MaillAccessTop</a>|
 | mailpassclub | <a href="https://t.me/mailpassclub" rel="nofollow">https://t.me/mailpassclub</a>|
 | mailpasword | <a href="https://t.me/mailpasword" rel="nofollow">https://t.me/mailpasword</a>|
-|  Logs  | <a href="https://t.me/MalwareLogs" rel="nofollow">https://t.me/MalwareLogs</a>|
 |  Data Leaks | <a href="https://t.me/marketo_leaks" rel="nofollow">https://t.me/marketo_leaks</a>|
-|  Logs Market  | <a href="https://t.me/MarkLogsBot" rel="nofollow">https://t.me/MarkLogsBot</a>|
-|  Marvel Logs | <a href="https://t.me/marvelcloudRB" rel="nofollow">https://t.me/marvelcloudRB</a>|
 |  Ransomware Gang | <a href="https://t.me/MBCRANSOMWARE" rel="nofollow">https://t.me/MBCRANSOMWARE</a>|
 | meganzshare | <a href="https://t.me/meganzshare" rel="nofollow">https://t.me/meganzshare</a>|
 | membersofxaknet | <a href="https://t.me/membersofxaknet" rel="nofollow">https://t.me/membersofxaknet</a>|
@@ -285,7 +253,6 @@ layout: "elements"
 | Milad Leaks | <a href="https://t.me/MiladLeaks" rel="nofollow">https://t.me/MiladLeaks</a>|
 |  Data Leaks | <a href="https://t.me/milkdude" rel="nofollow">https://t.me/milkdude</a>|
 |  Lapsus$ channel  | <a href="https://t.me/minsaudebr" rel="nofollow">https://t.me/minsaudebr</a>|
-|  Moon Cloud - Free Logs  | <a href="https://t.me/Moon_Log" rel="nofollow">https://t.me/Moon_Log</a>|
 | Mysterious team bangladesh | <a href="https://t.me/MysteriousTeam0" rel="nofollow">https://t.me/MysteriousTeam0</a>|
 | DB / Data Leak Search Engine | <a href="https://t.me/naosbase" rel="nofollow">https://t.me/naosbase</a>|
 |  General Hacking, Privacy  | <a href="https://t.me/NetSurvivalist" rel="nofollow">https://t.me/NetSurvivalist</a>|
@@ -299,7 +266,6 @@ layout: "elements"
 |  Market  | <a href="https://t.me/O1chat" rel="nofollow">https://t.me/O1chat</a>|
 |  Observer Cloud Redline Stealer (Harvests other channels)  | <a href="https://t.me/ObserverCloud" rel="nofollow">https://t.me/ObserverCloud</a>|
 | BaphometOfficial | <a href="https://t.me/OfficialBaphomet" rel="nofollow">https://t.me/OfficialBaphomet</a>|
-|  Redline Logs | <a href="https://t.me/OneLogs" rel="nofollow">https://t.me/OneLogs</a>|
 | OnePlusChat | <a href="https://t.me/OnePlusChat" rel="nofollow">https://t.me/OnePlusChat</a>|
 |  Data Leaks  | <a href="https://t.me/opendataleaks" rel="nofollow">https://t.me/opendataleaks</a>|
 |  Data Leaks  | <a href="https://t.me/openleak" rel="nofollow">https://t.me/openleak</a>|
@@ -310,7 +276,6 @@ layout: "elements"
 | PHOENIX | <a href="https://t.me/+k56KDQRn8FplN2Qy" rel="nofollow">https://t.me/+k56KDQRn8FplN2Qy</a>|
 | Poena Market | <a href="https://t.me/poenamarket" rel="nofollow">https://t.me/poenamarket</a>|
 |  Data Leaks  | <a href="https://t.me/privatecombos" rel="nofollow">https://t.me/privatecombos</a>|
-|  Logs Market  | <a href="https://t.me/Privatedata77new" rel="nofollow">https://t.me/Privatedata77new</a>|
 |  Data Leaks  | <a href="https://t.me/procoder_base" rel="nofollow">https://t.me/procoder_base</a>|
 |  Exploits, Hacking and Leaks  | <a href="https://t.me/proxy_bar" rel="nofollow">https://t.me/proxy_bar</a>|
 | ProxyMTProto | <a href="https://t.me/ProxyMTProto" rel="nofollow">https://t.me/ProxyMTProto</a>|
@@ -318,12 +283,10 @@ layout: "elements"
 | pwnwiki_zhchannel | <a href="https://t.me/pwnwiki_zhchannel" rel="nofollow">https://t.me/pwnwiki_zhchannel</a>|
 |  Data Leaks  | <a href="https://t.me/qZann" rel="nofollow">https://t.me/qZann</a>|
 |  Claims to be the backup channel of RaidForums  | <a href="https://t.me/raidsecretforums" rel="nofollow">https://t.me/raidsecretforums</a>|
-| Logs Market | <a href="https://t.me/raincloudlogs" rel="nofollow">https://t.me/raincloudlogs</a>|
 |  RansomHouse official channel  | <a href="https://t.me/ransom_house" rel="nofollow">https://t.me/ransom_house</a>|
 | RansomTeam  Chat | <a href="https://t.me/RansomTeam" rel="nofollow">https://t.me/RansomTeam</a>|
 |  Ransomware Team | <a href="https://t.me/RansomwareTeam" rel="nofollow">https://t.me/RansomwareTeam</a>|
 |  Data Leaks  | <a href="https://t.me/ransomwatcher" rel="nofollow">https://t.me/ransomwatcher</a>|
-|  Redline Leaks  | <a href="https://t.me/redlogscloud" rel="nofollow">https://t.me/redlogscloud</a>|
 |  Data Leaks  | <a href="https://t.me/reveng3rs" rel="nofollow">https://t.me/reveng3rs</a>|
 |  Data Leaks | <a href="https://t.me/RHA_Red_Hackers_Alliance_Russia" rel="nofollow">https://t.me/RHA_Red_Hackers_Alliance_Russia</a>|
 |  Configs, combos  | <a href="https://t.me/sanaski" rel="nofollow">https://t.me/sanaski</a>|
@@ -333,14 +296,11 @@ layout: "elements"
 |  0% Privacy | <a href="https://t.me/ShizoPrivacy" rel="nofollow">https://t.me/ShizoPrivacy</a>|
 |  Sieged Sec | <a href="https://t.me/SiegedSec" rel="nofollow">https://t.me/SiegedSec</a>|
 |  Market  | <a href="https://t.me/silentplug666" rel="nofollow">https://t.me/silentplug666</a>|
-| Sl1ddi CLOUD FREE LOGS | <a href="https://t.me/Sl1ddifree" rel="nofollow">https://t.me/Sl1ddifree</a>|
 |  AiDLocker Group Data Leaks Channel | <a href="https://t.me/slivaidlocker" rel="nofollow">https://t.me/slivaidlocker</a>|
 |  Erernity Team Redline Stealer | <a href="https://t.me/slivnoviy123" rel="nofollow">https://t.me/slivnoviy123</a>|
-|  Redline Malware Logs  | <a href="https://t.me/snatch_cloud" rel="nofollow">https://t.me/snatch_cloud</a>|
 |  Snatch Team (Ransomware Gang)  | <a href="https://t.me/snatch_news" rel="nofollow">https://t.me/snatch_news</a>|
 | Solomon market place updates | <a href="https://t.me/SolomonUpdates" rel="nofollow">https://t.me/SolomonUpdates</a>|
 |  Combo List  | <a href="https://t.me/spamsmtpcombo" rel="nofollow">https://t.me/spamsmtpcombo</a>|
-|  Stealer Logs  | <a href="https://t.me/Stealers_Logs_Group" rel="nofollow">https://t.me/Stealers_Logs_Group</a>|
 |  Stealer Store | <a href="https://t.me/StealerStore" rel="nofollow">https://t.me/StealerStore</a>|
 | Stealer Store | <a href="https://t.me/StealerStore" rel="nofollow">https://t.me/StealerStore</a>|
 |  Mapper (former STK Database) | <a href="https://t.me/stkdatabase" rel="nofollow">https://t.me/stkdatabase</a>|
@@ -366,10 +326,8 @@ layout: "elements"
 |  Atlas Intelligence Group  | <a href="https://t.me/weareaig" rel="nofollow">https://t.me/weareaig</a>|
 |  Hacking, Privacy  | <a href="https://t.me/webpwn" rel="nofollow">https://t.me/webpwn</a>|
 |  Data Leaks  | <a href="https://t.me/weleakdatabase" rel="nofollow">https://t.me/weleakdatabase</a>|
-|  Willie Cloud Redline Leaks  | <a href="https://t.me/WillieCloudFreeLogs" rel="nofollow">https://t.me/WillieCloudFreeLogs</a>|
 |  Data Leaks  | <a href="https://t.me/windmarketo" rel="nofollow">https://t.me/windmarketo</a>|
 |  Data Leaks  | <a href="https://t.me/WLDBackup" rel="nofollow">https://t.me/WLDBackup</a>|
-|  Data Leaks  | <a href="https://t.me/worldwidelogs" rel="nofollow">https://t.me/worldwidelogs</a>|
 |  WWH Forum  | <a href="https://t.me/wwhsmi" rel="nofollow">https://t.me/wwhsmi</a>|
 | X7Root Seller | <a href="https://t.me/x7seller" rel="nofollow">https://t.me/x7seller</a>|
 |  Killnet  | <a href="https://t.me/xaknet_team" rel="nofollow">https://t.me/xaknet_team</a>|
@@ -379,8 +337,6 @@ layout: "elements"
 |  Hacking, Leaks and News  | <a href="https://t.me/zer0daylab" rel="nofollow">https://t.me/zer0daylab</a>|
 |  Original  ZeroDay  Community  | <a href="https://t.me/ZeroDay_TM" rel="nofollow">https://t.me/ZeroDay_TM</a>|
 |  ZeroDay Forums  | <a href="https://t.me/zerodayforums" rel="nofollow">https://t.me/zerodayforums</a>|
-|  STARLINK[CLOUD] Logs  | <a href="https://t.me/StarLinkCloud" rel="nofollow">https://t.me/StarLinkCloud</a>|
-|  Arena Cloud Free Logs  | <a href="https://t.me/ArenaCloudFree" rel="nofollow">https://t.me/ArenaCloudFree</a>|
 |  Darknet chat | <a href="https://t.me/+7VXL5Gy9NUc1YzFl" rel="nofollow">https://t.me/+7VXL5Gy9NUc1YzFl</a>|
 | Electronic Tigers Unit  | <a href="https://t.me/TigerElectronicUnit" rel="nofollow">https://t.me/TigerElectronicUnit</a>|
 | ndtgroup_kh | <a href="https://t.me/ndtgroup_kh" rel="nofollow">https://t.me/ndtgroup_kh</a>|
@@ -430,7 +386,6 @@ layout: "elements"
 | Anonymous Sudan (new channel) | <a href="https://t.me/xAnonymousSudan" rel="nofollow">https://t.me/xAnonymousSudan</a>|
 | Dark Storm Team | <a href="https://t.me/DarkStormTeams" rel="nofollow">https://t.me/DarkStormTeams</a>|
 | BlacksForums archive | <a href="https://t.me/blackforumsarchive" rel="nofollow">https://t.me/blackforumsarchive</a>|
-| Logs aggregator | <a href="https://t.me/OBSERVERINFO" rel="nofollow">https://t.me/OBSERVERINFO</a>|
 | Leaks Directory | <a href="https://t.me/leaksdirectory" rel="nofollow">https://t.me/leaksdirectory</a>|
 | Waus Leaks | <a href="https://t.me/+RxMyTFg9NYllZmU5" rel="nofollow">https://t.me/+RxMyTFg9NYllZmU5</a>|
 | SiegedSec | <a href="https://t.me/SiegedSecc" rel="nofollow">https://t.me/SiegedSecc</a>|
@@ -500,57 +455,8 @@ layout: "elements"
 | InfraShutdown - DDoS | <a href="https://t.me/InfraShutdown" rel="nofollow">https://t.me/InfraShutdown</a>|
 | Meris botnet | <a href="https://t.me/meris_botnet" rel="nofollow">https://t.me/meris_botnet</a>|
 | Meris botnet main channel | <a href="https://t.me/redstresserorg" rel="nofollow">https://t.me/redstresserorg</a>|
-| Emirates&Team І (Stealer Logs) | <a href="https://t.me/+lOX1jn9YKS03ZTcy" rel="nofollow">https://t.me/+lOX1jn9YKS03ZTcy</a>|
-| WLFR Project (Stealer Logs) | <a href="https://t.me/typicaltemshchik" rel="nofollow">https://t.me/typicaltemshchik</a>|
-| DNFTM Cloud (Stealer Logs) | <a href="https://t.me/dnftm_cloud" rel="nofollow">https://t.me/dnftm_cloud</a>|
-| Cloud Leaks BR (Stealer Logs) | <a href="https://t.me/CloudLeaksBR" rel="nofollow">https://t.me/CloudLeaksBR</a>|
-| DVD Cloud (Stealer Logs) | <a href="https://t.me/clouddvd" rel="nofollow">https://t.me/clouddvd</a>|
-| Sega Cloud (Stealer Logs) | <a href="https://t.me/segacloud" rel="nofollow">https://t.me/segacloud</a>|
-| RealCloud (Stealer Logs) | <a href="https://t.me/realcloud0" rel="nofollow">https://t.me/realcloud0</a>|
-| Invite Link - OMEGA Cloud (Stealer Logs) | <a href="https://t.me/+IqEnwfj7CLU1Yjcy" rel="nofollow">https://t.me/+IqEnwfj7CLU1Yjcy</a>|
-| DarkSide Cloud (Stealer Logs) | <a href="https://t.me/DarkSideCloud" rel="nofollow">https://t.me/DarkSideCloud</a>|
-| Invite Link - Harmony Cloud (Stealer Logs) | <a href="https://t.me/+FnHchisk1aU0ODVi" rel="nofollow">https://t.me/+FnHchisk1aU0ODVi</a>|
-| Chrono Logs (Stealer Logs) | <a href="https://t.me/chrono_logs" rel="nofollow">https://t.me/chrono_logs</a>|
-| Invite Link - Luffich Cloud (Stealer Logs) | <a href="https://t.me/+lGosRlDC-UJhMDYy" rel="nofollow">https://t.me/+lGosRlDC-UJhMDYy</a>|
-| БЕСПЛАТНЫЕ ЛОГИ (Stealer Logs) | <a href="https://t.me/logs_cloud_free_true" rel="nofollow">https://t.me/logs_cloud_free_true</a>|
-| Storm Cloud (Stealer Logs) | <a href="https://t.me/stormcloudlogs" rel="nofollow">https://t.me/stormcloudlogs</a>|
 | Nuttela Combo's (Repackaged Combo Lists) | <a href="https://t.me/SNAKEDBS" rel="nofollow">https://t.me/SNAKEDBS</a>|
-| Tichan Cloud (Stealer Logs) | <a href="https://t.me/tichancloud" rel="nofollow">https://t.me/tichancloud</a>|
-| BHF Cloud (Stealer Logs) | <a href="https://t.me/BHF_CLOUD" rel="nofollow">https://t.me/BHF_CLOUD</a>|
-| HelloKitty Log Cloud (Stealer Logs) | <a href="https://t.me/HelloKittyCloud" rel="nofollow">https://t.me/HelloKittyCloud</a>|
-| Skyline Cloud (Stealer Logs) | <a href="https://t.me/Skyl1neCloud" rel="nofollow">https://t.me/Skyl1neCloud</a>|
-| Solaris Cloud (Stealer Logs) | <a href="https://t.me/solariscloud" rel="nofollow">https://t.me/solariscloud</a>|
-| Dragon Cloud (Stealer Logs) | <a href="https://t.me/dragoncloud1" rel="nofollow">https://t.me/dragoncloud1</a>|
-| Octopus Logs (Combo Lists) | <a href="https://t.me/OCTOPUSCLOUDLOGS" rel="nofollow">https://t.me/OCTOPUSCLOUDLOGS</a>|
-| Tiny Cloud Logs (Stealer Logs) | <a href="https://t.me/TinyLogs" rel="nofollow">https://t.me/TinyLogs</a>|
-| Power Cloud Logs (Stealer Logs) | <a href="https://t.me/powercloudlogs" rel="nofollow">https://t.me/powercloudlogs</a>|
-| Darkness Cloud (Stealer Logs) | <a href="https://t.me/darknescloud" rel="nofollow">https://t.me/darknescloud</a>|
-| Game Logs (Stealer Logs) | <a href="https://t.me/gameslogscloud" rel="nofollow">https://t.me/gameslogscloud</a>|
-| Mariatri Cloud (Repackaged Stealer Logs) | <a href="https://t.me/Mariarticloud" rel="nofollow">https://t.me/Mariarticloud</a>|
-| WLFR Project Cloud (Stealer Logs) | <a href="https://t.me/wlfrcloud" rel="nofollow">https://t.me/wlfrcloud</a>|
-| Lulzsec Cloud Logs (Filtered Stealer Logs/Cookies) | <a href="https://t.me/LulzsecCloudLogs" rel="nofollow">https://t.me/LulzsecCloudLogs</a>|
-| Invite Link - Stone Island Cloud Logs (Stealer Logs) | <a href="https://t.me/+-ol2dIgjU3YwYzAy" rel="nofollow">https://t.me/+-ol2dIgjU3YwYzAy</a>|
-| Werd Cloud Logs (Repackaged Stealer Logs) | <a href="https://t.me/werd1kcloud" rel="nofollow">https://t.me/werd1kcloud</a>|
-| Burn Cloud Logs (Stealer Logs) | <a href="https://t.me/BurnCloudLogs" rel="nofollow">https://t.me/BurnCloudLogs</a>|
-| Arcane Logs (Stealer Logs) | <a href="https://t.me/mercedesbenzcloud" rel="nofollow">https://t.me/mercedesbenzcloud</a>|
-| Pegasus Cloud (Stealer Logs) | <a href="https://t.me/PegasusCloud" rel="nofollow">https://t.me/PegasusCloud</a>|
-| Samurai Cloud (Stealer Logs) | <a href="https://t.me/SamuraiCloud" rel="nofollow">https://t.me/SamuraiCloud</a>|
-| Europe Cloud (Stealer Logs) | <a href="https://t.me/EuropeCloud" rel="nofollow">https://t.me/EuropeCloud</a>|
-| Arthouse Cloud (Stealer Logs) | <a href="https://t.me/free_logs_cloud_ArtHouse" rel="nofollow">https://t.me/free_logs_cloud_ArtHouse</a>|
-| Ganja Cloud (Stealer Logs) | <a href="https://t.me/ganjacloud" rel="nofollow">https://t.me/ganjacloud</a>|
-| Enigma Reborn (Stealer Logs) | <a href="https://t.me/enigmaLogS" rel="nofollow">https://t.me/enigmaLogS</a>|
-| Redscript Logs (Stealer Logs) | <a href="https://t.me/Redscritp" rel="nofollow">https://t.me/Redscritp</a>|
 | Ninja Byte Combos (Combo Lists) | <a href="https://t.me/NinjaByte" rel="nofollow">https://t.me/NinjaByte</a>|
-| StoneCloud Logs (Stealer Logs) | <a href="https://t.me/stonecloudtg" rel="nofollow">https://t.me/stonecloudtg</a>|
-| Casper Cloud (Stealer Logs) | <a href="https://t.me/CLOUDCASPERLINK" rel="nofollow">https://t.me/CLOUDCASPERLINK</a>|
-| Moon Cloud (Stealer Logs) | <a href="https://t.me/mooncloudfree" rel="nofollow">https://t.me/mooncloudfree</a>|
-| Manticore (Stealer Logs) | <a href="https://t.me/ManticoreCloud" rel="nofollow">https://t.me/ManticoreCloud</a>|
-| Trident Cloud (Stealer Logs) | <a href="https://t.me/Trident_Cloud" rel="nofollow">https://t.me/Trident_Cloud</a>|
-| Invite Link - Neverhode Logs (Stealer Logs) | <a href="https://t.me/+2ofZFLh--cdhYzJh" rel="nofollow">https://t.me/+2ofZFLh--cdhYzJh</a>|
-| ATM Cloud (Stealer Logs) | <a href="https://t.me/ATM_LOGS" rel="nofollow">https://t.me/ATM_LOGS</a>|
-| Tizix Cloud (Stealer Logs) | <a href="https://t.me/Logs_Tizix" rel="nofollow">https://t.me/Logs_Tizix</a>|
-| Invite Link - DaisyCloud New (Stealer Logs) | <a href="https://t.me/+uuz8-qLUNeU2ZmI0" rel="nofollow">https://t.me/+uuz8-qLUNeU2ZmI0</a>|
-| M.M Cloud (Stealer Logs) | <a href="https://t.me/MaisonMarjelaCloud" rel="nofollow">https://t.me/MaisonMarjelaCloud</a>|
-| CVV190 Cloud (Stealer Logs) | <a href="https://t.me/cvv190_cloud" rel="nofollow">https://t.me/cvv190_cloud</a>|
-| Mirage Cloud (Stealer Logs) | <a href="https://t.me/miragelogscloud" rel="nofollow">https://t.me/miragelogscloud</a>|
-| Fehu Cloud (Stealer Logs) | <a href="https://t.me/FehuCloud" rel="nofollow">https://t.me/FehuCloud</a>|
+| Arab Hackers Union | <a href="https://t.me/Arab_Hackers_Union" rel="nofollow">https://t.me/Arab_Hackers_Union</a>|
+| Dark Storm Team | <a href="https://t.me/DarkStormTeamd" rel="nofollow">https://t.me/DarkStormTeamd</a>|
+| Garuda Security | <a href="https://t.me/garudasec4" rel="nofollow">https://t.me/garudasec4</a>|
