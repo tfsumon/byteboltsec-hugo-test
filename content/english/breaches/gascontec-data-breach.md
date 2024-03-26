@@ -1,17 +1,17 @@
 ---
 date: "2024-03-26"
 discovered: "March 26, 2024"
-title: "Skalar"
-image: "images/blog/RansomwareBlog.png"
+title: "GasConTec"
+image: "images/blog/Cloak.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | skalar.com      | 
-| Threat Actor      | RansomwareBlog      | 
+| Victim      | gascontec.com      | 
+| Threat Actor      | Cloak      | 
 | Date Discovered      | Mar 26, 2024      | 
-| Description      | Skalar is a Dutch instrument manufacturer established in 1965.      | 
+| Description      | GasConTec is a German high-tech company specialized in process development and global project development activities.      | 
 | Leak Size      | Unknown      | 
 

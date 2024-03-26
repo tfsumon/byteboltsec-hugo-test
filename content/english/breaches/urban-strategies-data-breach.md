@@ -1,17 +1,17 @@
 ---
 date: "2024-03-26"
 discovered: "March 26, 2024"
-title: "Skalar"
-image: "images/blog/RansomwareBlog.png"
+title: "Urban Strategies"
+image: "images/blog/Medusa.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | skalar.com      | 
-| Threat Actor      | RansomwareBlog      | 
+| Victim      | urbanstrategies.us      | 
+| Threat Actor      | Medusa      | 
 | Date Discovered      | Mar 26, 2024      | 
-| Description      | Skalar is a Dutch instrument manufacturer established in 1965.      | 
+| Description      | Urban Strategies is a social enterprise that delivers transformational outcomes in hard to reach communities.      | 
 | Leak Size      | Unknown      | 
 

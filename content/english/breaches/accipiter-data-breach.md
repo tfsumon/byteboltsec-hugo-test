@@ -1,17 +1,17 @@
 ---
 date: "2024-03-26"
 discovered: "March 26, 2024"
-title: "Skalar"
-image: "images/blog/RansomwareBlog.png"
+title: "Accipiter"
+image: "images/blog/Medusa.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | skalar.com      | 
-| Threat Actor      | RansomwareBlog      | 
+| Victim      | accipitercm.com      | 
+| Threat Actor      | Medusa      | 
 | Date Discovered      | Mar 26, 2024      | 
-| Description      | Skalar is a Dutch instrument manufacturer established in 1965.      | 
+| Description      | Accipiter Capital Management, LLC is a large advisory firm based in Palm Beach Gardens.      | 
 | Leak Size      | Unknown      | 
 

@@ -1,17 +1,17 @@
 ---
 date: "2024-03-26"
 discovered: "March 26, 2024"
-title: "Skalar"
-image: "images/blog/RansomwareBlog.png"
+title: "Wiedenbach-Brown"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | skalar.com      | 
-| Threat Actor      | RansomwareBlog      | 
+| Victim      | wblight.com      | 
+| Threat Actor      | LockBit      | 
 | Date Discovered      | Mar 26, 2024      | 
-| Description      | Skalar is a Dutch instrument manufacturer established in 1965.      | 
+| Description      | Wiedenbach-Brown is a logistics company offering logistics, trucking, and transportation solutions.      | 
 | Leak Size      | Unknown      | 
 

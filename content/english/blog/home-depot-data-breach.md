@@ -32,4 +32,4 @@ The Home Depot data breach serves as a cautionary tale for businesses regarding 
 
 The incident not only resulted in significant financial losses for the company but also damaged its reputation and customer trust. 
 
-To prevent similar breaches in the future, companies must prioritize cybersecurity and invest in comprehensive security strategies that include employee training, regular security audits, and advanced threat [data breach monitoring](https://www.breachsense.com).
+To prevent similar breaches in the future, companies must prioritize cybersecurity and invest in comprehensive security strategies that include employee training, regular [security audits](https://www.breachsense.com/blog/data-security-audit/), and advanced threat [data breach monitoring](https://www.breachsense.com).

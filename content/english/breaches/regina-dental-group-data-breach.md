@@ -1,17 +1,17 @@
 ---
 date: "2024-03-26"
 discovered: "March 26, 2024"
-title: "Skalar"
-image: "images/blog/RansomwareBlog.png"
+title: "Regina Dental Group"
+image: "images/blog/Medusa.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | skalar.com      | 
-| Threat Actor      | RansomwareBlog      | 
+| Victim      | greensdentalclinic.ca      | 
+| Threat Actor      | Medusa      | 
 | Date Discovered      | Mar 26, 2024      | 
-| Description      | Skalar is a Dutch instrument manufacturer established in 1965.      | 
+| Description      | Regina Dental Group a group of dental offices located at Normanview Crossing, Grasslands Dental and Southland Mall.      | 
 | Leak Size      | Unknown      | 
 

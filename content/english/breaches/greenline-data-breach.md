@@ -1,17 +1,17 @@
 ---
 date: "2024-03-26"
 discovered: "March 26, 2024"
-title: "Skalar"
-image: "images/blog/RansomwareBlog.png"
+title: "Greenline"
+image: "images/blog/DragonForce.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | skalar.com      | 
-| Threat Actor      | RansomwareBlog      | 
+| Victim      | greenlineva.com      | 
+| Threat Actor      | DragonForce      | 
 | Date Discovered      | Mar 26, 2024      | 
-| Description      | Skalar is a Dutch instrument manufacturer established in 1965.      | 
-| Leak Size      | Unknown      | 
+| Description      | Greenline Service offers Industrial Machinery & Equipment.      | 
+| Leak Size      | 5.85GB      | 
 

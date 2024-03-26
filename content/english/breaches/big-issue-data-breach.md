@@ -1,17 +1,17 @@
 ---
 date: "2024-03-26"
 discovered: "March 26, 2024"
-title: "Skalar"
-image: "images/blog/RansomwareBlog.png"
+title: "Big Issue"
+image: "images/blog/Qilin.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | skalar.com      | 
-| Threat Actor      | RansomwareBlog      | 
+| Victim      | bigissue.com      | 
+| Threat Actor      | Qilin      | 
 | Date Discovered      | Mar 26, 2024      | 
-| Description      | Skalar is a Dutch instrument manufacturer established in 1965.      | 
-| Leak Size      | Unknown      | 
+| Description      | The Big Issue is a magazine sold by homeless and long-term unemployed people.      | 
+| Leak Size      | 550GB      | 
 
