@@ -1,10 +1,10 @@
 ---
 date: "2024-03-26"
-title: "13 Tips To Prevent Your Company From Losing Data"
+title: "What is Data Theft? 13 Tips To Prevent Your Company From Losing Data"
 image: "images/blog/data-theft-prevention.webp"
 description: "Discover how to prevent your company from losing data. Learn how to prevent data theft in your organization."
 author: "Breachsense"
-h1: "13 Tips To Prevent Your Company From Losing Data"
+h1: "What is Data Theft? 13 Tips To Prevent Your Company From Losing Data"
 intro1: "Wondering how to prevent data theft in your company? Are you up to date on the best practices to prevent a data breach?"
 intro2: "According to [IBM](https://www.ibm.com/reports/data-breach), only one-third of companies discover a breach through their own security teams."
 intro3: "67% of breaches are reported by a benign third-party or the attackers themselves."
