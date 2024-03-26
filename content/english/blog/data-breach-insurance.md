@@ -4,7 +4,7 @@ title: "What is Data Breach Insurance: Definition, Why Businesses Need It and Ho
 image: "images/blog/data-breach-insurance.png"
 description: "Learn everything about data breach insurance. Discover what data breach insurance is, who needs it and how to use insurance to recover from a breach." 
 author: "Breachsense"
-h1: "What is data breach insurance"
+h1: "What Is Data Breach Insurance"
 intro1: "Fact: The average ransomware payment made last year was [USD 1.54 million](https://assets.sophos.com/X24WTUEQ/at/h48bjq7fqnqp3n5thwxtg4q/sophos-the-state-ransomware-2023-infographic-1200-1200px_2x.png), which is almost double the amount from the previous year."
 intro2: "Add to that another USD 1.82 million (excluding the actual ransom payment) to recover from the attack."
 intro3: "Cyber attacks are expensive and without the proper resource in place many businesses could not weather the storm."

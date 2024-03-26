@@ -35,7 +35,7 @@ But it’s not just disgruntled employees who assist hackers in breaching data. 
 
 Also, in 2006, a Sage employee [got arrested](https://fortune.com/2016/08/18/sage-breach-arrest/) after disclosing sensitive data belonging to 200 of the company’s customers. 
 
-### Actual and malicious hacker activity
+### Actual malicious activity
 
 This is what we usually consider when thinking about data breaches - It’s when a hacker or cybercriminal manages to break in and gain access to a company’s data and exfiltrates it for their nefarious purposes.
 
@@ -130,6 +130,8 @@ Cyber liability insurance is highly recommended, especially for companies operat
 Although the insurance doesn't prevent data breaches, it can cover financial damages resulting from a breach, such as the costs of investigating and responding to the incident, potential legal fees, and damages resulting from lawsuits.
 
 Having data breach insurance can help you respond to the incident effectively and efficiently.
+
+**RECOMMENDED READING:** [What Is Data Breach Insurance](https://www.breachsense.com/blog/data-breach-insurance/)
 
 #### Staff and Third-Party Entities
 
