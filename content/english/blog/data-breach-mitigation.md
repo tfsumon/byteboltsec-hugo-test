@@ -2,10 +2,10 @@
 date: "2024-02-05"
 title: "Data Breach Mitigation: Five Strategies to Take Right Now"
 image: "images/blog/data-breach-mitigation.png"
-description: "Discover how to mitigate a data breach. Learn five strategies that will help you mitigate the risk of a data breach." 
+description: "Discover how to mitigate data breach. Learn five strategies that will help you mitigate the risk of a data breach." 
 author: "Breachsense"
-h1: "Data Breach Mitigation: A Guide for Security Teams"
-intro1: "Do you have a plan for when your organization suffers a data breach? Looking for advice on what needs to be in your [incident response plan](http://localhost:1313/blog/data-breach-response/)?"
+h1: "Data breach mitigation"
+intro1: "Do you have a plan for when your organization suffers a data breach? Looking for advice on what needs to be in your incident response plan?"
 intro2: "According to a study by [IT Governance](https://www.itgovernance.co.uk/blog/list-of-data-breaches-and-cyber-attacks-in-2023), over 8.2 billion records were breached in 2023 just in third-party data breaches alone."
 intro3: "According to the IBM [Cost of a Data Breach 2023 Report](https://www.ibm.com/reports/data-breach), the average data breach cost reached a record high of USD 4.45 million."
 intro4: "No matter how you do the math, data breaches are expensive, and the longer it takes to mitigate them, the more expensive they become."
@@ -14,7 +14,7 @@ draft: false
 ---
 ## What Is Data Breach Mitigation?
 
-First, let's [define the term data breach](https://www.breachsense.com/blog/what-is-a-data-breach/). A data breach is a security incident where sensitive data has been accessed, modified, or deleted without authorization. Data breach mitigation is the process of identifying and remediating the security vulnerabilities that allow unauthorized access to sensitive data. The goal of data breach mitigation is to minimize the impact and damage caused by the breach.
+First, let\'s define the term data breach. A data breach is a security incident where sensitive data has been accessed, modified, or deleted without authorization. Data breach mitigation is the process of identifying and remediating the security vulnerabilities that allow unauthorized access to sensitive data. The goal of data breach mitigation is to minimize the impact and damage caused by the breach.
 
 ## How can data breaches be prevented?
 

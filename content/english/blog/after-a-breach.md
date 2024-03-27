@@ -13,7 +13,7 @@ draft: false
 ---
 ## The Most Common Causes of Data Breaches
 
-We can actually group all the ways by which companies' data gets breached into three main categories:
+We can actually group all the ways by which companies\' data gets breached into three main categories:
 
 ### Unintentional mistakes
 

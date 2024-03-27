@@ -14,7 +14,7 @@ draft: false
 ---
 ## What is the dark web?
 
-The dark web refers to a "hidden" part of the internet that can only be accessed using specialized software like the Tor browser. It operates on an encrypted network that conceals the identities and online activities of its users, providing anonymity. The dark web hosts websites with .onion addresses that are not indexed by regular search engines and can only be accessed with special browsers.
+The dark web refers to a \'hidden\' part of the internet that can only be accessed using specialized software like the Tor browser. It operates on an encrypted network that conceals the identities and online activities of its users, providing anonymity. The dark web hosts websites with .onion addresses that are not indexed by regular search engines and can only be accessed with special browsers.
 
 While the dark web itself is not illegal, a significant part of it hosts illegal marketplaces for breached data, drugs, weapons, and other illicit goods and services. However, there are also legitimate uses of the dark web, like bypassing censorship, protecting political dissidents, allowing whistleblowing, and enabling anonymous communication.
 

@@ -129,7 +129,7 @@ Moreover, this strategy should be regularly reviewed and updated to adapt to new
 
 ### 3. Conduct regular risk assessments
 
-Conduct regular security audits, penetration testing, and vulnerability assessments to evaluate the effectiveness of your organization’s security measures. These tests will help you identify areas for improvement and ensure that your security controls are functioning as intended. To help avoid biases and have a realistic view of an attack, it often makes sense to hire an external cybersecurity firm to conduct the test,
+Conduct regular [security audits](https://www.breachsense.com/blog/data-security-audit/), penetration testing, and vulnerability assessments to evaluate the effectiveness of your organization’s security measures. These tests will help you identify areas for improvement and ensure that your security controls are functioning as intended. To help avoid biases and have a realistic view of an attack, it often makes sense to hire an external cybersecurity firm to conduct the test,
 
 ### 4. Implement strong access controls
 

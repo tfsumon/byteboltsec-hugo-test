@@ -13,7 +13,7 @@ draft: false
 ---
 ## What is Data Security?
 
-Before we define what a data security strategy is, let's define data security. Data security refers to the practice of protecting digital information from unauthorized access, corruption, or theft throughout its entire lifecycle. It involves implementing a set of standards, technologies, and policies to make sure that data is stored, used, and transferred securely.
+Before we define what a data security strategy is, let\'s define data security. Data security refers to the practice of protecting digital information from unauthorized access, corruption, or theft throughout its entire lifecycle. It involves implementing a set of standards, technologies, and policies to make sure that data is stored, used, and transferred securely.
 
 This can include strategies like access controls, authentication, and regular monitoring. The goal of data security is to protect the confidentiality, integrity, and availability of data, whether it's in transit, at rest, or in use.
 

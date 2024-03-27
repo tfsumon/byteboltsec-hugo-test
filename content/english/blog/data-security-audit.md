@@ -14,7 +14,7 @@ draft: false
 ---
 ## What is a Data Security Audit
 
-A data security audit is a comprehensive review of an organization's data security posture. The main goal is to identify potential vulnerabilities, risks, and areas of non-compliance with industry standards, regulatory requirements, or internal policies.
+A data security audit is a comprehensive review of an organization\'s data security posture. The main goal is to identify potential vulnerabilities, risks, and areas of non-compliance with industry standards, regulatory requirements, or internal policies.
 
 By conducting regular security audits, organizations can gain insights into the effectiveness of their data security measures as well as obtain recommendations on where to improve. Security audits help organizations mitigate potential data breaches, ensure compliance with relevant industry regulations, and ultimately protect their critical data assets.
 

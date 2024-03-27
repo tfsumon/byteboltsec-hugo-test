@@ -15,7 +15,7 @@ draft: false
 ---
 ## What Is A Third-Party Data Breach
 
-A third-party data breach refers to a situation where a company's data or systems are compromised due to a security incident or breach that occurs at one of its third-party vendors, suppliers, or service providers.
+A third-party data breach refers to a situation where a company\'s data or systems are compromised due to a security incident or breach that occurs at one of its third-party vendors, suppliers, or service providers.
 
 In this scenario, the company itself is not directly hacked, but rather, the breach occurs at a third-party organization that the company has shared data with or granted access to its systems. The third-party could be a cloud service provider, a payroll processor, a software vendor, or any other external entity with which the company has a business relationship.
 
