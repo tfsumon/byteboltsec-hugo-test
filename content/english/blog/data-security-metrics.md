@@ -1,6 +1,6 @@
 ---
 date: "2024-03-27"
-title: "The Tip Data Security Metrics & KPIs You Need To Track"
+title: "The Top Data Security Metrics & KPIs You Need To Track"
 image: "images/blog/data-security-metrics.webp"
 description: "Discover what data security metrics and KPIs you need to track. Learn which data security metrics and KPIs are important to your organization."
 author: "Breachsense"
