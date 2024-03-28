@@ -71,7 +71,7 @@ There are a number of steps you can take to reduce the risk and impact of a [dat
 - **Secure Configuration Management:** Ensure that all systems (including cloud-based assets) are securely configured and regularly audited for compliance with security policies and standards.
 - **Employee Training**: Educate employees about the importance of data security and common threats like phishing and social engineering. Regular training can help prevent accidental data leaks.
 - **Incident Response Plan**: Have a well-defined [incident response plan](https://www.breachsense.com/blog/data-breach-response/) in place to quickly respond to and mitigate the impact of a data breach.
-- **Vendor Management**: Assess the security practices of your third-party vendors to ensure they meet your organization's security standards. Regularly monitor and audit their compliance.
+- **Vendor Management**: Assess the security practices of your [third-party vendors](https://www.breachsense.com/blog/third-party-data-risk/) to ensure they meet your organization's security standards. Regularly monitor and audit their compliance.
 - **Physical Security**: Implement physical security measures to prevent unauthorized access to premises and devices, such as locks, security cameras, and restricted access areas.
 - **Dark web monitoring:** Continuously [monitor the dark web](https://www.breachsense.com/data-breach-software/) for leaked employee or customer credentials and session tokens. Stolen credentials are often the easiest way for malicious users to gain initial access to their targets.
 
