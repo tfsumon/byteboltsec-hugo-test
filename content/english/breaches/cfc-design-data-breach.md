@@ -1,7 +1,7 @@
 ---
 date: "2024-03-28"
 discovered: "March 28, 2024"
-title: "Nampak"
+title: "CFC Design"
 image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | nampak.net      | 
+| Victim      | cfc-design.co.jp      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Mar 28, 2024      | 
-| Description      | Nampak (National Amalgamated Packaging) is a South African company based in Johannesburg, South Africa that specialises in the manufacturing and design of packaging.      | 
+| Description      | CFC Design develops, produces, and sells carbon composite materials, fiber reinforced plastics, and special grafting materials.      | 
 | Leak Size      | Unknown      | 
 

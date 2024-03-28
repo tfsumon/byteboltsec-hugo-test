@@ -1,7 +1,7 @@
 ---
 date: "2024-03-28"
 discovered: "March 28, 2024"
-title: "Nampak"
+title: "Anova Health"
 image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | nampak.net      | 
+| Victim      | anovahealth.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Mar 28, 2024      | 
-| Description      | Nampak (National Amalgamated Packaging) is a South African company based in Johannesburg, South Africa that specialises in the manufacturing and design of packaging.      | 
+| Description      | Anova Health is a healthcare brand that provides nutritional health supplements for healthcare practitioners.      | 
 | Leak Size      | Unknown      | 
 

@@ -1,7 +1,7 @@
 ---
 date: "2024-03-28"
 discovered: "March 28, 2024"
-title: "Nampak"
+title: "Deeley King Pang & Van Etten"
 image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | nampak.net      | 
+| Victim      | dkpvlaw.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Mar 28, 2024      | 
-| Description      | Nampak (National Amalgamated Packaging) is a South African company based in Johannesburg, South Africa that specialises in the manufacturing and design of packaging.      | 
+| Description      | Deeley King Pang & Van Etten is a legal services firm.      | 
 | Leak Size      | Unknown      | 
 

@@ -1,7 +1,7 @@
 ---
 date: "2024-03-28"
 discovered: "March 28, 2024"
-title: "Nampak"
+title: "Lifeline Data Center"
 image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | nampak.net      | 
+| Victim      | lifelinedatacenters.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Mar 28, 2024      | 
-| Description      | Nampak (National Amalgamated Packaging) is a South African company based in Johannesburg, South Africa that specialises in the manufacturing and design of packaging.      | 
+| Description      | Lifeline Data Centers is a wholesale colocation facility, providing data center and office real estate to companies.      | 
 | Leak Size      | Unknown      | 
 

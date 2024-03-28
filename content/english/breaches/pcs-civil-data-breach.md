@@ -1,7 +1,7 @@
 ---
 date: "2024-03-28"
 discovered: "March 28, 2024"
-title: "Nampak"
+title: "PCS Civil"
 image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | nampak.net      | 
+| Victim      | pcscivilinc.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Mar 28, 2024      | 
-| Description      | Nampak (National Amalgamated Packaging) is a South African company based in Johannesburg, South Africa that specialises in the manufacturing and design of packaging.      | 
+| Description      | PCS Civil, Inc specializes in heavy civil construction, including asphalt paving, bridges, and clearing.      | 
 | Leak Size      | Unknown      | 
 
