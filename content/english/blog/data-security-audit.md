@@ -8,7 +8,7 @@ h1: "Data security audit checklist"
 intro1: "Wondering how to run a security audit? Do you know the 8 steps you should do **before** the audit to maximize its value?"
 intro2: "Data security audits allow you to proactively fix vulnerabilities, mitigate risk, and reduce the likelihood of a data breach."
 intro3: "The alternative isn't pretty."
-intro4: "According to [IBM,](https://www.ibm.com/reports/data-breach) the average cost of a data breach is a whopping USD 4.45 million."
+intro4: "According to [IBM](https://www.ibm.com/reports/data-breach), the average cost of a data breach is a whopping USD 4.45 million."
 intro5: "In this post, you’ll learn how to prepare for a data security audit, as well as the 11-step checklist for the audit process itself."
 draft: false
 ---
