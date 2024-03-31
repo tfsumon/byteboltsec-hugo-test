@@ -5,8 +5,8 @@ image: "images/blog/Home Depot Data Breach - $179 Million in Losses [Case Study]
 description: "Learn everything about the Home Depot data breach. Discover what happened, who was affected, settlement claims and more." 
 author: "Breachsense"
 h1: "Home Depot Data Breach Explained: A Case Study"
-intro1: "FACT: The Home Depot attackers were in their network for five months before being detected" 
-intro2: "The [IBM Cost of a Data Breach report](https://www.ibm.com/reports/data-breach) shows a direct correlation between time to discovery and the impact of a data breach"
+intro1: "FACT: The Home Depot attackers were in their network for five months before being detected." 
+intro2: "The [IBM Cost of a Data Breach report](https://www.ibm.com/reports/data-breach) shows a direct correlation between time to discovery and the impact of a data breach."
 intro3: "The longer attacks remain undetected, the more they cost to fix." 
 intro4: "In this case study, we'll cover how the Home Depot data breach happened, the company's response, the associated [breach costs](https://www.breachsense.com/blog/cost-of-a-data-breach/), and lessons learned."
 draft: false
@@ -15,7 +15,7 @@ draft: false
 
 In 2014, Home Depot suffered one of the largest data breaches in retail history. It involved the theft of credit and debit card information from approximately 56 million customers.
 
-The attackers gained initial access to Home Depot's network using a[ third-party vendor's credentials](https://www.breachsense.com/blog/third-party-data-breach/). This vendor had access to Home Depot's network as part of their business relationship.
+The attackers gained initial access to Home Depot's network using a[ third-party vendor\'s credentials](https://www.breachsense.com/blog/third-party-data-breach/). This vendor had access to Home Depot's network as part of their business relationship.
 
 Once inside the network, the attackers exploited a vulnerability in Microsoft's Windows operating system to gain elevated privileges. This allowed them to move more freely within the network and install their malware.
 
