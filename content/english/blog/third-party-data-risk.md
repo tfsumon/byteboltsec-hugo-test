@@ -49,7 +49,7 @@ Assessing [third-party vendor risks](https://www.breachsense.com/blog/prevent-th
 
 ## Third-Party Risk Management Best Practices
 
-Here are some of the key elements and best practices to help ensure an effective Third-Party Risk Management (TPRM) framework:
+Here are some of the key elements and [best practices](https://www.breachsense.com/blog/big-data-security/) to help ensure an effective Third-Party Risk Management (TPRM) framework:
 
 1. **Risk-Based Approach:** Adopt a risk-based approach to TPRM, prioritizing vendors and services based on the level of risk they pose to the organization. This helps allocate resources efficiently to manage higher-risk vendors more closely.
 2. **Comprehensive Due Diligence:** Conduct thorough due diligence on potential and existing third-party vendors to assess their security, compliance, financial stability, and operational capabilities. This should include evaluating their policies, procedures, and controls related to data protection, cybersecurity, and regulatory compliance requirements.

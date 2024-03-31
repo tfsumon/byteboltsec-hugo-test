@@ -9,7 +9,7 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | greensdentalclinic.ca      | 
+| Victim      |  reginadentalgroup.com      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Mar 26, 2024      | 
 | Description      | Regina Dental Group a group of dental offices located at Normanview Crossing, Grasslands Dental and Southland Mall.      | 

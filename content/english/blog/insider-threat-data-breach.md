@@ -88,7 +88,7 @@ Naturally, this will not stop anyone with access to leak or steal the data. But 
 
 This one may seem like a no-brainer, but it truly is a powerful way to prevent insider threats, particularly those caused by negligence. 
 
-- Provide ongoing security awareness training to educate employees about potential threats and best practices for maintaining data security.
+- Provide ongoing security awareness training to educate employees about potential threats and [best practices](https://www.breachsense.com/blog/big-data-security/) for maintaining data security.
 - Educate your employees on common ways hackers trick them into downloading malware
 - Train your staff on social engineering techniques designed to trick them into revealing sensitive information. 
 - Teach employees to spot malicious emails and links in phishing attacks.
