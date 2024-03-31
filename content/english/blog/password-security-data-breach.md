@@ -30,7 +30,7 @@ Unfortunately, weak passwords like these can be easily brute-forced, providing h
 
 ### Password reuse
 
-On average, people reuse the same password across four different online accounts. When an attacker gains control of an account on one app, they often test the same login credentials on other apps to check where else they work. This type of attack is called credential stuffing. Password reuse makes the effects of a breached account significantly worse by creating a domino effect of compromised data across multiple apps.
+On average, people reuse the same password across four different online accounts. When an attacker gains control of an account on one app, they often test the same login credentials on other apps to check where else they work. This type of attack is called [credential stuffing](https://www.breachsense.com/blog/credential-stuffing-attack/). Password reuse makes the effects of a breached account significantly worse by creating a domino effect of compromised data across multiple apps.
 
 ### Inadequate storage
 

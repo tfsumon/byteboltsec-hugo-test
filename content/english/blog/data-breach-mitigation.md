@@ -29,7 +29,7 @@ Credentials are typically stolen when:
 - A third-party service is compromised, leaking their customers' usernames &amp; passwords.
 - A user's system (including mobile devices) is compromised with infostealer malware that logs their plaintext passwords before they're encrypted.
 - A phishing site tricks a user into entering their credentials by pretending to be a different, legitimate site.
-- A credential stuffing or brute force attack is used against a service to enumerate valid credentials.
+- A [credential stuffing](https://www.breachsense.com/blog/credential-stuffing-attack/) or brute force attack is used against a service to enumerate valid credentials.
 
 To mitigate the risk of stolen credentials, organizations should mandate the use of password managers. The password manager should generate all passwords for users to prevent them from creating weak passwords. At the very minimum, using a password manager will ensure that employees don't reuse the same password in multiple apps. This prevents bad actors from using a password from one breached service to access the victim's account on another.
 

@@ -55,7 +55,7 @@ The logs are then transferred from the infected device and distributed or sold o
 
 In other words, even if you follow best practices and have a password manager generate a strong password, malicious users can still access your plaintext password if your device is infected with malware.
 
-In addition, malicious users often combine third-party breached data with stealer logs to create combo lists. These lists are used for credential stuffing attacks, which allow attackers to gain access to victims' accounts on other systems via an automated attack.
+In addition, malicious users often combine third-party breached data with stealer logs to create combo lists. These lists are used for [credential stuffing attacks](https://www.breachsense.com/blog/credential-stuffing-attack/), which allow attackers to gain access to victims' accounts on other systems via an automated attack.
 
 ### Leaked session tokens
 
