@@ -29,7 +29,7 @@ There are a number of reasons why having a data security strategy is important. 
 
 There are a number of components of a comprehensive data security strategy, including:
 
-1. **Risk Assessment:** Identifying and evaluating potential risks to your data, including threats from both external sources (e.g., hackers, malware) and internal sources (e.g., employee error, insider threats).
+1. **Risk Assessment:** Identifying and evaluating potential risks to your data, including threats from both external sources (e.g., hackers, malware) and internal sources (e.g., employee error, [insider threats](https://www.breachsense.com/blog/insider-threat-data-breach/blog/insider-threat/)).
 2. **Data Classification:** Categorizing data based on its sensitivity and importance to the organization, which helps in applying appropriate security measures to different types of data.
 3. **Access Controls:** Implementing controls to ensure that only authorized individuals can access sensitive data, using techniques such as user authentication, role-based access control, multi-factor authentication, and network segmentation.
 4. **Encryption:** Protecting data by converting it into a coded format that can only be deciphered with the correct decryption key, ensuring that data remains secure both in transit and at rest.

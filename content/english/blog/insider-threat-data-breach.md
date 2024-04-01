@@ -96,7 +96,7 @@ This one may seem like a no-brainer, but it truly is a powerful way to prevent i
 
 ### 4. Monitor user activity
 
-Implement user behavior analytics and network anomaly detection along with other anomaly-based monitoring tools to detect suspicious activities and various types of insider threats. This is yet another method that could signal a potential data threat early and allow your company to take immediate action to mitigate the issue. 
+Implement user behavior analytics and network anomaly detection along with other anomaly-based monitoring tools to detect suspicious activities and various types of [insider threats](https://www.breachsense.com/blog/insider-threat-data-breach/blog/insider-threat/). This is yet another method that could signal a potential data threat early and allow your company to take immediate action to mitigate the issue. 
 
 ### 5. Establish a clear security policy
 
