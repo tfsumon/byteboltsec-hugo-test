@@ -34,7 +34,7 @@ I like to think of it as an incident response process manual. It's the document 
 
 ### Why is Having a Data Breach Response Plan So Important?
 
-It's hard to deny this - A data breach can be devastating for a business. Countless examples confirm the staggering negative impact a data breach can have on a company. 
+It's hard to deny this - A data breach can be devastating for a business. Countless [examples](https://www.breachsense.com/blog/data-breach-examples/) confirm the staggering negative impact a data breach can have on a company. 
 
 Let me share some of this data with you:
 

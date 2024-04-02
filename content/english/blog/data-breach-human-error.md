@@ -68,7 +68,7 @@ While breaches can occur in many forms, here are ten common examples of human er
 3. **Social Engineering / Phishing:** Tricking users into providing sensitive information or performing sensitive actions
 4. **Misdeliver of information:** Sending sensitive information to the wrong person via email or other channels
 5. **Unsecured devices:** Using unsecured personal devices for work or leaving devices unattended can lead to unauthorized access or loss of sensitive data.
-6. **Missing security patches:** Failing to apply software updates, leaving systems vulnerable to known security exploits.
+6. **Missing security patches:** Failing to apply software updates, leaving systems [vulnerable to known security exploits](https://www.breachsense.com/blog/vulnerabilities-cause-data-loss/).
 7. **Misconfigured security settings:** Incorrectly configuring security settings in software or in networks can create vulnerabilities that attackers can exploit.
 8. **Improper Handling of Sensitive Data:** Mishandling sensitive data, like leaving printed documents in public spaces or failing to properly encrypt data before transmitting it.
 9. **Unauthorized Application Installation:** Installing unauthorized software that may contain malware or vulnerabilities.

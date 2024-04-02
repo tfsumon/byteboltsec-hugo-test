@@ -26,7 +26,7 @@ Threat intelligence enables security teams to be proactive in preventing data br
 There is a large range of malicious information available on the dark web. Some common types of threat intelligence found include:
 
 1. **Stolen Data**: This includes customer and employee credentials, personal information, credit card details, and other sensitive data that is often obtained via data breaches.
-2. **Malware and Exploits**: Many dark web marketplaces focus on buying and selling various types of malware, including ransomware, trojans, and exploits that can be used to target software vulnerabilities.
+2. **Malware and Exploits**: Many dark web marketplaces focus on buying and selling various types of malware, including ransomware, trojans, and exploits that can be used to target software [vulnerabilities](https://www.breachsense.com/blog/vulnerabilities-cause-data-loss/).
 3. **Hacking Tools and Services**: The dark web offers various hacking tools and services, such as initial access as a service, botnets for hire, phishing toolkits, and services for exploiting vulnerabilities.
 4. **Cybercrime Forums**: These criminal forums provide a platform for threat actors to share and sell data, discuss tactics, and collaborate on attacks.
 5. **Insider Threats**: Information about [insider threats](https://www.breachsense.com/blog/insider-threat-data-breach/), such as employees selling access to corporate networks or sensitive information, can also be found on the dark web.

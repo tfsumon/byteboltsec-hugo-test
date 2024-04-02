@@ -63,7 +63,7 @@ Here are the top three short-term effects of a small business data breach:
 
 **Forensic Investigations:** When a data breach occurs, businesses need to conduct a forensic investigation to identify the root cause of the breach. While these investigations can provide valuable information that can help patch the vulnerability used to gain access as well as prevent similar incidents in the future, they can also result in significant costs in the short term.
 
-**Costs Related to Enhancing Future Security Measures:** In the aftermath of a data breach, businesses may be responsible for expenses associated with providing credit monitoring services to customers whose personal data was compromised. These efforts may also include costs related to replacing compromised cards, mitigating identity theft, and meeting compliance requirements set by the Payment Card Industry.
+**Costs Related to Enhancing Future Security Measures:** In the aftermath of a data breach, businesses may be responsible for expenses associated with providing credit monitoring services to customers whose personal data was compromised. These efforts may also include costs related to replacing compromised cards, mitigating [identity theft](https://www.breachsense.com/blog/dark-web-identity-theft/), and meeting compliance requirements set by the Payment Card Industry.
 
 ## Five Long-Term Effects of Small Business Data Breaches
 
