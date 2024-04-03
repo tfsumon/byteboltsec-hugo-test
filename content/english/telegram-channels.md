@@ -1,6 +1,6 @@
 ---
 title: "Telegram Cyber Threat Intelligence (CTI) channels"
-description: "Learn about the top Telegram channels you need to follow. Discover the most popular Telegram channels leaking sensitive data that you need to monitor."
+description: "List of Telegram CTI channels"
 draft: false
 layout: "elements"
 ---

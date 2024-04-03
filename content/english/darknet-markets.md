@@ -1,6 +1,6 @@
 ---
 title: "Darknet Markets"
-description: "Learn about the top Darknet markets you need to follow. Discover the URLs of the most popular darknet marketplaces you need to monitor."
+description: "List of Darknet markets"
 draft: false
 layout: "elements"
 ---
@@ -89,6 +89,7 @@ layout: "elements"
 | ODIN | <a href="https://odinshop.io" rel="nofollow">https://odinshop.io</a> |  ONLINE  |
 | ODIN | <a href="https://odinshop.se" rel="nofollow">https://odinshop.se</a> |  ONLINE  |
 | ODIN | <a href="https://odinshoyi3y5clejn3klyggxrmq5sy5efdiremz353z6ucdujgdiccad.onion" rel="nofollow">https://odinshoyi3y5clejn3klyggxrmq5sy5efdiremz353z6ucdujgdiccad.onion</a> |  ONLINE  |
+| ONI.GG | <a href="https://oni.gg" rel="nofollow">https://oni.gg</a> |  https://t.me/oniforum - https://t.me/onichatter  |
 | ONLYONE | <a href="https://only-one.cc" rel="nofollow">https://only-one.cc</a> |  OFFLINE  |
 | ORVX SHOP | <a href="https://orvx.pw/" rel="nofollow">https://orvx.pw/</a> |  ONLINE  |
 | Pois0n | <a href="https://pois0ncc.ru" rel="nofollow">https://pois0ncc.ru</a> |  ONLINE  |

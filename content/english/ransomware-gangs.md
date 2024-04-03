@@ -1,6 +1,6 @@
 ---
 title: "Ransomware Threat Actors"
-description: "Learn about the top ransomware threat actors you need to follow. Discover the URLs of the most popular ransomware threat actors you need to monitor."
+description: "List of ransomware threat actors"
 draft: false
 layout: "elements"
 ---
@@ -94,6 +94,8 @@ layout: "elements"
 | <a href="http://powerj7kmpzkdhjg4szvcxxgktgk36ezpjxvtosylrpey7svpmrjyuyd.onion/" rel="nofollow">DARKPOWER</a>     | Tor     | OFFLINE     |
 | <a href="http://wkrlpub5k52rjigwxfm6m7ogid55kamgc5azxlq7zjgaopv33tgx2sqd.onion/" rel="nofollow">DARKRACE</a>     | Tor     | OFFLINE     |
 | <a href="http://darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion" rel="nofollow">DARKSIDE</a>     | Tor     | OFFLINE     |
+| <a href="http://5vphklgizbimeq5l4yt274p533fgirhqnjhjuppcp2ibteavmro5fzad.onion" rel="nofollow">DARK VAULT </a>     | Tor     | ONLINE     |
+| <a href="http://tx23pk4zw5qynq3tmfk2jz5zbel63p4nwvkheswze7r6gzxhzcbseyad.onion" rel="nofollow">DARK VAULT </a>     | Tor     | ONLINE     |
 | <a href="http://g3h3klsev3eiofxhykmtenmdpi67wzmaixredk5pjuttbx7okcfkftqd.onion" rel="nofollow">DONEX</a>     | Tor     | ONLINE     |
 | <a href="http://sbc2zv2qnz5vubwtx3aobfpkeao6l4igjegm3xx7tk5suqhjkp5jxtqd.onion" rel="nofollow">DONUT BLOG</a>     | Tor     | ONLINE     |
 | <a href="https://doq32rjiuomfghm5a4lyf3lwwakt2774tkv4ppsos6ueo5mhx7662gid.onion" rel="nofollow">DONUT DLS</a>     | Tor     | OFFLINE     |
@@ -249,6 +251,7 @@ layout: "elements"
 | <a href="http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion" rel="nofollow">RANZY/AKO</a>     | Tor     | OFFLINE     |
 | <a href="http://blog2hkbm6gogpv2b3uytzi3bj5d5zmc4asbybumjkhuqhas355janyd.onion" rel="nofollow">REDALERT</a>     | Tor     | OFFLINE     |
 | <a href="http://je2yizds7r4uidk6uixfxwjj5w7or2agit4aj66l4lrhdbrvr3lsymid.onion" rel="nofollow">REDALERT </a>     | Tor     | OFFLINE     |
+| <a href="http://33zo6hifw4usofzdnz74fm2zmhd3zsknog5jboqdgblcbwrmpcqzzbid.onion" rel="nofollow">RED RANSOMWARE GROUP</a>     | Tor     | ONLINE     |
 | <a href="https://relic5zqwemjnu4veilml6prgyedj6phs7de3udhicuq53z37klxm6qd.onion" rel="nofollow">RELIC</a>     | Tor     | OFFLINE     |
 | <a href="http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion" rel="nofollow">REVIL </a>     | Tor     | OFFLINE     |
 | <a href="http://blogxxu75w63ujqarv476otld7cyjkq4yoswzt4ijadkjwvg3vrvd5yd.onion/Blog" rel="nofollow">REVIL </a>     | Tor     | OFFLINE     |
