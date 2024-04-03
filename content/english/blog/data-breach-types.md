@@ -58,7 +58,7 @@ Here's how.
 
 Hackers use malware to gain initial access to a network or computer system, causing harm by deleting, altering, or stealing data.
 
-Malware often enters a system through deceptive links, fraudulent emails, or by downloading infected software. It's common to receive an email with seemingly innocent links containing malware that can give an attacker initial access to the network. Often, these messages spoof actual messages, as if they were coming from genuine organizations.
+Malware often enters a system through deceptive links, [fraudulent emails](https://www.breachsense.com/blog/business-email-compromise-data-theft/), or by downloading infected software. It's common to receive an email with seemingly innocent links containing malware that can give an attacker initial access to the network. Often, these messages spoof actual messages, as if they were coming from genuine organizations.
 
 These messages aim to trick the recipient into thinking that these are genuine and to click on the malicious link included. The action usually triggers a malware download. 
 

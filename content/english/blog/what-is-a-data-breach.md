@@ -155,7 +155,7 @@ It’s a natural question to ask after reading everything we’ve covered. And t
 
 My answer may suggest a grimmer reality in which data breaches are inevitable, but that’s not what I mean, so let me clarify. 
 
-A company can take steps to reduce the probability of a data breach. But as you’ve seen above, some causes of data breaches - *such as unintentional mistakes* *************or deliberate breaches by disgruntled employees************* - can be beyond anyone’s control. 
+A company can take steps to reduce the probability of a data breach. But as you’ve seen above, some causes of data breaches - *such as unintentional mistakes* ****or deliberate breaches by disgruntled employees*** - can be beyond anyone’s control. 
 
 Here are some steps you can take to reduce the risk of a data breach in your business.
 

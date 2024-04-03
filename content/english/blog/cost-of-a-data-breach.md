@@ -114,7 +114,7 @@ A breakdown of the average cost of data breaches by country or region is shown b
 
 ![Comparison of the cost of a data breach based on country](../cost10.png)
 
-### Breachsense can help you prevent data breaches in 2024
+### Breachsense can help you prevent data breaches
 
 The financial impact of data breaches is a growing concern for organizations worldwide. In light of the increasing frequency and sophistication of cyber attacks, organizations must adopt a proactive approach to safeguard their sensitive data.
 

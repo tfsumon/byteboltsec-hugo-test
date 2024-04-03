@@ -25,7 +25,7 @@ Data theft can happen in various ways, including:
 3. **Compromised Third-Party Systems:** If a [vendor or service provider's system is hacked](https://www.breachsense.com/blog/third-party-data-breach/), attackers may gain access to the credentials stored within that system. If your employees had accounts on the affected system and re-use passwords on multiple applications, attackers can exploit those credentials to gain access to your network.
 4. **Insider Threats:** [Employees or insiders](https://www.breachsense.com/blog/insider-threat-data-breach/) with legitimate access to data may intentionally or unintentionally leak or steal information. This can occur due to malicious intent, carelessness, or being tricked by social engineering tactics.
 5. **Physical Theft:** Devices such as laptops, smartphones, external hard drives, or USB drives containing sensitive data can be physically stolen, leading to data theft.
-6. **Phishing and Social Engineering:** Cybercriminals use deceptive emails, messages, or websites to trick their victims into revealing sensitive information such as login credentials or personal details.
+6. **Phishing and Social Engineering:** Cybercriminals use [deceptive emails](https://www.breachsense.com/blog/business-email-compromise-data-theft/), messages, or websites to trick their victims into revealing sensitive information such as login credentials or personal details.
 7. **Unauthorized Access:** Gaining access to restricted areas, whether physically or digitally, without proper authorization can lead to data theft.
 
 ## What types of data are most often stolen?

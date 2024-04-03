@@ -41,7 +41,7 @@ Data leaks can happen in various ways, often due to a combination of [human erro
 2. **Accidental Sharing:** Employees may accidentally send sensitive information to the wrong recipient via email, messaging apps, or file-sharing services.
 3. **Third-Party Risks:** Vendors or partners with access to your data may experience their own leaks, inadvertently exposing your information.
 4. **Unsecured Websites and Applications:** Websites or applications with poor security measures can be exploited to access stored data (e.g. Insecure Direct Object Reference or SQL Injection)
-5. **Phishing Attacks:** Employees may be tricked into revealing sensitive information through deceptive emails or messages.
+5. **Phishing Attacks:** Employees may be tricked into revealing sensitive information through [deceptive emails](https://www.breachsense.com/blog/business-email-compromise-data-theft/) or messages.
 6. **[Insider Threats](https://www.breachsense.com/blog/insider-threat-data-breach/):** Disgruntled or careless employees may intentionally or unintentionally leak data
 7. **Lost or Stolen Devices:** Laptops, smartphones, or external storage devices containing sensitive data can be lost or stolen, leading to data exposure.
 8. **Improper Disposal:** Failing to properly dispose of or wipe old devices and storage media can leave residual data accessible to anyone who comes into possession of them.

@@ -51,7 +51,7 @@ These errors are related to decisions made, often under conditions of uncertaint
 
 They are about the "why" or "what" of an action. 
 
-An example of a decision-based error could be clicking on a suspicious link in a phishing scam, mistaking it for a legitimate email, or marking an endpoint security alert as a false positive due to underestimating or misunderstanding the full consequences of the alert. 
+An example of a decision-based error could be clicking on a suspicious link in a [phishing scam](https://www.breachsense.com/blog/business-email-compromise-data-theft/), mistaking it for a legitimate email, or marking an endpoint security alert as a false positive due to underestimating or misunderstanding the full consequences of the alert. 
 
 These errors are usually the result of an incorrect assessment of a situation, leading to a poor decision.
 
