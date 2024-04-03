@@ -88,7 +88,7 @@ Flashpoint specializes in business risk intelligence, offering dark web monitori
 
 ### 7. **CyberInt:** 
 
-CyberInt offers a digital risk protection platform that includes dark web monitoring services. The platform helps organizations detect and respond to cyber threats, data breaches, and online fraud. CyberInt's continuous monitoring and intelligence-driven approach provide actionable insights for [effective risk management](www.breachsense.com/blog/data-risk-management/).
+CyberInt offers a digital risk protection platform that includes dark web monitoring services. The platform helps organizations detect and respond to cyber threats, data breaches, and online fraud. CyberInt's continuous monitoring and intelligence-driven approach provide actionable insights for [effective risk management](https://www.breachsense.com/blog/data-risk-management/).
 
 ### 8. SpyCloud
 
