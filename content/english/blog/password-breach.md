@@ -32,7 +32,7 @@ It's important to stay informed about the security of your passwords and take ac
 
 ### Check Breach Notification Websites:
 
-- **Firefox Monitor**: Firefox Monitorallows you to check if your email has been part of a third-party breach.
+- **Firefox Monitor**: Firefox Monitor allows you to check if your email has been part of a third-party breach.
 - **Have I Been Pwned**: Go to Have I Been Pwned and enter your email address or phone number. The site will tell you if your information has been part of any third-party data breaches and which ones.
 
 ### Use a Password Manager:
