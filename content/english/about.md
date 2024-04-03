@@ -2,7 +2,7 @@
 title: "About"
 layout: "usecases"
 draft: false
-description: "Breachsense stops account takeover, ransomware, fraud and other types of cybercrime."
+description: "Learn about how to stop account takeovers, ransomware, fraud and more. Discover how Breachsense helps security teams prevent ATOs, ransomware, fraud and more."
 
 # who_we_are
 who_we_are:

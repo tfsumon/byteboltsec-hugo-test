@@ -1,6 +1,6 @@
 ---
 title: "Ransomware Threat Actors"
-description: "List of ransomware threat actors"
+description: "Learn about the top ransomware threat actors you need to follow. Discover the URLs of the most popular ransomware threat actors you need to monitor."
 draft: false
 layout: "elements"
 ---

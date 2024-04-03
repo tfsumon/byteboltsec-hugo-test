@@ -1,17 +1,17 @@
 ---
 date: "2024-04-03"
 discovered: "April 03, 2024"
-title: "Withall"
-image: "images/blog/BlackSuit.png"
+title: "Lavelle"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | withallco.com      | 
-| Threat Actor      | BlackSuit      | 
+| Victim      | lavelle.com      | 
+| Threat Actor      | LockBit      | 
 | Date Discovered      | Apr 03, 2024      | 
-| Description      | Withall and Co are an independent firm of Chartered Accountants and professional Business Consultants.      | 
+| Description      | Lavelle Industries is a plastics company that offers plastics manufacturing and toilet repair products.      | 
 | Leak Size      | Unknown      | 
 

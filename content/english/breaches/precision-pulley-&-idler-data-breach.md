@@ -1,7 +1,7 @@
 ---
 date: "2024-04-03"
 discovered: "April 03, 2024"
-title: "Withall"
+title: "Precision Pulley & Idler"
 image: "images/blog/BlackSuit.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | withallco.com      | 
+| Victim      | ppi-global.com      | 
 | Threat Actor      | BlackSuit      | 
 | Date Discovered      | Apr 03, 2024      | 
-| Description      | Withall and Co are an independent firm of Chartered Accountants and professional Business Consultants.      | 
+| Description      | Precision Pulley & Idler (PPI) is a mining & metals company offering conveyor products and solutions.      | 
 | Leak Size      | Unknown      | 
 

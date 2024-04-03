@@ -1,17 +1,17 @@
 ---
 date: "2024-04-03"
 discovered: "April 03, 2024"
-title: "Withall"
-image: "images/blog/BlackSuit.png"
+title: "Thors Data"
+image: "images/blog/RedRansomware.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | withallco.com      | 
-| Threat Actor      | BlackSuit      | 
+| Victim      | thors-data.dk      | 
+| Threat Actor      | RedRansomware      | 
 | Date Discovered      | Apr 03, 2024      | 
-| Description      | Withall and Co are an independent firm of Chartered Accountants and professional Business Consultants.      | 
+| Description      | Thors Data is a software company in Rønde, Denmark.      | 
 | Leak Size      | Unknown      | 
 

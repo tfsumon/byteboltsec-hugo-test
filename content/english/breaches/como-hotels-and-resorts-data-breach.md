@@ -1,17 +1,17 @@
 ---
 date: "2024-04-03"
 discovered: "April 03, 2024"
-title: "Withall"
-image: "images/blog/BlackSuit.png"
+title: "COMO Hotels and Resorts"
+image: "images/blog/RedRansomware.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | withallco.com      | 
-| Threat Actor      | BlackSuit      | 
+| Victim      | comohotels.com      | 
+| Threat Actor      | RedRansomware      | 
 | Date Discovered      | Apr 03, 2024      | 
-| Description      | Withall and Co are an independent firm of Chartered Accountants and professional Business Consultants.      | 
+| Description      | COMO Hotels and Resorts offer luxury travel experiences with personalised service in elegant properties.      | 
 | Leak Size      | Unknown      | 
 

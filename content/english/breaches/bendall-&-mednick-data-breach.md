@@ -1,17 +1,17 @@
 ---
 date: "2024-04-03"
 discovered: "April 03, 2024"
-title: "Withall"
-image: "images/blog/BlackSuit.png"
+title: "Bendall & Mednick"
+image: "images/blog/RedRansomware.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | withallco.com      | 
-| Threat Actor      | BlackSuit      | 
+| Victim      | reallawyers.net      | 
+| Threat Actor      | RedRansomware      | 
 | Date Discovered      | Apr 03, 2024      | 
-| Description      | Withall and Co are an independent firm of Chartered Accountants and professional Business Consultants.      | 
+| Description      | Bendall & Mednick is a law firm.      | 
 | Leak Size      | Unknown      | 
 

@@ -1,6 +1,6 @@
 ---
 date: "2024-03-19"
-title: "A Quick Guide to Preventing Third-party Data Breaches - Third-party Data Breach Prevention"
+title: "A Quick Guide to Preventing Third-party Data Breaches."
 image: "images/blog/prevent-third-party-data-breaches.webp"
 description: "Discover how to prevent a third-party data breach. Learn ten steps to reduce your risk of a third-party data breach."
 author: "Breachsense"

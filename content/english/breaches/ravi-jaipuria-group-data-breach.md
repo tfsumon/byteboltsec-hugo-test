@@ -1,17 +1,17 @@
 ---
 date: "2024-04-03"
 discovered: "April 03, 2024"
-title: "Withall"
-image: "images/blog/BlackSuit.png"
+title: "Ravi Jaipuria Group"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | withallco.com      | 
-| Threat Actor      | BlackSuit      | 
+| Victim      | rjcorp.in      | 
+| Threat Actor      | LockBit      | 
 | Date Discovered      | Apr 03, 2024      | 
-| Description      | Withall and Co are an independent firm of Chartered Accountants and professional Business Consultants.      | 
+| Description      | RJ Jaipuria Corp is a conglomerate with interests in food and beverage, healthcare, and education.      | 
 | Leak Size      | Unknown      | 
 

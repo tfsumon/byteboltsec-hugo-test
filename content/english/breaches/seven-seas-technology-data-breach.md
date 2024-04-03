@@ -1,17 +1,17 @@
 ---
 date: "2024-04-03"
 discovered: "April 03, 2024"
-title: "Withall"
-image: "images/blog/BlackSuit.png"
+title: "Seven Seas Technology"
+image: "images/blog/Rhysida.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | withallco.com      | 
-| Threat Actor      | BlackSuit      | 
+| Victim      | sstech.net      | 
+| Threat Actor      | Rhysida      | 
 | Date Discovered      | Apr 03, 2024      | 
-| Description      | Withall and Co are an independent firm of Chartered Accountants and professional Business Consultants.      | 
+| Description      | Seven Seas Technology is a system Integrator and ICT Solution Provider that helps businesses transform by providing ICT solutions.      | 
 | Leak Size      | Unknown      | 
 

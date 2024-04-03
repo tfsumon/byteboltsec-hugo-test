@@ -1,7 +1,7 @@
 ---
 date: "2024-04-03"
 discovered: "April 03, 2024"
-title: "Withall"
+title: "South Saint Paul Public Schools"
 image: "images/blog/BlackSuit.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | withallco.com      | 
+| Victim      | sspps.org      | 
 | Threat Actor      | BlackSuit      | 
 | Date Discovered      | Apr 03, 2024      | 
-| Description      | Withall and Co are an independent firm of Chartered Accountants and professional Business Consultants.      | 
+| Description      | South St. Paul Secondary School is a public school located in SOUTH SAINT PAUL, MN.      | 
 | Leak Size      | Unknown      | 
 

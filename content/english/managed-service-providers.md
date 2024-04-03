@@ -1,7 +1,7 @@
 ---
 title: "Data breach monitoring for managed service providers"
 draft: false
-description: "Discover the best dark web monitoring solution for managed service providers. Learn how managed service providers can prevent data breaches with dark web monitoring."
+description: "Discover the best dark web monitoring solution for MSPs. Learn how managed service providers can prevent data breaches with dark web monitoring."
 layout: "penetration-testing"
 
 

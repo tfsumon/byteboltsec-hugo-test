@@ -2,7 +2,7 @@
 date: "2024-01-24"
 title: "How to Find Data Breaches - How to Check if Your Data's Been Breached"
 image: "images/blog/how-to-find-data-breaches.png"
-description: "Discover how to find data breaches. Learn how to check whether your information has been leaked."
+description: "Discover how to find data breaches and other leaked data. Learn how to check whether your company's sensitive information has been leaked."
 author: "Breachsense"
 h1: "How to Find Data Breaches"
 intro1: "Are you worried that your data might have been leaked in a data breach? Want to check it out but have no idea where to find information about data breaches?"

@@ -1,5 +1,5 @@
 ---
-title: "Data Breach Detection Software - Breachsense - Leverage Data Breach Detection Software To Find Your Breached Data On the Dark Web"
+title: "Leverage Software To Find Your Breached Data On The Dark Web"
 draft: false
 description: "Discover the best data breach detection software. Leverage data breach detection software to monitor the dark web for your organization's breached data."
 layout: "dark-web-monitoring"

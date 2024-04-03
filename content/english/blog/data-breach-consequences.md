@@ -1,6 +1,6 @@
 ---
 date: "2024-03-03"
-title: "8 Damaging Consequences of a Data Breach - Data Breach Consequences Explained"
+title: "8 Damaging Consequences of a Data Breach Explained."
 image: "images/blog/data-breach-consequences.png"
 description: "Discover the most common consequences of data breaches. Learn the consequences of a data breach and how to prevent them."
 author: "Breachsense"

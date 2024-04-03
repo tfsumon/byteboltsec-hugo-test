@@ -1,7 +1,7 @@
 ---
 date: "2024-04-03"
 discovered: "April 03, 2024"
-title: "Withall"
+title: "PVE"
 image: "images/blog/BlackSuit.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | withallco.com      | 
+| Victim      | pve-llc.com      | 
 | Threat Actor      | BlackSuit      | 
 | Date Discovered      | Apr 03, 2024      | 
-| Description      | Withall and Co are an independent firm of Chartered Accountants and professional Business Consultants.      | 
+| Description      | PVE is a civil engineering company that provides consultancy and surveying services.      | 
 | Leak Size      | Unknown      | 
 

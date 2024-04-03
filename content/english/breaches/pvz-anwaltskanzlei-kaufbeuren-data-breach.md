@@ -1,17 +1,17 @@
 ---
 date: "2024-04-03"
 discovered: "April 03, 2024"
-title: "Withall"
-image: "images/blog/BlackSuit.png"
+title: "PVZ Anwaltskanzlei Kaufbeuren"
+image: "images/blog/LockBit.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | withallco.com      | 
-| Threat Actor      | BlackSuit      | 
+| Victim      | anwaltskanzlei-kaufbeuren.de      | 
+| Threat Actor      | LockBit      | 
 | Date Discovered      | Apr 03, 2024      | 
-| Description      | Withall and Co are an independent firm of Chartered Accountants and professional Business Consultants.      | 
+| Description      | PVZ Anwaltskanzlei is a law firm based in Kaufbeuren, Germany.      | 
 | Leak Size      | Unknown      | 
 

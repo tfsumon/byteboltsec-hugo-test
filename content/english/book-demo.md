@@ -1,6 +1,6 @@
 ---
 title: "Book a Demo | Breachsense"
-description: "Detect and prevent data breaches with Breachsense. Book a demo call now!"
+description: "Learn everything about how to detect and prevent data breaches with Breachsense. Discover how to prevent data breaches. Book a demo call now!"
 
 layout: "book-demo"
 

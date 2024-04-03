@@ -1,6 +1,6 @@
 ---
 date: "2024-02-26"
-title: "What is Data Breach Insurance: Definition, Why Businesses Need It and How To Use It To Recover From a Breach."
+title: "What is Data Breach Insurance and Why Businesses Need It."
 image: "images/blog/data-breach-insurance.png"
 description: "Learn everything about data breach insurance. Discover what data breach insurance is, who needs it and how to use insurance to recover from a breach." 
 author: "Breachsense"

@@ -1,6 +1,6 @@
 ---
 date: "2023-06-25"
-title: "Equifax Data Breach Case Study: Causes, Who Was Affected, and Settlement"
+title: "Equifax Data Breach Case Study: Causes and Aftermath."
 image: "images/blog/equifax-case-study.png"
 description: "Learn everything about the Equifax data breach. Discover what happened, who was affected, settlement claims and more." 
 author: "Breachsense"

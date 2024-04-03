@@ -1,6 +1,6 @@
 ---
 title: "Darknet Markets"
-description: "List of Darknet markets"
+description: "Learn about the top Darknet markets you need to follow. Discover the URLs of the most popular darknet marketplaces you need to monitor."
 draft: false
 layout: "elements"
 ---
