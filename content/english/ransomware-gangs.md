@@ -131,6 +131,7 @@ layout: "elements"
 | <a href="http://incblog7vmuq7rktic73r4ha4j757m3ptym37tyvifzp2roedyyzzxid.onion/blog/leaks" rel="nofollow">INC RANSOM</a>     | Tor     | ONLINE     |
 | <a href="http://spyarea23ttlty6qav3ecmbclpqym3p32lksanoypvrqm6j5onstsjad.onion" rel="nofollow">INDUSTRIAL SPY</a>     | Tor     | OFFLINE     |
 | <a href="https://justice-blade.io" rel="nofollow">JUSTICE BLADE</a>     | Clearnet     | OFFLINE     |
+| <a href="http://nv5lbsrr4rxmewzmpe25nnalowe4ga7ki6yfvit3wlpu7dfc36pyh4ad.onion/Insane.html" rel="nofollow">INSANE</a>     | Tor     | ONLINE     |
 | <a href="https://lhxxtrqraokn63f3nubhbjrzxkrgduq3qogp3yr424tkpvh3z7n4kcyd.onion" rel="nofollow">KARAKURT </a>     | Tor     | OFFLINE     |
 | <a href="https://omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion" rel="nofollow">KARAKURT </a>     | Tor     | ONLINE     |
 | <a href="https://3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion" rel="nofollow">KARAKURT </a>     | Tor     | ONLINE     |
