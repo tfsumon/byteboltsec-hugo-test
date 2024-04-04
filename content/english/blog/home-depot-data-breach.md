@@ -1,6 +1,6 @@
 ---
 date: "2023-05-24"
-title: "Home Depot Data Breach Case Study: Causes, Who Was Affected, and Settlement"
+title: "Home Depot Data Breach Case Study: Causes and Settlement"
 image: "images/blog/Home Depot Data Breach - $179 Million in Losses [Case Study].png"
 description: "Learn everything about the Home Depot data breach. Discover what happened, who was affected, settlement claims and more." 
 author: "Breachsense"

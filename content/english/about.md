@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Breachsense | CTI and Identity Threat Protection"
 layout: "usecases"
 draft: false
 description: "Learn about how to stop account takeovers, ransomware, fraud and more. Discover how Breachsense helps security teams prevent ATOs, ransomware, fraud and more."

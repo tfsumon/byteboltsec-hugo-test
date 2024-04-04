@@ -1,5 +1,5 @@
 ---
-title: "Data Leak Monitoring - Breachsense - Monitor the dark web for Leaked Data"
+title: "Data Leak Monitoring | Monitor the dark web for Leaked Data"
 draft: false
 description: "Discover the best data leak monitoring platform. Monitor dark web for your organization's data leaks. Get alerts when your leaked data is found on the dark web."
 layout: "dark-web-monitoring"

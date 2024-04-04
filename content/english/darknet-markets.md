@@ -1,6 +1,6 @@
 ---
-title: "Darknet Markets"
-description: "List of Darknet markets"
+title: "Breachsense Cyber Threat Intelligence | Darknet Markets"
+description: "Learn everything about darknet marketplaces. Discover the top darknet markets, their Onion URLs and online status."
 draft: false
 layout: "elements"
 ---

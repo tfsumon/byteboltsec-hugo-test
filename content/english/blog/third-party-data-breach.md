@@ -1,6 +1,6 @@
 ---
 date: "2024-01-19"
-title: "How to Prevent a Third-party Data Breach - Third-party Data Breach Prevention"
+title: "10 Steps to Prevent Third-party Data Breaches At Work."
 image: "images/blog/third-party-data-breach.png"
 description: "Discover how to prevent a third-party data breach. Learn ten ways to reduce the risk of a third-party data breach happening to you."
 author: "Breachsense"

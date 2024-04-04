@@ -2,7 +2,7 @@
 date: "2024-03-18"
 title: "A quick guide to data risk management"
 image: "images/blog/data-risk-management.webp"
-description: "Learn everything about the data risk management. Discover what data risk management is, common risks businesses face, and the top risk mitigation strategies to protect your data."
+description: "Learn everything about the data risk management. Discover everything you need to know about data risk management plus the top risk mitigation strategies."
 author: "Breachsense"
 h1: "A Guide to Data Risk Management"
 intro1: "FACT: Data is the lifeblood of today's modern business."
