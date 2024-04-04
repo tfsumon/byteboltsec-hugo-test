@@ -1,5 +1,5 @@
 ---
-title: "Documentation"
+title: "Breachsense Cyber Threat Intelligence API Documentation"
 description: "Learn everything about how the Breachsense APIs work. Discover all of the functionality within the Breachsense APIs."
 draft: false
 layout: "elements"

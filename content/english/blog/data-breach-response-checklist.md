@@ -63,7 +63,7 @@ Typically, this list would include systems, specific applications, equipment, an
 
 **Perform a Threat Modelling exercise:** Threat modeling is a process used to identify potential security threats, vulnerabilities, and the risks they pose to an organization. The goal is to understand the attack surface, prioritize potential threats, and implement strategies to mitigate or prevent those threats. It will show you where potential threats exist - such as employees downloading malware, falling prey to phishing attacks, or hackers penetrating your systems using stolen credentials. 
 
-**TIP:** Use our free [dark web scanner](https://www.breachsense.com/dark-web-scanner/) to quickly check whether your employees' credentials and other sensitive data haven't been found in a recent data breach. 
+**TIP:** Use our free [dark web scanner](https://www.breachsense.com/check-your-exposure/) to quickly check whether your employees' credentials and other sensitive data haven't been found in a recent data breach. 
 
 ![Dark web scanner to research the potential for data breach.](../DarkWebScanner.png)
 *(Main interface of our free dark web scanner)*

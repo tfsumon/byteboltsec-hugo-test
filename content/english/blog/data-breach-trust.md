@@ -27,7 +27,7 @@ The financial implications of losing customer trust reach beyond immediate reven
 Other than the loss of customer trust, six other types of consequences that follow a data breach are as follows:
 
 1. **Legal and regulatory penalties**: Non-compliance with data protection regulations can result in hefty fines, penalties, and legal actions.
-2. **Increased cybersecurity costs**: Companies must invest in improved security measures and [incident response plans](https://www.breachsense.com/blog/data-breach-response-plan/) to [prevent future data breaches](https://www.breachsense.com/blog/prevent-data-breach/).
+2. **Increased cybersecurity costs**: Companies must invest in improved security measures and [incident response plans](https://www.breachsense.com/blog/data-breach-response/) to [prevent future data breaches](https://www.breachsense.com/blog/data-breach-prevention/).
 3. **Loss of intellectual property**: Stolen trade secrets or proprietary information can give competitors an advantage, damaging the company's market position.
 4. **Employee morale and productivity**: All the [different types of data breaches](https://www.breachsense.com/blog/data-breach-types/) can create a stressful work environment, leading to decreased employee morale and productivity.
 5. **Impact on stock prices**: Publicly traded companies may see their stock prices decline following a data breach, as investors lose confidence in the organization's ability to manage risk.

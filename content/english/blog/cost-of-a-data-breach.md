@@ -56,7 +56,7 @@ In comparison, the average cost when law enforcement wasn't involved was USD 5.1
 
 ### 6. The average cost of a breach in the healthcare industry has grown by 53.3%.
 
-Despite the high levels of regulation and being considered critical infrastructure by the US government, the [healthcare industry](https://www.breachsense.com/blog/impact-of-data-breach-healthcare/) continues to experience the highest data breach costs across all sectors. Over the past three years, the average healthcare data breach cost has ballooned by 53%. In 2023, the average cost hit USD 10.93 million.
+Despite the high levels of regulation and being considered critical infrastructure by the US government, the [healthcare industry](https://www.breachsense.com/blog/prevent-data-breaches-healthcare/) continues to experience the highest data breach costs across all sectors. Over the past three years, the average healthcare data breach cost has ballooned by 53%. In 2023, the average cost hit USD 10.93 million.
 
 Here's a breakdown of the cost of a data breach per industry:
 

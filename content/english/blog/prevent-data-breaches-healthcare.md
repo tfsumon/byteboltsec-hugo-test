@@ -17,7 +17,7 @@ Several factors make the healthcare industry particularly attractive and vulnera
 
 ### Sensitive and valuable data 
 
-Healthcare organizations store [sensitive patient information](https://www.breachsense.com/blog/impact-of-data-breach-healthcare/). These include patient names, social security numbers, dates of birth, complete medical records, insurance details, and billing information. 
+Healthcare organizations store sensitive patient information. These include patient names, social security numbers, dates of birth, complete medical records, insurance details, and billing information. 
 
 For criminals, this data means the ability to use it for identity theft, fraud, or sell it on the dark web for significant sums.
 
@@ -107,7 +107,7 @@ Data breaches can cause downtime and disrupt critical healthcare services, poten
 
 ### Legal and regulatory consequences
 
-Healthcare organizations are subject to strict regulations and compliance requirements, such as HIPAA, in the United States. A data breach can result in penalties, fines, and increased scrutiny from regulatory bodies. 
+Healthcare organizations are subject to strict regulations and compliance requirements, such as HIPAA, in the United States. A data breach can result in [significant consequences](https://www.breachsense.com/blog/data-breach-consequences/) like penalties, fines, and increased scrutiny from regulatory bodies. 
 
 ## 12 Ways to Prevent Data Breaches for Healthcare Organizations
 
