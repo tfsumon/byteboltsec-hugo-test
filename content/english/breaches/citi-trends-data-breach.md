@@ -1,7 +1,7 @@
 ---
 date: "2024-04-04"
 discovered: "April 04, 2024"
-title: "Intersport"
+title: "Citi Trends"
 image: "images/blog/Hunters.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | intersport.fr      | 
+| Victim      | cititrends.com      | 
 | Threat Actor      | Hunters      | 
 | Date Discovered      | Apr 04, 2024      | 
-| Description      | Intersport is an online store that offers sportswear, clothing, and accessories with a range of collections offered at reasonable prices.      | 
-| Leak Size      | Unknown      | 
+| Description      | Citi Trends is a value-priced retailer of urban fashion apparel, shoes, accessories and home décor for the entire family.      | 
+| Leak Size      | 520.7GB      | 
 

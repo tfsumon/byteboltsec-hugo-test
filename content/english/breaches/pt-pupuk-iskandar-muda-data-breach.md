@@ -1,17 +1,17 @@
 ---
 date: "2024-04-04"
 discovered: "April 04, 2024"
-title: "Intersport"
-image: "images/blog/Hunters.png"
+title: "PT Pupuk Iskandar Muda"
+image: "images/blog/8BASE.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | intersport.fr      | 
-| Threat Actor      | Hunters      | 
+| Victim      | pim.co.id      | 
+| Threat Actor      | 8BASE      | 
 | Date Discovered      | Apr 04, 2024      | 
-| Description      | Intersport is an online store that offers sportswear, clothing, and accessories with a range of collections offered at reasonable prices.      | 
+| Description      | PT Pupuk Iskandar Muda provides fertilizers, petrochemicals for industry, trade, and services.      | 
 | Leak Size      | Unknown      | 
 

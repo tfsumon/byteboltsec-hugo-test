@@ -1,17 +1,17 @@
 ---
 date: "2024-04-04"
 discovered: "April 04, 2024"
-title: "Intersport"
-image: "images/blog/Hunters.png"
+title: "The Wacks Law Group"
+image: "images/blog/Qilin.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | intersport.fr      | 
-| Threat Actor      | Hunters      | 
+| Victim      | wackslaw.net      | 
+| Threat Actor      | Qilin      | 
 | Date Discovered      | Apr 04, 2024      | 
-| Description      | Intersport is an online store that offers sportswear, clothing, and accessories with a range of collections offered at reasonable prices.      | 
+| Description      | The Wacks Law Group is a law company that offers legal services.      | 
 | Leak Size      | Unknown      | 
 

@@ -7,7 +7,7 @@ author: "Breachsense"
 h1: "The 15 Best Dark Web Monitoring Tools for MSPs"
 intro1: "1. Breachesense<br>2. Zerofox<br>3. CrowdStrike<br>4. SpyCloud<br>5. Heroic<br>6. DarkOwl<br>7. HackNotice<br>8. Have I Been Pwned<br>9. Cyber Intelligence House<br>10. ID Agent<br>11. Constella Intelligence<br>12. Flashpoint<br>13. Flare<br>14. ACID Intelligence<br>15. Keeper Security"
 intro2: "Do you need visibility into your clients' breached data?"
-intro3: "Not getting the results you wanted from your current dark web monitoring platform?"
+intro3: "Not getting the results you wanted from your current [dark web monitoring platform](https://www.breachsense.com/blog/dark-web-threat-intelligence/)?"
 intro4: "According to the Verizon Data Breach Investigations Report, 86% of breaches involve stolen, weak, or default passwords."
 intro5: "Managed Service Providers (MSPs) are in the perfect position to reset their clients' leaked credentials before they’re exploited."
 intro6: "In this post, we’ll cover what dark web monitoring is, the features MSPs need, and the top 15 tools out there today."
@@ -20,6 +20,8 @@ Dark web monitoring is a service that enables MSPs to search for and [monitor th
 The goal of dark web monitoring is to help organizations detect when their sensitive information has been compromised and is being sold or shared on the dark web.
 
 Identifying issues early enables MSPs to mitigate the risk for their clients before criminals exploit the leaked data. Remediation typically includes updating passwords, implementing additional security measures, or alerting authorities.
+
+**RECOMMENDED READING:** [Dark Web Monitoring for MSPs](https://www.breachsense.com/dark-web-monitoring-msp/)
 
 ## What causes data breaches?
 

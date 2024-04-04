@@ -1,7 +1,7 @@
 ---
 date: "2024-04-04"
 discovered: "April 04, 2024"
-title: "Intersport"
+title: "Benetton Group"
 image: "images/blog/Hunters.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | intersport.fr      | 
+| Victim      | benettongroup.com      | 
 | Threat Actor      | Hunters      | 
 | Date Discovered      | Apr 04, 2024      | 
-| Description      | Intersport is an online store that offers sportswear, clothing, and accessories with a range of collections offered at reasonable prices.      | 
+| Description      | Benetton Group is one of the best-known fashion companies in the world, present in the most important markets in the world.      | 
 | Leak Size      | Unknown      | 
 

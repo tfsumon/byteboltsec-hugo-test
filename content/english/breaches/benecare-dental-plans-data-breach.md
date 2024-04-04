@@ -1,7 +1,7 @@
 ---
 date: "2024-04-04"
 discovered: "April 04, 2024"
-title: "Intersport"
+title: "BeneCare Dental Plans"
 image: "images/blog/Hunters.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | intersport.fr      | 
+| Victim      | benecare.com      | 
 | Threat Actor      | Hunters      | 
 | Date Discovered      | Apr 04, 2024      | 
-| Description      | Intersport is an online store that offers sportswear, clothing, and accessories with a range of collections offered at reasonable prices.      | 
+| Description      | BeneCare Dental Plans is an insurance company that offers a wide range of dental benefit plans, claims administration and analytic services.      | 
 | Leak Size      | Unknown      | 
 

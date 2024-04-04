@@ -60,7 +60,7 @@ While there are legitimate uses of the dark web, like protecting the privacy of 
 - **Counterfeit Goods:** Fake documents, such as passports, driver's licenses, and diplomas, as well as counterfeit branded products, can be purchased on the dark web.
 - **Illegal Services:** Services like hacking, hitmen, and other illicit activities can be found, although some may be scams.
 
-**RECOMMENDED READING: [How to find data breaches](https://www.breachsense.com/blog/how-to-find-data-breaches/)**
+**RECOMMENDED READING:** [How to find data breaches](https://www.breachsense.com/blog/how-to-find-data-breaches/)
 
 ## How to choose the best dark web monitoring tool
 

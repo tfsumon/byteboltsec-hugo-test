@@ -1,17 +1,17 @@
 ---
 date: "2024-04-04"
 discovered: "April 04, 2024"
-title: "Intersport"
-image: "images/blog/Hunters.png"
+title: "Pennsylvania Southeast Conference United Church of Christ"
+image: "images/blog/INC_RANSOM.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | intersport.fr      | 
-| Threat Actor      | Hunters      | 
+| Victim      | psec.org      | 
+| Threat Actor      | INC_RANSOM      | 
 | Date Discovered      | Apr 04, 2024      | 
-| Description      | Intersport is an online store that offers sportswear, clothing, and accessories with a range of collections offered at reasonable prices.      | 
+| Description      | PSEC Church is a company that operates in the Religious Institutions industry.      | 
 | Leak Size      | Unknown      | 
 

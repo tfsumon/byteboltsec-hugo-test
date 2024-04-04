@@ -117,7 +117,7 @@ One of the greatest challenges with data breaches is that they aren’t always e
 
 At the same time, the best way to [prevent a data breach](https://www.breachsense.com/blog/prevent-data-breaches-healthcare/) is to mitigate the risk before it's exploited.
 
-Luckily, there are several data breach detection tools that let you monitor and get alerted to potential threats before they become issues. 
+Luckily, there are several [data breach detection tools](https://www.breachsense.com/blog/dark-web-monitoring-tools-msp/) that let you monitor and get alerted to potential threats before they become issues. 
 
 For example, software like [Breachsense](https://www.breachsense.com/why-breachsense/) proactively [monitors the dark web](https://www.breachsense.com/dark-web-monitoring/) to find leaked company data to help you prevent data breaches before they even happen.
 

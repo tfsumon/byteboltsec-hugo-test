@@ -1,17 +1,17 @@
 ---
 date: "2024-04-04"
 discovered: "April 04, 2024"
-title: "Intersport"
-image: "images/blog/Hunters.png"
+title: "Samhwa Paint Industrial"
+image: "images/blog/8BASE.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | intersport.fr      | 
-| Threat Actor      | Hunters      | 
+| Victim      | samhwa.com      | 
+| Threat Actor      | 8BASE      | 
 | Date Discovered      | Apr 04, 2024      | 
-| Description      | Intersport is an online store that offers sportswear, clothing, and accessories with a range of collections offered at reasonable prices.      | 
+| Description      | Samhwa Paint manufactures paints for home decor, automobiles, appliances and industries.      | 
 | Leak Size      | Unknown      | 
 

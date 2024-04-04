@@ -1,17 +1,17 @@
 ---
 date: "2024-04-04"
 discovered: "April 04, 2024"
-title: "Intersport"
-image: "images/blog/Hunters.png"
+title: "Phillip Townsend Associates"
+image: "images/blog/BlackSuit.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | intersport.fr      | 
-| Threat Actor      | Hunters      | 
+| Victim      | ptai.com      | 
+| Threat Actor      | BlackSuit      | 
 | Date Discovered      | Apr 04, 2024      | 
-| Description      | Intersport is an online store that offers sportswear, clothing, and accessories with a range of collections offered at reasonable prices.      | 
+| Description      | Phillip Townsend Associates is an information services provider company.      | 
 | Leak Size      | Unknown      | 
 

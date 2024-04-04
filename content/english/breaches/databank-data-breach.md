@@ -1,7 +1,7 @@
 ---
 date: "2024-04-04"
 discovered: "April 04, 2024"
-title: "Intersport"
+title: "DataBank"
 image: "images/blog/Hunters.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | intersport.fr      | 
+| Victim      | databank.com      | 
 | Threat Actor      | Hunters      | 
 | Date Discovered      | Apr 04, 2024      | 
-| Description      | Intersport is an online store that offers sportswear, clothing, and accessories with a range of collections offered at reasonable prices.      | 
+| Description      | DataBank is an IT service management company that provides enterprise-class data center, cloud, and connectivity services.      | 
 | Leak Size      | Unknown      | 
 
