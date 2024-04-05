@@ -1,6 +1,6 @@
 ---
-title: "Breachsense Cyber Threat Intelligence | Telegram channels"
-description: "Learn everything about the top CTI Telegram channels. Discover the best Telegram channels for Cyber Threat Intelligence."
+title: "Telegram Cyber Threat Intelligence (CTI) channels"
+description: "List of Telegram CTI channels"
 draft: false
 layout: "elements"
 ---

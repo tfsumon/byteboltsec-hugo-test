@@ -1,6 +1,6 @@
 ---
-title: "Breachsense Cyber Threat Intelligence | Darknet Markets"
-description: "Learn everything about darknet marketplaces. Discover the top darknet markets, their Onion URLs and online status."
+title: "Darknet Markets"
+description: "List of Darknet markets"
 draft: false
 layout: "elements"
 ---
@@ -124,6 +124,7 @@ layout: "elements"
 | WAUS LEAKS | <a href="https://wausleaks.com" rel="nofollow">https://wausleaks.com</a> |  OFFLINE  |
 | WAUS LEAKS(new) | <a href="https://waus.io" rel="nofollow">https://waus.io</a> |  OFFLINE  |
 | WAUS LEAKS(new) | <a href="http://waus.ninja" rel="nofollow">http://waus.ninja</a> |  ONLINE  |
+| WAUS LEAKS(new) | <a href="http://waus.me" rel="nofollow">http://waus.me</a> |  ONLINE  |
 | WHM market (1) | <a href="http://76p5k6gw25l5jpy7ombo2m7gt4zppowbz47sizvlzkigvnyhhc26znyd.onion" rel="nofollow">http://76p5k6gw25l5jpy7ombo2m7gt4zppowbz47sizvlzkigvnyhhc26znyd.onion</a> |  OFFLINE  |
 | WHM market (2) | <a href="http://auzbdiguv5qtp37xoma3n4xfch62duxtdiu4cfrrwbxgckipd4aktxid.onion" rel="nofollow">http://auzbdiguv5qtp37xoma3n4xfch62duxtdiu4cfrrwbxgckipd4aktxid.onion</a> |  OFFLINE  |
 | WINXXX (Dark) | <a href="http://cvvamoggrcopaeehscyic6xu3q5lbameo3kv3q3ptpfa5bsq2vrbjsad.onion" rel="nofollow">http://cvvamoggrcopaeehscyic6xu3q5lbameo3kv3q3ptpfa5bsq2vrbjsad.onion</a> |  ONLINE  |

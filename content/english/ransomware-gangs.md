@@ -1,6 +1,6 @@
 ---
-title: "Breachsense Cyber Threat Intelligence | Ransomware Gangs"
-description: "Learn everything about the most active ransomware threat actors. Discover the most active ransomware threat actors and their Onion URLs."
+title: "Ransomware Threat Actors"
+description: "List of ransomware threat actors"
 draft: false
 layout: "elements"
 ---
