@@ -87,4 +87,4 @@ Preventing ATO fraud requires a multilevel approach that combines strong securit
 - **Incident Response Plan**: Have a well-defined [incident response plan](https://www.breachsense.com/blog/data-breach-response/) in place to quickly respond to and mitigate the impact of any account takeover incidents.
 - **Dark Web Monitoring**: Monitor the dark web for leaked user credentials related to your organization. Early detection of compromised data allows your security team to reset the passwords for the affected accounts and prevent potential account takeover fraud​.
 
-Need real time visibility into your organization's leaked credentials? [Book a demo](https://www.breachsense.com/book-demo/) with Breachsense to see how we can help stop account takeover fraud.
+Need real time visibility into your organization's leaked credentials? [Book a demo](https://www.breachsense.com/book-demo/) with Breachsense to learn how we can help stop account takeover fraud.

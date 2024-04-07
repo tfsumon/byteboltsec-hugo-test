@@ -46,7 +46,7 @@ Having a data security plan is important; however, having the right security too
 
 Here's a list of common data security solutions every company should implement:
 
-1. **Firewalls:** Firewalls act as a barrier between an organization's internal network and external threats, controlling incoming and outgoing network traffic based on predetermined security rules.
+1. **Firewalls:** Firewalls act as a barrier between an organization's internal network and [external threats](https://www.breachsense.com/blog/external-threats/), controlling incoming and outgoing network traffic based on predetermined security rules.
 2. **Antivirus and Anti-Malware Software:** These tools detect and remove malicious software, such as viruses, worms, and ransomware, that can compromise data security.
 3. **Encryption:** Encryption converts data into a coded format that can only be accessed with the correct decryption key, protecting data both at rest and in transit from unauthorized access.
 4. **Intrusion Detection and Prevention Systems (IDPS):** IDPS monitor network traffic for suspicious activities and potential threats, alerting administrators and taking preventive actions to block attacks.
