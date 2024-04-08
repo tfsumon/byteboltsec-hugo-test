@@ -8,7 +8,7 @@
         <div class="block row justify-content-center no-gutters align-items-center text-center text-lg-left">
           <div class="col-lg-6" data-aos="fade-up">
             <div class="px-0 px-md-5 px-lg-0">
-	      <h1 class="mb-4"><font color="#fe6019" size="+1">{{.h1}}</font></h1>
+              <h1 class="mb-4"><font color="#fe6019" size="+1">{{.h1}}</font></h1>
               <h2 class="mb-4">{{.title | markdownify}}</h2>
               <p>{{.content | markdownify}}</p>
               {{if .book_a_demo_button}}
@@ -17,7 +17,29 @@
             </div>
           </div>
           <div class="col-lg-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
-            {{ partial "images/image" (dict "Src" .image "Alt" .title) }}
+<!--ADDED -->
+<section class="banner">
+    <div class="row text-left">
+        <div class="block row justify-content-center no-gutters" data-aos="fade-up">
+          <div class="col-lg-10 px-0 px-xl-4">
+            <h4 class="mb-4 justify-content-left" data-aos="fade-up">{{.scanner | markdownify}}</h4>
+	    <div class="content">
+            {{.scanBlurb | markdownify}}
+              <form action="/check-your-exposure" method="GET" class="needs-validation" novalidate>
+                <div class="form-group mb-4">
+                  <input class="form-control shadow-none w-55" style="display:block; margin : 0 auto; background-color: #ffffff" id="domain" name="domain" type="domain" placeholder="Corporate Domain Name" required>
+                  <p class="font-weight-bold invalid-feedback"></p>
+                  <button class="btn btn-primary w-55 mt-4" type="submit" aria-label="Search">See my exposure</button>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+
+        <div class="has-circle"></div>
+    </div>
+</section>
+<!--ENDED -->
           </div>
         </div>
 
@@ -96,7 +118,7 @@
 
 {{with .Params.detect_data_breaches}}
 {{if .enable}}
-<section class="section">
+<section class="section has-bg">
   <div class="container">
     <div class="row">
       <div class="col-lg-6" data-aos="fade-up">
@@ -116,7 +138,7 @@
 
 {{with .Params.prevent_cybercrime}}
 {{if .enable}}
-<section class="section has-bg">
+<section class="section">
   <div class="container text-center">
     <div class="row mb-4">
       <div class="col-lg-8 mx-auto" data-aos="fade-up">
@@ -144,7 +166,7 @@
 
 {{with .Params.testimonials}}
 {{if .enable}}
-<section class="section testimonials">
+<section class="section testimonials has-bg">
   <div class="container">
     <div class="row">
       <div class="col-lg-12">

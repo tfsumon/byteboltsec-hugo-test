@@ -2,14 +2,18 @@
 title: "Breachesense - Data breach and dark web monitoring tool"
 description: "Use Breachsense to monitor your company's data for breaches in real time. Data breach protection for your organization."
 customClass: "custom-page"
+layout: "index3"
 
 # banner
 banner:
   h1: "Data breach and dark web monitoring solution"
   title: "Monitor Your Company for Data Breaches in Real Time"
+  scanner: "Check your dark web exposure"
   content: "Protect your organization & staff from data breaches. Breachsense monitors the dark web, private hacker forums, and criminal marketplaces to detect data breaches in real time enabling you to prevent cyber threats before they happen."
-  image: "images/BSStats.png"
-  book_a_demo_button: true
+  scanblurb: "Uncover your company's breached data and malware-infected devices."
+  #image: "images/BSStats.png"
+  #book_a_demo_button: true
+  byline: "Act on exposed authentication data before criminals exploit it."
 
 
 # brands
@@ -101,12 +105,11 @@ testimonials:
     image: "images/brands/HL.png"
 
 # Check My Exposure
-check_my_exposure:
-  enable: true
-  title: "Dark Web Scanner"
-  button:
-    label: "Check My Exposure"
-
+#check_my_exposure:
+#  enable: true
+#  title: "Dark Web Scanner"
+#  button:
+#    label: "Check My Exposure"
 
 # Potential Effects
 potential_effects:
