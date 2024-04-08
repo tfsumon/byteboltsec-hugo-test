@@ -81,7 +81,7 @@ Here are some proactive steps you can take to prevent your company's sensitive d
 3. Keep all software up-to-date and use reputable anti-virus/anti-malware protection. Many data breaches start with infostealer malware infections.
 4. Use a virtual private network (VPN) to mask your IP address and help add anonymity.
 5. Monitor your accounts and credit reports regularly for any signs of unauthorized access or identity theft.
-6. Educate employees on [cybersecurity best practices](https://www.breachsense.com/blog/data-security-best-practices/) like spotting phishing emails, social engineering scams, and other common attack vectors.
+6. Educate employees on [cybersecurity best practices](https://www.breachsense.com/blog/data-security-best-practices/) like spotting [phishing emails](https://www.breachsense.com/blog/emai-threat-types/), social engineering scams, and other common attack vectors.
 7. Have an incident response plan in case a data breach does occur at your organization.
 8. Properly configure all security settings and access controls for cloud services, databases, and other systems that store sensitive data.
 9. Work with a reputable penetration testing company to perform periodic testing and review your security settings.

@@ -31,7 +31,7 @@ Unfortunately, ransomware attacks often have a second step - In many cases, refu
 
 ### Phishing
 
-Phishing is a type of social engineering attack that uses seemingly genuine email or SMS messages (smishing) to trick recipients into performing an action.
+Phishing is a type of social engineering attack that uses seemingly genuine [email](https://www.breachsense.com/blog/emai-threat-types/) or SMS messages (smishing) to trick recipients into performing an action.
 
 But unlike a malware attack, which aims to have the person click on a link to download malicious software, phishing attacks aim to trick the victim into divulging sensitive information, such as passwords or financial details.
 
