@@ -26,7 +26,7 @@ Here's how credential stuffing attacks typically work:
 
 ## Credential Stuffing vs. Brute Force Attacks vs. Password Spraying
 
-While credential stuffing, brute force attacks, and password spraying are all types of cyber attacks aimed at gaining unauthorized access to user accounts, they differ in their methods and strategies:
+While credential stuffing, brute force attacks, and [password spraying](https://www.breachsense.com/blog/credential-stuffing-password-spraying/) are all types of cyber attacks aimed at gaining unauthorized access to user accounts, they differ in their methods and strategies:
 
 ### Credential Stuffing:
 

@@ -52,7 +52,7 @@ In this type of attack, hackers use specialized tools to try thousands or even m
 
 It’s as if you went through the dictionary and tested every possible word there as a potential password, hence this strategy’s name. Now, of course, hackers go beyond just the words you can find in a dictionary. They usually begin by compiling a list of words that are likely to be used as passwords. And yes, this would also include words like “password,” “admin,” or “12345.”
 
-Then, they input the list into the brute-force software, which tries each of those words as a potential password. 
+Then, they input the list into the [brute-force software](https://www.breachsense.com/blog/credential-stuffing-password-spraying/), which tries each of those words as a potential password. 
 
 This method often allows hackers to crack the most easily guessed and common passwords in a matter of seconds. 
 

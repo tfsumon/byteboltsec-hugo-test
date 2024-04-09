@@ -88,7 +88,7 @@ As we’ve discussed, a data breach occurs when an unauthorized party gains acce
 
 And so, when hackers infected Forever 21’s point-of-sale systems with malware to extract customer data as they complete their purchases, they were conducting a data breach. 
 
-But when hackers try to overwhelm a web server with a DDoS attack, they are not engaging in a data breach. The same applies to cyberattack techniques such as credentials stuffing, brute force attacks, etc.
+But when hackers try to overwhelm a web server with a DDoS attack, they are not engaging in a data breach. The same applies to cyberattack techniques such as credentials stuffing, [brute force attacks](https://www.breachsense.com/blog/credential-stuffing-password-spraying/), etc.
 
 In the case of those attacks, the goal of conducting them is not to breach security to compromise data. 
 
