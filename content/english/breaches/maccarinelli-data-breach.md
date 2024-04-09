@@ -1,17 +1,17 @@
 ---
 date: "2024-04-09"
 discovered: "April 09, 2024"
-title: "Mahoney Apr 09, 2024ries"
-image: "images/blog/8BASE.png"
+title: "Maccarinelli"
+image: "images/blog/Qilin.png"
 author: "Breachsense Support"
 draft: false
 ---
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | mahoneyfoundries.com      | 
-| Threat Actor      | 8BASE      | 
+| Victim      | maccarinelli.it      | 
+| Threat Actor      | Qilin      | 
 | Date Discovered      | Apr 09, 2024      | 
-| Description      | Mahoney Foundries produces brass, bronze, and aluminum sand castings.      | 
+| Description      | Maccarinelli Design is an architecture and planning firm that focuses on the design, planning, and engineering works of sports equipment.      | 
 | Leak Size      | Unknown      | 
 
