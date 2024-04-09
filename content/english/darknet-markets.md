@@ -1,6 +1,6 @@
 ---
-title: "Darknet Markets"
-description: "Learn the URLs for the most active darknet market places. Discover the websites for the most active darknet markets."
+title: "Darknet Markets Cyber Threat Intelligence (CTI) channels"
+description: ""Learn the URLs for the most active darknet market places. Discover the websites for the most active darknet markets.
 draft: false
 layout: "elements"
 ---

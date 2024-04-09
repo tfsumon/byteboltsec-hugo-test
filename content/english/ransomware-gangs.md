@@ -1,6 +1,6 @@
 ---
-title: "Ransomware Threat Actors"
-description: "Learn the URLs for most active ransomware threat actors. Discover the websites for the most active ransomware gangs."
+title: "Telegram Cyber Threat Intelligence (CTI) channels"
+description: "Learn where the best CTI Telegram channels are. Discover the best Telegram channels for cyber threat intelligence."
 draft: false
 layout: "elements"
 ---
