@@ -1,7 +1,7 @@
 ---
 date: "2024-04-10"
 discovered: "April 10, 2024"
-title: "Siemens"
+title: "Atlas Container"
 image: "images/blog/BlackBasta.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | siemensmfg.com      | 
+| Victim      | atlascontainer.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Apr 10, 2024      | 
-| Description      | Siemens Manufacturing Co., Inc. is a premier contract manufacturer of electronic assemblies specializing in printed circuit boards and box build assemblies in the Midwest.      | 
-| Leak Size      | 800GB      | 
+| Description      | Atlas Container Corporation is a manufacturer of high-quality packaging and display products, as well as non-corrugated items to help meet your packaging needs.      | 
+| Leak Size      | 200GB      | 
 

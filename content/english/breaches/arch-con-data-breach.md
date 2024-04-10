@@ -1,7 +1,7 @@
 ---
 date: "2024-04-10"
 discovered: "April 10, 2024"
-title: "Siemens"
+title: "Arch-Con"
 image: "images/blog/BlackBasta.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | siemensmfg.com      | 
+| Victim      | arch-con.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Apr 10, 2024      | 
-| Description      | Siemens Manufacturing Co., Inc. is a premier contract manufacturer of electronic assemblies specializing in printed circuit boards and box build assemblies in the Midwest.      | 
-| Leak Size      | 800GB      | 
+| Description      | Arch-Con Corporation is a real estate construction firm specializing in commercial design and construction services.      | 
+| Leak Size      | 2TB      | 
 

@@ -1,7 +1,7 @@
 ---
 date: "2024-04-10"
 discovered: "April 10, 2024"
-title: "Siemens"
+title: "Columbia Pipe"
 image: "images/blog/BlackBasta.png"
 author: "Breachsense Support"
 draft: false
@@ -9,9 +9,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | siemensmfg.com      | 
+| Victim      | columbiapipe.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Apr 10, 2024      | 
-| Description      | Siemens Manufacturing Co., Inc. is a premier contract manufacturer of electronic assemblies specializing in printed circuit boards and box build assemblies in the Midwest.      | 
-| Leak Size      | 800GB      | 
+| Description      | Columbia Pipe & Supply offers optimal solutions and services for businesses.      | 
+| Leak Size      | 450GB      | 
 
