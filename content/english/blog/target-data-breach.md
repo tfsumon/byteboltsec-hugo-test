@@ -15,7 +15,7 @@ draft: false
 
 The Target data breach occurred in 2013 and was one of the most significant data breaches at the time. The attackers gained initial access to Target's network using credentials stolen from a [third-party HVAC vendor](https://www.breachsense.com/blog/third-party-data-breach/) named Fazio Mechanical. This vendor had access to Target's network for maintenance purposes.
 
-Once inside the network, the attackers moved laterally to reach the point-of-sale (POS) systems. They installed malware on the POS systems designed to capture names, phone numbers, email addresses, payment card information, verification codes, and other sensitive data.
+Once inside the network, the attackers moved laterally to reach the point-of-sale (POS) systems. They installed [malware](https://www.breachsense.com/blog/malware-incident-response/) on the POS systems designed to capture names, phone numbers, email addresses, payment card information, verification codes, and other sensitive data.
 
 The stolen data was then collected and stored on a server within Target's network. Periodically, the data was moved from this server to external servers controlled by the attackers, from where it could be sold or used for fraudulent purposes. Altogether, over 40 million payment cards and the personal information of up to 70 million customers were exposed.
 

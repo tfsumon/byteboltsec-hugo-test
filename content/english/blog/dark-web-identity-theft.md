@@ -78,7 +78,7 @@ Here are some proactive steps you can take to prevent your company's sensitive d
 
 1. Use a password manager to generate strong, unique passwords and enable two-factor authentication wherever possible. This prevents credential-stuffing and phishing attacks that could lead to account takeovers.
 2. Be very cautious about sharing personal or sensitive information online or over unsecured channels. The less exposed, the lower the risk.
-3. Keep all software up-to-date and use reputable anti-virus/anti-malware protection. Many data breaches start with infostealer malware infections.
+3. Keep all software up-to-date and use reputable anti-virus/anti-malware protection. Many data breaches start with [infostealer malware infections](https://www.breachsense.com/blog/malware-incident-response/).
 4. Use a virtual private network (VPN) to mask your IP address and help add anonymity.
 5. Monitor your accounts and credit reports regularly for any signs of unauthorized access or identity theft.
 6. Educate employees on [cybersecurity best practices](https://www.breachsense.com/blog/data-security-best-practices/) like spotting [phishing emails](https://www.breachsense.com/blog/email-threat-types/), social engineering scams, and other common attack vectors.

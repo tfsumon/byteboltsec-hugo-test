@@ -23,7 +23,7 @@ First, hackers encrypt the victim's files through malicious software, making the
 
 How does a double extortion ransomware attack work:
 
-- An attacker first gains access to the victim's system. This could happen through a whole range of methods like [phishing](https://www.techtarget.com/searchsecurity/definition/phishing), malware delivered via email, a malicious website, etc. 
+- An attacker first gains access to the victim's system. This could happen through a whole range of methods like [phishing](https://www.techtarget.com/searchsecurity/definition/phishing), [malware](https://www.breachsense.com/blog/malware-incident-response/) delivered via email, a malicious website, etc. 
 - Next, the attacker investigates the system to see what sensitive information they can access and exploit. 
 - Once the attacker identifies potentially valuable files, they steal those and move them to a remote server or location. At the same time, the data gets encrypted and locked, preventing the victim from gaining access to it. 
 - Then, the attacker demands a ransom to unlock the files.

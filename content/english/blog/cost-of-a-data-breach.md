@@ -94,7 +94,7 @@ As noted before, the shorter the data breach lifecycle, the lower the overall bu
 
 ## What was the most common initial attack vector?
 
-Stolen or compromised credentials were responsible for 31% of the breaches. Credentials are often leaked via infostealer malware, 3rd party breaches and phishing attacks.
+Stolen or compromised credentials were responsible for 31% of the breaches. Credentials are often leaked via [infostealer malware](https://www.breachsense.com/blog/malware-incident-response/), 3rd party breaches and phishing attacks.
 
 Among the various data breach causes, breaches caused by stolen or compromised credentials took the longest to resolve. It took 328 days, or nearly 11 months, to contain these breaches. In comparison, the overall mean time to contain a data breach was 277 days or almost two months less.
 
