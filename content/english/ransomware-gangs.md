@@ -126,6 +126,7 @@ layout: "elements"
 | <a href="http://r6d636w47ncnaukrpvlhmtdbvbeltc6enfcuuow3jclpmyga7cz374qd.onion" rel="nofollow">HOTARUS</a>     | Tor     | OFFLINE     |
 | <a href=" https://hunters55rdxciehoqzwv7vgyv6nt37tbwax2reroyzxhou7my5ejyid.onion" rel="nofollow">HUNTERS INTERNATIONAL</a>     | Tor     | ONLINE     |
 | <a href="https://hunters55atbdusuladzv7vzv6a423bkh6ksl2uftwrxyuarbzlfh7yd.onion" rel="nofollow">HUNTERS INTERNATIONAL</a>     | Tor     | ONLINE     |
+| <a href="https://hunters33mmcwww7ek7q5ndahul6nmzmrsumfs6aenicbqon6mxfiqyd.onion" rel="nofollow">HUNTERS INTERNATIONAL </a>     | Tor     | ONLINE     |
 | <a href="http://kf6x3mjeqljqxjznaw65jixin7dpcunfxbbakwuitizytcpzn4iy5bad.onion/board/leak_list" rel="nofollow">ICEFIRE</a>     | Tor     | OFFLINE     |
 | <a href="http://7kstc545azxeahkduxmefgwqkrrhq3mzohkzqvrv7aekob7z3iwkqvyd.onion/board/victim_list" rel="nofollow">ICEFIRE</a>     | Tor     | OFFLINE     |
 | <a href="http://incblog7vmuq7rktic73r4ha4j757m3ptym37tyvifzp2roedyyzzxid.onion/blog/leaks" rel="nofollow">INC RANSOM</a>     | Tor     | ONLINE     |
