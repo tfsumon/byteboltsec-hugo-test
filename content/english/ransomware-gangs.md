@@ -96,6 +96,7 @@ layout: "elements"
 | <a href="http://darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion" rel="nofollow">DARKSIDE</a>     | Tor     | OFFLINE     |
 | <a href="http://5vphklgizbimeq5l4yt274p533fgirhqnjhjuppcp2ibteavmro5fzad.onion" rel="nofollow">DARK VAULT </a>     | Tor     | ONLINE     |
 | <a href="http://tx23pk4zw5qynq3tmfk2jz5zbel63p4nwvkheswze7r6gzxhzcbseyad.onion" rel="nofollow">DARK VAULT </a>     | Tor     | ONLINE     |
+| <a href="http://mdhby62yvvg6sd5jmx5gsyucs7ynb5j45lvvdh4dsymg43puitu7tfid.onion" rel="nofollow">DARK VAULT </a>     | Tor     | ONLINE     |
 | <a href="http://g3h3klsev3eiofxhykmtenmdpi67wzmaixredk5pjuttbx7okcfkftqd.onion" rel="nofollow">DONEX</a>     | Tor     | ONLINE     |
 | <a href="http://sbc2zv2qnz5vubwtx3aobfpkeao6l4igjegm3xx7tk5suqhjkp5jxtqd.onion" rel="nofollow">DONUT BLOG</a>     | Tor     | ONLINE     |
 | <a href="https://doq32rjiuomfghm5a4lyf3lwwakt2774tkv4ppsos6ueo5mhx7662gid.onion" rel="nofollow">DONUT DLS</a>     | Tor     | OFFLINE     |
@@ -251,6 +252,7 @@ layout: "elements"
 | <a href="http://f6amq3izzsgtna4vw24rpyhy3ofwazlgex2zqdssavevvkklmtudxjad.onion" rel="nofollow">RANSOMED </a>     | Tor     | ONLINE     |
 | <a href="http://sewo2yliwvgca3abz565nsnnx3khi6x7t5ccpbvvg6wgce4bk2jagiad.onion" rel="nofollow">RANSOM CORP</a>     | Tor     | OFFILINE     |
 | <a href="http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion" rel="nofollow">RANZY/AKO</a>     | Tor     | OFFLINE     |
+| <a href="http://33zo6hifw4usofzdnz74fm2zmhd3zsknog5jboqdgblcbwrmpcqzzbid.onion" rel="nofollow">RED RANSOMWARE GROUP</a>     | Tor     | ONLINE     |
 | <a href="http://blog2hkbm6gogpv2b3uytzi3bj5d5zmc4asbybumjkhuqhas355janyd.onion" rel="nofollow">REDALERT</a>     | Tor     | OFFLINE     |
 | <a href="http://je2yizds7r4uidk6uixfxwjj5w7or2agit4aj66l4lrhdbrvr3lsymid.onion" rel="nofollow">REDALERT </a>     | Tor     | OFFLINE     |
 | <a href="http://33zo6hifw4usofzdnz74fm2zmhd3zsknog5jboqdgblcbwrmpcqzzbid.onion" rel="nofollow">RED RANSOMWARE GROUP</a>     | Tor     | ONLINE     |
