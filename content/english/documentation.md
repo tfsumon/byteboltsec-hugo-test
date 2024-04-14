@@ -29,7 +29,7 @@ layout: "elements"
 | **r**      | return the number of remaining monthly queries allowed      |
 | **search**      | accepts a domain name or email address      | 
 | **update**      | return the Unix timestamp the combo database was last updated      |
-| **unixtime**      | display the import date in unixtime (aliases: <i>unix</i>,<i>epoch</i>      |
+| **unixtime**      | display the import date in unixtime (aliases: <i>unix</i>,<i>epoch</i>)      |
 
 ### Output* :
 | JSON Key           | Value             |
