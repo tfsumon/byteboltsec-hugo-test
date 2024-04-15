@@ -48,7 +48,7 @@ Data security is no longer just an IT concern but a critical aspect of overall b
 11. **Secure Physical Access**: Protect physical access to your company's premises and data centers. Physical security includes measures such as security guards, access cards, and surveillance cameras.
 12. **Use Secure Communication Channels**: Ensure that communication channels, such as email and messaging apps, are secure and encrypted to protect sensitive information during transmission.
 13. **Develop a Comprehensive Incident Response Plan**: Have a well-defined [incident response plan](https://www.breachsense.com/blog/data-breach-response/) in place to quickly respond to and recover from security incidents or data breaches.
-14. **Monitor for Exposed Data**: Use dark web monitoring services to scan the dark web for any exposed company data, such as leaked credentials, sensitive documents, or intellectual property. This can help you identify and mitigate potential threats before they are exploited by cybercriminals.
+14. **Monitor for Exposed Data**: Use dark web monitoring services to scan the dark web for any exposed company data, such as [leaked credentials](https://www.breachsense.com/blog/email-explosed-dark-web/), sensitive documents, or intellectual property. This can help you identify and mitigate potential threats before they are exploited by cybercriminals.
 
 ## How Breachsense can help
 

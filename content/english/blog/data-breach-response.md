@@ -71,7 +71,7 @@ For the highest risks, identify mitigation strategies that can reduce either the
 
 Although the specifics will differ on a case-by-case basis, every response procedure should include:
 
-**Identification and Analysis:** Identify which systems were affected, the type of data compromised, and the number of records exposed. Analyze the logs, systems, and network traffic to trace the attacker’s steps and identify the entry point.
+**Identification and Analysis:** Identify which systems were affected, the type of data compromised, and the number of [records exposed](https://www.breachsense.com/blog/email-explosed-dark-web/). Analyze the logs, systems, and network traffic to trace the attacker’s steps and identify the entry point.
 
 **Containment:** Isolate the affected systems to prevent the spread of the breach. This can mean completely disconnecting the systems from the internet, disabling remote access, or simply segregating parts of the network.
 
