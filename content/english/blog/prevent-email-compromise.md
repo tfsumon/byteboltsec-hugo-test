@@ -5,10 +5,10 @@ image: "images/blog/prevent-email-compromise.webp"
 description: "Learn everything about preventing business email compromise attacks. Discover the steps you need to defend against BEC threats."
 author: "Breachsense"
 h1: "How To Prevent Business Email Compromise (BEC) Scams"
-intro1: "FACT: Business email compromise attacks led to global losses of over $50 billion, according to the [IC3](https://www.ic3.gov/Media/Y2023/PSA230609)."
+intro1: "FACT: Business email compromise attacks led to global losses of over $50 billion last year, according to the [IC3](https://www.ic3.gov/Media/Y2023/PSA230609)."
 intro2: "This reflects a 58% increase in financial losses since 2020."
-intro3: "According to [Microsoft](https://www.microsoft.com/en-us/security/blog/2023/05/19/cyber-signals-shifting-tactics-fuel-surge-in-business-email-compromise/), there are over 156,000 BEC attempts daily."
-intro4: "Clearly, business email compromise scams post a serious threat to organizations of all sizes."
+intro3: "According to [Microsoft](https://www.microsoft.com/en-us/security/blog/2023/05/19/cyber-signals-shifting-tactics-fuel-surge-in-business-email-compromise/), there are over 156,000 BEC attempts every day."
+intro4: "Clearly, BEC scams post a serious threat to organizations of all sizes."
 intro5: "In this post, you'll learn the common tactics threat actors use and how to defend against them."
 draft: false
 ---
