@@ -68,7 +68,7 @@ Here are some examples of Business Email Compromise (BEC) attacks:
 
 ## How do I defend against BEC attacks?
 
-Defending against BEC attacks requires a combination of technical controls, employee training, and organizational policies. Here are some strategies to help protect your organization:
+[Defending against BEC attacks](https://www.breachsense.com/blog/prevent-email-compromise/) requires a combination of technical controls, employee training, and organizational policies. Here are some strategies to help protect your organization:
 
 1. **Employee Education**: Educate employees about BEC attacks and the importance of verifying the authenticity of emails, especially those requesting financial transactions or sensitive information. Teach them to recognize red flags, such as unusual language, urgent requests, or changes in account details.
 2. **Multi-Factor Authentication (MFA)**: Implement MFA for email accounts and other critical systems to add an extra layer of security and make it harder for attackers to gain unauthorized access.

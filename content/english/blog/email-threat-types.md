@@ -78,7 +78,7 @@ Data leaks via email generally occur due to human error, [insider threats](https
 
 ## Top 10 email security best practices
 
-The following ten best practices can help you significantly reduce the risks of email threats:
+The following ten best practices can help you significantly [reduce the risks of email threats](https://www.breachsense.com/blog/prevent-email-compromise/):
 
 1. **Enable Email Authentication Protocols:** Use protocols like SPF, DKIM, and DMARC to authenticate email senders and prevent spoofing attacks.
 2. **Implement Multi-Factor Authentication (MFA):** Require MFA for all email accounts to help prevent unauthorized access, even if passwords are compromised.
