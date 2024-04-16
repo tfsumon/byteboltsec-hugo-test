@@ -1,6 +1,6 @@
 ---
-date: "2024-04-15"
-discovered: "April 15, 2024"
+date: "2024-04-16"
+discovered: "April 16, 2024"
 title: "Novus"
 image: "images/blog/Medusa.png"
 author: "Breachsense Support"
@@ -11,7 +11,7 @@ draft: false
 | :-----------: | :-------------:     |:-------------:    | :-----:|
 | Victim      | novusint.com      | 
 | Threat Actor      | Medusa      | 
-| Date Discovered      | Apr 15, 2024      | 
-| Description      | Novus International is a nutrition company providing solutions for the global animal agriculture industry.      | 
+| Date Discovered      | Apr 16, 2024      | 
+| Description      | Novus International creates animal nutrition solutions for livestock, poultry, and aquaculture.      | 
 | Leak Size      | 151.3GB      | 
 

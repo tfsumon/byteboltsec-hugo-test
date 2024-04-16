@@ -14,7 +14,7 @@
           </div>
           <div class="exposureSearchForm content">
             <input class="form-control shadow-none text-center inputURL" id="domain" type="url" placeholder="Enter your domain or email" required>
-            <form action="/dark-web-scanner/" method="GET">
+            <form action="/check-your-exposure/" method="GET">
               <div class="form-group mb-4">
                 <input class="hiddenURL" type="hidden" name="domain">
                 <p class="font-weight-bold invalid-feedback"></p>
@@ -57,7 +57,7 @@
           <div class="col-lg-10 mx-auto">
             <div class="row">
               <div class="col-12 text-center">
-                <h1 class="mt-5 mb-5 text-success">{{.title}}</h1>
+                <h2 class="mt-5 mb-5 text-success">{{.title}}</h2>
               </div>
               <div class="col-lg-6 col-md-6">
                 <div class="features-card">
@@ -86,7 +86,7 @@
         <div class="row mb-4">
           {{ with .info_block }}
           <div class="col-lg-8 mx-auto">
-            <h1 class="mb-4">{{.title | markdownify}}</h1>
+            <h2 class="mb-4">{{.title | markdownify}}</h2>
             <div class="content">{{.content | markdownify}}</div>
           </div>
           {{ end }}
@@ -104,7 +104,7 @@
         {{ with .prevent_data_breaches }}
         <div class="row mb-4">
           <div class="col-lg-6">
-            <h1 class="mb-4">{{.title | markdownify}}</h1>
+            <h2 class="mb-4">{{.title | markdownify}}</h2>
             <div class="content">{{.content | markdownify}}</div>
             {{ partial "components/book-a-demo" }}
           </div>
@@ -126,7 +126,7 @@
           <div class="col-lg-10 mx-auto">
             <div class="row">
               <div class="col-12 text-center">
-                <h1 class="mt-5 mb-5" style="color:red;">{{.title}}</h1>
+                <h2 class="mt-5 mb-5" style="color:red;">{{.title}}</h2>
               </div>
               <div class="col-lg-6 col-md-6">
                 <div class="features-card">
@@ -155,7 +155,7 @@
         <div class="row mb-4">
           {{ with .info_block }}
           <div class="col-lg-8 mx-auto">
-            <h1 class="mb-4">{{.title | markdownify}}</h1>
+            <h2 class="mb-4">{{.title | markdownify}}</h2>
             <div class="content">{{.content | markdownify}}</div>
           </div>
           {{ end }}
@@ -173,7 +173,7 @@
         {{ with .secure_your_breached_accounts }}
         <div class="row">
           <div class="col-lg-9 mx-auto">
-            <h1 class="mb-4">{{.title | markdownify}}</h1>
+            <h2 class="mb-4">{{.title | markdownify}}</h2>
             <div class="content">{{.content | markdownify}}</div>
             {{ partial "components/book-a-demo" }}
           </div>
