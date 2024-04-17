@@ -8,6 +8,7 @@ layout: "elements"
 | Name           | URL                | Status     |
 | :-----------: | :-------------:     |:-------------:
 | 0-DAY | <a href="https://0-day.shop" rel="nofollow">https://0-day.shop</a> |  ONLINE  |
+| Stealer credential leaks | <a href="https://whiteintel.io" rel="nofollow">https://whiteintel.io</a> |  ONLINE  |
 | Darth maul shop | <a href="https://1977.ws/" rel="nofollow">https://1977.ws/</a> |  ONLINE  |
 | 2EASY | <a href="https://2easy.shop" rel="nofollow">https://2easy.shop</a> |  OFFLINE  |
 | 2EASY | <a href="https://2easy.cc" rel="nofollow">https://2easy.cc</a> |  ONLINE  |
