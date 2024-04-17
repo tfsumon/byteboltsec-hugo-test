@@ -72,7 +72,7 @@ When dealing with a cyber attack, the first and most critical step is to contain
 Here are some immediate actions you should take:
 
 - Disconnect your internet connection and remove all compromised servers, computers, and mobile devices from the network to prevent further spreading of the malware.
-- Disable remote access and verify all access control rules in your firewall settings.
+- Disable [remote access](https://www.breachsense.com/blog/remote-work-data-breach/) and verify all access control rules in your firewall settings.
 - Verify that all systems are fully patched and running the latest stable software versions.
 
 Update passwords to strong, unique ones for each account. Additionally, check employee devices for infostealer malware. Even strong passwords are easily bypassed when an employee's device is infected with malware. Enable Multi-Factor Authentication (MFA) where available to bolster security and reduce the risk of future data breaches.

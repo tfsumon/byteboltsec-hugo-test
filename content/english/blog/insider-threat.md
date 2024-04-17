@@ -31,7 +31,7 @@ Some common indicators include:
 
 1. **Unusual Access Patterns**: Accessing sensitive information or systems at odd hours or from unusual locations, especially when it is not part of the individual's normal job responsibilities.
 2. **Excessive Downloads or Copying**: Downloading or copying large volumes of data, especially sensitive or confidential information, without a legitimate business need.
-3. **Unauthorized Installation of Software**: Installing unauthorized software, especially remote access tools or other applications that could be used for malicious purposes.
+3. **Unauthorized Installation of Software**: Installing unauthorized software, especially [remote access tools](https://www.breachsense.com/blog/remote-work-data-breach/) or other applications that could be used for malicious purposes.
 4. **Attempts to Bypass Security Controls**: Attempting to bypass security measures, such as using unauthorized devices, disabling security software, or seeking to elevate privileges without authorization.
 5. **Frequent Policy Violations**: Repeatedly violating company policies, especially those related to information security and data protection.
 6. **Unexplained Financial Gain**: Sudden, unexplained wealth or financial gain, which could indicate selling company secrets or engaging in other illicit activities.

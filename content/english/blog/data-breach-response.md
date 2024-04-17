@@ -73,7 +73,7 @@ Although the specifics will differ on a case-by-case basis, every response proce
 
 **Identification and Analysis:** Identify which systems were affected, the type of data compromised, and the number of [records exposed](https://www.breachsense.com/blog/email-explosed-dark-web/). Analyze the logs, systems, and network traffic to trace the attacker’s steps and identify the entry point.
 
-**Containment:** Isolate the affected systems to prevent the spread of the breach. This can mean completely disconnecting the systems from the internet, disabling remote access, or simply segregating parts of the network.
+**Containment:** Isolate the affected systems to prevent the spread of the breach. This can mean completely disconnecting the systems from the internet, disabling [remote access](https://www.breachsense.com/blog/remote-work-data-breach/), or simply segregating parts of the network.
 
 **Remediation and Recovery:** Restore the infected systems and data from backups. Before bringing systems back online, validate the integrity of the data.
 
