@@ -18,7 +18,7 @@ Having employees work both remotely and in the office has significantly expanded
 
 ## Security risks with employees working from home
 
-The work-from-home (WFH) model has certainly provided flexibility and continuity for businesses, but it also introduces several types of security risks that organizations need to be aware of. Here are some of the primary ones:
+The work-from-home (WFH) model has certainly provided flexibility and continuity for businesses, but it also introduces several types of [security risks](https://www.breachsense.com/blog/remote-working-data-protection/) that organizations need to be aware of. Here are some of the primary ones:
 
 1. **Network Security Risks**: Employees working from home often connect to corporate networks via personal or less secure internet connections. These home networks typically lack the security measures of office networks, such as [anti-malware](https://www.breachsense.com/blog/malware-incident-response/) and intrusion detection systems, making them vulnerable to attacks.
 2. **Use of Personal Devices (BYOD)**: Using personal devices for work-related tasks increases the risk of data breaches. These devices may not be regularly updated with the latest security patches, lack proper antivirus software, and are more likely to be used by multiple people, increasing exposure to potential threats.
@@ -96,4 +96,4 @@ Here are some best practices organizations should implement to secure work-from-
 - Monitor the dark web for any leaked credentials from employees, customers, or vendors that could be used to gain unauthorized access to your organization.
 - Early detection of data breaches or leaked company data can drastically reduce the potential damage. Proactive threat intelligence provides real-time alerts, allowing organizations to react quickly to mitigate risks.
 
-If your security team needs visibility into your employees' leaked credentials, [book a demo](https://www.breachsense.com/book-demo/) to learn how Breachsense can help.
+### If your security team needs visibility into your employees' leaked credentials, [book a demo](https://www.breachsense.com/book-demo/) to learn how Breachsense can help.

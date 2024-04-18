@@ -33,7 +33,7 @@ Credentials are typically stolen when:
 
 To mitigate the risk of stolen credentials, organizations should mandate the use of password managers. The password manager should generate all passwords for users to prevent them from creating weak passwords. At the very minimum, using a password manager will ensure that employees don't reuse the same password in multiple apps. This prevents bad actors from using a password from one breached service to access the victim's account on another.
 
-Enable MFA (multi-factor authentication) for all remote access to business systems. MFA (or at least two-factor authentication) should be required for all users when accessing sensitive data or performing privileged actions.
+Enable MFA (multi-factor authentication) for all [remote access](https://www.breachsense.com/blog/remote-working-data-protection/) to business systems. MFA (or at least two-factor authentication) should be required for all users when accessing sensitive data or performing privileged actions.
 
 Ensure you have an updated asset inventory and that all operating systems, browsers, and plugins are fully patched.
 
