@@ -1,18 +1,12 @@
 ############# English navigation ##############
 
-# main menu
-[[main]]
-name = "Home"
-url = ""
-weight = 1
-
 [[main]]
 name = "Why Breachsense"
 url = "why-breachsense/"
-weight = 2
+weight = 1
 
 [[main]]
-weight = 3
+weight = 2
 name = "Platform"
 hasChildren = true
 
@@ -76,9 +70,13 @@ url = "breaches/"
 weight = 5
 
 [[main]]
-  name = "Check Your Exposure"
-  url = "check-your-exposure/"
+  name = "Blog"
+  url = "blog/"
   weight = 6
+#[[main]]
+#  name = "Check Your Exposure"
+#  url = "check-your-exposure/"
+#  weight = 6
 
 #[[main]]
 #name = "About"
@@ -101,11 +99,17 @@ hasChildren = true
   url = "about/"
   weight = 1
 
+
   [[main]]
   parent = "Resources"
-  name = "Blog"
-  url = "blog/"
+  name = "Check Your Exposure"
+  url = "check-your-exposure/"
   weight = 2
+#  [[main]]
+#  parent = "Resources"
+#  name = "Blog"
+#  url = "blog/"
+#  weight = 2
 
   [[main]]
   parent = "Resources"
@@ -139,12 +143,17 @@ hasChildren = true
 
 # footer menu
 [[footer]]
+name = "Blog"
+url = "blog/"
+weight = 3
+
+[[footer]]
 name = "About"
 url = "about/"
-weight = 1
+weight = 4
 
 [[footer]]
 name = "Terms & Conditions"
 url = "terms-and-conditions/"
-weight = 3
+weight = 5
 
