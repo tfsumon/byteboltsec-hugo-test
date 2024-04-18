@@ -12,7 +12,7 @@ layout: "elements"
 | Darth maul shop | <a href="https://1977.ws/" rel="nofollow">https://1977.ws/</a> |  ONLINE  |
 | 2EASY | <a href="https://2easy.shop" rel="nofollow">https://2easy.shop</a> |  OFFLINE  |
 | 2EASY | <a href="https://2easy.cc" rel="nofollow">https://2easy.cc</a> |  ONLINE  |
-| ALLWORLDCARDS | <a href="https://href.li/?http://awcardsqtyy2nzjz4bqwbccvv6xr4bdcwcgfyewd7gsx5mhh63c2lsad.onion" rel="nofollow">https://href.li/?http://awcardsqtyy2nzjz4bqwbccvv6xr4bdcwcgfyewd7gsx5mhh63c2lsad.onion</a> |  OFFLINE  |
+| ALLWORLDCARDS | <a href="http://awcardsqtyy2nzjz4bqwbccvv6xr4bdcwcgfyewd7gsx5mhh63c2lsad.onion" rel="nofollow">http://awcardsqtyy2nzjz4bqwbccvv6xr4bdcwcgfyewd7gsx5mhh63c2lsad.onion</a> |  OFFLINE  |
 | AlphaBay (Dark i2p) | <a href="https://tnaefzkcnhryeusi7hdpqujqiqmnbtah3dmjcg3gvezohunjuxbq.b32.i2p" rel="nofollow">https://tnaefzkcnhryeusi7hdpqujqiqmnbtah3dmjcg3gvezohunjuxbq.b32.i2p</a> |  ONLINE  |
 | AlphaBay (Dark Tor) | <a href="http://alphabay522szl32u4ci5e3iokdsyth56ei7rwngr2wm7i5jo54j2eid.onion" rel="nofollow">http://alphabay522szl32u4ci5e3iokdsyth56ei7rwngr2wm7i5jo54j2eid.onion</a> |  ONLINE  |
 | Archetyp | <a href="http://4pt4axjgzmm4ibmxplfiuvopxzf775e5bqseyllafcecryfthdupjwyd.onion" rel="nofollow">http://4pt4axjgzmm4ibmxplfiuvopxzf775e5bqseyllafcecryfthdupjwyd.onion</a> |  ONLINE  |

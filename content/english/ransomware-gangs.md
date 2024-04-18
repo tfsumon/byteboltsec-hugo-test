@@ -5,8 +5,6 @@ draft: false
 layout: "elements"
 ---
 
-### Current list of monitored ransomware threat actors
-
 | Name           | Tor / Clearnet             | Status     |
 | :-----------: | :-------------:     |:-------------:   
 | <a href="https://ransom.insicurezzadigitale.com/index.php" rel="nofollow">Ransomfeed</a>     | Clearnet     | ONLINE     |

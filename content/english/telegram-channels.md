@@ -7,7 +7,6 @@ layout: "elements"
 
 | Name           | Channel        
 | :-----------: | :-------------:   
-| Name | <a href="Telegram" rel="nofollow">Telegram</a>|
 |  GODELESS CLOUD Botnet Logs | <a href="https://t.me/+8DxOrHQdrzw1ZjUy" rel="nofollow">https://t.me/+8DxOrHQdrzw1ZjUy</a>|
 |  HUBHEAD Logs | <a href="https://t.me/+fcxhFl9JSRE3YTdi" rel="nofollow">https://t.me/+fcxhFl9JSRE3YTdi</a>|
 |  Luffich Logs - Redline Stealer | <a href="https://t.me/+NshXlCbUEZkxZDMy" rel="nofollow">https://t.me/+NshXlCbUEZkxZDMy</a>|
