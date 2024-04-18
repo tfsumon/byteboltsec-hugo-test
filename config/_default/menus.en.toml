@@ -63,33 +63,8 @@ hasChildren = true
   url = "prevent-ransomware/"
   weight = 4
 
-
 [[main]]
-name = "Recent Breaches"
-url = "breaches/"
 weight = 5
-
-[[main]]
-  name = "Blog"
-  url = "blog/"
-  weight = 6
-#[[main]]
-#  name = "Check Your Exposure"
-#  url = "check-your-exposure/"
-#  weight = 6
-
-#[[main]]
-#name = "About"
-#url = "about/"
-#weight = 7
-
-#[[main]]
-#name = "Blog"
-#url = "blog/"
-#weight = 8
-
-[[main]]
-weight = 9
 name = "Resources"
 hasChildren = true
 
@@ -141,19 +116,44 @@ hasChildren = true
   url = "terms-and-conditions/"
   weight = 10
 
+[[main]]
+name = "Recent Breaches"
+url = "breaches/"
+weight = 6
+
+[[main]]
+  name = "Blog"
+  url = "blog/"
+  weight = 7
+#[[main]]
+#  name = "Check Your Exposure"
+#  url = "check-your-exposure/"
+#  weight = 6
+
+#[[main]]
+#name = "About"
+#url = "about/"
+#weight = 7
+
+#[[main]]
+#name = "Blog"
+#url = "blog/"
+#weight = 8
+
+
 # footer menu
 [[footer]]
 name = "Blog"
 url = "blog/"
 weight = 3
-
+  
 [[footer]]
 name = "About"
 url = "about/"
-weight = 4
+weight = 6
 
 [[footer]]
 name = "Terms & Conditions"
 url = "terms-and-conditions/"
-weight = 5
+weight = 7
 
