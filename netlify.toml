@@ -1,9 +1,10 @@
 [build]
   publish = "public"
-  command = "hugo --minify --gc"
+  command = "hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic"
   
 [build.environment]
-  HUGO_VERSION = "0.108.0"
+  HUGO_VERSION = "0.124.1"
+  GO_VERSION = "1.22.2"
   HUGO_BASEURL = "/"
   HUGO_ENVIRONMENT = "production"
 [[headers]]
