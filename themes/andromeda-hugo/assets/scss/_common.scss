@@ -836,3 +836,10 @@ a.text-primary:hover {
 .border-primary-light {
   border-color: rgba($primary-color, 0.15) !important;
 }
+
+// Padding
+.max-lg\:px-35 {
+  @include desktop {
+    padding-inline: 35px;
+  }
+}
