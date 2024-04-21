@@ -19,12 +19,12 @@
           <div class="col-lg-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
 <!--ADDED -->
 <section class="banner">
-    <div class="row text-left">
+    <div class="row text-left max-lg:px-35">
         <div class="block row justify-content-center no-gutters" data-aos="fade-up">
           <div class="col-lg-10 px-0 px-xl-4">
             <h4 class="mb-4 justify-content-left" data-aos="fade-up">{{.scanner | markdownify}}</h4>
 	    <div class="content">
-            {{.scanBlurb | markdownify}}
+            <p>{{.scanBlurb | markdownify}}</p>
               <form action="/check-your-exposure" method="GET" class="needs-validation" novalidate>
                 <div class="form-group mb-4">
                   <input class="form-control shadow-none w-55" style="display:block; margin : 0 auto; background-color: #ffffff" id="domain" name="domain" type="domain" placeholder="Corporate Domain Name" required>
