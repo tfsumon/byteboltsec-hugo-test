@@ -39,10 +39,6 @@ header {
     }
   }
 
-  &.header-unpinned {
-    transform: translateY(calc(-100% - 5px));
-  }
-
   .navbar-brand {
     @include tablet {
       img {

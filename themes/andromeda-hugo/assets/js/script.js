@@ -121,23 +121,6 @@ $(document).ready(function () {
         .addClass("fas fa-plus");
     });
 
-  // headerPinUnpin init
-  function headerPinUnpin() {
-    var lastScroll = 0;
-    window.onscroll = function () {
-      var currentScroll =
-        document.documentElement.scrollTop || document.body.scrollTop;
-      if (currentScroll > 300 && lastScroll <= currentScroll) {
-        lastScroll = currentScroll;
-        $(".header-nav").addClass("header-unpinned");
-      } else {
-        lastScroll = currentScroll;
-        $(".header-nav").removeClass("header-unpinned");
-      }
-    };
-  }
-  headerPinUnpin();
-
   // menuHumBurger icon toggle Init
   function menuHumBurgerIcon() {
     $(".navbar-toggler").on("click", function () {
