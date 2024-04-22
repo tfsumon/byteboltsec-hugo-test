@@ -1,5 +1,5 @@
 ---
-date: "2024-02-04"
+date: "2024-04-21"
 title: "10 Best Data Leak Detection Tools Today"
 image: "images/blog/data-leak-detection-software.png"
 description: "Discover the best data leak detection tools. Learn what tools to use to detect data leaks in your company." 

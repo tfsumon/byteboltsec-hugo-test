@@ -13,7 +13,7 @@ draft: false
 ---
 ## What Is a Data Risk Assessment?
 
-A data risk assessment is the process of identifying, evaluating, and prioritizing potential risks to an organization's data. The process involves examining the various threats, vulnerabilities, and potential impacts that could compromise the confidentiality, integrity, and availability of sensitive information.
+A [data risk](https://www.breachsense.com/blog/data-risk-management/) assessment is the process of identifying, evaluating, and prioritizing potential risks to an organization's data. The process involves examining the various threats, vulnerabilities, and potential impacts that could compromise the confidentiality, integrity, and availability of sensitive information.
 
 By performing a data risk assessment, organizations gain a deep understanding of their data landscape, including the types of data they possess, where it is stored, how it is processed, and who has access to it. The assessment helps uncover weaknesses in existing security controls, compliance issues, and areas that require immediate attention. By quantifying and prioritizing risks based on their likelihood and potential consequences, business leaders can make informed decisions about resource allocation and minimize the likelihood and impact of a data breach.
 

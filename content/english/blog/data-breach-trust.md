@@ -1,5 +1,5 @@
 ---
-date: "2023-05-19"
+date: "2024-04-17"
 title: "Data Breaches Cause Loss of Customer Trust [Studies]"
 image: "images/blog/Data Breaches Cause Loss of Customer Trust [Studies].png"
 author: "Breachsense"

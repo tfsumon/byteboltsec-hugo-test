@@ -1,5 +1,5 @@
 ---
-date: "2024-01-18"
+date: "2024-04-18"
 title: "Data Breach Detection: Discover How to Detect a Data Breach"
 image: "images/blog/data-breach-detection.png"
 description: "Discover how to detect a data breach. Learn how data breach detection works and what methods and tools to use." 

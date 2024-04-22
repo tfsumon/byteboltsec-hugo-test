@@ -1,5 +1,5 @@
 ---
-date: "2024-01-19"
+date: "2024-04-06"
 title: "10 Steps to Prevent Third-party Data Breaches At Work"
 image: "images/blog/third-party-data-breach.png"
 description: "Discover how to prevent a third-party data breach. Learn ten ways to reduce the risk of a third-party data breach happening to you."
@@ -159,7 +159,7 @@ While employee training can go a long way toward securing your systems, human er
 
 ### 10. Have a Clear Incident Response Plan
 
-In the event of a third-party data breach, it’s critical to have a well-defined data breach response plan in place to respond quickly and effectively to the situation.
+In the event of a third-party data breach, it’s critical to have a well-defined data [breach response plan](https://www.breachsense.com/blog/data-breach-response/) in place to respond quickly and effectively to the situation.
 
 The response plan should outline the roles and responsibilities of the incident response team, the steps to be taken to contain the breach, and the process for notifying affected parties.
 

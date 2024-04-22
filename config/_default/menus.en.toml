@@ -148,12 +148,17 @@ url = "blog/"
 weight = 3
   
 [[footer]]
-name = "About"
-url = "about/"
-weight = 6
+name = "Book Demo"
+url = "book-demo/"
+weight = 4
 
 [[footer]]
-name = "Terms & Conditions"
-url = "terms-and-conditions/"
-weight = 7
+name = "Recent Breaches"
+url = "breaches/"
+weight = 5
+
+[[footer]]
+name = "Check Your Exposure"
+url = "check-your-exposure/"
+weight = 6
 

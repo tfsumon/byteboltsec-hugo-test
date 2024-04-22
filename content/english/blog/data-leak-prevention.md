@@ -1,5 +1,5 @@
 ---
-date: "2024-02-28"
+date: "2024-04-08"
 title: "Prevent a Data Leaks In Your Company: Causes and Prevention"
 image: "images/blog/data-leak-prevention.png"
 description: "Discover how to prevent a data leak in your company. Learn the causes and steps needed to prevent a data leak in your company." 

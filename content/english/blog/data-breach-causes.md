@@ -1,5 +1,5 @@
 ---
-date: "2023-12-28"
+date: "2024-04-09"
 title: "5 Top Causes of Data Breaches - Data Breach Causes Explained"
 image: "images/blog/data-breach-causes.png"
 description: "Discover the most common causes of data breaches. Learn what causes a data breach and how data breaches typically occur."
@@ -57,7 +57,7 @@ Where applicable, enable any automated patching systems available. Depending on 
 
 ### 4. Third-party Breaches
 
-Third-party data breaches happen when sensitive data is stolen from a 3rd party vendor who stores data related to your organization. In many cases, this can be an employee who created an account with the vendor using their work email account.
+[Third-party data breaches](https://www.breachsense.com/blog/third-party-data-breach/) happen when sensitive data is stolen from a 3rd party vendor who stores data related to your organization. In many cases, this can be an employee who created an account with the vendor using their work email account.
 
 Many people reuse the same passwords in multiple locations. Password reuse often enables an attacker to use a password leaked on a 3rd party app within your organization.
 

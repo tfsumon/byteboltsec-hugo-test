@@ -6,7 +6,7 @@ description: "Discover how to prevent a data breach in your company. Learn the c
 author: "Breachsense"
 h1: "How To Prevent A Data Breach in Your Company"
 intro1: "FACT: It takes an average of 204 days to identify a breach and then another 70 days to contain it."
-intro2: "To make matters worse, according to the [IBM Cost of a Data Breach Report](https://www.ibm.com/reports/data-breach), the average cost of a data breach reached an all-time high of USD 4.45 million."
+intro2: "To make matters worse, according to the [IBM Cost of a Data Breach Report](https://www.ibm.com/reports/data-breach), the [average cost of a data breach](https://www.breachsense.com/blog/cost-of-a-data-breach/) reached an all-time high of USD 4.45 million."
 intro3: "Dealing with a data breach after the fact is expensive."
 intro4: "Preventing a data breach is not only more cost-effective but also essential for maintaining your company's reputation."
 intro5: "In this post, we'll cover what a data breach is, what attackers do with the data, and the steps you can put in place today to prevent a breach in the future."

@@ -1,5 +1,5 @@
 ---
-date: "2024-02-08"
+date: "2024-04-04"
 title: "Insider Data Breaches: Causes, Real-life Examples and Prevention"
 image: "images/blog/insider-data-breach.png"
 description: "Learn everything about insider data breaches. Discover the common causes, real-life examples, and ways to prevent insider data breaches. "

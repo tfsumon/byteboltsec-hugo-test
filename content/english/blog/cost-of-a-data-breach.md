@@ -1,5 +1,5 @@
 ---
-date: "2024-01-02"
+date: "2024-04-12"
 title: "What is the Cost of Data Breach - Cost of Data Breach 2024 Report Data"
 image: "images/blog/cost-of-a-data-breach.png"
 description: "Learn what is the direct cost of a data breach for companies. Discover how much can a data breach cost your company."

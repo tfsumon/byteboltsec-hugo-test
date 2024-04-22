@@ -1,5 +1,5 @@
 ---
-date: "2024-03-07"
+date: "2024-04-10"
 title: "A quick guide to dark web threat intelligence"
 image: "images/blog/dark-web-threat-intelligence.png"
 description: "Learn everything about the dark web threat intelligence. Discover what dark web threat intelligence is and how to find it on the dark web."

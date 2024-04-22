@@ -1,5 +1,5 @@
 ---
-date: "2024-03-10"
+date: "2024-04-03"
 title: "What to Do if Your Company's Information Is Found on the Dark Web"
 image: "images/blog/dark-web-identity-theft.png"
 description: "Learn everything about what to do if your company's data is found on the dark web. Discover what to do when your company's information is found on the dark web." 

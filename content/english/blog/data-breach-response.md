@@ -1,5 +1,5 @@
 ---
-date: "2024-02-07"
+date: "2024-04-07"
 title: "Develop a Data Breach Response Plan in Five Steps."
 image: "images/blog/data-breach-response.png"
 description: "Discover how to make a data breach response plan. Learn five strategies that will help you make a comprehensive data breach response plan." 

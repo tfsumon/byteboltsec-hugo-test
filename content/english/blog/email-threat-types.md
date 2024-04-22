@@ -35,7 +35,7 @@ Malicious emails containing attachments or links that, when opened or clicked, c
 
 ### Business Email Compromise (BEC)
 
-Targeted email attacks aimed at employees with access to financial accounts or sensitive data, impersonating executives or trusted partners to initiate fraudulent wire transfers or data theft.
+Targeted email attacks aimed at employees with access to financial accounts or sensitive data, impersonating executives or trusted partners to initiate fraudulent wire transfers or [data theft](https://www.breachsense.com/blog/data-theft-prevention/).
 
 ### Spam
 

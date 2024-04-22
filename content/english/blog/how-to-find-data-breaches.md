@@ -1,5 +1,5 @@
 ---
-date: "2024-01-24"
+date: "2024-04-20"
 title: "How to Find Data Breaches - How to Check if Your Data's Been Breached"
 image: "images/blog/how-to-find-data-breaches.png"
 description: "Discover how to find data breaches and other leaked data. Learn how to check whether your company's sensitive information has been leaked."

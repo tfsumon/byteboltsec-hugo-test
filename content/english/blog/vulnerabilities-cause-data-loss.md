@@ -1,5 +1,5 @@
 ---
-date: "2023-05-21"
+date: "2024-04-11"
 title: "15 Vulnerabilities That Cause Data Loss [+ Prevention Guide]"
 image: "images/blog/15 Vulnerabilities That Cause Data Loss [+ Prevention Guide].png"
 description: "Learn everything about vulnerabilities that cause data loss. Discover what the most common vulnerabilities that cause data loss and how to prevent it." 

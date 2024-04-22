@@ -1,5 +1,5 @@
 ---
-date: "2024-01-08"
+date: "2024-04-16"
 title: "Data Breach Examples: 15 Biggest Data Breaches Explained"
 image: "images/blog/data-breach-examples.png"
 description: "Discover the 15 biggest data breach examples that occured recently. Learn what were the biggest data breaches lately."

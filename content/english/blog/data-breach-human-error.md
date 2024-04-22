@@ -1,5 +1,5 @@
 ---
-date: "2024-01-29"
+date: "2024-04-19"
 title: "How human error causes data breaches"
 image: "images/blog/human-error.png"
 description: "Discover how to human error causes so many data breaches. Learn how human error can lead to a data breach."
