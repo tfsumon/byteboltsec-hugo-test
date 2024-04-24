@@ -843,3 +843,27 @@ a.text-primary:hover {
     padding-inline: 35px;
   }
 }
+
+.tag {
+  display: inline-block;
+  font-size: 0.9rem;
+  text-decoration: underline;
+}
+
+.text-highlight {
+  color: $primary-color;
+  text-decoration: underline;
+}
+
+.tag-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  > li > a {
+    padding: 5px 15px;
+    font-size: 0.9em;
+    border-radius: 4px;
+    display: inline-block;
+    background-color: rgba($primary-color, 0.05);
+  }
+}

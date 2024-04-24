@@ -1,2 +1,40 @@
-<!-- Redirect to homepage -->
-<script>window.location.replace("{{ site.BaseURL | relLangURL }}");</script>
+{{ define "main" }}
+
+  <section class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-10 mx-auto pb-5">
+          <ul class="text-center tag-list list list-inline">
+            {{/* categories */}}
+            {{ if eq .Permalink (`tags/` | absLangURL) }}
+              {{ range site.Taxonomies.tags.ByCount }}
+                <li class="list-inline-item">
+                  <a
+                    href="{{ .Page.Permalink }}">
+                    {{ .Page.Title }}
+                    <span class="ml-2 px-2">
+                      {{ .Count }}
+                    </span>
+                  </a>
+                </li>
+              {{ end }}
+            {{ end }}
+          </ul>
+        </div>
+        <div class="col-lg-10 mx-auto pt-4">
+          <div class="row gy-4">
+            <div class="col-12">
+              <h2 class="mb-0 font-weight-500">Our Recent Posts</span></h2>
+            </div>
+            {{/* Recent posts  */}}
+            {{ range (site.GetPage "blog").Pages | first 4 }}
+              <div class="col-lg-6">
+                {{ .Render "article" }}
+              </div>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+{{ end }}

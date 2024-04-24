@@ -3,6 +3,7 @@ date: "2024-04-17"
 title: "Remote Work Cybersecurity Risks"
 image: "images/blog/remote-work-data-breach.webp"
 description: "Learn everything about remote work cybersecurity risks. Discover the steps needed to protect your organization from data breaches due to remote work."
+tags: ["Remote Work", "Cybersecurity"]
 author: "Breachsense"
 h1: "Remote Work Cybersecurity Risks"
 intro1: "FACT: Remote work environments, on average, increase the cost of a data breach by $137,000 ([IBM](https://www.ibm.com/security/digital-assets/cost-data-breach-report/1Cost%20of%20a%20Data%20Breach%20Report%202020.pdf))."

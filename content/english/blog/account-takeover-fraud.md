@@ -3,6 +3,7 @@ date: "2024-04-04"
 title: "What Is Account Takeover Fraud: Detection and Prevention"
 image: "images/blog/account-takeover-fraud.webp"
 description: "Discover the best practices for preventing account takeover fraud. Learn the mechanics of account takeover attacks and the best practices for prevention."
+tags: ["Account Takeover Fraud", "Prevention"]
 author: "Breachsense"
 h1: "Account Takeover Fraud: Detection and Prevention"
 intro1: "FACT: Account Takeover attacks have jumped 354% over the last year [(Sift)](https://pages.sift.com/rs/526-PCC-974/images/Sift-2023-Q3-Index-Report_ATO.pdf)."

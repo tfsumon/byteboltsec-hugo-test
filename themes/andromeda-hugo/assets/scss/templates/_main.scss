@@ -194,6 +194,30 @@
   }
 }
 
+// breadcrumb
+.breadcrumb {
+  border-radius: 0px;
+  margin-inline: auto;
+  width: fit-content;
+  background-color: transparent;
+  border-top: 1px solid rgba($black, 0.2);
+  margin-top: 15px;
+  padding-top: 15px;
+
+  li a {
+    font-weight: 400;
+    text-decoration: underline;
+  }
+
+  >li:first-child {
+
+  }
+  >li:last-child {}
+  >li:not(:last-child)>.separator {
+    padding-inline: 10px;
+  }
+}
+
 // about
 .about-image {
   position: relative;

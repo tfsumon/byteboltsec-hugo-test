@@ -3,6 +3,7 @@ date: "2024-04-02"
 title: "Business Email Compromise (BEC) and Data Theft"
 image: "images/blog/business-email-compromise-data-theft.webp"
 description: "Learn everything about business email compromise attacks. Discover the steps you need to protect against BEC threats."
+tags: ["business", "email"]
 author: "Breachsense"
 h1: "Business Email Compromise (BEC) and Data Theft"
 intro1: "FACT: In the U.S. alone, BEC attacks caused over $2.9 billion in losseslast year ([FBI](https://www.ic3.gov/Media/PDF/AnnualReport/2023_IC3Report.pdf))."

@@ -2,7 +2,8 @@
 date: "2024-04-18"
 title: "Data Breach Detection: Discover How to Detect a Data Breach"
 image: "images/blog/data-breach-detection.png"
-description: "Discover how to detect a data breach. Learn how data breach detection works and what methods and tools to use." 
+description: "Discover how to detect a data breach. Learn how data breach detection works and what methods and tools to use."
+tags: ["detection", "data breach"]
 author: "Breachsense"
 h1: "How to Detect a Data Breach (5 Critical Steps)"
 intro1: "It’s unfortunate but true - Any company today faces an increasing risk of a [data breach](https://www.breachsense.com/blog/what-is-a-data-breach/)." 

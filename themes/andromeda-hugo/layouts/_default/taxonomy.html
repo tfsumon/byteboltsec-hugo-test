@@ -1,0 +1,23 @@
+{{ define "main" }}
+
+  <section class="section">
+    <div class="container">
+      <div class="row">
+        <!-- blog posts -->
+        <div class="col-lg-10 mx-auto">
+          <div class="row gy-4">
+            <div class="col-lg-10 mx-auto text-center pb-md-5">
+              <h2 class="mb-0 font-weight-500">Showing Posts From <span class="text-highlight">{{.Title}}</span></h2>
+              {{ partial "components/breadcrumb" (dict "Context" . "Class" "breadcrumb") }}
+            </div>
+            {{ range .Data.Pages }}
+              <div class="col-lg-6">
+                {{ .Render "article" }}
+              </div>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+{{ end }}

@@ -2,7 +2,8 @@
 date: "2024-04-21"
 title: "10 Best Data Leak Detection Tools Today"
 image: "images/blog/data-leak-detection-software.png"
-description: "Discover the best data leak detection tools. Learn what tools to use to detect data leaks in your company." 
+description: "Discover the best data leak detection tools. Learn what tools to use to detect data leaks in your company."
+tags: ["data leak", "data breach"]
 author: "Breachsense"
 h1: "The 10 Best Data Leak Detection Software Solutions"
 intro1: "Are you worried about data leaks? Looking for software that would help you detect a data leak?"

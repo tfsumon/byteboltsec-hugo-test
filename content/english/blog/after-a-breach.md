@@ -3,6 +3,7 @@ date: "2024-01-09"
 title: "What to Do After a Data Breach? 6 Step-process Explained"
 image: "images/blog/after-a-breach.png"
 description: "Discover what a company should do after a data breach? Learn the exact process to use after a data breach."
+tags: ["Data Breach", "Data Breach Monitoring"]
 h1: "What A Company Should Do After a Data Breach"
 intro1: "It's unfortunate but true - Today, we should no longer think about data breaches in hypothetical terms."
 intro2: "Sadly, a data breach is not a potential threat anymore. In fact, for most of us, it's more a question of WHEN a data breach will happen rather than IF, and it's crucial that we all have a [data breach response plan](https://www.breachsense.com/blog/data-breach-response-checklist/) and know what to do once it happens."

@@ -3,6 +3,8 @@ date: "2024-04-19"
 title: "How human error causes data breaches"
 image: "images/blog/human-error.png"
 description: "Discover how to human error causes so many data breaches. Learn how human error can lead to a data breach."
+tags: ["data leak", "data breach"]
+author: "Breachsense"
 h1: "Why are so many data breaches caused human error?"
 intro1: "The sad truth is history is filled with data breaches that were caused by human error."
 intro2: "A [joint study](https://www.tessian.com/resources/psychology-of-human-error-2022/) by Stanford and Tessian reported that employee mistakes cause 88 percent of data breach incidents."
@@ -11,7 +13,6 @@ intro4: "And all of this is despite organizations significantly increasing their
 intro5: "With the increasing number of breaches stemming from human error, it's clear that our current approach to security isn't working."
 intro6: "There has to be a better way."
 intro7: "That's what we're going to cover below. You'll learn about common types of human error that cause data breaches, as well as the best ways to prevent them from happening in your organization."
-author: "Breachsense"
 draft: false
 ---
 ## What is human error in cybersecurity? 
