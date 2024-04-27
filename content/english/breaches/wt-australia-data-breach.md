@@ -1,14 +1,14 @@
 ---
-date: "2023-10-10"
-discovered: "October 10, 2023"
-title: "WT Australia"
-image: "images/blog/Qilin.png"
-author: "Breachsense Support"
+date: '2023-10-10'
+discovered: October 10, 2023
+title: WT Australia
+image: images/blog/Qilin.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | wtpartnership.asia      | 
 | Threat Actor      | Qilin      | 
 | Date Discovered      | Oct 10, 2023      | 

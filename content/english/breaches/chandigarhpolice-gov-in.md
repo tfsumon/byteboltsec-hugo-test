@@ -1,14 +1,14 @@
 ---
-Discovered: "February 15, 2022"
-date: "2022-02-15"
-title: "chandigarhpolice.gov.in"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: February 15, 2022
+date: '2022-02-15'
+title: chandigarhpolice.gov.in
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/february
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | chandigarhpolice.gov.in      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Feb 15, 2022      | 

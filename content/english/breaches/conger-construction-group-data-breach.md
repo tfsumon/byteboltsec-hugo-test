@@ -1,14 +1,14 @@
 ---
-Discovered: "September 23, 2022"
-date: "2022-09-23"
-title: "Conger Construction Group"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: September 23, 2022
+date: '2022-09-23'
+title: Conger Construction Group
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | congerbuilt.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Sep 23, 2022      | 

@@ -1,14 +1,14 @@
 ---
-date: "2023-11-20"
-discovered: "November 20, 2023"
-title: "Olivetti, McCray & Withrow"
-image: "images/blog/Medusa.png"
-author: "Breachsense Support"
+date: '2023-11-20'
+discovered: November 20, 2023
+title: Olivetti, McCray & Withrow
+image: images/blog/Medusa.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | omwlawfirm.com      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Nov 20, 2023      | 

@@ -1,14 +1,14 @@
 ---
-date: "2023-10-04"
-discovered: "October 04, 2023"
-title: "Somagic"
-image: "images/blog/Medusa.png"
-author: "Breachsense Support"
+date: '2023-10-04'
+discovered: October 04, 2023
+title: Somagic
+image: images/blog/Medusa.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | somagic.fr      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Oct 04, 2023      | 

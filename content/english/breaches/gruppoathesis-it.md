@@ -1,14 +1,14 @@
 ---
-Discovered: "April 19, 2022"
-date: "2022-04-19"
-title: "gruppoathesis.it"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: April 19, 2022
+date: '2022-04-19'
+title: gruppoathesis.it
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/april
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | gruppoathesis.it      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Apr 19, 2022      | 

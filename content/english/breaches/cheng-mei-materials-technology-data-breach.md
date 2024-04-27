@@ -1,14 +1,14 @@
 ---
-date: "2024-01-22"
-discovered: "January 22, 2024"
-title: "Cheng Mei Materials Technology"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2024-01-22'
+discovered: January 22, 2024
+title: Cheng Mei Materials Technology
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | cmmt.com.tw      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jan 22, 2024      | 

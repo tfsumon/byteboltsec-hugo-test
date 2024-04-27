@@ -1,14 +1,14 @@
 ---
-Discovered: "December 07, 2021"
-date: "2021-12-07"
-title: "hp.icon-institute.de"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: December 07, 2021
+date: '2021-12-07'
+title: hp.icon-institute.de
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/december
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | hp.icon-institute.de      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Dec 07, 2021      | 

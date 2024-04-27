@@ -1,14 +1,14 @@
 ---
-date: "2023-12-13"
-discovered: "December 13, 2023"
-title: "Woodruff"
-image: "images/blog/3AM.png"
-author: "Breachsense Support"
+date: '2023-12-13'
+discovered: December 13, 2023
+title: Woodruff
+image: images/blog/3AM.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | woodruffenterprises.com      | 
 | Threat Actor      | 3AM      | 
 | Date Discovered      | Dec 13, 2023      | 

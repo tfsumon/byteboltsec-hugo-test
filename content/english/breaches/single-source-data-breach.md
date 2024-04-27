@@ -1,14 +1,14 @@
 ---
-date: "2023-02-20"
-discovered: "February 20, 2023"
-title: "Single Source"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+date: '2023-02-20'
+discovered: February 20, 2023
+title: Single Source
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | singlesource.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Feb 20, 2023      | 

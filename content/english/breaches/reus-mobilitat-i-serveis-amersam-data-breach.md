@@ -1,14 +1,14 @@
 ---
-date: "2023-12-13"
-discovered: "December 13, 2023"
-title: "Reus Mobilitat I Serveis (Amersam)"
-image: "images/blog/8BASE.png"
-author: "Breachsense Support"
+date: '2023-12-13'
+discovered: December 13, 2023
+title: Reus Mobilitat I Serveis (Amersam)
+image: images/blog/8BASE.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | reusmobilitat.cat      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Dec 13, 2023      | 

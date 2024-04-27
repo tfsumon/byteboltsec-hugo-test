@@ -1,14 +1,14 @@
 ---
-date: "2024-04-08"
-discovered: "April 08, 2024"
-title: "EAS"
-image: "images/blog/Qilin.png"
-author: "Breachsense Support"
+date: '2024-04-08'
+discovered: April 08, 2024
+title: EAS
+image: images/blog/Qilin.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/april
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | easchangesystems.com      | 
 | Threat Actor      | Qilin      | 
 | Date Discovered      | Apr 08, 2024      | 

@@ -1,14 +1,14 @@
 ---
-date: "2023-11-23"
-discovered: "November 23, 2023"
-title: "Community Hospital"
-image: "images/blog/Medusa.png"
-author: "Breachsense Support"
+date: '2023-11-23'
+discovered: November 23, 2023
+title: Community Hospital
+image: images/blog/Medusa.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | chal.org      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Nov 23, 2023      | 

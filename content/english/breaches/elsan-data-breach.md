@@ -1,14 +1,14 @@
 ---
-date: "2023-01-25"
-discovered: "January 25, 2023"
-title: "Elsan"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-01-25'
+discovered: January 25, 2023
+title: Elsan
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | elsan.care      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jan 25, 2023      | 

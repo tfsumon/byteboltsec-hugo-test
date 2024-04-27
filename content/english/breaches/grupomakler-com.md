@@ -1,14 +1,14 @@
 ---
-Discovered: "January 06, 2022"
-date: "2022-01-06"
-title: "grupomakler.com"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: January 06, 2022
+date: '2022-01-06'
+title: grupomakler.com
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/january
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | grupomakler.com      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Jan 06, 2022      | 

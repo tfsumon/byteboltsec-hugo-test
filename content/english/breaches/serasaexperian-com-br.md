@@ -1,14 +1,14 @@
 ---
-Discovered: "January 07, 2022"
-date: "2022-01-07"
-title: "serasaexperian.com.br"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: January 07, 2022
+date: '2022-01-07'
+title: serasaexperian.com.br
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/january
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | serasaexperian.com.br      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Jan 07, 2022      | 

@@ -1,14 +1,14 @@
 ---
-date: "2024-02-26"
-discovered: "February 26, 2024"
-title: "Rapid Granulator"
-image: "images/blog/RansomHouse.png"
-author: "Breachsense Support"
+date: '2024-02-26'
+discovered: February 26, 2024
+title: Rapid Granulator
+image: images/blog/RansomHouse.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | rapidgranulator.com      | 
 | Threat Actor      | RansomHouse      | 
 | Date Discovered      | Feb 26, 2024      | 

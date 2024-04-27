@@ -1,14 +1,14 @@
 ---
-Discovered: "November 25, 2021"
-date: "2021-11-25"
-title: "swirespo.com"
-image: "images/blog/CL0P.png"
-author: "Breachsense Support"
+Discovered: November 25, 2021
+date: '2021-11-25'
+title: swirespo.com
+image: images/blog/CL0P.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/november
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | swirespo.com      | 
 | Threat Actor    | CL0P      | 
 | Date Discovered    | Nov 25, 2021      | 

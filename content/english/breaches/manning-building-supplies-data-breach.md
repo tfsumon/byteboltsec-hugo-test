@@ -1,14 +1,14 @@
 ---
-date: "2023-03-15"
-discovered: "March 15, 2023"
-title: "Manning Building Supplies"
-image: "images/blog/Lorenz.png"
-author: "Breachsense Support"
+date: '2023-03-15'
+discovered: March 15, 2023
+title: Manning Building Supplies
+image: images/blog/Lorenz.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | mbs-corp.com      | 
 | Threat Actor      | Lorenz      | 
 | Date Discovered      | Mar 15, 2023      | 

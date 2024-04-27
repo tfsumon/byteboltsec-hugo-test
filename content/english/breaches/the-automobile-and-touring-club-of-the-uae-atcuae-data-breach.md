@@ -1,14 +1,14 @@
 ---
-date: "2023-01-17"
-discovered: "January 17, 2023"
-title: "The Automobile and Touring Club of the UAE (ATCUAE)"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-01-17'
+discovered: January 17, 2023
+title: The Automobile and Touring Club of the UAE (ATCUAE)
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | atcuae.ae      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jan 17, 2023      | 

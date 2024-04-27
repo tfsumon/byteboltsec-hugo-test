@@ -1,14 +1,14 @@
 ---
-date: "2024-03-26"
-discovered: "March 26, 2024"
-title: "Henry County"
-image: "images/blog/Medusa.png"
-author: "Breachsense Support"
+date: '2024-03-26'
+discovered: March 26, 2024
+title: Henry County
+image: images/blog/Medusa.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | henrycty.com      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Mar 26, 2024      | 

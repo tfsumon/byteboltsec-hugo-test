@@ -1,14 +1,14 @@
 ---
-date: "2023-03-08"
-discovered: "March 08, 2023"
-title: "Group AMANA"
-image: "images/blog/CL0P.png"
-author: "Breachsense Support"
+date: '2023-03-08'
+discovered: March 08, 2023
+title: Group AMANA
+image: images/blog/CL0P.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | groupamana.com      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Mar 08, 2023      | 

@@ -1,14 +1,14 @@
 ---
-Discovered: "January 30, 2021"
-date: "2021-01-30"
-title: "bartoliearveda.it"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: January 30, 2021
+date: '2021-01-30'
+title: bartoliearveda.it
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/january
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | bartoliearveda.it      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Jan 30, 2021      | 

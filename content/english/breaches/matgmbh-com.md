@@ -1,14 +1,14 @@
 ---
-Discovered: "September 16, 2020"
-date: "2020-09-16"
-title: "matgmbh.com"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: September 16, 2020
+date: '2020-09-16'
+title: matgmbh.com
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2020/september
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | matgmbh.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Sep 16, 2020      | 

@@ -1,14 +1,14 @@
 ---
-Discovered: "December 22, 2022"
-date: "2022-12-22"
-title: "Alvaria"
-image: "images/blog/HiveLeaks.png"
-author: "Breachsense Support"
+Discovered: December 22, 2022
+date: '2022-12-22'
+title: Alvaria
+image: images/blog/HiveLeaks.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | alvaria.com      | 
 | Threat Actor      | HiveLeaks      | 
 | Date Discovered      | Dec 22, 2022      | 

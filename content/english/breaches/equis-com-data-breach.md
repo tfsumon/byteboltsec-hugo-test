@@ -1,14 +1,14 @@
 ---
-Discovered: "June 07, 2022"
-date: "2022-06-07"
-title: "Equis"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: June 07, 2022
+date: '2022-06-07'
+title: Equis
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/june
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | equis.com      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Jun 07, 2022      | 

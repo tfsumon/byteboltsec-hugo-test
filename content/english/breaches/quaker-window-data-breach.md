@@ -1,14 +1,14 @@
 ---
-date: "2023-12-26"
-discovered: "December 26, 2023"
-title: "Quaker Window"
-image: "images/blog/Cactus.png"
-author: "Breachsense Support"
+date: '2023-12-26'
+discovered: December 26, 2023
+title: Quaker Window
+image: images/blog/Cactus.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | quakerwindows.com      | 
 | Threat Actor      | Cactus      | 
 | Date Discovered      | Dec 26, 2023      | 

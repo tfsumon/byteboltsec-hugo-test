@@ -1,14 +1,14 @@
 ---
-date: "2023-10-18"
-discovered: "October 18, 2023"
-title: "Republic Bank"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+date: '2023-10-18'
+discovered: October 18, 2023
+title: Republic Bank
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | republicbank.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Oct 18, 2023      | 

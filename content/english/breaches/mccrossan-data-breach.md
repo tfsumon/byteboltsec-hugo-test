@@ -1,14 +1,14 @@
 ---
-date: "2022-11-10"
-discovered: "November 10, 2022"
-title: "McCrossan"
-image: "images/blog/HiveLeaks.png"
-author: "Breachsense Support"
+date: '2022-11-10'
+discovered: November 10, 2022
+title: McCrossan
+image: images/blog/HiveLeaks.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | mccrossan.com      | 
 | Threat Actor      | HiveLeaks      | 
 | Date Discovered      | Nov 10, 2022      | 

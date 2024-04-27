@@ -1,14 +1,14 @@
 ---
-date: "2023-12-28"
-discovered: "December 28, 2023"
-title: "Ziv Medical Center"
-image: "images/blog/MalekTeam.png"
-author: "Breachsense Support"
+date: '2023-12-28'
+discovered: December 28, 2023
+title: Ziv Medical Center
+image: images/blog/MalekTeam.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | ziv.health.gov.il      | 
 | Threat Actor      | MalekTeam      | 
 | Date Discovered      | Dec 28, 2023      | 

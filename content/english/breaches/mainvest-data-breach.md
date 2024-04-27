@@ -1,14 +1,14 @@
 ---
-date: "2024-03-07"
-discovered: "March 07, 2024"
-title: "Mainvest"
-image: "images/blog/Play.png"
-author: "Breachsense Support"
+date: '2024-03-07'
+discovered: March 07, 2024
+title: Mainvest
+image: images/blog/Play.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | mainvest.com      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Mar 07, 2024      | 

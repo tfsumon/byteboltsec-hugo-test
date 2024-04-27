@@ -1,14 +1,14 @@
 ---
-date: "2023-06-01"
-discovered: "June 01, 2023"
-title: "SMDEA09"
-image: "images/blog/Qilin.png"
-author: "Breachsense Support"
+date: '2023-06-01'
+discovered: June 01, 2023
+title: SMDEA09
+image: images/blog/Qilin.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | smdea09.fr      | 
 | Threat Actor      | Qilin      | 
 | Date Discovered      | Jun 01, 2023      | 

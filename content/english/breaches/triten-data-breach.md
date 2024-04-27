@@ -1,14 +1,14 @@
 ---
-Discovered: "September 15, 2022"
-date: "2022-09-15"
-title: "Triten"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+Discovered: September 15, 2022
+date: '2022-09-15'
+title: Triten
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | triten.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Sep 15, 2022      | 

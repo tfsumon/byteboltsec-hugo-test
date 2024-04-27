@@ -1,14 +1,14 @@
 ---
-date: "2023-10-25"
-discovered: "October 25, 2023"
-title: "CMC Group"
-image: "images/blog/Akira.png"
-author: "Breachsense Support"
+date: '2023-10-25'
+discovered: October 25, 2023
+title: CMC Group
+image: images/blog/Akira.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | cmcgroupmiami.com      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Oct 25, 2023      | 

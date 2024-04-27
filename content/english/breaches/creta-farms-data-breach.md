@@ -1,14 +1,14 @@
 ---
-Discovered: "December 19, 2022"
-date: "2022-12-19"
-title: "Creta Farms"
-image: "images/blog/Play.png"
-author: "Breachsense Support"
+Discovered: December 19, 2022
+date: '2022-12-19'
+title: Creta Farms
+image: images/blog/Play.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | cretafarms.gr      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Dec 19, 2022      | 

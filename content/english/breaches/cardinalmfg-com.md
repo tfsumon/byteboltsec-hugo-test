@@ -1,14 +1,14 @@
 ---
-Discovered: "May 20, 2021"
-date: "2021-05-20"
-title: "cardinalmfg.com"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: May 20, 2021
+date: '2021-05-20'
+title: cardinalmfg.com
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/may
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | cardinalmfg.com      | 
 | Threat Actor    | LV Blog      | 
 | Date Discovered    | May 20, 2021      | 

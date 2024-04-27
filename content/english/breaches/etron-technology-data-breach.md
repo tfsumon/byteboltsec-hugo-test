@@ -1,14 +1,14 @@
 ---
-Discovered: "June 14, 2022"
-date: "2022-06-14"
-title: "Etron Technology"
-image: "images/blog/Cuba.png"
-author: "Breachsense Support"
+Discovered: June 14, 2022
+date: '2022-06-14'
+title: Etron Technology
+image: images/blog/Cuba.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | etron.com      | 
 | Threat Actor      | Cuba      | 
 | Date Discovered      | Jun 14, 2022      | 

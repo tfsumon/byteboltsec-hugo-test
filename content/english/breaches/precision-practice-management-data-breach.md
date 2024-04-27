@@ -1,14 +1,14 @@
 ---
-date: "2023-09-25"
-discovered: "September 25, 2023"
-title: "Precision Practice Management"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-09-25'
+discovered: September 25, 2023
+title: Precision Practice Management
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | precisionpractice.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Sep 25, 2023      | 

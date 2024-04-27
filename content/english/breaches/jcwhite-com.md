@@ -1,14 +1,14 @@
 ---
-Discovered: "January 19, 2022"
-date: "2022-01-19"
-title: "jcwhite.com"
-image: "images/blog/CL0P.png"
-author: "Breachsense Support"
+Discovered: January 19, 2022
+date: '2022-01-19'
+title: jcwhite.com
+image: images/blog/CL0P.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/january
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | jcwhite.com      | 
 | Threat Actor    | CL0P      | 
 | Date Discovered    | Jan 19, 2022      | 

@@ -1,14 +1,14 @@
 ---
-date: "2024-04-05"
-discovered: "April 05, 2024"
-title: "Commerce Dental Group"
-image: "images/blog/Ciphbit.png"
-author: "Breachsense Support"
+date: '2024-04-05'
+discovered: April 05, 2024
+title: Commerce Dental Group
+image: images/blog/Ciphbit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/april
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | commercedentalgroup.com      | 
 | Threat Actor      | Ciphbit      | 
 | Date Discovered      | Apr 05, 2024      | 

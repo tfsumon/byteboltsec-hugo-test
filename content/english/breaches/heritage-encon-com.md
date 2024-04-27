@@ -1,14 +1,14 @@
 ---
-Discovered: "February 11, 2022"
-date: "2022-02-11"
-title: "heritage-encon.com"
-image: "images/blog/Cuba.png"
-author: "Breachsense Support"
+Discovered: February 11, 2022
+date: '2022-02-11'
+title: heritage-encon.com
+image: images/blog/Cuba.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/february
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | heritage-encon.com      | 
 | Threat Actor    | Cuba      | 
 | Date Discovered    | Feb 11, 2022      | 

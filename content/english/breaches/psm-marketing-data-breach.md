@@ -1,14 +1,14 @@
 ---
-date: "2023-08-29"
-discovered: "August 29, 2023"
-title: "PSM Marketing"
-image: "images/blog/Ransomed.png"
-author: "Breachsense Support"
+date: '2023-08-29'
+discovered: August 29, 2023
+title: PSM Marketing
+image: images/blog/Ransomed.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | powersportsmarketing.com      | 
 | Threat Actor      | Ransomed      | 
 | Date Discovered      | Aug 29, 2023      | 

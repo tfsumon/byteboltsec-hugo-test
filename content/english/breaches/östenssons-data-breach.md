@@ -1,14 +1,14 @@
 ---
-date: "2024-03-20"
-discovered: "March 20, 2024"
-title: "Östenssons"
-image: "images/blog/8BASE.png"
-author: "Breachsense Support"
+date: '2024-03-20'
+discovered: March 20, 2024
+title: Östenssons
+image: images/blog/8BASE.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | ostenssons.se      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Mar 20, 2024      | 

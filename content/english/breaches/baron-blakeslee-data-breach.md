@@ -1,14 +1,14 @@
 ---
-date: "2024-04-18"
-discovered: "April 18, 2024"
-title: "Baron Blakeslee"
-image: "images/blog/Akira.png"
-author: "Breachsense Support"
+date: '2024-04-18'
+discovered: April 18, 2024
+title: Baron Blakeslee
+image: images/blog/Akira.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/april
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | baronblakeslee.net      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Apr 18, 2024      | 

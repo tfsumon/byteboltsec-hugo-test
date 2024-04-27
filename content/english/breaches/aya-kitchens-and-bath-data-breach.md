@@ -1,14 +1,14 @@
 ---
-date: "2023-11-13"
-discovered: "November 13, 2023"
-title: "AyA Kitchens and Bath"
-image: "images/blog/BlackBasta.png"
-author: "Breachsense Support"
+date: '2023-11-13'
+discovered: November 13, 2023
+title: AyA Kitchens and Bath
+image: images/blog/BlackBasta.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | ayakitchens.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Nov 13, 2023      | 

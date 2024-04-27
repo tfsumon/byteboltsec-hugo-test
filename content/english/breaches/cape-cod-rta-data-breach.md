@@ -1,14 +1,14 @@
 ---
-Discovered: "June 10, 2022"
-date: "2022-06-10"
-title: "Cape Cod RTA"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: June 10, 2022
+date: '2022-06-10'
+title: Cape Cod RTA
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/june
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | capecodrta.org      | 
 | Threat Actor    | LV Blog      | 
 | Date Discovered    | Jun 10, 2022      | 

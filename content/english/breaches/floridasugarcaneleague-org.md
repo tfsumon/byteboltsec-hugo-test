@@ -1,14 +1,14 @@
 ---
-Discovered: "July 01, 2021"
-date: "2021-07-01"
-title: "floridasugarcaneleague.org"
-image: "images/blog/HiveLeaks.png"
-author: "Breachsense Support"
+Discovered: July 01, 2021
+date: '2021-07-01'
+title: floridasugarcaneleague.org
+image: images/blog/HiveLeaks.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/july
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | floridasugarcaneleague.org      | 
 | Threat Actor    | Hive      | 
 | Date Discovered    | Jul 01, 2021      | 

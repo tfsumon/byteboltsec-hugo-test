@@ -1,14 +1,14 @@
 ---
-Discovered: "September 08, 2020"
-date: "2020-09-08"
-title: "cleaningsystemsco.com"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: September 08, 2020
+date: '2020-09-08'
+title: cleaningsystemsco.com
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2020/september
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | cleaningsystemsco.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Sep 08, 2020      | 

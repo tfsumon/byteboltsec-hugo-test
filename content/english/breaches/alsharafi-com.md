@@ -1,14 +1,14 @@
 ---
-Discovered: "May 27, 2021"
-date: "2021-05-27"
-title: "alsharafi.com"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: May 27, 2021
+date: '2021-05-27'
+title: alsharafi.com
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/may
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | alsharafi.com      | 
 | Threat Actor    | Xing Locker      | 
 | Date Discovered    | May 27, 2021      | 

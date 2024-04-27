@@ -1,14 +1,14 @@
 ---
-date: "2023-08-04"
-discovered: "August 04, 2023"
-title: "United Tractors"
-image: "images/blog/Rhysida.png"
-author: "Breachsense Support"
+date: '2023-08-04'
+discovered: August 04, 2023
+title: United Tractors
+image: images/blog/Rhysida.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | unitedtractors.com      | 
 | Threat Actor      | Rhysida      | 
 | Date Discovered      | Aug 04, 2023      | 

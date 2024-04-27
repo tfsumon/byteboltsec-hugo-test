@@ -1,14 +1,14 @@
 ---
-Discovered: "March 23, 2022"
-date: "2022-03-23"
-title: "inibsa.com"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+Discovered: March 23, 2022
+date: '2022-03-23'
+title: inibsa.com
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/march
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | inibsa.com      | 
 | Threat Actor    | ALPHV      | 
 | Date Discovered    | Mar 23, 2022      | 

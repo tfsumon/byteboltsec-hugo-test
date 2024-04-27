@@ -1,14 +1,14 @@
 ---
-date: "2023-03-14"
-discovered: "March 14, 2023"
-title: "Arizona Reproductive Medicine Specialists"
-image: "images/blog/BianLian.png"
-author: "Breachsense Support"
+date: '2023-03-14'
+discovered: March 14, 2023
+title: Arizona Reproductive Medicine Specialists
+image: images/blog/BianLian.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | arizonafertility.com      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Mar 14, 2023      | 

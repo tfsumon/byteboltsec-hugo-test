@@ -1,14 +1,14 @@
 ---
-Discovered: "December 26, 2022"
-date: "2022-12-26"
-title: "Rech"
-image: "images/blog/Royal.png"
-author: "Breachsense Support"
+Discovered: December 26, 2022
+date: '2022-12-26'
+title: Rech
+image: images/blog/Royal.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | rech.com.br      | 
 | Threat Actor      | Royal      | 
 | Date Discovered      | Dec 26, 2022      | 

@@ -1,14 +1,14 @@
 ---
-date: "2024-03-01"
-discovered: "March 01, 2024"
-title: "Goodin Abernathy"
-image: "images/blog/BlackBasta.png"
-author: "Breachsense Support"
+date: '2024-03-01'
+discovered: March 01, 2024
+title: Goodin Abernathy
+image: images/blog/BlackBasta.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | goodinabernathy.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Mar 01, 2024      | 

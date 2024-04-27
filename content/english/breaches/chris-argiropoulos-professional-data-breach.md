@@ -1,14 +1,14 @@
 ---
-date: "2024-03-06"
-discovered: "March 06, 2024"
-title: "Chris Argiropoulos Professional"
-image: "images/blog/Medusa.png"
-author: "Breachsense Support"
+date: '2024-03-06'
+discovered: March 06, 2024
+title: Chris Argiropoulos Professional
+image: images/blog/Medusa.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | capclaw.ca      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Mar 06, 2024      | 

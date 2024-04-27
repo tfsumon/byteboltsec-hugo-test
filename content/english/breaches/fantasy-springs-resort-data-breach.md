@@ -1,14 +1,14 @@
 ---
-Discovered: "December 27, 2022"
-date: "2022-12-27"
-title: "Fantasy Springs Resort"
-image: "images/blog/Royal.png"
-author: "Breachsense Support"
+Discovered: December 27, 2022
+date: '2022-12-27'
+title: Fantasy Springs Resort
+image: images/blog/Royal.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | fantasyspringsresort.com      | 
 | Threat Actor      | Royal      | 
 | Date Discovered      | Dec 27, 2022      | 

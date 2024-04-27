@@ -1,14 +1,14 @@
 ---
-date: "2023-04-18"
-discovered: "April 18, 2023"
-title: "SPARTAN Light Metal"
-image: "images/blog/Unsafe.png"
-author: "Breachsense Support"
+date: '2023-04-18'
+discovered: April 18, 2023
+title: SPARTAN Light Metal
+image: images/blog/Unsafe.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/april
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | spartanlmp.com      | 
 | Threat Actor      | Unsafe      | 
 | Date Discovered      | Apr 18, 2023      | 

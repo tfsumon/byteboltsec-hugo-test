@@ -1,14 +1,14 @@
 ---
-Discovered: "April 25, 2022"
-date: "2022-04-25"
-title: "KSS Enterprises"
-image: "images/blog/CL0P.png"
-author: "Breachsense Support"
+Discovered: April 25, 2022
+date: '2022-04-25'
+title: KSS Enterprises
+image: images/blog/CL0P.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/april
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | kssenterprises.com      | 
 | Threat Actor    | CL0P      | 
 | Date Discovered    | Apr 25, 2022      | 

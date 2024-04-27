@@ -1,14 +1,14 @@
 ---
-date: "2023-06-12"
-discovered: "June 12, 2023"
-title: "Comisión Nacional de Valores"
-image: "images/blog/Medusa.png"
-author: "Breachsense Support"
+date: '2023-06-12'
+discovered: June 12, 2023
+title: Comisión Nacional de Valores
+image: images/blog/Medusa.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | cnv.gov.py      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Jun 12, 2023      | 

@@ -1,14 +1,14 @@
 ---
-date: "2023-06-30"
-discovered: "June 30, 2023"
-title: "LCG"
-image: "images/blog/Akira.png"
-author: "Breachsense Support"
+date: '2023-06-30'
+discovered: June 30, 2023
+title: LCG
+image: images/blog/Akira.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | lcg.com      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Jun 30, 2023      | 

@@ -1,14 +1,14 @@
 ---
-Discovered: "May 10, 2022"
-date: "2022-05-10"
-title: "Alternative Technologies"
-image: "images/blog/CL0P.png"
-author: "Breachsense Support"
+Discovered: May 10, 2022
+date: '2022-05-10'
+title: Alternative Technologies
+image: images/blog/CL0P.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/may
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | alternativetechs.com      | 
 | Threat Actor    | CL0P      | 
 | Date Discovered    | May 10, 2022      | 

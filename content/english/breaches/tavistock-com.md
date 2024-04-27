@@ -1,14 +1,14 @@
 ---
-Discovered: "April 13, 2022"
-date: "2022-04-13"
-title: "tavistock.com"
-image: "images/blog/Cuba.png"
-author: "Breachsense Support"
+Discovered: April 13, 2022
+date: '2022-04-13'
+title: tavistock.com
+image: images/blog/Cuba.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/april
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | tavistock.com      | 
 | Threat Actor    | Cuba      | 
 | Date Discovered    | Apr 13, 2022      | 

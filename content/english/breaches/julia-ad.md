@@ -1,14 +1,14 @@
 ---
-Discovered: "June 10, 2021"
-date: "2021-06-10"
-title: "julia.ad"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: June 10, 2021
+date: '2021-06-10'
+title: julia.ad
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/june
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | julia.ad      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Jun 10, 2021      | 

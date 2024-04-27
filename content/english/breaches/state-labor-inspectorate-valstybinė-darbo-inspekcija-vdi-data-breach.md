@@ -1,14 +1,14 @@
 ---
-date: "2023-05-11"
-discovered: "May 11, 2023"
-title: "State Labor Inspectorate (Valstybinė darbo inspekcija-VDI)"
-image: "images/blog/Cuba.png"
-author: "Breachsense Support"
+date: '2023-05-11'
+discovered: May 11, 2023
+title: State Labor Inspectorate (Valstybinė darbo inspekcija-VDI)
+image: images/blog/Cuba.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/may
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | vdi.lt      | 
 | Threat Actor      | Cuba      | 
 | Date Discovered      | May 11, 2023      | 

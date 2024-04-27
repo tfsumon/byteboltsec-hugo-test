@@ -1,14 +1,14 @@
 ---
-Discovered: "September 15, 2020"
-date: "2020-09-15"
-title: "teka.com"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: September 15, 2020
+date: '2020-09-15'
+title: teka.com
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2020/september
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | teka.com      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Sep 15, 2020      | 

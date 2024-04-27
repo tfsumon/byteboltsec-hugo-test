@@ -1,14 +1,14 @@
 ---
-date: "2023-08-18"
-discovered: "August 18, 2023"
-title: "Camino Nuevo Charter Academy"
-image: "images/blog/Akira.png"
-author: "Breachsense Support"
+date: '2023-08-18'
+discovered: August 18, 2023
+title: Camino Nuevo Charter Academy
+image: images/blog/Akira.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | caminonuevo.org      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Aug 18, 2023      | 

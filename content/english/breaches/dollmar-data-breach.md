@@ -1,14 +1,14 @@
 ---
-Discovered: "October 19, 2022"
-date: "2022-10-19"
-title: "Dollmar SpA"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: October 19, 2022
+date: '2022-10-19'
+title: Dollmar SpA
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | dollmar.com      | 
 | Threat Actor      | Ragnar_Locker      | 
 | Date Discovered      | Oct 19, 2022      | 

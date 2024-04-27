@@ -1,14 +1,14 @@
 ---
-date: "2024-01-19"
-discovered: "January 19, 2024"
-title: "Jaffe & Asher"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2024-01-19'
+discovered: January 19, 2024
+title: Jaffe & Asher
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | jaffeandasher.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jan 19, 2024      | 

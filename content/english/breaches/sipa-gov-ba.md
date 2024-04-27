@@ -1,14 +1,14 @@
 ---
-Discovered: "January 16, 2022"
-date: "2022-01-16"
-title: "sipa.gov.ba"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: January 16, 2022
+date: '2022-01-16'
+title: sipa.gov.ba
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/january
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | sipa.gov.ba      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Jan 16, 2022      | 

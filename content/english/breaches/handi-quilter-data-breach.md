@@ -1,14 +1,14 @@
 ---
-date: "2023-07-28"
-discovered: "July 28, 2023"
-title: "Handi Quilter"
-image: "images/blog/Akira.png"
-author: "Breachsense Support"
+date: '2023-07-28'
+discovered: July 28, 2023
+title: Handi Quilter
+image: images/blog/Akira.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | handiquilter.com      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Jul 28, 2023      | 

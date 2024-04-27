@@ -1,14 +1,14 @@
 ---
-Discovered: "October 02, 2022"
-date: "2022-10-02"
-title: "Aesthetic Dermatology Associates"
-image: "images/blog/BianLian.png"
-author: "Breachsense Support"
+Discovered: October 02, 2022
+date: '2022-10-02'
+title: Aesthetic Dermatology Associates
+image: images/blog/BianLian.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | adaderm.com      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Oct 02, 2022      | 

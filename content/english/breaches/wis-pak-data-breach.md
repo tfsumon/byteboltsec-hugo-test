@@ -1,14 +1,14 @@
 ---
-Discovered: "July 05, 2022"
-date: "2022-07-05"
-title: "Wis-Pak"
-image: "images/blog/Lorenz.png"
-author: "Breachsense Support"
+Discovered: July 05, 2022
+date: '2022-07-05'
+title: Wis-Pak
+image: images/blog/Lorenz.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | wis-pak.com      | 
 | Threat Actor      | Lorenz      | 
 | Date Discovered      | Jul 05, 2022      | 

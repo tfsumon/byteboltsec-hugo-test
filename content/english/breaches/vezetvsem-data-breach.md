@@ -1,14 +1,14 @@
 ---
-Discovered: "June 07, 2022"
-date: "2022-06-07"
-title: "Vezetvsem"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: June 07, 2022
+date: '2022-06-07'
+title: Vezetvsem
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/june
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | vezetvsem.ru      | 
 | Threat Actor    | N/A      | 
 | Date Discovered    | Jun 07, 2022      | 

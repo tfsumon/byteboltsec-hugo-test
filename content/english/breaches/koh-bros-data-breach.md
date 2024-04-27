@@ -1,14 +1,14 @@
 ---
-date: "2023-11-10"
-discovered: "November 10, 2023"
-title: "Koh Bros"
-image: "images/blog/Lorenz.png"
-author: "Breachsense Support"
+date: '2023-11-10'
+discovered: November 10, 2023
+title: Koh Bros
+image: images/blog/Lorenz.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | kohbrothers.com      | 
 | Threat Actor      | Lorenz      | 
 | Date Discovered      | Nov 10, 2023      | 

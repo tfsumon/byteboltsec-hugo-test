@@ -1,14 +1,14 @@
 ---
-date: "2024-04-04"
-discovered: "April 04, 2024"
-title: "BeneCare Dental Plans"
-image: "images/blog/Hunters.png"
-author: "Breachsense Support"
+date: '2024-04-04'
+discovered: April 04, 2024
+title: BeneCare Dental Plans
+image: images/blog/Hunters.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/april
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | benecare.com      | 
 | Threat Actor      | Hunters      | 
 | Date Discovered      | Apr 04, 2024      | 

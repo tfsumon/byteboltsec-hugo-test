@@ -1,14 +1,14 @@
 ---
-date: "2023-07-06"
-discovered: "July 06, 2023"
-title: "Scotturb"
-image: "images/blog/RagnarLocker.png"
-author: "Breachsense Support"
+date: '2023-07-06'
+discovered: July 06, 2023
+title: Scotturb
+image: images/blog/RagnarLocker.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | scotturb.com      | 
 | Threat Actor      | RagnarLocker      | 
 | Date Discovered      | Jul 06, 2023      | 

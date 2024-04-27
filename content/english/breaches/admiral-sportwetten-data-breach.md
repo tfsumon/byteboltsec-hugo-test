@@ -1,14 +1,14 @@
 ---
-date: "2023-01-30"
-discovered: "January 30, 2023"
-title: "Admiral Sportwetten"
-image: "images/blog/Play.png"
-author: "Breachsense Support"
+date: '2023-01-30'
+discovered: January 30, 2023
+title: Admiral Sportwetten
+image: images/blog/Play.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | admiral.at      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Jan 30, 2023      | 

@@ -1,14 +1,14 @@
 ---
-date: "2023-09-12"
-discovered: "September 12, 2023"
-title: "Christina M. Ranallo, Attorney at Law"
-image: "images/blog/Everest.png"
-author: "Breachsense Support"
+date: '2023-09-12'
+discovered: September 12, 2023
+title: Christina M. Ranallo, Attorney at Law
+image: images/blog/Everest.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | cmranallolaw.com      | 
 | Threat Actor      | Everest      | 
 | Date Discovered      | Sep 12, 2023      | 

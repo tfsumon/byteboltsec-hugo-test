@@ -1,14 +1,14 @@
 ---
-Discovered: "October 12, 2020"
-date: "2020-10-12"
-title: "westendlumber.com"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: October 12, 2020
+date: '2020-10-12'
+title: westendlumber.com
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2020/october
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | westendlumber.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Oct 12, 2020      | 

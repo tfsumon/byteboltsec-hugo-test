@@ -1,14 +1,14 @@
 ---
-date: "2023-11-13"
-discovered: "November 13, 2023"
-title: "Morskate"
-image: "images/blog/CL0P.png"
-author: "Breachsense Support"
+date: '2023-11-13'
+discovered: November 13, 2023
+title: Morskate
+image: images/blog/CL0P.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | morskatemanufacturing.com      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Nov 13, 2023      | 

@@ -1,14 +1,14 @@
 ---
-date: "2024-02-16"
-discovered: "February 16, 2024"
-title: "Schuster"
-image: "images/blog/Hunters.png"
-author: "Breachsense Support"
+date: '2024-02-16'
+discovered: February 16, 2024
+title: Schuster
+image: images/blog/Hunters.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | schusterco.com      | 
 | Threat Actor      | Hunters      | 
 | Date Discovered      | Feb 16, 2024      | 

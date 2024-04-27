@@ -1,14 +1,14 @@
 ---
-Discovered: "March 31, 2022"
-date: "2022-03-31"
-title: "scanvogn.com"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: March 31, 2022
+date: '2022-03-31'
+title: scanvogn.com
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/march
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | scanvogn.com      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Mar 31, 2022      | 

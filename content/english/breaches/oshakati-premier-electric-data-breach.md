@@ -1,14 +1,14 @@
 ---
-date: "2023-07-18"
-discovered: "July 18, 2023"
-title: "Oshakati Premier Electric"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-07-18'
+discovered: July 18, 2023
+title: Oshakati Premier Electric
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | ope.com.na      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jul 18, 2023      | 

@@ -1,14 +1,14 @@
 ---
-date: "2023-05-18"
-discovered: "May 18, 2023"
-title: "Plastictecnic"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-05-18'
+discovered: May 18, 2023
+title: Plastictecnic
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/may
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | plastictecnic.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | May 18, 2023      | 

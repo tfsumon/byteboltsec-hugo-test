@@ -1,14 +1,14 @@
 ---
-date: "2023-07-26"
-discovered: "July 26, 2023"
-title: "Miranda Brokerage"
-image: "images/blog/8BASE.png"
-author: "Breachsense Support"
+date: '2023-07-26'
+discovered: July 26, 2023
+title: Miranda Brokerage
+image: images/blog/8BASE.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | mirandacustomsbrokerage.com      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Jul 26, 2023      | 

@@ -1,14 +1,14 @@
 ---
-Discovered: "January 11, 2022"
-date: "2022-01-11"
-title: "emilfrey.ch"
-image: "images/blog/HiveLeaks.png"
-author: "Breachsense Support"
+Discovered: January 11, 2022
+date: '2022-01-11'
+title: emilfrey.ch
+image: images/blog/HiveLeaks.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/january
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | emilfrey.ch      | 
 | Threat Actor    | Hive      | 
 | Date Discovered    | Jan 11, 2022      | 

@@ -1,14 +1,14 @@
 ---
-Discovered: "September 12, 2022"
-date: "2022-09-12"
-title: "Davin Industries"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: September 12, 2022
+date: '2022-09-12'
+title: Davin Industries
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | davin.co.nz      | 
 | Threat Actor      | BlackByte      | 
 | Date Discovered      | Sep 12, 2022      | 

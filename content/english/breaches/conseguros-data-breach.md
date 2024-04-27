@@ -1,14 +1,14 @@
 ---
-date: "2024-02-16"
-discovered: "February 16, 2024"
-title: "Conseguros"
-image: "images/blog/Qilin.png"
-author: "Breachsense Support"
+date: '2024-02-16'
+discovered: February 16, 2024
+title: Conseguros
+image: images/blog/Qilin.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | conseguros.com.gt      | 
 | Threat Actor      | Qilin      | 
 | Date Discovered      | Feb 16, 2024      | 

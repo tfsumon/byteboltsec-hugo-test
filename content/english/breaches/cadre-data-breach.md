@@ -1,14 +1,14 @@
 ---
-date: "2023-10-19"
-discovered: "October 19, 2023"
-title: "Cadre"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+date: '2023-10-19'
+discovered: October 19, 2023
+title: Cadre
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | cadreservices.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Oct 19, 2023      | 

@@ -1,14 +1,14 @@
 ---
-date: "2024-04-19"
-discovered: "April 19, 2024"
-title: "European Team"
-image: "images/blog/Qilin.png"
-author: "Breachsense Support"
+date: '2024-04-19'
+discovered: April 19, 2024
+title: European Team
+image: images/blog/Qilin.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/april
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | etateam.be      | 
 | Threat Actor      | Qilin      | 
 | Date Discovered      | Apr 19, 2024      | 

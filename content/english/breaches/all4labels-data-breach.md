@@ -1,14 +1,14 @@
 ---
-date: "2023-03-28"
-discovered: "March 28, 2023"
-title: "All4Labels"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+date: '2023-03-28'
+discovered: March 28, 2023
+title: All4Labels
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | all4labels.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Mar 28, 2023      | 

@@ -1,14 +1,14 @@
 ---
-Discovered: "September 14, 2022"
-date: "2022-09-14"
-title: "Daydream Island Resort"
-image: "images/blog/BianLian.png"
-author: "Breachsense Support"
+Discovered: September 14, 2022
+date: '2022-09-14'
+title: Daydream Island Resort
+image: images/blog/BianLian.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | daydreamisland.com      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Sep 14, 2022      | 

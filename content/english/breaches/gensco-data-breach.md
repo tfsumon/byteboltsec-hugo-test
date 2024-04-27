@@ -1,14 +1,14 @@
 ---
-Discovered: "July 20, 2022"
-date: "2022-07-20"
-title: "Gensco"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: July 20, 2022
+date: '2022-07-20'
+title: Gensco
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | gensco.com      | 
 | Threat Actor      | Ragnar_Locker      | 
 | Date Discovered      | Jul 20, 2022      | 

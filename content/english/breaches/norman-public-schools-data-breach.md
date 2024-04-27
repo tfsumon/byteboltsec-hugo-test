@@ -1,14 +1,14 @@
 ---
-Discovered: "November 24, 2022"
-date: "2022-11-24"
-title: "Norman Public Schools"
-image: "images/blog/HiveLeaks.png"
-author: "Breachsense Support"
+Discovered: November 24, 2022
+date: '2022-11-24'
+title: Norman Public Schools
+image: images/blog/HiveLeaks.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | normanpublicschools.org      | 
 | Threat Actor      | HiveLeaks      | 
 | Date Discovered      | Nov 24, 2022      | 

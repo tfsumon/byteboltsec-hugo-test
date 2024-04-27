@@ -1,14 +1,14 @@
 ---
-Discovered: "October 20, 2022"
-date: "2022-10-20"
-title: "Longhorn Investments"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+Discovered: October 20, 2022
+date: '2022-10-20'
+title: Longhorn Investments
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | longhorninvestments.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Oct 20, 2022      | 

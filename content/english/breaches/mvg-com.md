@@ -1,14 +1,14 @@
 ---
-Discovered: "July 29, 2021"
-date: "2021-07-29"
-title: "mvg.com"
-image: "images/blog/Lorenz.png"
-author: "Breachsense Support"
+Discovered: July 29, 2021
+date: '2021-07-29'
+title: mvg.com
+image: images/blog/Lorenz.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/july
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | mvg.com      | 
 | Threat Actor    | Lorenz      | 
 | Date Discovered    | Jul 29, 2021      | 

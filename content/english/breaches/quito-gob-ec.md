@@ -1,14 +1,14 @@
 ---
-Discovered: "November 07, 2021"
-date: "2021-11-07"
-title: "quito.gob.ec"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+Discovered: November 07, 2021
+date: '2021-11-07'
+title: quito.gob.ec
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/november
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | quito.gob.ec      | 
 | Threat Actor    | ALPHV      | 
 | Date Discovered    | Nov 07, 2021      | 

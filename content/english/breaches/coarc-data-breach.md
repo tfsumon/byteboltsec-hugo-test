@@ -1,14 +1,14 @@
 ---
-Discovered: "August 15, 2022"
-date: "2022-08-15"
-title: "Coarc"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: August 15, 2022
+date: '2022-08-15'
+title: Coarc
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | coarc.org      | 
 | Threat Actor      | RedAlert      | 
 | Date Discovered      | Aug 15, 2022      | 

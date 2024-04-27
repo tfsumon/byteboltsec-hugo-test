@@ -1,14 +1,14 @@
 ---
-Discovered: "July 18, 2021"
-date: "2021-07-18"
-title: "gurteen.co.uk"
-image: "images/blog/HiveLeaks.png"
-author: "Breachsense Support"
+Discovered: July 18, 2021
+date: '2021-07-18'
+title: gurteen.co.uk
+image: images/blog/HiveLeaks.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/july
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | gurteen.co.uk      | 
 | Threat Actor    | Hive      | 
 | Date Discovered    | Jul 18, 2021      | 

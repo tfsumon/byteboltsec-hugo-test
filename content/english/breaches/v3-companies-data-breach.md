@@ -1,14 +1,14 @@
 ---
-Discovered: "December 13, 2022"
-date: "2022-12-13"
-title: "V3 Companies"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+Discovered: December 13, 2022
+date: '2022-12-13'
+title: V3 Companies
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | v3co.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Dec 13, 2022      | 

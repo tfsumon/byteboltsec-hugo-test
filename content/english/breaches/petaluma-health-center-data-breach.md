@@ -1,14 +1,14 @@
 ---
-date: "2023-04-21"
-discovered: "April 21, 2023"
-title: "Petaluma Health Center"
-image: "images/blog/Karakurt.png"
-author: "Breachsense Support"
+date: '2023-04-21'
+discovered: April 21, 2023
+title: Petaluma Health Center
+image: images/blog/Karakurt.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/april
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | phealthcenter.org      | 
 | Threat Actor      | Karakurt      | 
 | Date Discovered      | Apr 21, 2023      | 

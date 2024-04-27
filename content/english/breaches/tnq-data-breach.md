@@ -1,14 +1,14 @@
 ---
-Discovered: "July 29, 2022"
-date: "2022-07-29"
-title: "TNQ"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+Discovered: July 29, 2022
+date: '2022-07-29'
+title: TNQ
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | tnq.co.in      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Jul 29, 2022      | 

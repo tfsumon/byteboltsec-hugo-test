@@ -1,14 +1,14 @@
 ---
-date: "2023-08-31"
-discovered: "August 31, 2023"
-title: "Zep"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-08-31'
+discovered: August 31, 2023
+title: Zep
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | zep.it      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Aug 31, 2023      | 

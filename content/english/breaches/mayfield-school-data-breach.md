@@ -1,14 +1,14 @@
 ---
-Discovered: "December 01, 2022"
-date: "2022-12-01"
-title: "Mayfield School"
-image: "images/blog/BianLian.png"
-author: "Breachsense Support"
+Discovered: December 01, 2022
+date: '2022-12-01'
+title: Mayfield School
+image: images/blog/BianLian.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | mayfieldschool.net      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Dec 01, 2022      | 

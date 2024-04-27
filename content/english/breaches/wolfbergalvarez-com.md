@@ -1,14 +1,14 @@
 ---
-Discovered: "October 21, 2021"
-date: "2021-10-21"
-title: "wolfbergalvarez.com"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: October 21, 2021
+date: '2021-10-21'
+title: wolfbergalvarez.com
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/october
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | wolfbergalvarez.com      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Oct 21, 2021      | 

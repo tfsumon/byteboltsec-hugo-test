@@ -1,14 +1,14 @@
 ---
-Discovered: "June 15, 2021"
-date: "2021-06-15"
-title: "lainnovacion.com.do"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: June 15, 2021
+date: '2021-06-15'
+title: lainnovacion.com.do
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/june
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | lainnovacion.com.do      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Jun 15, 2021      | 

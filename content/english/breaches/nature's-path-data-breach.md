@@ -1,14 +1,14 @@
 ---
-date: "2023-04-11"
-discovered: "April 11, 2023"
-title: "Nature's Path"
-image: "images/blog/Royal.png"
-author: "Breachsense Support"
+date: '2023-04-11'
+discovered: April 11, 2023
+title: Nature's Path
+image: images/blog/Royal.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/april
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | naturespath.com      | 
 | Threat Actor      | Royal      | 
 | Date Discovered      | Apr 11, 2023      | 

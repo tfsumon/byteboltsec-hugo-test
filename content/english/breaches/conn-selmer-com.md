@@ -1,14 +1,14 @@
 ---
-Discovered: "November 30, 2020"
-date: "2020-11-30"
-title: "conn-selmer.com"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: November 30, 2020
+date: '2020-11-30'
+title: conn-selmer.com
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2020/november
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | conn-selmer.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Nov 30, 2020      | 

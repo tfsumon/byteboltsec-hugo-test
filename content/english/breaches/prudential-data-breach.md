@@ -1,14 +1,14 @@
 ---
-date: "2024-02-19"
-discovered: "February 19, 2024"
-title: "Prudential"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+date: '2024-02-19'
+discovered: February 19, 2024
+title: Prudential
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | prudential.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Feb 19, 2024      | 

@@ -1,14 +1,14 @@
 ---
-Discovered: "November 25, 2022"
-date: "2022-11-25"
-title: "Cincinnati State"
-image: "images/blog/ViceSociety.png"
-author: "Breachsense Support"
+Discovered: November 25, 2022
+date: '2022-11-25'
+title: Cincinnati State
+image: images/blog/ViceSociety.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | cincinnatistate.edu      | 
 | Threat Actor      | ViceSociety      | 
 | Date Discovered      | Nov 25, 2022      | 

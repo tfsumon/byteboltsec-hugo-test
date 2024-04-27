@@ -1,14 +1,14 @@
 ---
-Discovered: "October 14, 2021"
-date: "2021-10-14"
-title: "eagleview.com"
-image: "images/blog/HiveLeaks.png"
-author: "Breachsense Support"
+Discovered: October 14, 2021
+date: '2021-10-14'
+title: eagleview.com
+image: images/blog/HiveLeaks.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/october
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | eagleview.com      | 
 | Threat Actor    | Hive      | 
 | Date Discovered    | Oct 14, 2021      | 

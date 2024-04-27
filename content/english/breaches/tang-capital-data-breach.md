@@ -1,14 +1,14 @@
 ---
-Discovered: "October 11, 2022"
-date: "2022-10-11"
-title: "Tang Capital"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: October 11, 2022
+date: '2022-10-11'
+title: Tang Capital
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | tangcapital.bamboohr.com      | 
 | Threat Actor      | Ragnar_Locker      | 
 | Date Discovered      | Oct 11, 2022      | 

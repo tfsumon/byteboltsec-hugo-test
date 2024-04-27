@@ -1,14 +1,14 @@
 ---
-Discovered: "December 30, 2022"
-date: "2022-12-30"
-title: "Companhia Paulista de Trens Metropolitanos (CPTM)"
-image: "images/blog/Blackbyte.png"
-author: "Breachsense Support"
+Discovered: December 30, 2022
+date: '2022-12-30'
+title: Companhia Paulista de Trens Metropolitanos (CPTM)
+image: images/blog/Blackbyte.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | cptm.sp.gov.br      | 
 | Threat Actor      | Blackbyte      | 
 | Date Discovered      | Dec 30, 2022      | 

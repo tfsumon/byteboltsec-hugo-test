@@ -1,14 +1,14 @@
 ---
-date: "2024-04-19"
-discovered: "April 19, 2024"
-title: "Pennsylvania Convention Center"
-image: "images/blog/Play.png"
-author: "Breachsense Support"
+date: '2024-04-19'
+discovered: April 19, 2024
+title: Pennsylvania Convention Center
+image: images/blog/Play.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/april
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | paconvention.com      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Apr 19, 2024      | 

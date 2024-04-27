@@ -1,14 +1,14 @@
 ---
-date: "2023-11-14"
-discovered: "November 14, 2023"
-title: "Warren General Hospital"
-image: "images/blog/RansomHouse.png"
-author: "Breachsense Support"
+date: '2023-11-14'
+discovered: November 14, 2023
+title: Warren General Hospital
+image: images/blog/RansomHouse.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | wgh.org      | 
 | Threat Actor      | RansomHouse      | 
 | Date Discovered      | Nov 14, 2023      | 

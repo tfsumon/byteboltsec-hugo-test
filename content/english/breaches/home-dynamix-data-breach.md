@@ -1,14 +1,14 @@
 ---
-Discovered: "October 09, 2022"
-date: "2022-10-09"
-title: "Home Dynamix"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+Discovered: October 09, 2022
+date: '2022-10-09'
+title: Home Dynamix
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | homedynamix.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Oct 09, 2022      | 

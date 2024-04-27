@@ -1,14 +1,14 @@
 ---
-Discovered: "June 28, 2022"
-date: "2022-06-28"
-title: "Metro Appliances"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: June 28, 2022
+date: '2022-06-28'
+title: Metro Appliances
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | metroappliancesandmore.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jun 28, 2022      | 

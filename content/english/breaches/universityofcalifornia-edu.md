@@ -1,14 +1,14 @@
 ---
-Discovered: "October 05, 2021"
-date: "2021-10-05"
-title: "universityofcalifornia.edu"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: October 05, 2021
+date: '2021-10-05'
+title: universityofcalifornia.edu
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/october
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | universityofcalifornia.edu      | 
 | Threat Actor    | CLOP      | 
 | Date Discovered    | Oct 05, 2021      | 

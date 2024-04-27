@@ -1,14 +1,14 @@
 ---
-date: "2023-11-03"
-discovered: "November 03, 2023"
-title: "Shimano"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-11-03'
+discovered: November 03, 2023
+title: Shimano
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | shimano.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Nov 03, 2023      | 

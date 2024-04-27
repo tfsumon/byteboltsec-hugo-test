@@ -1,14 +1,14 @@
 ---
-date: "2023-08-28"
-discovered: "August 28, 2023"
-title: "Metropolitan Club"
-image: "images/blog/Ransomed.png"
-author: "Breachsense Support"
+date: '2023-08-28'
+discovered: August 28, 2023
+title: Metropolitan Club
+image: images/blog/Ransomed.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | metroclub.org      | 
 | Threat Actor      | Ransomed      | 
 | Date Discovered      | Aug 28, 2023      | 

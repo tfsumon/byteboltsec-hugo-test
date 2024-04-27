@@ -1,14 +1,14 @@
 ---
-Discovered: "March 07, 2022"
-date: "2022-03-07"
-title: "xtera.com"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: March 07, 2022
+date: '2022-03-07'
+title: xtera.com
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/march
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | xtera.com      | 
 | Threat Actor    | Snatch      | 
 | Date Discovered    | Mar 07, 2022      | 

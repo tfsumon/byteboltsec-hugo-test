@@ -1,14 +1,14 @@
 ---
-Discovered: "April 26, 2022"
-date: "2022-04-26"
-title: "emucor.es"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: April 26, 2022
+date: '2022-04-26'
+title: emucor.es
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/april
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | emucor.es      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Apr 26, 2022      | 

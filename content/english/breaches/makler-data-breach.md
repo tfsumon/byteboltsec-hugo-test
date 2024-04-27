@@ -1,14 +1,14 @@
 ---
-Discovered: "September 15, 2022"
-date: "2022-09-15"
-title: "Makler"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: September 15, 2022
+date: '2022-09-15'
+title: Makler
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | makler.com.ve      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Sep 15, 2022      | 

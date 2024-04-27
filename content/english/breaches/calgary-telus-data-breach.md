@@ -1,14 +1,14 @@
 ---
-date: "2023-12-06"
-discovered: "December 06, 2023"
-title: "Calgary TELUS"
-image: "images/blog/8BASE.png"
-author: "Breachsense Support"
+date: '2023-12-06'
+discovered: December 06, 2023
+title: Calgary TELUS
+image: images/blog/8BASE.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | calgary-convention.com      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Dec 06, 2023      | 

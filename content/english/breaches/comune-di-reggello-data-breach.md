@@ -1,14 +1,14 @@
 ---
-Discovered: "August 11, 2022"
-date: "2022-08-11"
-title: "Comune di Reggello"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: August 11, 2022
+date: '2022-08-11'
+title: Comune di Reggello
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | comune.reggello.fi.it      | 
 | Threat Actor      | RansomHouse      | 
 | Date Discovered      | Aug 11, 2022      | 

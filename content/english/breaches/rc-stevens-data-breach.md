@@ -1,14 +1,14 @@
 ---
-date: "2023-01-17"
-discovered: "Jan 17, 2023"
-title: "RC Stevens"
-image: "images/blog/HiveLeaks.png"
-author: "Breachsense Support"
+date: '2023-01-17'
+discovered: Jan 17, 2023
+title: RC Stevens
+image: images/blog/HiveLeaks.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | rcstevens.com     | 
 | Threat Actor      | HiveLeaks      | 
 | Date Discovered      | Jan 17, 2023    | 

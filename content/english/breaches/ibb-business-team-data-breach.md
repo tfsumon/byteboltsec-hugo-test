@@ -1,14 +1,14 @@
 ---
-date: "2023-01-23"
-discovered: "January 23, 2023"
-title: "IBB Business Team"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-01-23'
+discovered: January 23, 2023
+title: IBB Business Team
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | ibb-business-team.de      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jan 23, 2023      | 

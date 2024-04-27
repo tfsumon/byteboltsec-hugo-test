@@ -1,14 +1,14 @@
 ---
-Discovered: "October 31, 2022"
-date: "2022-10-31"
-title: "Asahi"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: October 31, 2022
+date: '2022-10-31'
+title: Asahi
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | asahigroup.com.hk      | 
 | Threat Actor      | BlackByte      | 
 | Date Discovered      | Oct 31, 2022      | 

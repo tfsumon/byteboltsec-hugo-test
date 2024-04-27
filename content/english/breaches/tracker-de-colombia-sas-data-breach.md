@@ -1,14 +1,14 @@
 ---
-date: "2023-07-10"
-discovered: "July 10, 2023"
-title: "Tracker de Colombia SAS"
-image: "images/blog/Medusa.png"
-author: "Breachsense Support"
+date: '2023-07-10'
+discovered: July 10, 2023
+title: Tracker de Colombia SAS
+image: images/blog/Medusa.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | detektor.com.co      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Jul 10, 2023      | 

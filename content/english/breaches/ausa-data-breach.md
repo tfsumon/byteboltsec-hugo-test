@@ -1,14 +1,14 @@
 ---
-date: "2024-01-16"
-discovered: "January 16, 2024"
-title: "AUSA"
-image: "images/blog/Hunters.png"
-author: "Breachsense Support"
+date: '2024-01-16'
+discovered: January 16, 2024
+title: AUSA
+image: images/blog/Hunters.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | ausa.com      | 
 | Threat Actor      | Hunters      | 
 | Date Discovered      | Jan 16, 2024      | 

@@ -1,14 +1,14 @@
 ---
-date: "2023-10-12"
-discovered: "October 12, 2023"
-title: "Mid-America Group"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+date: '2023-10-12'
+discovered: October 12, 2023
+title: Mid-America Group
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | midamericagrp.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Oct 12, 2023      | 

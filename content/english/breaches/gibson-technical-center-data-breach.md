@@ -1,14 +1,14 @@
 ---
-date: "2023-06-27"
-discovered: "June 27, 2023"
-title: "Gibson Technical Center"
-image: "images/blog/Karakurt.png"
-author: "Breachsense Support"
+date: '2023-06-27'
+discovered: June 27, 2023
+title: Gibson Technical Center
+image: images/blog/Karakurt.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | rs-wolves.com      | 
 | Threat Actor      | Karakurt      | 
 | Date Discovered      | Jun 27, 2023      | 

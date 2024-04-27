@@ -1,14 +1,14 @@
 ---
-Discovered: "August 26, 2022"
-date: "2022-08-26"
-title: "Frances King School of English"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: August 26, 2022
+date: '2022-08-26'
+title: Frances King School of English
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | francesking.com      | 
 | Threat Actor      |       | 
 | Date Discovered      | Aug 26, 2022      | 

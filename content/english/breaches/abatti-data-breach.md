@@ -1,14 +1,14 @@
 ---
-date: "2023-08-04"
-discovered: "August 04, 2023"
-title: "Abatti"
-image: "images/blog/Monti.png"
-author: "Breachsense Support"
+date: '2023-08-04'
+discovered: August 04, 2023
+title: Abatti
+image: images/blog/Monti.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | abatti.com      | 
 | Threat Actor      | Monti      | 
 | Date Discovered      | Aug 04, 2023      | 

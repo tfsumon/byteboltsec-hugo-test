@@ -1,14 +1,14 @@
 ---
-date: "2023-05-22"
-discovered: "May 22, 2023"
-title: "Al Tamimi"
-image: "images/blog/Medusa.png"
-author: "Breachsense Support"
+date: '2023-05-22'
+discovered: May 22, 2023
+title: Al Tamimi
+image: images/blog/Medusa.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/may
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | tamimi.com      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | May 22, 2023      | 

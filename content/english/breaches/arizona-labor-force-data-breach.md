@@ -1,14 +1,14 @@
 ---
-date: "2023-01-00"
-discovered: "January 09, 2023"
-title: "Arizona Labor Force"
-image: "images/blog/AvosLocker.png"
-author: "Breachsense Support"
+date: '2023-01-00'
+discovered: January 09, 2023
+title: Arizona Labor Force
+image: images/blog/AvosLocker.png
+author: Breachsense Support
 draft: false
+yearmonths: NaN/invalid date
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | azlaborforce.com      | 
 | Threat Actor      | AvosLocker      | 
 | Date Discovered      | Jan 09, 2023      | 

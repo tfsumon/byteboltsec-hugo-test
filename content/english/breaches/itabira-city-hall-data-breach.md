@@ -1,14 +1,14 @@
 ---
-date: "2023-12-26"
-discovered: "December 26, 2023"
-title: "Itabira City Hall"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+date: '2023-12-26'
+discovered: December 26, 2023
+title: Itabira City Hall
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | itabira.mg.gov.br      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Dec 26, 2023      | 

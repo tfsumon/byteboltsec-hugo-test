@@ -1,14 +1,14 @@
 ---
-date: "2023-03-21"
-discovered: "March 21, 2023"
-title: "Saks Fifth Avenue"
-image: "images/blog/CL0P.png"
-author: "Breachsense Support"
+date: '2023-03-21'
+discovered: March 21, 2023
+title: Saks Fifth Avenue
+image: images/blog/CL0P.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | saksfifthavenue.com      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Mar 21, 2023      | 

@@ -1,14 +1,14 @@
 ---
-Discovered: "August 18, 2021"
-date: "2021-08-18"
-title: "coreslab.com"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: August 18, 2021
+date: '2021-08-18'
+title: coreslab.com
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/august
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | coreslab.com      | 
 | Threat Actor    | Payload.bin      | 
 | Date Discovered    | Aug 18, 2021      | 

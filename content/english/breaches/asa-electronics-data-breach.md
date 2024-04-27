@@ -1,14 +1,14 @@
 ---
-date: "2024-02-16"
-discovered: "February 16, 2024"
-title: "ASA Electronics"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+date: '2024-02-16'
+discovered: February 16, 2024
+title: ASA Electronics
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | asaelectronics.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Feb 16, 2024      | 

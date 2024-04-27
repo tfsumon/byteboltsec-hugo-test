@@ -1,14 +1,14 @@
 ---
-date: "2024-01-26"
-discovered: "January 26, 2024"
-title: "Toronto Zoo"
-image: "images/blog/Akira.png"
-author: "Breachsense Support"
+date: '2024-01-26'
+discovered: January 26, 2024
+title: Toronto Zoo
+image: images/blog/Akira.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | torontozoo.com      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Jan 26, 2024      | 

@@ -1,14 +1,14 @@
 ---
-Discovered: "December 07, 2022"
-date: "2022-12-07"
-title: "Wrota Mazowsza"
-image: "images/blog/Play.png"
-author: "Breachsense Support"
+Discovered: December 07, 2022
+date: '2022-12-07'
+title: Wrota Mazowsza
+image: images/blog/Play.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | wrotamazowsza.pl      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Dec 07, 2022      | 

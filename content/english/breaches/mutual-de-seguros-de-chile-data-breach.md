@@ -1,14 +1,14 @@
 ---
-date: "2023-04-03"
-discovered: "April 03, 2023"
-title: "Mutual de Seguros de Chile"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+date: '2023-04-03'
+discovered: April 03, 2023
+title: Mutual de Seguros de Chile
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/april
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | mutualdeseguros.cl      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Apr 03, 2023      | 

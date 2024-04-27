@@ -1,14 +1,14 @@
 ---
-Discovered: "November 03, 2022"
-date: "2022-11-03"
-title: "Tekni-Plex"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: November 03, 2022
+date: '2022-11-03'
+title: Tekni-Plex
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | tekniplex.be      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Nov 03, 2022      | 

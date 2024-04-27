@@ -1,14 +1,14 @@
 ---
-date: "2023-08-10"
-discovered: "August 10, 2023"
-title: "Lower Yukon School District"
-image: "images/blog/NoEscape.png"
-author: "Breachsense Support"
+date: '2023-08-10'
+discovered: August 10, 2023
+title: Lower Yukon School District
+image: images/blog/NoEscape.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | lysd.org      | 
 | Threat Actor      | NoEscape      | 
 | Date Discovered      | Aug 10, 2023      | 

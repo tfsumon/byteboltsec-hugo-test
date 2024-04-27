@@ -1,14 +1,14 @@
 ---
-date: "2024-02-14"
-discovered: "February 14, 2024"
-title: "Sanford, Pierson, Thone & Strean"
-image: "images/blog/BlackBasta.png"
-author: "Breachsense Support"
+date: '2024-02-14'
+discovered: February 14, 2024
+title: Sanford, Pierson, Thone & Strean
+image: images/blog/BlackBasta.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | ssmnlaw.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Feb 14, 2024      | 

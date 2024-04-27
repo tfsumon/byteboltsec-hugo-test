@@ -1,14 +1,14 @@
 ---
-date: "2023-07-04"
-discovered: "July 04, 2023"
-title: "Jefferson County Health Center"
-image: "images/blog/Karakurt.png"
-author: "Breachsense Support"
+date: '2023-07-04'
+discovered: July 04, 2023
+title: Jefferson County Health Center
+image: images/blog/Karakurt.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | jeffersoncountyhealthcenter.org      | 
 | Threat Actor      | Karakurt      | 
 | Date Discovered      | Jul 04, 2023      | 

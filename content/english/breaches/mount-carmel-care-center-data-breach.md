@@ -1,14 +1,14 @@
 ---
-date: "2023-11-01"
-discovered: "November 01, 2023"
-title: "Mount Carmel Care Center"
-image: "images/blog/Medusa.png"
-author: "Breachsense Support"
+date: '2023-11-01'
+discovered: November 01, 2023
+title: Mount Carmel Care Center
+image: images/blog/Medusa.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | mountcarmelcare.org      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Nov 01, 2023      | 

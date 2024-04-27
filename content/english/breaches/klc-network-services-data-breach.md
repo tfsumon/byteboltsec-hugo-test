@@ -1,14 +1,14 @@
 ---
-date: "2023-05-09"
-discovered: "May 09, 2023"
-title: "KLC Network Services"
-image: "images/blog/Play.png"
-author: "Breachsense Support"
+date: '2023-05-09'
+discovered: May 09, 2023
+title: KLC Network Services
+image: images/blog/Play.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/may
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | klcnetworks.com      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | May 09, 2023      | 

@@ -1,14 +1,14 @@
 ---
-date: "2023-01-24"
-discovered: "January 24, 2023"
-title: "Guardian Analytics"
-image: "images/blog/Daixin.png"
-author: "Breachsense Support"
+date: '2023-01-24'
+discovered: January 24, 2023
+title: Guardian Analytics
+image: images/blog/Daixin.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | guardiananalytics.com      | 
 | Threat Actor      | Daixin      | 
 | Date Discovered      | Jan 24, 2023      | 

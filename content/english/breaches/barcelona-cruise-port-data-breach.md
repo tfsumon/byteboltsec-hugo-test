@@ -1,14 +1,14 @@
 ---
-date: "2023-04-13"
-discovered: "April 13, 2023"
-title: "Barcelona Cruise Port"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-04-13'
+discovered: April 13, 2023
+title: Barcelona Cruise Port
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/april
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | bcncruiseport.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Apr 13, 2023      | 

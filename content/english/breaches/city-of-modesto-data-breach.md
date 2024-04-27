@@ -1,14 +1,14 @@
 ---
-date: "2023-03-28"
-discovered: "March 28, 2023"
-title: "City of Modesto"
-image: "images/blog/Snatch.png"
-author: "Breachsense Support"
+date: '2023-03-28'
+discovered: March 28, 2023
+title: City of Modesto
+image: images/blog/Snatch.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | modestogov.com      | 
 | Threat Actor      | Snatch      | 
 | Date Discovered      | Mar 28, 2023      | 

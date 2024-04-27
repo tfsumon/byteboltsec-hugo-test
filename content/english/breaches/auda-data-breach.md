@@ -1,14 +1,14 @@
 ---
-date: "2023-08-18"
-discovered: "August 18, 2023"
-title: "auDA"
-image: "images/blog/NoEscape.png"
-author: "Breachsense Support"
+date: '2023-08-18'
+discovered: August 18, 2023
+title: auDA
+image: images/blog/NoEscape.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | auda.org.au      | 
 | Threat Actor      |  NoEscape     | 
 | Date Discovered      | Aug 18, 2023      | 

@@ -1,14 +1,14 @@
 ---
-date: "2024-01-04"
-discovered: "January 04, 2024"
-title: "Bradford Health"
-image: "images/blog/Hunters.png"
-author: "Breachsense Support"
+date: '2024-01-04'
+discovered: January 04, 2024
+title: Bradford Health
+image: images/blog/Hunters.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | bradfordhealth.net      | 
 | Threat Actor      | Hunters      | 
 | Date Discovered      | Jan 04, 2024      | 

@@ -1,14 +1,14 @@
 ---
-date: "2023-09-20"
-discovered: "September 20, 2023"
-title: "Gossler, Gobert & Wolters Group"
-image: "images/blog/DonutLeaks.png"
-author: "Breachsense Support"
+date: '2023-09-20'
+discovered: September 20, 2023
+title: Gossler, Gobert & Wolters Group
+image: images/blog/DonutLeaks.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | ggw.de      | 
 | Threat Actor      | DonutLeaks      | 
 | Date Discovered      | Sep 20, 2023      | 

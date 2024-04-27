@@ -1,14 +1,14 @@
 ---
-date: "2023-09-12"
-discovered: "September 12, 2023"
-title: "Alps Alpine"
-image: "images/blog/Blackbyte.png"
-author: "Breachsense Support"
+date: '2023-09-12'
+discovered: September 12, 2023
+title: Alps Alpine
+image: images/blog/Blackbyte.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | alpsalpine.com      | 
 | Threat Actor      | Blackbyte      | 
 | Date Discovered      | Sep 12, 2023      | 

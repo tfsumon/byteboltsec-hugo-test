@@ -1,14 +1,14 @@
 ---
-Discovered: "October 16, 2022"
-date: "2022-10-16"
-title: "Döhler"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+Discovered: October 16, 2022
+date: '2022-10-16'
+title: Döhler
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | doehler.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Oct 16, 2022      | 

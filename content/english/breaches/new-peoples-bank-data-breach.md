@@ -1,14 +1,14 @@
 ---
-Discovered: "July 01, 2022"
-date: "2022-07-01"
-title: "New Peoples Bank"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: July 01, 2022
+date: '2022-07-01'
+title: New Peoples Bank
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | newpeoples.bank      | 
 | Threat Actor      | Black Basta      | 
 | Date Discovered      | Jul 01, 2022      | 

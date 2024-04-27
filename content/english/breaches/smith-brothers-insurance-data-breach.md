@@ -1,14 +1,14 @@
 ---
-Discovered: "September 01, 2022"
-date: "2022-09-01"
-title: "Smith Brothers Insurance"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: September 01, 2022
+date: '2022-09-01'
+title: Smith Brothers Insurance
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | smithbrothersusa.com      | 
 | Threat Actor      | Ragnar_Locker      | 
 | Date Discovered      | Sep 01, 2022      | 

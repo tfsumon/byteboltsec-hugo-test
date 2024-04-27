@@ -1,14 +1,14 @@
 ---
-Discovered: "August 19, 2022"
-date: "2022-08-19"
-title: "accelya"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+Discovered: August 19, 2022
+date: '2022-08-19'
+title: accelya
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | accelya.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Aug 19, 2022      | 

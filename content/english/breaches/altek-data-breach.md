@@ -1,14 +1,14 @@
 ---
-Discovered: "November 08, 2022"
-date: "2022-11-08"
-title: "Altek"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: November 08, 2022
+date: '2022-11-08'
+title: Altek
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | altekcompany.com      | 
 | Threat Actor      | BlackByte      | 
 | Date Discovered      | Nov 08, 2022      | 

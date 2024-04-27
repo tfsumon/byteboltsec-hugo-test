@@ -1,14 +1,14 @@
 ---
-date: "2023-06-07"
-discovered: "June 06, 2023"
-title: "Pacific Union College"
-image: "images/blog/Trigona.png"
-author: "Breachsense Support"
+date: '2023-06-07'
+discovered: June 06, 2023
+title: Pacific Union College
+image: images/blog/Trigona.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | puc.edu      | 
 | Threat Actor      | Trigona      | 
 | Date Discovered      | Jun 08, 2023      | 

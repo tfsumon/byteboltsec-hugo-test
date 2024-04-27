@@ -1,14 +1,14 @@
 ---
-date: "2023-08-15"
-discovered: "August 15, 2023"
-title: "John L Lowery & Associates"
-image: "images/blog/NoEscape.png"
-author: "Breachsense Support"
+date: '2023-08-15'
+discovered: August 15, 2023
+title: John L Lowery & Associates
+image: images/blog/NoEscape.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | johnllowery.com      | 
 | Threat Actor      | NoEscape      | 
 | Date Discovered      | Aug 15, 2023      | 

@@ -1,14 +1,14 @@
 ---
-Discovered: "December 12, 2022"
-date: "2022-12-12"
-title: "LLF"
-image: "images/blog/Basta.png"
-author: "Breachsense Support"
+Discovered: December 12, 2022
+date: '2022-12-12'
+title: LLF
+image: images/blog/Basta.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | llf.ca      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Dec 12, 2022      | 

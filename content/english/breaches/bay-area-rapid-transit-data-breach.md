@@ -1,14 +1,14 @@
 ---
-date: "2023-01-09"
-discovered: "January 09, 2023"
-title: "Bay Area Rapid Transit"
-image: "images/blog/ViceSociety.png"
-author: "Breachsense Support"
+date: '2023-01-09'
+discovered: January 09, 2023
+title: Bay Area Rapid Transit
+image: images/blog/ViceSociety.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | bart.gov      | 
 | Threat Actor      | ViceSociety      | 
 | Date Discovered      | Jan 09, 2023      | 

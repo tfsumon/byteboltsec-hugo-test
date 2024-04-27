@@ -1,14 +1,14 @@
 ---
-date: "2023-12-07"
-discovered: "December 07, 2023"
-title: "Acero"
-image: "images/blog/BianLian.png"
-author: "Breachsense Support"
+date: '2023-12-07'
+discovered: December 07, 2023
+title: Acero
+image: images/blog/BianLian.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | aceroeng.com      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Dec 07, 2023      | 

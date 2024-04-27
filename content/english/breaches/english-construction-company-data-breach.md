@@ -1,14 +1,14 @@
 ---
-Discovered: "June 09, 2022"
-date: "2022-06-09"
-title: "English Construction Company"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: June 09, 2022
+date: '2022-06-09'
+title: English Construction Company
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/june
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | englishconst.com      | 
 | Threat Actor    | Black Basta      | 
 | Date Discovered    | Jun 09, 2022      | 

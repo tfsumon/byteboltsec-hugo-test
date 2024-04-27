@@ -1,14 +1,14 @@
 ---
-date: "2023-09-13"
-discovered: "September 13, 2023"
-title: "Credifiel"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+date: '2023-09-13'
+discovered: September 13, 2023
+title: Credifiel
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | credifiel.com.mx      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Sep 13, 2023      | 

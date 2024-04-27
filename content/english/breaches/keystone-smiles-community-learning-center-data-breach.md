@@ -1,14 +1,14 @@
 ---
-date: "2023-04-26"
-discovered: "April 26, 2023"
-title: "Keystone Smiles Community Learning Center"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-04-26'
+discovered: April 26, 2023
+title: Keystone Smiles Community Learning Center
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/april
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | keystonesmiles.org      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Apr 26, 2023      | 

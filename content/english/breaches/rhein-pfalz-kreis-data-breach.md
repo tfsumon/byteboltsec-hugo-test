@@ -1,14 +1,14 @@
 ---
-Discovered: "November 11, 2022"
-date: "2022-11-11"
-title: "Rhein-Pfalz-Kreis"
-image: "images/blog/ViceSociety.png"
-author: "Breachsense Support"
+Discovered: November 11, 2022
+date: '2022-11-11'
+title: Rhein-Pfalz-Kreis
+image: images/blog/ViceSociety.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | rhein-pfalz-kreis.de      | 
 | Threat Actor      | ViceSociety      | 
 | Date Discovered      | Nov 11, 2022      | 

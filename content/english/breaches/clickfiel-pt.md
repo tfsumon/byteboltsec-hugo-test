@@ -1,14 +1,14 @@
 ---
-Discovered: "January 20, 2022"
-date: "2022-01-20"
-title: "clickfiel.pt"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: January 20, 2022
+date: '2022-01-20'
+title: clickfiel.pt
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/january
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | clickfiel.pt      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Jan 20, 2022      | 

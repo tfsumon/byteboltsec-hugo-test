@@ -1,14 +1,14 @@
 ---
-Discovered: "June 28, 2022"
-date: "2022-06-28"
-title: "Bonnville Collections"
-image: "images/blog/Lorenz.png"
-author: "Breachsense Support"
+Discovered: June 28, 2022
+date: '2022-06-28'
+title: Bonnville Collections
+image: images/blog/Lorenz.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | bonncoll.com      | 
 | Threat Actor      | Lorenz      | 
 | Date Discovered      | Jun 28, 2022      | 

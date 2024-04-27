@@ -1,14 +1,14 @@
 ---
-Discovered: "May 28, 2021"
-date: "2021-05-28"
-title: "grupopuntacana.com.do"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: May 28, 2021
+date: '2021-05-28'
+title: grupopuntacana.com.do
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/may
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | grupopuntacana.com.do      | 
 | Threat Actor    | Grief      | 
 | Date Discovered    | May 28, 2021      | 

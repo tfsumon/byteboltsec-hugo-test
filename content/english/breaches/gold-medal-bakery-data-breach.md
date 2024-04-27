@@ -1,14 +1,14 @@
 ---
-date: "2023-08-21"
-discovered: "August 21, 2023"
-title: "Gold Medal Bakery"
-image: "images/blog/Cuba.png"
-author: "Breachsense Support"
+date: '2023-08-21'
+discovered: August 21, 2023
+title: Gold Medal Bakery
+image: images/blog/Cuba.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | goldmedalbakery.com      | 
 | Threat Actor      |  Cuba     | 
 | Date Discovered      | Aug 21, 2023      | 

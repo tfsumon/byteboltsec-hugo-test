@@ -1,14 +1,14 @@
 ---
-date: "2023-02-22"
-discovered: "February 22, 2023"
-title: "Highwealth"
-image: "images/blog/Vendetta.png"
-author: "Breachsense Support"
+date: '2023-02-22'
+discovered: February 22, 2023
+title: Highwealth
+image: images/blog/Vendetta.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | highwealth.com.tw      | 
 | Threat Actor      | Vendetta      | 
 | Date Discovered      | Feb 22, 2023      | 

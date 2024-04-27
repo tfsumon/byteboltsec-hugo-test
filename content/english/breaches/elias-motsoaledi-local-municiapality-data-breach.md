@@ -1,14 +1,14 @@
 ---
-Discovered: "December 06, 2022"
-date: "2022-12-06"
-title: "Elias Motsoaledi Local Municiapality"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+Discovered: December 06, 2022
+date: '2022-12-06'
+title: Elias Motsoaledi Local Municiapality
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | municipalities.co.za      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Dec 06, 2022      | 

@@ -1,14 +1,14 @@
 ---
-Discovered: "June 19, 2022"
-date: "2022-06-19"
-title: "SOCOTEC"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: June 19, 2022
+date: '2022-06-19'
+title: SOCOTEC
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | socotec.us      | 
 | Threat Actor      | SunCrypt      | 
 | Date Discovered      | Jun 19, 2022      | 

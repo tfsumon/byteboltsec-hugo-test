@@ -1,14 +1,14 @@
 ---
-date: "2023-07-07"
-discovered: "July 07, 2023"
-title: "Pinnergy"
-image: "images/blog/Akira.png"
-author: "Breachsense Support"
+date: '2023-07-07'
+discovered: July 07, 2023
+title: Pinnergy
+image: images/blog/Akira.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | pinnergy.com      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Jul 07, 2023      | 

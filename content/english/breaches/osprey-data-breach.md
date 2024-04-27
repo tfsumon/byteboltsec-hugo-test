@@ -1,14 +1,14 @@
 ---
-Discovered: "August 17, 2022"
-date: "2022-08-17"
-title: "Osprey"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: August 17, 2022
+date: '2022-08-17'
+title: Osprey
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | ospreyvideo.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Aug 17, 2022      | 

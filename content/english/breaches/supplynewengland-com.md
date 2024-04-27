@@ -1,14 +1,14 @@
 ---
-Discovered: "February 16, 2021"
-date: "2021-02-16"
-title: "supplynewengland.com"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: February 16, 2021
+date: '2021-02-16'
+title: supplynewengland.com
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/february
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | supplynewengland.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Feb 16, 2021      | 

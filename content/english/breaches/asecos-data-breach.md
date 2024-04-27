@@ -1,14 +1,14 @@
 ---
-date: "2024-02-06"
-discovered: "February 06, 2024"
-title: "asecos"
-image: "images/blog/BlackBasta.png"
-author: "Breachsense Support"
+date: '2024-02-06'
+discovered: February 06, 2024
+title: asecos
+image: images/blog/BlackBasta.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | asecos.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Feb 06, 2024      | 

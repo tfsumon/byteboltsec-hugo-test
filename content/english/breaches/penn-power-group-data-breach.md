@@ -1,14 +1,14 @@
 ---
-date: "2023-02-08"
-discovered: "February 08, 2023"
-title: "Penn Power Group"
-image: "images/blog/Blackbyte.png"
-author: "Breachsense Support"
+date: '2023-02-08'
+discovered: February 08, 2023
+title: Penn Power Group
+image: images/blog/Blackbyte.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | pennpowergroup.com      | 
 | Threat Actor      | Blackbyte      | 
 | Date Discovered      | Feb 08, 2023      | 

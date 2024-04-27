@@ -1,14 +1,14 @@
 ---
-date: "2024-02-29"
-discovered: "February 29, 2024"
-title: "Etairos Health"
-image: "images/blog/Qilin.png"
-author: "Breachsense Support"
+date: '2024-02-29'
+discovered: February 29, 2024
+title: Etairos Health
+image: images/blog/Qilin.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | etairoshealth.com      | 
 | Threat Actor      | Qilin      | 
 | Date Discovered      | Feb 29, 2024      | 

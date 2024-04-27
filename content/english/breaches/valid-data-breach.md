@@ -1,14 +1,14 @@
 ---
-date: "2023-04-18"
-discovered: "April 18, 2023"
-title: "VALID"
-image: "images/blog/Crosslock.png"
-author: "Breachsense Support"
+date: '2023-04-18'
+discovered: April 18, 2023
+title: VALID
+image: images/blog/Crosslock.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/april
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | validcertificadora.com.br      | 
 | Threat Actor      | Crosslock      | 
 | Date Discovered      | Apr 18, 2023      | 

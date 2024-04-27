@@ -1,14 +1,14 @@
 ---
-date: "2023-05-09"
-discovered: "May 09, 2023"
-title: "Lutheran Social Services of New York"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-05-09'
+discovered: May 09, 2023
+title: Lutheran Social Services of New York
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/may
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | lssny.org      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | May 09, 2023      | 

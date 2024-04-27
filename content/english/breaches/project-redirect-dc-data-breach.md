@@ -1,14 +1,14 @@
 ---
-Discovered: "October 24, 2022"
-date: "2022-10-24"
-title: "Project Redirect DC"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: October 24, 2022
+date: '2022-10-24'
+title: Project Redirect DC
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | projectredirectdc.org      | 
 | Threat Actor      | VSOP      | 
 | Date Discovered      | Oct 24, 2022      | 

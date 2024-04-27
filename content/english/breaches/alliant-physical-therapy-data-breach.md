@@ -1,14 +1,14 @@
 ---
-Discovered: "June 16, 2022"
-date: "2022-06-16"
-title: "Alliant Physical Therapy"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+Discovered: June 16, 2022
+date: '2022-06-16'
+title: Alliant Physical Therapy
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | coraphysicaltherapy.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Jun 16, 2022      | 

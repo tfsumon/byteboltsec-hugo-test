@@ -1,14 +1,14 @@
 ---
-date: "2023-03-14"
-discovered: "March 14, 2023"
-title: "LLP Group"
-image: "images/blog/Medusa.png"
-author: "Breachsense Support"
+date: '2023-03-14'
+discovered: March 14, 2023
+title: LLP Group
+image: images/blog/Medusa.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | llpgroup.com      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Mar 14, 2023      | 

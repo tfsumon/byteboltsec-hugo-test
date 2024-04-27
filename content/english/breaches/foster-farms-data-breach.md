@@ -1,14 +1,14 @@
 ---
-date: "2023-02-23"
-discovered: "February 23, 2023"
-title: "Foster Farms"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-02-23'
+discovered: February 23, 2023
+title: Foster Farms
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | fosterfarms.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Feb 23, 2023      | 

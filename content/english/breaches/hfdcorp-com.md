@@ -1,14 +1,14 @@
 ---
-Discovered: "November 23, 2021"
-date: "2021-11-23"
-title: "hfdcorp.com"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: November 23, 2021
+date: '2021-11-23'
+title: hfdcorp.com
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/november
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | hfdcorp.com      | 
 | Threat Actor    | SunCrypt      | 
 | Date Discovered    | Nov 23, 2021      | 

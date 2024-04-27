@@ -1,14 +1,14 @@
 ---
-date: "2023-01-12"
-discovered: "January 12, 2023"
-title: "Time Technoplast"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+date: '2023-01-12'
+discovered: January 12, 2023
+title: Time Technoplast
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | timetechnoplast.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Jan 12, 2023      | 

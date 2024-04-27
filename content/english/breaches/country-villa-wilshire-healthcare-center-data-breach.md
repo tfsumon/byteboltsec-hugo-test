@@ -1,14 +1,14 @@
 ---
-date: "2024-04-16"
-discovered: "April 16, 2024"
-title: "Country Villa Wilshire Healthcare Center"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2024-04-16'
+discovered: April 16, 2024
+title: Country Villa Wilshire Healthcare Center
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/april
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | countryvillahealth.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Apr 16, 2024      | 

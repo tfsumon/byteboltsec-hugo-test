@@ -1,14 +1,14 @@
 ---
-date: "2024-02-09"
-discovered: "February 09, 2024"
-title: "New Jewish Home"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+date: '2024-02-09'
+discovered: February 09, 2024
+title: New Jewish Home
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | jewishhome.org      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Feb 09, 2024      | 

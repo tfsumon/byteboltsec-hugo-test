@@ -1,14 +1,14 @@
 ---
-date: "2024-01-09"
-discovered: "January 09, 2024"
-title: "MetroAtlanta Ambulance Service"
-image: "images/blog/Cloak.png"
-author: "Breachsense Support"
+date: '2024-01-09'
+discovered: January 09, 2024
+title: MetroAtlanta Ambulance Service
+image: images/blog/Cloak.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | maas911.com      | 
 | Threat Actor      | Cloak      | 
 | Date Discovered      | Jan 09, 2024      | 

@@ -1,14 +1,14 @@
 ---
-Discovered: "April 18, 2022"
-date: "2022-04-18"
-title: "hacienda.go.cr"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: April 18, 2022
+date: '2022-04-18'
+title: hacienda.go.cr
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/april
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | hacienda.go.cr      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Apr 18, 2022      | 

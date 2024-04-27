@@ -1,14 +1,14 @@
 ---
-date: "2024-01-08"
-discovered: "January 08, 2024"
-title: "Somerset"
-image: "images/blog/BianLian.png"
-author: "Breachsense Support"
+date: '2024-01-08'
+discovered: January 08, 2024
+title: Somerset
+image: images/blog/BianLian.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | somersetlogistics.com      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Jan 08, 2024      | 

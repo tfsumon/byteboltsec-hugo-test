@@ -1,14 +1,14 @@
 ---
-Discovered: "January 04, 2023"
-date: "2023-01-04"
-title: "TLC"
-image: "images/blog/Karakurt.png"
-author: "Breachsense Support"
+Discovered: January 04, 2023
+date: '2023-01-04'
+title: TLC
+image: images/blog/Karakurt.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | tlc.com      | 
 | Threat Actor      | Karakurt      | 
 | Date Discovered      | Jan 04, 2023      | 

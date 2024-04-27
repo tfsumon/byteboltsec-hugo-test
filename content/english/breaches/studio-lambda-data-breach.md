@@ -1,14 +1,14 @@
 ---
-date: "2024-04-17"
-discovered: "April 17, 2024"
-title: "Studio Lambda"
-image: "images/blog/Akira.png"
-author: "Breachsense Support"
+date: '2024-04-17'
+discovered: April 17, 2024
+title: Studio Lambda
+image: images/blog/Akira.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/april
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | studiolambda.net      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Apr 17, 2024      | 

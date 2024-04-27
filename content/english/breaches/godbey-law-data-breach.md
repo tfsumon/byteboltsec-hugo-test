@@ -1,14 +1,14 @@
 ---
-date: "2023-09-05"
-discovered: "September 05, 2023"
-title: "Godbey Law"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-09-05'
+discovered: September 05, 2023
+title: Godbey Law
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | godbeylaw.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Sep 05, 2023      | 

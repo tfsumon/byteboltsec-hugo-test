@@ -1,14 +1,14 @@
 ---
-Discovered: "September 05, 2022"
-date: "2022-09-05"
-title: "HME Technologies"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: September 05, 2022
+date: '2022-09-05'
+title: HME Technologies
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | hmets.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Sep 05, 2022      | 

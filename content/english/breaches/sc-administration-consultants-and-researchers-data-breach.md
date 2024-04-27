@@ -1,14 +1,14 @@
 ---
-date: "2023-12-23"
-discovered: "December 23, 2023"
-title: "SC Administration Consultants and Researchers"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-12-23'
+discovered: December 23, 2023
+title: SC Administration Consultants and Researchers
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | ciasc.mx      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Dec 23, 2023      | 

@@ -1,14 +1,14 @@
 ---
-date: "2023-12-21"
-discovered: "December 21, 2023"
-title: "Nidec GPM"
-image: "images/blog/RAGroup.png"
-author: "Breachsense Support"
+date: '2023-12-21'
+discovered: December 21, 2023
+title: Nidec GPM
+image: images/blog/RAGroup.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | nidec-gpm.com      | 
 | Threat Actor      | RAGroup      | 
 | Date Discovered      | Dec 21, 2023      | 

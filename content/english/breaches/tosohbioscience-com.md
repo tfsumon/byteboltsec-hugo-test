@@ -1,14 +1,14 @@
 ---
-Discovered: "May 05, 2022"
-date: "2022-05-05"
-title: "tosohbioscience.com"
-image: "images/blog/Lorenz.png"
-author: "Breachsense Support"
+Discovered: May 05, 2022
+date: '2022-05-05'
+title: tosohbioscience.com
+image: images/blog/Lorenz.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/may
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | tosohbioscience.com      | 
 | Threat Actor    | Lorenz      | 
 | Date Discovered    | May 05, 2022      | 

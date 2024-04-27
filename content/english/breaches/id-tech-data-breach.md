@@ -1,14 +1,14 @@
 ---
-date: "2023-05-05"
-discovered: "May 05, 2023"
-title: "ID Tech"
-image: "images/blog/CL0P.png"
-author: "Breachsense Support"
+date: '2023-05-05'
+discovered: May 05, 2023
+title: ID Tech
+image: images/blog/CL0P.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/may
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | idtechproducts.com      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | May 05, 2023      | 

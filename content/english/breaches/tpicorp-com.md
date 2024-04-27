@@ -1,14 +1,14 @@
 ---
-Discovered: "June 09, 2021"
-date: "2021-06-09"
-title: "tpicorp.com"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: June 09, 2021
+date: '2021-06-09'
+title: tpicorp.com
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/june
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | tpicorp.com      | 
 | Threat Actor    | AvosLocker      | 
 | Date Discovered    | Jun 09, 2021      | 

@@ -1,14 +1,14 @@
 ---
-Discovered: "July 20, 2022"
-date: "2022-07-20"
-title: "San Luis Coastal Unified School District"
-image: "images/blog/ViceSociety.png"
-author: "Breachsense Support"
+Discovered: July 20, 2022
+date: '2022-07-20'
+title: San Luis Coastal Unified School District
+image: images/blog/ViceSociety.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | slcusd.org      | 
 | Threat Actor      | ViceSociety      | 
 | Date Discovered      | Jul 20, 2022      | 

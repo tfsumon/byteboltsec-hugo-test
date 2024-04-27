@@ -1,14 +1,14 @@
 ---
-date: "2024-02-01"
-discovered: "February 01, 2024"
-title: "North Hill"
-image: "images/blog/BlackSuit.png"
-author: "Breachsense Support"
+date: '2024-02-01'
+discovered: February 01, 2024
+title: North Hill
+image: images/blog/BlackSuit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | northhill.org      | 
 | Threat Actor      | BlackSuit      | 
 | Date Discovered      | Feb 01, 2024      | 

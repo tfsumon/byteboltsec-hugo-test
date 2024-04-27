@@ -1,14 +1,14 @@
 ---
-Discovered: "December 21, 2021"
-date: "2021-12-21"
-title: "lipinskilogging.com"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: December 21, 2021
+date: '2021-12-21'
+title: lipinskilogging.com
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/december
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | lipinskilogging.com      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Dec 21, 2021      | 

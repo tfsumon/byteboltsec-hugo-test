@@ -1,14 +1,14 @@
 ---
-date: "2023-11-23"
-discovered: "November 23, 2023"
-title: "Ingo Money"
-image: "images/blog/INC_RANSOM.png"
-author: "Breachsense Support"
+date: '2023-11-23'
+discovered: November 23, 2023
+title: Ingo Money
+image: images/blog/INC_RANSOM.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | ingomoney.com      | 
 | Threat Actor      | INC_RANSOM      | 
 | Date Discovered      | Nov 23, 2023      | 

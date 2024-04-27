@@ -1,14 +1,14 @@
 ---
-date: "2024-03-22"
-discovered: "March 22, 2024"
-title: "PT Sarana Multi Infrastruktur"
-image: "images/blog/Qilin.png"
-author: "Breachsense Support"
+date: '2024-03-22'
+discovered: March 22, 2024
+title: PT Sarana Multi Infrastruktur
+image: images/blog/Qilin.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | ptsmi.co.id      | 
 | Threat Actor      | Qilin      | 
 | Date Discovered      | Mar 22, 2024      | 

@@ -1,14 +1,14 @@
 ---
-date: "2023-06-26"
-discovered: "June 26, 2023"
-title: "IHK Reutlingen"
-image: "images/blog/RansomwareBlog.png"
-author: "Breachsense Support"
+date: '2023-06-26'
+discovered: June 26, 2023
+title: IHK Reutlingen
+image: images/blog/RansomwareBlog.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | reutlingen.ihk.de      | 
 | Threat Actor      | RansomwareBlog      | 
 | Date Discovered      | Jun 26, 2023      | 

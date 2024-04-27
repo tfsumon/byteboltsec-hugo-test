@@ -1,14 +1,14 @@
 ---
-Discovered: "November 30, 2022"
-date: "2022-11-30"
-title: "Colonial General"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: November 30, 2022
+date: '2022-11-30'
+title: Colonial General
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | colonialgeneral.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Nov 30, 2022      | 

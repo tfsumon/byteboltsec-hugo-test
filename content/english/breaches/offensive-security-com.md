@@ -1,14 +1,14 @@
 ---
-Discovered: "December 21, 2021"
-date: "2021-12-21"
-title: "offensive-security.com"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: December 21, 2021
+date: '2021-12-21'
+title: offensive-security.com
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/december
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | offensive-security.com      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Dec 21, 2021      | 

@@ -1,14 +1,14 @@
 ---
-date: "2023-06-12"
-discovered: "June 12, 2023"
-title: "Adams County Communication Center"
-image: "images/blog/Akira.png"
-author: "Breachsense Support"
+date: '2023-06-12'
+discovered: June 12, 2023
+title: Adams County Communication Center
+image: images/blog/Akira.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | adcom911.org      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Jun 12, 2023      |

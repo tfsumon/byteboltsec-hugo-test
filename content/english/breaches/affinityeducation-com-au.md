@@ -1,14 +1,14 @@
 ---
-Discovered: "November 06, 2020"
-date: "2020-11-06"
-title: "affinityeducation.com.au"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: November 06, 2020
+date: '2020-11-06'
+title: affinityeducation.com.au
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2020/november
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | affinityeducation.com.au      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Nov 06, 2020      | 

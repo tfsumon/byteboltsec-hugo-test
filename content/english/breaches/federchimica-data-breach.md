@@ -1,14 +1,14 @@
 ---
-date: "2024-03-13"
-discovered: "March 13, 2024"
-title: "Federchimica"
-image: "images/blog/8BASE.png"
-author: "Breachsense Support"
+date: '2024-03-13'
+discovered: March 13, 2024
+title: Federchimica
+image: images/blog/8BASE.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | federchimica.it      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Mar 13, 2024      | 

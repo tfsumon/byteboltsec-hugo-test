@@ -1,14 +1,14 @@
 ---
-date: "2023-08-28"
-discovered: "August 28, 2023"
-title: "LEN - Learning Education Network"
-image: "images/blog/Medusa.png"
-author: "Breachsense Support"
+date: '2023-08-28'
+discovered: August 28, 2023
+title: LEN - Learning Education Network
+image: images/blog/Medusa.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | gruppolen.it      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Aug 28, 2023      | 

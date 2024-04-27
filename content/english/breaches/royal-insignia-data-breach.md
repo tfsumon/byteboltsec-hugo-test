@@ -1,14 +1,14 @@
 ---
-date: "2024-02-28"
-discovered: "February 28, 2024"
-title: "Royal Insignia"
-image: "images/blog/8BASE.png"
-author: "Breachsense Support"
+date: '2024-02-28'
+discovered: February 28, 2024
+title: Royal Insignia
+image: images/blog/8BASE.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | royalinsignia.com      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Feb 28, 2024      | 

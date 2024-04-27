@@ -1,14 +1,14 @@
 ---
-Discovered: "November 11, 2021"
-date: "2021-11-11"
-title: "cabinet-lebonnois.fr"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: November 11, 2021
+date: '2021-11-11'
+title: cabinet-lebonnois.fr
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/november
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | cabinet-lebonnois.fr      | 
 | Threat Actor    | Everest      | 
 | Date Discovered    | Nov 11, 2021      | 

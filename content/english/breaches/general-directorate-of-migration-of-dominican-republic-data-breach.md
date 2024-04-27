@@ -1,14 +1,14 @@
 ---
-date: "2023-10-04"
-discovered: "October 04, 2023"
-title: "General Directorate of Migration of Dominican Republic"
-image: "images/blog/Rhysida.png"
-author: "Breachsense Support"
+date: '2023-10-04'
+discovered: October 04, 2023
+title: General Directorate of Migration of Dominican Republic
+image: images/blog/Rhysida.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | migracion.gob.do      | 
 | Threat Actor      | Rhysida      | 
 | Date Discovered      | Oct 04, 2023      | 

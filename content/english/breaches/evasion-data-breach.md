@@ -1,14 +1,14 @@
 ---
-date: "2023-10-13"
-discovered: "October 13, 2023"
-title: "Evasion"
-image: "images/blog/Medusa.png"
-author: "Breachsense Support"
+date: '2023-10-13'
+discovered: October 13, 2023
+title: Evasion
+image: images/blog/Medusa.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | evasion.es      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Oct 13, 2023      | 

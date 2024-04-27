@@ -1,14 +1,14 @@
 ---
-Discovered: "December 09, 2022"
-date: "2022-12-09"
-title: "AHT Wisconsin Windows"
-image: "images/blog/Quantum.png"
-author: "Breachsense Support"
+Discovered: December 09, 2022
+date: '2022-12-09'
+title: AHT Wisconsin Windows
+image: images/blog/Quantum.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | ahtwindows.com      | 
 | Threat Actor      | Quantum      | 
 | Date Discovered      | Dec 09, 2022      | 

@@ -1,14 +1,14 @@
 ---
-Discovered: "December 07, 2022"
-date: "2022-12-07"
-title: "NatureWorks"
-image: "images/blog/Basta.png"
-author: "Breachsense Support"
+Discovered: December 07, 2022
+date: '2022-12-07'
+title: NatureWorks
+image: images/blog/Basta.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | natureworksllc.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Dec 07, 2022      | 

@@ -1,14 +1,14 @@
 ---
-Discovered: "September 28, 2022"
-date: "2022-09-28"
-title: "Associated Bag"
-image: "images/blog/Basta.png"
-author: "Breachsense Support"
+Discovered: September 28, 2022
+date: '2022-09-28'
+title: Associated Bag
+image: images/blog/Basta.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | associatedbag.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Sep 28, 2022      | 

@@ -1,10 +1,11 @@
 ---
-date: "2023-09-26"
-discovered: "September 26, 2023"
-title: "ZZColdstores"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+date: '2023-09-26'
+discovered: September 26, 2023
+title: ZZColdstores
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/september
 ---
 
 | Data Breach Report           |              | 

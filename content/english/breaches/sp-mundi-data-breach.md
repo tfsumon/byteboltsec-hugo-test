@@ -1,14 +1,14 @@
 ---
-date: "2024-03-08"
-discovered: "March 08, 2024"
-title: "SP Mundi"
-image: "images/blog/Ransomhub.png"
-author: "Breachsense Support"
+date: '2024-03-08'
+discovered: March 08, 2024
+title: SP Mundi
+image: images/blog/Ransomhub.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | spmundi.com.br      | 
 | Threat Actor      | Ransomhub      | 
 | Date Discovered      | Mar 08, 2024      | 

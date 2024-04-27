@@ -1,14 +1,14 @@
 ---
-date: "2024-01-03"
-discovered: "January 03, 2024"
-title: "Graebener"
-image: "images/blog/BlackBasta.png"
-author: "Breachsense Support"
+date: '2024-01-03'
+discovered: January 03, 2024
+title: Graebener
+image: images/blog/BlackBasta.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | graebener-group.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Jan 03, 2024      | 

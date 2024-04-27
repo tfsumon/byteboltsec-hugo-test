@@ -1,14 +1,14 @@
 ---
-date: "2023-12-19"
-discovered: "December 19, 2023"
-title: "Richard Harris Law Firm"
-image: "images/blog/Play.png"
-author: "Breachsense Support"
+date: '2023-12-19'
+discovered: December 19, 2023
+title: Richard Harris Law Firm
+image: images/blog/Play.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | richardharrislaw.com      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Dec 19, 2023      | 

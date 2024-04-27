@@ -1,14 +1,14 @@
 ---
-date: "2024-02-28"
-discovered: "February 28, 2024"
-title: "Orange Public Schools"
-image: "images/blog/INC_RANSOM.png"
-author: "Breachsense Support"
+date: '2024-02-28'
+discovered: February 28, 2024
+title: Orange Public Schools
+image: images/blog/INC_RANSOM.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | orange.k12.nj.us      | 
 | Threat Actor      | INC_RANSOM      | 
 | Date Discovered      | Feb 28, 2024      | 

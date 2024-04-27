@@ -1,14 +1,14 @@
 ---
-Discovered: "September 22, 2022"
-date: "2022-09-22"
-title: "Bay Bridge Administrators"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: September 22, 2022
+date: '2022-09-22'
+title: Bay Bridge Administrators
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | bbadmin.com      | 
 | Threat Actor      | RedAlert      | 
 | Date Discovered      | Sep 22, 2022      | 

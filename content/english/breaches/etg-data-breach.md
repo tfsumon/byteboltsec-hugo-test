@@ -1,14 +1,14 @@
 ---
-Discovered: "July 14, 2022"
-date: "2022-07-14"
-title: "ETG"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: July 14, 2022
+date: '2022-07-14'
+title: ETG
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | etgworld.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jul 14, 2022      | 

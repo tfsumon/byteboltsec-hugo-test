@@ -1,14 +1,14 @@
 ---
-Discovered: "December 31, 2021"
-date: "2021-12-31"
-title: "araboug.org"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: December 31, 2021
+date: '2021-12-31'
+title: araboug.org
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/december
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | araboug.org      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Dec 31, 2021      | 

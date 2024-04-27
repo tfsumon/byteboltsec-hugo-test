@@ -1,14 +1,14 @@
 ---
-Discovered: "November 29, 2022"
-date: "2022-11-29"
-title: "Guilford College"
-image: "images/blog/HiveLeaks.png"
-author: "Breachsense Support"
+Discovered: November 29, 2022
+date: '2022-11-29'
+title: Guilford College
+image: images/blog/HiveLeaks.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | guilford.edu      | 
 | Threat Actor      | HiveLeaks      | 
 | Date Discovered      | Nov 29, 2022      | 

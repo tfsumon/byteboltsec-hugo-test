@@ -1,14 +1,14 @@
 ---
-Discovered: "December 26, 2022"
-date: "2022-12-26"
-title: "Nexon Asia Pacific"
-image: "images/blog/Nokoyawa.png"
-author: "Breachsense Support"
+Discovered: December 26, 2022
+date: '2022-12-26'
+title: Nexon Asia Pacific
+image: images/blog/Nokoyawa.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | nexon.com.au      | 
 | Threat Actor      | Nokoyawa      | 
 | Date Discovered      | Dec 26, 2022      | 

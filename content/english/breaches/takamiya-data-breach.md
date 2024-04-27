@@ -1,14 +1,14 @@
 ---
-date: "2023-01-09"
-discovered: "January 09, 2023"
-title: "Takamiya"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-01-09'
+discovered: January 09, 2023
+title: Takamiya
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | takamiya.co      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | January 09, 2023      | 

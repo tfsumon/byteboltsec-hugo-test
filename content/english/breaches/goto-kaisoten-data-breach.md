@@ -1,14 +1,14 @@
 ---
-Discovered: "June 10, 2022"
-date: "2022-06-10"
-title: "Goto Kaisoten"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: June 10, 2022
+date: '2022-06-10'
+title: Goto Kaisoten
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/june
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | kaisoten.co.jp      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Jun 10, 2022      | 

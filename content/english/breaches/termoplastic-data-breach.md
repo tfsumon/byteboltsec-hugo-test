@@ -1,14 +1,14 @@
 ---
-date: "2024-04-08"
-discovered: "April 08, 2024"
-title: "Termoplastic"
-image: "images/blog/Ciphbit.png"
-author: "Breachsense Support"
+date: '2024-04-08'
+discovered: April 08, 2024
+title: Termoplastic
+image: images/blog/Ciphbit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/april
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | termoplastic.it      | 
 | Threat Actor      | Ciphbit      | 
 | Date Discovered      | Apr 08, 2024      | 

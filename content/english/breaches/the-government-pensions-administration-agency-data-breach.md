@@ -1,14 +1,14 @@
 ---
-date: "2024-03-12"
-discovered: "March 12, 2024"
-title: "The Government Pensions Administration Agency"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2024-03-12'
+discovered: March 12, 2024
+title: The Government Pensions Administration Agency
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | gpaa.gov.za      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Mar 12, 2024      | 

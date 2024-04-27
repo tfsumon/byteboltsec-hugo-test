@@ -1,14 +1,14 @@
 ---
-date: "2023-09-01"
-discovered: "September 01, 2023"
-title: "Yuxin"
-image: "images/blog/RAGroup.png"
-author: "Breachsense Support"
+date: '2023-09-01'
+discovered: September 01, 2023
+title: Yuxin
+image: images/blog/RAGroup.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | esine.com.tw      | 
 | Threat Actor      | RAGroup      | 
 | Date Discovered      | Sep 01, 2023      | 

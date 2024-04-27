@@ -1,14 +1,14 @@
 ---
-date: "2023-09-25"
-discovered: "September 25, 2023"
-title: "ORT Israel"
-image: "images/blog/Rhysida.png"
-author: "Breachsense Support"
+date: '2023-09-25'
+discovered: September 25, 2023
+title: ORT Israel
+image: images/blog/Rhysida.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | hermelin.ort.org.il      | 
 | Threat Actor      | Rhysida      | 
 | Date Discovered      | Sep 25, 2023      | 

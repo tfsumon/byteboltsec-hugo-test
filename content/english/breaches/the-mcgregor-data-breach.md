@@ -1,14 +1,14 @@
 ---
-date: "2023-05-04"
-discovered: "May 04, 2023"
-title: "The McGregor"
-image: "images/blog/Akira.png"
-author: "Breachsense Support"
+date: '2023-05-04'
+discovered: May 04, 2023
+title: The McGregor
+image: images/blog/Akira.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/may
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | mcgregor.com      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | May 04, 2023      | 

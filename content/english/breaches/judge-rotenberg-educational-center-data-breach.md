@@ -1,14 +1,14 @@
 ---
-date: "2024-03-14"
-discovered: "March 14, 2024"
-title: "Judge Rotenberg Educational Center"
-image: "images/blog/BlackSuit.png"
-author: "Breachsense Support"
+date: '2024-03-14'
+discovered: March 14, 2024
+title: Judge Rotenberg Educational Center
+image: images/blog/BlackSuit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | judgerc.org      | 
 | Threat Actor      | BlackSuit      | 
 | Date Discovered      | Mar 14, 2024      | 

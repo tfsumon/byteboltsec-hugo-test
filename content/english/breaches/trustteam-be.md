@@ -1,14 +1,14 @@
 ---
-Discovered: "August 25, 2020"
-date: "2020-08-25"
-title: "trustteam.be"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: August 25, 2020
+date: '2020-08-25'
+title: trustteam.be
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2020/august
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | trustteam.be      | 
 | Threat Actor    | SunCrypt      | 
 | Date Discovered    | Aug 25, 2020      | 

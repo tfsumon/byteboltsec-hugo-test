@@ -1,14 +1,14 @@
 ---
-date: "2023-04-24"
-discovered: "April 24, 2023"
-title: "Yellow Pages"
-image: "images/blog/BlackBasta.png"
-author: "Breachsense Support"
+date: '2023-04-24'
+discovered: April 24, 2023
+title: Yellow Pages
+image: images/blog/BlackBasta.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/april
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | yellowpages.ca      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Apr 24, 2023      | 

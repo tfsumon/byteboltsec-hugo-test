@@ -1,14 +1,14 @@
 ---
-Discovered: "July 07, 2022"
-date: "2022-07-07"
-title: "Dekimo"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: July 07, 2022
+date: '2022-07-07'
+title: Dekimo
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | dekimo.com      | 
 | Threat Actor      |  Black Basta     | 
 | Date Discovered      | Jul 07, 2022      | 

@@ -1,14 +1,14 @@
 ---
-Discovered: "July 26, 2022"
-date: "2022-07-26"
-title: "OptiProERP"
-image: "images/blog/REvil.png"
-author: "Breachsense Support"
+Discovered: July 26, 2022
+date: '2022-07-26'
+title: OptiProERP
+image: images/blog/REvil.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | optiproerp.com      | 
 | Threat Actor      | REvil      | 
 | Date Discovered      | Jul 26, 2022      | 

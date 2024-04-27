@@ -1,14 +1,14 @@
 ---
-date: "2024-04-04"
-discovered: "April 04, 2024"
-title: "Phillip Townsend Associates"
-image: "images/blog/BlackSuit.png"
-author: "Breachsense Support"
+date: '2024-04-04'
+discovered: April 04, 2024
+title: Phillip Townsend Associates
+image: images/blog/BlackSuit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/april
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | ptai.com      | 
 | Threat Actor      | BlackSuit      | 
 | Date Discovered      | Apr 04, 2024      | 

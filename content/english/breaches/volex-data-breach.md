@@ -1,14 +1,14 @@
 ---
-date: "2023-10-29"
-discovered: "October 29, 2023"
-title: "Volex"
-image: "images/blog/BlackBasta.png"
-author: "Breachsense Support"
+date: '2023-10-29'
+discovered: October 29, 2023
+title: Volex
+image: images/blog/BlackBasta.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | volex.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Oct 29, 2023      | 

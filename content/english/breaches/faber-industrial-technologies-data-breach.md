@@ -1,14 +1,14 @@
 ---
-Discovered: "September 05, 2021"
-date: "2021-09-05"
-title: "Faber Industrial Technologies"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: September 05, 2021
+date: '2021-09-05'
+title: Faber Industrial Technologies
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | faberinc.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Sep 09, 2021      | 

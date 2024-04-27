@@ -1,14 +1,14 @@
 ---
-date: "2023-06-16"
-discovered: "June 16, 2023"
-title: "Kisco Senior Living"
-image: "images/blog/Blackbyte.png"
-author: "Breachsense Support"
+date: '2023-06-16'
+discovered: June 16, 2023
+title: Kisco Senior Living
+image: images/blog/Blackbyte.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | kiscoseniorliving.com      | 
 | Threat Actor      | Blackbyte      | 
 | Date Discovered      | Jun 16, 2023      | 

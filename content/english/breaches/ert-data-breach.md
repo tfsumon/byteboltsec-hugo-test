@@ -1,14 +1,14 @@
 ---
-date: "2023-06-02"
-discovered: "June 02, 2023"
-title: "ERT"
-image: "images/blog/Darkrace.png"
-author: "Breachsense Support"
+date: '2023-06-02'
+discovered: June 02, 2023
+title: ERT
+image: images/blog/Darkrace.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | ertgrupo.com      | 
 | Threat Actor      | Darkrace      | 
 | Date Discovered      | Jun 02, 2023      | 

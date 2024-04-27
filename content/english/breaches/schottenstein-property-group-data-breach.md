@@ -1,14 +1,14 @@
 ---
-date: "2023-04-26"
-discovered: "April 26, 2023"
-title: "Schottenstein Property Group"
-image: "images/blog/Akira.png"
-author: "Breachsense Support"
+date: '2023-04-26'
+discovered: April 26, 2023
+title: Schottenstein Property Group
+image: images/blog/Akira.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/april
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | spgroup.com      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Apr 26, 2023      | 

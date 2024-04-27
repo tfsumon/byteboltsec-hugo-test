@@ -1,14 +1,14 @@
 ---
-date: "2023-11-17"
-discovered: "November 17, 2023"
-title: "Informist"
-image: "images/blog/RAGroup.png"
-author: "Breachsense Support"
+date: '2023-11-17'
+discovered: November 17, 2023
+title: Informist
+image: images/blog/RAGroup.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | informistmedia.com      | 
 | Threat Actor      | RAGroup      | 
 | Date Discovered      | Nov 17, 2023      | 

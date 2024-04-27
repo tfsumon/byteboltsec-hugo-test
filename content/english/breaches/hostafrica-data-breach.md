@@ -1,14 +1,14 @@
 ---
-date: "2023-05-15"
-discovered: "May 15, 2023"
-title: "HOSTAFRICA"
-image: "images/blog/Medusa.png"
-author: "Breachsense Support"
+date: '2023-05-15'
+discovered: May 15, 2023
+title: HOSTAFRICA
+image: images/blog/Medusa.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/may
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | hostafrica.co.za      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | May 15, 2023      | 

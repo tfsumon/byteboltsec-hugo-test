@@ -1,14 +1,14 @@
 ---
-Discovered: "September 30, 2022"
-date: "2022-09-30"
-title: "Marcel Solucion"
-image: "images/blog/CL0P.png"
-author: "Breachsense Support"
+Discovered: September 30, 2022
+date: '2022-09-30'
+title: Marcel Solucion
+image: images/blog/CL0P.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | marcelsolution.com      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Sep 30, 2022      | 

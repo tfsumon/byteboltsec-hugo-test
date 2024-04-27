@@ -1,14 +1,14 @@
 ---
-Discovered: "August 25, 2022"
-date: "2022-08-25"
-title: "ActionLabs"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: August 25, 2022
+date: '2022-08-25'
+title: ActionLabs
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | actionlabs.com.ph      | 
 | Threat Actor      | DonutLeaks      | 
 | Date Discovered      | Aug 25, 2022      | 

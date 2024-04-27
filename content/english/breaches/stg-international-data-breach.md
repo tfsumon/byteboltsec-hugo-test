@@ -1,14 +1,14 @@
 ---
-Discovered: "November 28, 2022"
-date: "2022-11-28"
-title: "STG International"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: November 28, 2022
+date: '2022-11-28'
+title: STG International
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | stginternational.com      | 
 | Threat Actor      | Snatch      | 
 | Date Discovered      | Nov 28, 2022      | 

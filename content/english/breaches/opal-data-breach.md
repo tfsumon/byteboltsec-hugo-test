@@ -1,14 +1,14 @@
 ---
-Discovered: "June 13, 2022"
-date: "2022-06-13"
-title: "OPAL"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: June 13, 2022
+date: '2022-06-13'
+title: OPAL
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | opal-is.com      | 
 | Threat Actor      | BlackByte      | 
 | Date Discovered      | Jun 13, 2022      | 

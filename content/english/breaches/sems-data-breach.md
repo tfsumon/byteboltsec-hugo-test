@@ -1,14 +1,14 @@
 ---
-date: "2023-02-16"
-discovered: "February 16, 2023"
-title: "SEMS"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-02-16'
+discovered: February 16, 2023
+title: SEMS
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | semsinc.net      | 
 | Threat Actor      | LockBut      | 
 | Date Discovered      | Feb 16, 2023      | 

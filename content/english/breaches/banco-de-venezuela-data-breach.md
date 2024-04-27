@@ -1,14 +1,14 @@
 ---
-date: "2023-04-20"
-discovered: "April 20, 2023"
-title: "Banco De Venezuela"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-04-20'
+discovered: April 20, 2023
+title: Banco De Venezuela
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/april
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | bancodevenezuela.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Apr 20, 2023      | 

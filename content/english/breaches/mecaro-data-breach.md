@@ -1,14 +1,14 @@
 ---
-date: "2023-02-16"
-discovered: "February 16, 2023"
-title: "Mecaro"
-image: "images/blog/Mallox.png"
-author: "Breachsense Support"
+date: '2023-02-16'
+discovered: February 16, 2023
+title: Mecaro
+image: images/blog/Mallox.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | mecaro.com      | 
 | Threat Actor      | Mallox      | 
 | Date Discovered      | Feb 16, 2023      | 

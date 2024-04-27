@@ -1,14 +1,14 @@
 ---
-Discovered: "July 04, 2021"
-date: "2021-07-04"
-title: "hmcc.com.br"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: July 04, 2021
+date: '2021-07-04'
+title: hmcc.com.br
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/july
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | hmcc.com.br      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Jul 04, 2021      | 

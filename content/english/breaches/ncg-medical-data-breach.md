@@ -1,14 +1,14 @@
 ---
-Discovered: "September 01, 2022"
-date: "2022-09-01"
-title: "NCG Medical"
-image: "images/blog/HiveLeaks.png"
-author: "Breachsense Support"
+Discovered: September 01, 2022
+date: '2022-09-01'
+title: NCG Medical
+image: images/blog/HiveLeaks.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | ncgmedical.com      | 
 | Threat Actor      | HiveLeaks      | 
 | Date Discovered      | Sep 01, 2022      | 

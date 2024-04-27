@@ -1,14 +1,14 @@
 ---
-date: "2023-10-16"
-discovered: "October 16, 2023"
-title: "Jahesh"
-image: "images/blog/ArvinClub.png"
-author: "Breachsense Support"
+date: '2023-10-16'
+discovered: October 16, 2023
+title: Jahesh
+image: images/blog/ArvinClub.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | jahesh.co      | 
 | Threat Actor      | ArvinClub      | 
 | Date Discovered      | Oct 16, 2023      | 

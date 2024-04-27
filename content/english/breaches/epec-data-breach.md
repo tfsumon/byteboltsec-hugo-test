@@ -1,14 +1,14 @@
 ---
-Discovered: "July 14, 2022"
-date: "2022-07-14"
-title: "EPEC"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: July 14, 2022
+date: '2022-07-14'
+title: EPEC
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | epec.pl      | 
 | Threat Actor      | Ragnar_Locker      | 
 | Date Discovered      | Jul 14, 2022      | 

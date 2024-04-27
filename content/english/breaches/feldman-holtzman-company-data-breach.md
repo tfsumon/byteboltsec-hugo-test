@@ -1,14 +1,14 @@
 ---
-Discovered: "December 09, 2022"
-date: "2022-12-09"
-title: "Feldman, Holtzman & Company"
-image: "images/blog/BianLian.png"
-author: "Breachsense Support"
+Discovered: December 09, 2022
+date: '2022-12-09'
+title: Feldman, Holtzman & Company
+image: images/blog/BianLian.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | fhccpa.com      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Dec 09, 2022      | 

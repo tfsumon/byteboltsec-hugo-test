@@ -1,14 +1,14 @@
 ---
-date: "2023-10-17"
-discovered: "October 17, 2023"
-title: "SD Products"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-10-17'
+discovered: October 17, 2023
+title: SD Products
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | sdproducts.co.uk      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Oct 17, 2023      | 

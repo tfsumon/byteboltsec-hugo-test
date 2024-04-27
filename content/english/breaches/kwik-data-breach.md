@@ -1,14 +1,14 @@
 ---
-date: "2023-11-20"
-discovered: "November 20, 2023"
-title: "Kwik"
-image: "images/blog/NoEscape.png"
-author: "Breachsense Support"
+date: '2023-11-20'
+discovered: November 20, 2023
+title: Kwik
+image: images/blog/NoEscape.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | kwikind.com      | 
 | Threat Actor      | NoEscape      | 
 | Date Discovered      | Nov 20, 2023      | 

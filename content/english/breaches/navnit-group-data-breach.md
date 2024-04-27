@@ -1,14 +1,14 @@
 ---
-date: "2023-01-26"
-discovered: "January 26, 2023"
-title: "Navnit Group"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+date: '2023-01-26'
+discovered: January 26, 2023
+title: Navnit Group
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | navnitgroup.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Jan 26, 2023      | 

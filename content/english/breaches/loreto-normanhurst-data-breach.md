@@ -1,14 +1,14 @@
 ---
-date: "2023-05-23"
-discovered: "May 23, 2023"
-title: "Loreto Normanhurst"
-image: "images/blog/Medusa.png"
-author: "Breachsense Support"
+date: '2023-05-23'
+discovered: May 23, 2023
+title: Loreto Normanhurst
+image: images/blog/Medusa.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/may
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | loretonh.nsw.edu.au      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | May 23, 2023      | 

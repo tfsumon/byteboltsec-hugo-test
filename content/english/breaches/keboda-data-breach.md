@@ -1,14 +1,14 @@
 ---
-date: "2024-03-15"
-discovered: "March 15, 2024"
-title: "Keboda"
-image: "images/blog/BianLian.png"
-author: "Breachsense Support"
+date: '2024-03-15'
+discovered: March 15, 2024
+title: Keboda
+image: images/blog/BianLian.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | keboda.com      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Mar 15, 2024      | 

@@ -1,14 +1,14 @@
 ---
-date: "2024-02-13"
-discovered: "February 13, 2024"
-title: "Garon Products"
-image: "images/blog/3AM.png"
-author: "Breachsense Support"
+date: '2024-02-13'
+discovered: February 13, 2024
+title: Garon Products
+image: images/blog/3AM.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | garonproducts.com      | 
 | Threat Actor      | 3AM      | 
 | Date Discovered      | Feb 13, 2024      | 

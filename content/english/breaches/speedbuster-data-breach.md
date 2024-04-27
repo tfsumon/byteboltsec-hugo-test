@@ -1,14 +1,14 @@
 ---
-Discovered: "September 07, 2022"
-date: "2022-09-07"
-title: "SpeedBuster"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: September 07, 2022
+date: '2022-09-07'
+title: SpeedBuster
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | chiptuning.shop      | 
 | Threat Actor      | BlackByte      | 
 | Date Discovered      | Sep 07, 2022      | 

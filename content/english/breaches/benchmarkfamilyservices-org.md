@@ -1,14 +1,14 @@
 ---
-Discovered: "November 05, 2020"
-date: "2020-11-05"
-title: "benchmarkfamilyservices.org"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: November 05, 2020
+date: '2020-11-05'
+title: benchmarkfamilyservices.org
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2020/november
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | benchmarkfamilyservices.org      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Nov 05, 2020      | 

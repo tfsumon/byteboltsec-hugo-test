@@ -1,14 +1,14 @@
 ---
-date: "2023-09-25"
-discovered: "September 25, 2023"
-title: "Franktronics"
-image: "images/blog/Medusa.png"
-author: "Breachsense Support"
+date: '2023-09-25'
+discovered: September 25, 2023
+title: Franktronics
+image: images/blog/Medusa.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | franktronics.net      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Sep 25, 2023      | 

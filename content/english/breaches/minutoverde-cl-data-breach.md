@@ -1,14 +1,14 @@
 ---
-Discovered: "June 06, 2022"
-date: "2022-06-06"
-title: "Alimentos y Frutos S.A."
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: June 06, 2022
+date: '2022-06-06'
+title: Alimentos y Frutos S.A.
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/june
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | minutoverde.cl      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Jun 06, 2022      | 

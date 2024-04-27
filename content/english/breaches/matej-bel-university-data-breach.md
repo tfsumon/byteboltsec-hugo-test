@@ -1,14 +1,14 @@
 ---
-date: "2023-06-26"
-discovered: "June 26, 2023"
-title: "Matej Bel University"
-image: "images/blog/Medusa.png"
-author: "Breachsense Support"
+date: '2023-06-26'
+discovered: June 26, 2023
+title: Matej Bel University
+image: images/blog/Medusa.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | umb.sk      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Jun 26, 2023      | 

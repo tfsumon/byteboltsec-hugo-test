@@ -1,14 +1,14 @@
 ---
-date: "2023-07-19"
-discovered: "July 19, 2023"
-title: "Berg Life"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-07-19'
+discovered: July 19, 2023
+title: Berg Life
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | berg-life.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jul 19, 2023      | 

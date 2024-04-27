@@ -1,14 +1,14 @@
 ---
-Discovered: "September 20, 2022"
-date: "2022-09-20"
-title: "Caritas"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+Discovered: September 20, 2022
+date: '2022-09-20'
+title: Caritas
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | caritas.org      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Sep 20, 2022      | 

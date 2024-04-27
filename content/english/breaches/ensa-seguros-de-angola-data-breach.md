@@ -1,14 +1,14 @@
 ---
-date: "2023-05-18"
-discovered: "May 18, 2023"
-title: "ENSA - Seguros de Angola"
-image: "images/blog/BianLian.png"
-author: "Breachsense Support"
+date: '2023-05-18'
+discovered: May 18, 2023
+title: ENSA - Seguros de Angola
+image: images/blog/BianLian.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/may
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | ensa.co.ao      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | May 18, 2023      | 

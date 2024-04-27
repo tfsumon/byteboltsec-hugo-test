@@ -1,14 +1,14 @@
 ---
-Discovered: "November 14, 2022"
-date: "2022-11-14"
-title: "Nissan of Las Cruces"
-image: "images/blog/Lorenz.png"
-author: "Breachsense Support"
+Discovered: November 14, 2022
+date: '2022-11-14'
+title: Nissan of Las Cruces
+image: images/blog/Lorenz.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | nissanoflascruces.com      | 
 | Threat Actor      | Lorenz      | 
 | Date Discovered      | Nov 14, 2022      | 

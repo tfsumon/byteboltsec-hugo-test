@@ -1,14 +1,14 @@
 ---
-date: "2023-10-31"
-discovered: "October 31, 2023"
-title: "Aeropuerto Intercontinental de Querétaro"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-10-31'
+discovered: October 31, 2023
+title: Aeropuerto Intercontinental de Querétaro
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | aiq.com.mx      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Oct 31, 2023      | 

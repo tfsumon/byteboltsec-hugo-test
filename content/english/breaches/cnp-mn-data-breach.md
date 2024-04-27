@@ -1,14 +1,14 @@
 ---
-date: "2023-07-19"
-discovered: "July 19, 2023"
-title: "CNP MN"
-image: "images/blog/NoEscape.png"
-author: "Breachsense Support"
+date: '2023-07-19'
+discovered: July 19, 2023
+title: CNP MN
+image: images/blog/NoEscape.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | cnp-mn.fr      | 
 | Threat Actor      | NoEscape      | 
 | Date Discovered      | Jul 19, 2023      | 

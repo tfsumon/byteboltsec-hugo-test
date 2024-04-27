@@ -1,14 +1,14 @@
 ---
-date: "2024-04-16"
-discovered: "April 16, 2024"
-title: "Quint"
-image: "images/blog/DarkVault.png"
-author: "Breachsense Support"
+date: '2024-04-16'
+discovered: April 16, 2024
+title: Quint
+image: images/blog/DarkVault.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/april
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | qint.com.br      | 
 | Threat Actor      | DarkVault      | 
 | Date Discovered      | Apr 16, 2024      | 

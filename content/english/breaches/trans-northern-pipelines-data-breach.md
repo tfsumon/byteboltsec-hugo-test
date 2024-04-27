@@ -1,14 +1,14 @@
 ---
-date: "2024-02-14"
-discovered: "February 14, 2024"
-title: "Trans-Northern Pipelines"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+date: '2024-02-14'
+discovered: February 14, 2024
+title: Trans-Northern Pipelines
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | tnpi.ca      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Feb 14, 2024      | 

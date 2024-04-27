@@ -1,14 +1,14 @@
 ---
-date: "2023-12-26"
-discovered: "December 26, 2023"
-title: "Walkro"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-12-26'
+discovered: December 26, 2023
+title: Walkro
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | walkro.eu      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Dec 26, 2023      | 

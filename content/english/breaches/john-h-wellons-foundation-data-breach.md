@@ -1,14 +1,14 @@
 ---
-date: "2023-10-24"
-discovered: "October 24, 2023"
-title: "John H Wellons Oct 24, 2023ation"
-image: "images/blog/RansomwareBlog.png"
-author: "Breachsense Support"
+date: '2023-10-24'
+discovered: October 24, 2023
+title: John H Wellons Oct 24, 2023ation
+image: images/blog/RansomwareBlog.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | wellons.org      | 
 | Threat Actor      | RansomwareBlog      | 
 | Date Discovered      | Oct 24, 2023      | 

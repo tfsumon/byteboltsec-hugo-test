@@ -1,14 +1,14 @@
 ---
-date: "2023-12-27"
-discovered: "December 27, 2023"
-title: "Flash Motors"
-image: "images/blog/Raznatovic.png"
-author: "Breachsense Support"
+date: '2023-12-27'
+discovered: December 27, 2023
+title: Flash Motors
+image: images/blog/Raznatovic.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | flashmotors.us      | 
 | Threat Actor      | Raznatovic      | 
 | Date Discovered      | Dec 27, 2023      | 

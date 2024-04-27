@@ -1,14 +1,14 @@
 ---
-date: "2023-07-20"
-discovered: "July 20, 2023"
-title: "Lumberton"
-image: "images/blog/Rhysida.png"
-author: "Breachsense Support"
+date: '2023-07-20'
+discovered: July 20, 2023
+title: Lumberton
+image: images/blog/Rhysida.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | lumbertonisd.org      | 
 | Threat Actor      | Rhysida      | 
 | Date Discovered      | Jul 20, 2023      | 

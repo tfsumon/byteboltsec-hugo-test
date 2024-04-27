@@ -1,14 +1,14 @@
 ---
-date: "2024-03-20"
-discovered: "March 20, 2024"
-title: "P&B Capital"
-image: "images/blog/BianLian.png"
-author: "Breachsense Support"
+date: '2024-03-20'
+discovered: March 20, 2024
+title: P&B Capital
+image: images/blog/BianLian.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | pandbcapitalgroup.com      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Mar 20, 2024      | 

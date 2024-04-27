@@ -1,14 +1,14 @@
 ---
-Discovered: "April 06, 2022"
-date: "2022-04-06"
-title: "goldbet.it"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+Discovered: April 06, 2022
+date: '2022-04-06'
+title: goldbet.it
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/april
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | goldbet.it      | 
 | Threat Actor    | ALPHV      | 
 | Date Discovered    | Apr 06, 2022      | 

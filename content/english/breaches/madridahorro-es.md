@@ -1,14 +1,14 @@
 ---
-Discovered: "February 02, 2022"
-date: "2022-02-02"
-title: "madridahorro.es"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: February 02, 2022
+date: '2022-02-02'
+title: madridahorro.es
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/february
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | madridahorro.es      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Feb 02, 2022      | 

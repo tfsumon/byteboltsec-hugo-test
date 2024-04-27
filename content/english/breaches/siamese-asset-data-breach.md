@@ -1,14 +1,14 @@
 ---
-date: "2023-09-27"
-discovered: "September 27, 2023"
-title: "Siamese Asset"
-image: "images/blog/Qilin.png"
-author: "Breachsense Support"
+date: '2023-09-27'
+discovered: September 27, 2023
+title: Siamese Asset
+image: images/blog/Qilin.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | siameseasset.co.th      | 
 | Threat Actor      | Qilin      | 
 | Date Discovered      | Sep 27, 2023      | 

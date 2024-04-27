@@ -1,14 +1,14 @@
 ---
-date: "2023-09-21"
-discovered: "September 21, 2023"
-title: "Kung Ag Bern"
-image: "images/blog/NoEscape.png"
-author: "Breachsense Support"
+date: '2023-09-21'
+discovered: September 21, 2023
+title: Kung Ag Bern
+image: images/blog/NoEscape.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | kuengbern.ch      | 
 | Threat Actor      | NoEscape      | 
 | Date Discovered      | Sep 21, 2023      | 

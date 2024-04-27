@@ -1,14 +1,14 @@
 ---
-date: "2024-02-27"
-discovered: "February 27, 2024"
-title: "Peddie School"
-image: "images/blog/CL0P.png"
-author: "Breachsense Support"
+date: '2024-02-27'
+discovered: February 27, 2024
+title: Peddie School
+image: images/blog/CL0P.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | peddie.org      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Feb 27, 2024      | 

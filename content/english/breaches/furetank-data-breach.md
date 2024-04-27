@@ -1,14 +1,14 @@
 ---
-Discovered: "December 27, 2022"
-date: "2022-12-27"
-title: "Furetank"
-image: "images/blog/Play.png"
-author: "Breachsense Support"
+Discovered: December 27, 2022
+date: '2022-12-27'
+title: Furetank
+image: images/blog/Play.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | furetank.com      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Dec 27, 2022      | 

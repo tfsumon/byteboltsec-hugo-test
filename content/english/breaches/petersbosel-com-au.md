@@ -1,14 +1,14 @@
 ---
-Discovered: "December 30, 2020"
-date: "2020-12-30"
-title: "petersbosel.com.au"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: December 30, 2020
+date: '2020-12-30'
+title: petersbosel.com.au
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2020/december
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | petersbosel.com.au      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Dec 30, 2020      | 

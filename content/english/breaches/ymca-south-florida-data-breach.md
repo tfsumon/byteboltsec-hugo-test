@@ -1,14 +1,14 @@
 ---
-Discovered: "June 15, 2022"
-date: "2022-06-15"
-title: "YMCA South Florida"
-image: "images/blog/Quantum.png"
-author: "Breachsense Support"
+Discovered: June 15, 2022
+date: '2022-06-15'
+title: YMCA South Florida
+image: images/blog/Quantum.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | ymcasouthflorida.org      | 
 | Threat Actor      | Quantum      | 
 | Date Discovered      | Jun 15, 2022      | 

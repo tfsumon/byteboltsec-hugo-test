@@ -1,14 +1,14 @@
 ---
-date: "2023-09-07"
-discovered: "September 07, 2023"
-title: "Ragasa"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-09-07'
+discovered: September 07, 2023
+title: Ragasa
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | ragasa.com.mx      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Sep 07, 2023      | 

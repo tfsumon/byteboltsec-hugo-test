@@ -1,14 +1,14 @@
 ---
-Discovered: "June 06, 2022"
-date: "2022-06-06"
-title: "Northeastern Technical College"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: June 06, 2022
+date: '2022-06-06'
+title: Northeastern Technical College
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/june
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | netc.edu      | 
 | Threat Actor    | SunCrypt      | 
 | Date Discovered    | Jun 06, 2022      | 

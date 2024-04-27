@@ -1,14 +1,14 @@
 ---
-date: "2023-09-26"
-discovered: "September 26, 2023"
-title: "nusmiles"
-image: "images/blog/Knight.png"
-author: "Breachsense Support"
+date: '2023-09-26'
+discovered: September 26, 2023
+title: nusmiles
+image: images/blog/Knight.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | nusmiles.com      | 
 | Threat Actor      | Knight      | 
 | Date Discovered      | Sep 26, 2023      | 

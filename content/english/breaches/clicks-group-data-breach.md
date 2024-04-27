@@ -1,14 +1,14 @@
 ---
-date: "2023-06-30"
-discovered: "June 30, 2023"
-title: "Clicks Group"
-image: "images/blog/CL0P.png"
-author: "Breachsense Support"
+date: '2023-06-30'
+discovered: June 30, 2023
+title: Clicks Group
+image: images/blog/CL0P.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | clicksgroup.co.za      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Jun 30, 2023      | 

@@ -1,14 +1,14 @@
 ---
-Discovered: "May 24, 2022"
-date: "2022-05-24"
-title: "conceptsinmillwork.com"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: May 24, 2022
+date: '2022-05-24'
+title: conceptsinmillwork.com
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/may
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | conceptsinmillwork.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | May 24, 2022      | 

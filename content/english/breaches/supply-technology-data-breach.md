@@ -1,14 +1,14 @@
 ---
-date: "2023-12-06"
-discovered: "December 06, 2023"
-title: "Supply Technology"
-image: "images/blog/BianLian.png"
-author: "Breachsense Support"
+date: '2023-12-06'
+discovered: December 06, 2023
+title: Supply Technology
+image: images/blog/BianLian.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | akumin.com      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Dec 06, 2023      | 

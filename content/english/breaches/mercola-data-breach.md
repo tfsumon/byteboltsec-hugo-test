@@ -1,14 +1,14 @@
 ---
-Discovered: "October 07, 2022"
-date: "2022-10-07"
-title: "Mercola"
-image: "images/blog/Basta.png"
-author: "Breachsense Support"
+Discovered: October 07, 2022
+date: '2022-10-07'
+title: Mercola
+image: images/blog/Basta.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | mercola.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Oct 07, 2022      | 

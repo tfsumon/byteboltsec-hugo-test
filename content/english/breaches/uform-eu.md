@@ -1,14 +1,14 @@
 ---
-Discovered: "January 09, 2022"
-date: "2022-01-09"
-title: "uform.eu"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: January 09, 2022
+date: '2022-01-09'
+title: uform.eu
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/january
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | uform.eu      | 
 | Threat Actor    | Grief      | 
 | Date Discovered    | Jan 09, 2022      | 

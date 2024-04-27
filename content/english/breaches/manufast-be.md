@@ -1,14 +1,14 @@
 ---
-Discovered: "April 03, 2022"
-date: "2022-04-03"
-title: "manufast.be"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: April 03, 2022
+date: '2022-04-03'
+title: manufast.be
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/april
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | manufast.be      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Apr 03, 2022      | 

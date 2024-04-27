@@ -1,14 +1,14 @@
 ---
-Discovered: "December 14, 2022"
-date: "2022-12-14"
-title: "Petmate"
-image: "images/blog/Basta.png"
-author: "Breachsense Support"
+Discovered: December 14, 2022
+date: '2022-12-14'
+title: Petmate
+image: images/blog/Basta.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | petmate.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Dec 14, 2022      | 

@@ -1,14 +1,14 @@
 ---
-Discovered: "July 12, 2022"
-date: "2022-07-12"
-title: "VLP"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: July 12, 2022
+date: '2022-07-12'
+title: VLP
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | vlp.nl      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jul 12, 2022      | 

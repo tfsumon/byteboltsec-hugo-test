@@ -1,14 +1,14 @@
 ---
-Discovered: "December 14, 2021"
-date: "2021-12-14"
-title: "rbauction.com"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: December 14, 2021
+date: '2021-12-14'
+title: rbauction.com
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/december
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | rbauction.com      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Dec 14, 2021      | 

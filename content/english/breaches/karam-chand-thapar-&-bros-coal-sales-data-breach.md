@@ -1,14 +1,14 @@
 ---
-date: "2023-10-02"
-discovered: "October 02, 2023"
-title: "Karam Chand Thapar & Bros (Coal Sales)"
-image: "images/blog/Medusa.png"
-author: "Breachsense Support"
+date: '2023-10-02'
+discovered: October 02, 2023
+title: Karam Chand Thapar & Bros (Coal Sales)
+image: images/blog/Medusa.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | kctcoalsales.com      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Oct 02, 2023      | 

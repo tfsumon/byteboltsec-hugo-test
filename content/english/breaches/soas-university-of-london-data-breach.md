@@ -1,14 +1,14 @@
 ---
-Discovered: "September 23, 2022"
-date: "2022-09-23"
-title: "SOAS University of London"
-image: "images/blog/ViceSociety.png"
-author: "Breachsense Support"
+Discovered: September 23, 2022
+date: '2022-09-23'
+title: SOAS University of London
+image: images/blog/ViceSociety.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | soas.ac.uk      | 
 | Threat Actor      | ViceSociety      | 
 | Date Discovered      | Sep 23, 2022      | 

@@ -1,14 +1,14 @@
 ---
-date: "2023-12-05"
-discovered: "December 05, 2023"
-title: "Concertus"
-image: "images/blog/Abyss.png"
-author: "Breachsense Support"
+date: '2023-12-05'
+discovered: December 05, 2023
+title: Concertus
+image: images/blog/Abyss.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | concertus.co.uk      | 
 | Threat Actor      | Abyss      | 
 | Date Discovered      | Dec 05, 2023      | 

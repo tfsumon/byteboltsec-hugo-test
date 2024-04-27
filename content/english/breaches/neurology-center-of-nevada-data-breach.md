@@ -1,14 +1,14 @@
 ---
-date: "2023-12-08"
-discovered: "December 08, 2023"
-title: "Neurology Center of Nevada"
-image: "images/blog/Qilin.png"
-author: "Breachsense Support"
+date: '2023-12-08'
+discovered: December 08, 2023
+title: Neurology Center of Nevada
+image: images/blog/Qilin.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | neurocnv.com      | 
 | Threat Actor      | Qilin      | 
 | Date Discovered      | Dec 08, 2023      | 

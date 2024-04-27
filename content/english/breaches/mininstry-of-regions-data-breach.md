@@ -1,14 +1,14 @@
 ---
-Discovered: "October 26, 2022"
-date: "2022-10-26"
-title: "Mininstry of Regions"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: October 26, 2022
+date: '2022-10-26'
+title: Mininstry of Regions
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | minregion.gov.ua      | 
 | Threat Actor      | FreeCivilian      | 
 | Date Discovered      | Oct 26, 2022      | 

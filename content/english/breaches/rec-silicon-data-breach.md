@@ -1,14 +1,14 @@
 ---
-date: "2022-12-12"
-discovered: "December 12, 2022"
-title: "REC Silicon"
-image: "images/blog/RansomEXX.png"
-author: "Breachsense Support"
+date: '2022-12-12'
+discovered: December 12, 2022
+title: REC Silicon
+image: images/blog/RansomEXX.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | recsilicon.com      | 
 | Threat Actor      | RansomEXX      | 
 | Date Discovered      | Dec 12, 2022      | 

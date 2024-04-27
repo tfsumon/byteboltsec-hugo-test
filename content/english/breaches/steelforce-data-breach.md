@@ -1,14 +1,14 @@
 ---
-date: "2023-09-15"
-discovered: "September 15, 2023"
-title: "Steelforce"
-image: "images/blog/Trigona.png"
-author: "Breachsense Support"
+date: '2023-09-15'
+discovered: September 15, 2023
+title: Steelforce
+image: images/blog/Trigona.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | steelforce.eu      | 
 | Threat Actor      | Trigona      | 
 | Date Discovered      | Sep 15, 2023      | 

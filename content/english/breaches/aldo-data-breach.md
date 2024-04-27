@@ -1,14 +1,14 @@
 ---
-date: "2023-12-06"
-discovered: "December 06, 2023"
-title: "ALDO"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-12-06'
+discovered: December 06, 2023
+title: ALDO
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | aldoshoes.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Dec 06, 2023      | 

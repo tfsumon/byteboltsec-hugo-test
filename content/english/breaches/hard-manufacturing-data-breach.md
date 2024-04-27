@@ -1,14 +1,14 @@
 ---
-date: "2023-03-10"
-discovered: "March 10, 2023"
-title: "HARD Manufacturing"
-image: "images/blog/Royal.png"
-author: "Breachsense Support"
+date: '2023-03-10'
+discovered: March 10, 2023
+title: HARD Manufacturing
+image: images/blog/Royal.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | hardmfg.com      | 
 | Threat Actor      | Royal      | 
 | Date Discovered      | Mar 10, 2023      | 

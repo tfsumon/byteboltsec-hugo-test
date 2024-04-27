@@ -1,14 +1,14 @@
 ---
-date: "2023-12-07"
-discovered: "December 07, 2023"
-title: "Midea Carrier"
-image: "images/blog/Akira.png"
-author: "Breachsense Support"
+date: '2023-12-07'
+discovered: December 07, 2023
+title: Midea Carrier
+image: images/blog/Akira.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | midea.com      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Dec 07, 2023      | 

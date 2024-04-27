@@ -1,14 +1,14 @@
 ---
-Discovered: "September 18, 2022"
-date: "2022-09-18"
-title: "Kaffee Berlin"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: September 18, 2022
+date: '2022-09-18'
+title: Kaffee Berlin
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | kaffeeberlin.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Sep 18, 2022      | 

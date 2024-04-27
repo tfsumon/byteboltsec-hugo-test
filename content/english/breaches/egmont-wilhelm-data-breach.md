@@ -1,14 +1,14 @@
 ---
-date: "2023-03-07"
-discovered: "March 07, 2023"
-title: "Egmont Wilhelm"
-image: "images/blog/Royal.png"
-author: "Breachsense Support"
+date: '2023-03-07'
+discovered: March 07, 2023
+title: Egmont Wilhelm
+image: images/blog/Royal.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | e-wilhelm-gmbh.de      | 
 | Threat Actor      | Royal      | 
 | Date Discovered      | Mar 07, 2023      | 

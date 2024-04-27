@@ -1,14 +1,14 @@
 ---
-Discovered: "September 17, 2021"
-date: "2021-09-17"
-title: "www.schultheis-ins.com"
-image: "images/blog/Cuba.png"
-author: "Breachsense Support"
+Discovered: September 17, 2021
+date: '2021-09-17'
+title: www.schultheis-ins.com
+image: images/blog/Cuba.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/september
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | www.schultheis-ins.com      | 
 | Threat Actor    | Cuba      | 
 | Date Discovered    | Sep 17, 2021      | 

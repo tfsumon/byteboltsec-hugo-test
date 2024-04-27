@@ -1,14 +1,14 @@
 ---
-date: "2023-06-26"
-discovered: "June 26, 2023"
-title: "Legalilavoro"
-image: "images/blog/8BASE.png"
-author: "Breachsense Support"
+date: '2023-06-26'
+discovered: June 26, 2023
+title: Legalilavoro
+image: images/blog/8BASE.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | legalilavoro.it      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Jun 26, 2023      | 

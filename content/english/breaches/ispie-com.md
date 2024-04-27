@@ -1,14 +1,14 @@
 ---
-Discovered: "November 07, 2020"
-date: "2020-11-07"
-title: "ispie.com"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: November 07, 2020
+date: '2020-11-07'
+title: ispie.com
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2020/november
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | ispie.com      | 
 | Threat Actor    | Corporate Leaks      | 
 | Date Discovered    | Nov 07, 2020      | 

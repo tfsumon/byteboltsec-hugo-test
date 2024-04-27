@@ -1,14 +1,14 @@
 ---
-date: "2023-12-15"
-discovered: "December 15, 2023"
-title: "Insomniac Games"
-image: "images/blog/Rhysida.png"
-author: "Breachsense Support"
+date: '2023-12-15'
+discovered: December 15, 2023
+title: Insomniac Games
+image: images/blog/Rhysida.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | insomniac.games      | 
 | Threat Actor      | Rhysida      | 
 | Date Discovered      | Dec 15, 2023      | 

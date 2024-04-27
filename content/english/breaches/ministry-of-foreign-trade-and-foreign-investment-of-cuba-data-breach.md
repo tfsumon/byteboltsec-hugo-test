@@ -1,14 +1,14 @@
 ---
-date: "2023-07-13"
-discovered: "July 13, 2023"
-title: "Ministry of Foreign Trade and Foreign Investment of Cuba"
-image: "images/blog/STORMOUS.png"
-author: "Breachsense Support"
+date: '2023-07-13'
+discovered: July 13, 2023
+title: Ministry of Foreign Trade and Foreign Investment of Cuba
+image: images/blog/STORMOUS.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | mincex.gob.cu      | 
 | Threat Actor      | STORMOUS      | 
 | Date Discovered      | Jul 13, 2023      | 

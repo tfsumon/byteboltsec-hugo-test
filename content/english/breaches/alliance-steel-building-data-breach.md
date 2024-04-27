@@ -1,14 +1,14 @@
 ---
-Discovered: "June 08, 2022"
-date: "2022-06-08"
-title: "Alliance Steel Building"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: June 08, 2022
+date: '2022-06-08'
+title: Alliance Steel Building
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/june
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | allianceokc.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Jun 08, 2022      | 

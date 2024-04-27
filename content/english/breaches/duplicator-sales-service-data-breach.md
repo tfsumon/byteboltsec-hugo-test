@@ -1,14 +1,14 @@
 ---
-Discovered: "December 05, 2022"
-date: "2022-12-05"
-title: "Duplicator Sales & Service"
-image: "images/blog/Royal.png"
-author: "Breachsense Support"
+Discovered: December 05, 2022
+date: '2022-12-05'
+title: Duplicator Sales & Service
+image: images/blog/Royal.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | duplicatorsales.net      | 
 | Threat Actor      | Royal      | 
 | Date Discovered      | Dec 05, 2022      | 

@@ -1,14 +1,14 @@
 ---
-Discovered: "July 10, 2022"
-date: "2022-07-10"
-title: "Vahanen"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: July 10, 2022
+date: '2022-07-10'
+title: Vahanen
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | vahanen.com      | 
 | Threat Actor      | RedAlert      | 
 | Date Discovered      | Jul 10, 2022      | 

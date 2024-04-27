@@ -1,14 +1,14 @@
 ---
-Discovered: "July 28, 2022"
-date: "2022-07-28"
-title: "John A Bodziak Architect"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+Discovered: July 28, 2022
+date: '2022-07-28'
+title: John A Bodziak Architect
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | johnabodziakarchitect.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Jul 28, 2022      | 

@@ -1,14 +1,14 @@
 ---
-date: "2024-02-22"
-discovered: "February 22, 2024"
-title: "DTS"
-image: "images/blog/Akira.png"
-author: "Breachsense Support"
+date: '2024-02-22'
+discovered: February 22, 2024
+title: DTS
+image: images/blog/Akira.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | dts.cl      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Feb 22, 2024      | 

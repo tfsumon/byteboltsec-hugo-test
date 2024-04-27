@@ -1,14 +1,14 @@
 ---
-Discovered: "July 31, 2022"
-date: "2022-07-31"
-title: "Creos Luxembourg"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+Discovered: July 31, 2022
+date: '2022-07-31'
+title: Creos Luxembourg
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | creos-net.lu      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Jul 31, 2022      | 

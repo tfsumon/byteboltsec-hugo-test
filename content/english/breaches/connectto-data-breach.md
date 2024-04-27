@@ -1,14 +1,14 @@
 ---
-date: "2023-06-09"
-discovered: "June 09, 2023"
-title: "ConnectTo"
-image: "images/blog/Malas.png"
-author: "Breachsense Support"
+date: '2023-06-09'
+discovered: June 09, 2023
+title: ConnectTo
+image: images/blog/Malas.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | connectto.com      | 
 | Threat Actor      | Malas      | 
 | Date Discovered      | Jun 09, 2023      | 

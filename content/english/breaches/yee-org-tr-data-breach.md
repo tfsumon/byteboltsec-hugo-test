@@ -1,14 +1,14 @@
 ---
-date: "2023-07-05"
-discovered: "July 05, 2023"
-title: "yee.org.tr"
-image: "images/blog/Medusa.png"
-author: "Breachsense Support"
+date: '2023-07-05'
+discovered: July 05, 2023
+title: yee.org.tr
+image: images/blog/Medusa.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | yee.org.tr      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Jul 05, 2023      | 

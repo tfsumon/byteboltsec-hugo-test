@@ -1,14 +1,14 @@
 ---
-Discovered: "October 27, 2020"
-date: "2020-10-27"
-title: "bakerssalimited.com"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: October 27, 2020
+date: '2020-10-27'
+title: bakerssalimited.com
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2020/october
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | bakerssalimited.com      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Oct 27, 2020      | 

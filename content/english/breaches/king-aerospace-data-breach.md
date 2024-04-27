@@ -1,14 +1,14 @@
 ---
-date: "2023-12-13"
-discovered: "December 13, 2023"
-title: "King Aerospace"
-image: "images/blog/INC_RANSOM.png"
-author: "Breachsense Support"
+date: '2023-12-13'
+discovered: December 13, 2023
+title: King Aerospace
+image: images/blog/INC_RANSOM.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | kingaerospace.com      | 
 | Threat Actor      | INC_RANSOM      | 
 | Date Discovered      | Dec 13, 2023      | 

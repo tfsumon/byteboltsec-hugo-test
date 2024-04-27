@@ -1,14 +1,14 @@
 ---
-Discovered: "October 27, 2022"
-date: "2022-10-27"
-title: "Universidad Piloto de Colombia"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+Discovered: October 27, 2022
+date: '2022-10-27'
+title: Universidad Piloto de Colombia
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | unipiloto.edu.co      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Oct 27, 2022      | 

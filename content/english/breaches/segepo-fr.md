@@ -1,14 +1,14 @@
 ---
-Discovered: "June 21, 2021"
-date: "2021-06-21"
-title: "segepo.fr"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: June 21, 2021
+date: '2021-06-21'
+title: segepo.fr
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/june
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | segepo.fr      | 
 | Threat Actor    | LV Blog      | 
 | Date Discovered    | Jun 21, 2021      | 

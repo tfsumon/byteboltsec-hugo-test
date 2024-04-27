@@ -1,14 +1,14 @@
 ---
-Discovered: "July 15, 2022"
-date: "2022-07-15"
-title: "FMT"
-image: "images/blog/HiveLeaks.png"
-author: "Breachsense Support"
+Discovered: July 15, 2022
+date: '2022-07-15'
+title: FMT
+image: images/blog/HiveLeaks.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | floridamarine.com      | 
 | Threat Actor      | HiveLeaks      | 
 | Date Discovered      | Jul 15, 2022      | 

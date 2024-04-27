@@ -1,14 +1,14 @@
 ---
-Discovered: "October 07, 2022"
-date: "2022-10-07"
-title: "Knoll"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+Discovered: October 07, 2022
+date: '2022-10-07'
+title: Knoll
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | knoll.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Oct 07, 2022      | 

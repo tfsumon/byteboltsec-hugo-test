@@ -1,14 +1,14 @@
 ---
-date: "2024-02-23"
-discovered: "February 23, 2024"
-title: "Quik Pawn Shop"
-image: "images/blog/Akira.png"
-author: "Breachsense Support"
+date: '2024-02-23'
+discovered: February 23, 2024
+title: Quik Pawn Shop
+image: images/blog/Akira.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | quikpawnshop.com      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Feb 23, 2024      | 

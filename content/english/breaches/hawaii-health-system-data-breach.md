@@ -1,14 +1,14 @@
 ---
-date: "2023-09-04"
-discovered: "September 04, 2023"
-title: "Hawaii Health System"
-image: "images/blog/Ransomed.png"
-author: "Breachsense Support"
+date: '2023-09-04'
+discovered: September 04, 2023
+title: Hawaii Health System
+image: images/blog/Ransomed.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | hhsc.org      | 
 | Threat Actor      | Ransomed      | 
 | Date Discovered      | Sep 04, 2023      | 

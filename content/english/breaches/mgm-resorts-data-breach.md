@@ -1,14 +1,14 @@
 ---
-date: "2023-09-15"
-discovered: "September 15, 2023"
-title: "MGM Resorts"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+date: '2023-09-15'
+discovered: September 15, 2023
+title: MGM Resorts
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | mgmresorts.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Sep 15, 2023      | 

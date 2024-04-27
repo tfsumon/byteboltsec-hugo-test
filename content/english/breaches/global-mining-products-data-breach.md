@@ -1,14 +1,14 @@
 ---
-date: "2023-02-17"
-discovered: "February 17, 2023"
-title: "Global Mining Products"
-image: "images/blog/AvosLocker.png"
-author: "Breachsense Support"
+date: '2023-02-17'
+discovered: February 17, 2023
+title: Global Mining Products
+image: images/blog/AvosLocker.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | globalminingproducts.net      | 
 | Threat Actor      | AvosLocker      | 
 | Date Discovered      | Feb 17, 2023      | 

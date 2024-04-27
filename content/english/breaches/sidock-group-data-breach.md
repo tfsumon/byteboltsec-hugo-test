@@ -1,14 +1,14 @@
 ---
-date: "2023-10-22"
-discovered: "October 22, 2023"
-title: "Sidock Group"
-image: "images/blog/DonutLeaks.png"
-author: "Breachsense Support"
+date: '2023-10-22'
+discovered: October 22, 2023
+title: Sidock Group
+image: images/blog/DonutLeaks.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | sidockgroup.com      | 
 | Threat Actor      | DonutLeaks      | 
 | Date Discovered      | Oct 22, 2023      | 

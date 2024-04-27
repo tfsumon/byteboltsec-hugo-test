@@ -1,14 +1,14 @@
 ---
-date: "2023-08-04"
-discovered: "August 04, 2023"
-title: "Spinal & Sports Care Clinic"
-image: "images/blog/BianLian.png"
-author: "Breachsense Support"
+date: '2023-08-04'
+discovered: August 04, 2023
+title: Spinal & Sports Care Clinic
+image: images/blog/BianLian.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | spinalandsportscare.com      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Aug 04, 2023      | 

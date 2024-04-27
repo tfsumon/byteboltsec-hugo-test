@@ -1,14 +1,14 @@
 ---
-date: "2024-02-19"
-discovered: "February 19, 2024"
-title: "Etisalat"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2024-02-19'
+discovered: February 19, 2024
+title: Etisalat
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | etisalat.ae      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Feb 19, 2024      | 

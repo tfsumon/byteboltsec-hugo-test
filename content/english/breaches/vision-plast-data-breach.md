@@ -1,14 +1,14 @@
 ---
-date: "2024-01-22"
-discovered: "January 22, 2024"
-title: "Vision Plast"
-image: "images/blog/Trigona.png"
-author: "Breachsense Support"
+date: '2024-01-22'
+discovered: January 22, 2024
+title: Vision Plast
+image: images/blog/Trigona.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | vision-plast.com      | 
 | Threat Actor      | Trigona      | 
 | Date Discovered      | Jan 22, 2024      | 

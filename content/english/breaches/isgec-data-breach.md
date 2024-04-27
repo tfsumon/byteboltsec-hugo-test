@@ -1,14 +1,14 @@
 ---
-date: "2022-12-14"
-discovered: "December 12, 2022"
-title: "ISGEC"
-image: "images/blog/BianLian.png"
-author: "Breachsense Support"
+date: '2022-12-14'
+discovered: December 12, 2022
+title: ISGEC
+image: images/blog/BianLian.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | isgec.com      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Dec 12, 2022      | 

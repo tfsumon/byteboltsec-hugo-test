@@ -1,14 +1,14 @@
 ---
-Discovered: "October 18, 2021"
-date: "2021-10-18"
-title: "grupo5.net"
-image: "images/blog/HiveLeaks.png"
-author: "Breachsense Support"
+Discovered: October 18, 2021
+date: '2021-10-18'
+title: grupo5.net
+image: images/blog/HiveLeaks.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/october
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | grupo5.net      | 
 | Threat Actor    | Hive      | 
 | Date Discovered    | Oct 18, 2021      | 

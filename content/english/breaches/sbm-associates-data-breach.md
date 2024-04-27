@@ -1,14 +1,14 @@
 ---
-date: "2024-03-14"
-discovered: "March 14, 2024"
-title: "SBM Associates"
-image: "images/blog/Ransomhub.png"
-author: "Breachsense Support"
+date: '2024-03-14'
+discovered: March 14, 2024
+title: SBM Associates
+image: images/blog/Ransomhub.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | sbmandco.com      | 
 | Threat Actor      | Ransomhub      | 
 | Date Discovered      | Mar 14, 2024      | 

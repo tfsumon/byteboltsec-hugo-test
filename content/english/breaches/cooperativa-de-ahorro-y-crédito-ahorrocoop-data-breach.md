@@ -1,14 +1,14 @@
 ---
-date: "2023-05-10"
-discovered: "May 10, 2023"
-title: "Cooperativa de Ahorro y Crédito Ahorrocoop"
-image: "images/blog/Medusa.png"
-author: "Breachsense Support"
+date: '2023-05-10'
+discovered: May 10, 2023
+title: Cooperativa de Ahorro y Crédito Ahorrocoop
+image: images/blog/Medusa.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/may
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | ahorrocoop.cl      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | May 10, 2023      | 

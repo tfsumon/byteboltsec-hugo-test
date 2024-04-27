@@ -1,14 +1,14 @@
 ---
-Discovered: "January 14, 2022"
-date: "2022-01-14"
-title: "centralbankfl.com"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: January 14, 2022
+date: '2022-01-14'
+title: centralbankfl.com
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/january
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | centralbankfl.com      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Jan 14, 2022      | 

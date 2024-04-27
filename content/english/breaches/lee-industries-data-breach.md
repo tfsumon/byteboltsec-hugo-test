@@ -1,14 +1,14 @@
 ---
-date: "2023-07-10"
-discovered: "July 10, 2023"
-title: "Lee Industries"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-07-10'
+discovered: July 10, 2023
+title: Lee Industries
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | leeindustries.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jul 10, 2023      | 

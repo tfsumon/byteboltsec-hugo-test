@@ -1,14 +1,14 @@
 ---
-Discovered: "June 21, 2023"
-date: "2023-06-21"
-title: "centralbankfl.com"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: June 21, 2023
+date: '2023-06-21'
+title: centralbankfl.com
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/june
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | cornu.ch      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Jun 21, 2023      | 

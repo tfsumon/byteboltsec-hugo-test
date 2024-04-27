@@ -1,14 +1,14 @@
 ---
-date: "2023-06-21"
-discovered: "June 21, 2023"
-title: "Sitara"
-image: "images/blog/8BASE.png"
-author: "Breachsense Support"
+date: '2023-06-21'
+discovered: June 21, 2023
+title: Sitara
+image: images/blog/8BASE.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | sitara.com.pk      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Jun 21, 2023      | 

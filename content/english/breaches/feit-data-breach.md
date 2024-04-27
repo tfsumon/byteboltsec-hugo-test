@@ -1,14 +1,14 @@
 ---
-date: "2023-05-17"
-discovered: "May 17, 2023"
-title: "Feit"
-image: "images/blog/Trigona.png"
-author: "Breachsense Support"
+date: '2023-05-17'
+discovered: May 17, 2023
+title: Feit
+image: images/blog/Trigona.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/may
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | feit.com      | 
 | Threat Actor      | Trigona      | 
 | Date Discovered      | May 17, 2023      | 

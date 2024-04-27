@@ -1,14 +1,14 @@
 ---
-Discovered: "September 28, 2022"
-date: "2022-09-28"
-title: "DLS Motors"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: September 28, 2022
+date: '2022-09-28'
+title: DLS Motors
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | dlsmotors.com.py      | 
 | Threat Actor      | AvosLocker      | 
 | Date Discovered      | Sep 28, 2022      | 

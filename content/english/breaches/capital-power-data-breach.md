@@ -1,14 +1,14 @@
 ---
-Discovered: "November 02, 2022"
-date: "2022-11-02"
-title: "Capital Power"
-image: "images/blog/Quantum.png"
-author: "Breachsense Support"
+Discovered: November 02, 2022
+date: '2022-11-02'
+title: Capital Power
+image: images/blog/Quantum.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | capitalpower.com      | 
 | Threat Actor      | Quantum      | 
 | Date Discovered      | Nov 02, 2022      | 

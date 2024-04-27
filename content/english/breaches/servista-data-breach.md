@@ -1,14 +1,14 @@
 ---
-date: "2023-06-09"
-discovered: "June 09, 2023"
-title: "Servista"
-image: "images/blog/Malas.png"
-author: "Breachsense Support"
+date: '2023-06-09'
+discovered: June 09, 2023
+title: Servista
+image: images/blog/Malas.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | servista.ru      | 
 | Threat Actor      | Malas      | 
 | Date Discovered      | Jun 09, 2023      | 

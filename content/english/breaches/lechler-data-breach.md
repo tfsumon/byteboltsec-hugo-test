@@ -1,14 +1,14 @@
 ---
-Discovered: "June 08, 2022"
-date: "2022-06-08"
-title: "Lechler S.p.A."
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: June 08, 2022
+date: '2022-06-08'
+title: Lechler S.p.A.
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/june
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+| Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | lechler.eu      | 
 | Threat Actor    | Black Basta      | 
 | Date Discovered    | Jun 08, 2022      | 

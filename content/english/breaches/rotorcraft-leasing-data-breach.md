@@ -1,14 +1,14 @@
 ---
-date: "2023-10-18"
-discovered: "October 18, 2023"
-title: "Rotorcraft Leasing"
-image: "images/blog/0mega.png"
-author: "Breachsense Support"
+date: '2023-10-18'
+discovered: October 18, 2023
+title: Rotorcraft Leasing
+image: images/blog/0mega.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Data Breach Report------------:     |:-------------:    | :-----:|
 | Victim      | rlcllc.com      | 
 | Threat Actor      | 0mega      | 
 | Date Discovered      | Oct 18, 2023      | 
