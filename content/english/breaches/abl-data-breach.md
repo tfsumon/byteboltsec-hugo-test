@@ -9,9 +9,8 @@ yearmonths: 2024/april
 ---
 
 | Data Breach Report------------:     |:-------------:    | :-----:|
-| Victim      | ablinc.com      | 
-| Threat Actor      | LockBit      | 
-| Date Discovered      | Apr 19, 2024      | 
-| Description      | ABL Inc. is a biotechnology firm providing contract research, development and manufacturing.      | 
-| Leak Size      | Unknown      | 
-
+| Victim      | ablinc.com      |
+| Threat Actor      | LockBit      |
+| Date Discovered      | Apr 19, 2024      |
+| Description      | ABL Inc. is a biotechnology firm providing contract research, development and manufacturing.      |
+| Leak Size      | Unknown      |

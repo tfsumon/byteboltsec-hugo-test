@@ -1,17 +1,17 @@
 ---
-Discovered: February 24, 20202
-date: 20202-02-24
+Discovered: February 24, 2020
+date: 2020-02-24
 title: sa1solutions.com
 image: images/blog/CL0P.png
 author: Breachsense Support
 draft: false
-yearmonths: 20202/february
+yearmonths: 2020/february
 ---
 
 | Data Breach Report------------:   |:-------------:    | :-----:|
 | Victim    | sa1solutions.com      | 
 | Threat Actor    | CL0P      | 
-| Date Discovered    | Feb 24, 20202      | 
+| Date Discovered    | Feb 24, 2020      | 
 | Description    | N/A      | 
 | Leak Size    | N/A      | 
 

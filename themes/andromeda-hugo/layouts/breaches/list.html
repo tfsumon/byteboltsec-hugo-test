@@ -5,112 +5,117 @@
 <section class="section pb-0">
   <div class="container">
     <div class="col-lg-8 mx-auto">
-    <div class="row justify-content-center">
-      <div class="col-lg-12 text-center" data-aos="fade-in" data-aos-delay="100">
-	      <h1><font size="+3">The Most Recent Data Breaches in {{ .Date.Format "2006" }}</font></h1>
+      <div class="row justify-content-center">
+        <div class="col-lg-12 text-center" data-aos="fade-in" data-aos-delay="100">
+          <h1><font size="+3">The Most Recent Data Breaches in {{ .Date.Format "2006" }}</font></h1>
+        </div>
+      </div>
+      <div class="content">
+        {{ .Content }}
       </div>
     </div>
-    <div class="content">
-	    In 2017, The Economist named data <a href="https://www.economist.com/leaders/2017/05/06/the-worlds-most-valuable-resource-is-no-longer-oil-but-data">the world’s most valuable resource</a>, and that, of course, is still true today.<br><br> 
-    But just as data creates and powers more and more lucrative industries, it also caught the interest of cybercriminals.<br><br> 
-    Personal and company data - <i>names, addresses, Social Security numbers, credit card details, login credentials, or other sensitive information</i> - can be used for anything from identity theft, financial fraud to many other malicious activities.<br><br> 
-    As a result, it’s no surprise that data breaches are on the rise, with an ever increasing number of companies of all shapes and sizes facing information theft and data leaks.<br><br> 
-    <b>What’s more, these data breaches happen every day with staggering consequences.</b>
-<ul>
-	<li>Over 4100 publicly disclosed data breaches happened last year alone. That’s roughly eleven breaches per day, and that is based only on the publicly disclosed data!</li>
-	<li>Nearly 109 million accounts were breached in just the 3rd quarter of 2022.</li>
-	<li>Finally, on average, a data breach costs companies $4.6M.</li>
-</ul>
-Below, you’ll find a regularly updated list of the most recent data breaches. This data is directly indexed from the threat actors' websites.<br><br>
-We track various <a href="https://www.breachsense.com/ransomware-gangs/">ransomware threat actors</a>, and index the victims as well as where their leaked data is stored.<br><br> 
-This enables security teams affected from those breaches (both the victim company and any clients and suppliers of theirs whose data was leaked as part of their breach) can access the data and mitigate the risk based on what was actually leaked.<br><br>
-Want to monitor your company for data breaches? Check out our <a href="https://www.breachsense.com/data-breach-monitoring/">data breach monitoring tool</a>.
-  </div>
-  </div>
   </div>
 </section>
 
 <section class="section-sm" data-aos="fade-in">
   <div class="container-xxl">
-    <div class="row justify-content-center">
-      <h2>Data Breaches - {{ now.Month }} {{ .Date.Format "2006" }}</h2>
-    </div>
-    <div class="row justify-content-center">
-      {{ $paginator := .Paginate (where site.RegularPages "Section" "in" site.Params.breachSections) }}
-      {{ range $paginator.Pages }}
-      <div class="col-lg-4 col-md-6">
-        {{ .Render "article" }}
+    <div class="row align-items-start">
+      <div class="col-lg-4">
+        {{ partial "components/breaches-filter.html" }}
       </div>
-      {{ end }}
 
-      <div class="col-12 mt-5">
-        {{"<!-- pagination -->" | safeHTML }}
-        {{ $paginator := .Paginator }}
-        <!-- Number of links either side of the current page. -->
-        {{ $adjacent_links := 2 }}
-        <!-- $max_links = ($adjacent_links * 2) + 1 -->
-        {{ $max_links := (add (mul $adjacent_links 2) 1) }}
-        <!-- $lower_limit = $adjacent_links + 1 -->
-        {{ $lower_limit := (add $adjacent_links 1) }}
-        <!-- $upper_limit = $paginator.TotalPages - $adjacent_links -->
-        {{ $upper_limit := (sub $paginator.TotalPages $adjacent_links) }}
-        <!-- If there's more than one page. -->
-        {{ if gt $paginator.TotalPages 1 }}
-        <nav class="mb-3">
-          <ul class="pagination justify-content-center">
-            <!-- Previous page. -->
-            {{ if $paginator.HasPrev }}
-            <li class="page-item"><a class="page-link arrow" href="{{ $paginator.Prev.URL }}" aria-label="Pagination Arrow">
-              <i class="las la-angle-left"></i>
-            </a></li>
+      <div class="col-lg-8">
+        {{ $yearMonths := slice }}
+        {{ range $i, $data := (site.GetPage "breaches").Pages.GroupByPublishDate "January 2006" }}
+
+          {{ range first 1 .Pages }}
+            {{ if .Params.yearmonths }}
+              {{ $yearMonths = $yearMonths | append (.PublishDate | time.Format "2006/January" | lower) }}
             {{ end }}
-            <!-- Page numbers. -->
-            {{ range $paginator.Pagers }}
-            {{ $.Scratch.Set "page_number_flag" false }}
-            <!-- Advanced page numbers. -->
-            {{ if gt $paginator.TotalPages $max_links }}
-            <!-- Lower limit pages. -->
-            <!-- If the user is on a page which is in the lower limit.  -->
-            {{ if le $paginator.PageNumber $lower_limit }}
-            <!-- If the current loop page is less than max_links. -->
-            {{ if le .PageNumber $max_links }}
-            {{ $.Scratch.Set "page_number_flag" true }}
-            {{ end }}
-            <!-- Upper limit pages. -->
-            <!-- If the user is on a page which is in the upper limit. -->
-            {{ else if ge $paginator.PageNumber $upper_limit }}
-            <!-- If the current loop page is greater than total pages minus $max_links -->
-            {{ if gt .PageNumber (sub $paginator.TotalPages $max_links) }}
-            {{ $.Scratch.Set "page_number_flag" true }}
-            {{ end }}
-            <!-- Middle pages. -->
-            {{ else }}
-            {{ if and ( ge .PageNumber (sub $paginator.PageNumber $adjacent_links) ) ( le .PageNumber (add $paginator.PageNumber $adjacent_links) ) }}
-            {{ $.Scratch.Set "page_number_flag" true }}
-            {{ end }}
-            {{ end }}
-            <!-- Simple page numbers. -->
-            {{ else }}
-            {{ $.Scratch.Set "page_number_flag" true }}
-            {{ end }}
-            <!-- Output page numbers. -->
-            {{ if eq ($.Scratch.Get "page_number_flag") true }}
-            <li class="page-item">
-              <a href="{{ .URL }}" class="page-link{{ if eq . $paginator }} active {{ end }}">
-                {{ .PageNumber }}
-              </a>
-            </li>
-            {{ end }}
-            {{ end }}
-            <!-- Next page. -->
-            {{ if $paginator.HasNext }}
-            <li class="page-item"><a class="page-link arrow" href="{{ $paginator.Next.URL }}" aria-label="Pagination Arrow">
-              <i class="las la-angle-right"></i>
-            </a></li>
-            {{ end }}
-          </ul>
-        </nav>
+          {{ end }}
         {{ end }}
+        {{ $recentYear := index (split (index $yearMonths 0) "/") 0 }}
+        {{ $recentMonth := index (split (index $yearMonths 0) "/") 1 }}
+
+
+        <h2>Data Breaches - {{ Title $recentMonth }} {{ $recentYear }}</h2>
+        <div class="row">
+          {{ $paginator := .Paginate (where site.RegularPages "Section" "in" site.Params.breachSections) }}
+          {{ range $paginator.Pages }}
+            <div class="col-lg-6">
+            {{ .Render "article" }}
+            </div>
+          {{ end }}
+          <div class="col-12 mt-5">
+            {{"<!-- pagination -->" | safeHTML }}
+            {{ $paginator := .Paginator }}
+            <!-- Number of links either side of the current page. -->
+            {{ $adjacent_links := 2 }}
+            <!-- $max_links = ($adjacent_links * 2) + 1 -->
+            {{ $max_links := (add (mul $adjacent_links 2) 1) }}
+            <!-- $lower_limit = $adjacent_links + 1 -->
+            {{ $lower_limit := (add $adjacent_links 1) }}
+            <!-- $upper_limit = $paginator.TotalPages - $adjacent_links -->
+            {{ $upper_limit := (sub $paginator.TotalPages $adjacent_links) }}
+            <!-- If there's more than one page. -->
+            {{ if gt $paginator.TotalPages 1 }}
+            <nav class="mb-3">
+              <ul class="pagination justify-content-center">
+                <!-- Previous page. -->
+                {{ if $paginator.HasPrev }}
+                <li class="page-item"><a class="page-link arrow" href="{{ $paginator.Prev.URL }}" aria-label="Pagination Arrow">
+                  <i class="las la-angle-left"></i>
+                </a></li>
+                {{ end }}
+                <!-- Page numbers. -->
+                {{ range $paginator.Pagers }}
+                {{ $.Scratch.Set "page_number_flag" false }}
+                <!-- Advanced page numbers. -->
+                {{ if gt $paginator.TotalPages $max_links }}
+                <!-- Lower limit pages. -->
+                <!-- If the user is on a page which is in the lower limit.  -->
+                {{ if le $paginator.PageNumber $lower_limit }}
+                <!-- If the current loop page is less than max_links. -->
+                {{ if le .PageNumber $max_links }}
+                {{ $.Scratch.Set "page_number_flag" true }}
+                {{ end }}
+                <!-- Upper limit pages. -->
+                <!-- If the user is on a page which is in the upper limit. -->
+                {{ else if ge $paginator.PageNumber $upper_limit }}
+                <!-- If the current loop page is greater than total pages minus $max_links -->
+                {{ if gt .PageNumber (sub $paginator.TotalPages $max_links) }}
+                {{ $.Scratch.Set "page_number_flag" true }}
+                {{ end }}
+                <!-- Middle pages. -->
+                {{ else }}
+                {{ if and ( ge .PageNumber (sub $paginator.PageNumber $adjacent_links) ) ( le .PageNumber (add $paginator.PageNumber $adjacent_links) ) }}
+                {{ $.Scratch.Set "page_number_flag" true }}
+                {{ end }}
+                {{ end }}
+                <!-- Simple page numbers. -->
+                {{ else }}
+                {{ $.Scratch.Set "page_number_flag" true }}
+                {{ end }}
+                <!-- Output page numbers. -->
+                {{ if eq ($.Scratch.Get "page_number_flag") true }}
+                <li class="page-item">
+                  <a href="{{ .URL }}" class="page-link{{ if eq . $paginator }} active {{ end }}">
+                    {{ .PageNumber }}
+                  </a>
+                </li>
+                {{ end }}
+                {{ end }}
+                <!-- Next page. -->
+                {{ if $paginator.HasNext }}
+                <li class="page-item"><a class="page-link arrow" href="{{ $paginator.Next.URL }}" aria-label="Pagination Arrow">
+                  <i class="las la-angle-right"></i>
+                </a></li>
+                {{ end }}
+              </ul>
+            </nav>
+            {{ end }}
+          </div>
+        </div>
       </div>
     </div>
   </div>

@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+{{ partial "components/page-header.html" . }}
+
+<section class="section-sm" data-aos="fade-in">
+  <div class="container-xxl">
+    <div class="row align-items-start">
+      <div class="col-lg-4">
+        {{ partial "components/breaches-filter.html" }}
+      </div>
+
+      <div class="col-lg-8">
+        {{ $year := index (split .Title "/") 0 }}
+        {{ $month := index (split .Title "/") 1 }}
+        
+        <h2>Data Breaches - {{ $month }} {{ $year }} </h2>
+        <div class="row">
+          {{ range .Data.Pages }}
+            <div class="col-lg-6">
+            {{ .Render "article" }}
+            </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

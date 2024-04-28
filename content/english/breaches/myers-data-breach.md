@@ -1,8 +1,8 @@
 ---
-date: February 17, 2023
-discovered: '2023-02-17'
 title: Myers Power Products
 image: images/blog/LockBit.png
+date: '2023-02-17'
+discovered: February 17, 2023
 author: Breachsense Support
 draft: false
 yearmonths: 2023/february
