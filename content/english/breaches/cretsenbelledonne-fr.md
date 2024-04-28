@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/july
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | cretsenbelledonne.fr      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Jul 03, 2020      | 

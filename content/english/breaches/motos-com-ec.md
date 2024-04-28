@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/july
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | motos.com.ec      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Jul 28, 2021      | 

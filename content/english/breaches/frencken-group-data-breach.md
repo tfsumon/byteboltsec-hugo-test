@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | frenckengroup.com      | 
 | Threat Actor      | Snatch      | 
 | Date Discovered      | Mar 04, 2024      | 

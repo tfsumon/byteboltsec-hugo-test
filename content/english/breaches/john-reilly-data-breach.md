@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | johnreilly.co.uk      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jul 18, 2023      | 

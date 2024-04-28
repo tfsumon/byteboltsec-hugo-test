@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | warrenresources.com      | 
 | Threat Actor      | Snatch      | 
 | Date Discovered      | Jun 05, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | cmcmarine.com      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Jul 31, 2023      | 

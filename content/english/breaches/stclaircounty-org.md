@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | stclaircounty.org      | 
 | Threat Actor    | Grief      | 
 | Date Discovered    | Jun 01, 2021      | 

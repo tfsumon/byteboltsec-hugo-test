@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | eclerx.com      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Jan 03, 2022      | 

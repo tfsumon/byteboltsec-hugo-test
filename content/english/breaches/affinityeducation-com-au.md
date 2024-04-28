@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | affinityeducation.com.au      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Nov 06, 2020      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | careersusa.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Dec 24, 2020      | 

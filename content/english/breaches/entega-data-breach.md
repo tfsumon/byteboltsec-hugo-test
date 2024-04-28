@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | entega.de      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Jun 23, 2022      | 

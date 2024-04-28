@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | newconcepttech.com      | 
 | Threat Actor      | Cuba      | 
 | Date Discovered      | Oct 24, 2023      | 

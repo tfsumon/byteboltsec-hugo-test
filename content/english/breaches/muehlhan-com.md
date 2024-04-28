@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | muehlhan.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Feb 14, 2022      | 

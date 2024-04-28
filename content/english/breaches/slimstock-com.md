@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | slimstock.com      | 
 | Threat Actor    | CLOP      | 
 | Date Discovered    | Oct 26, 2021      | 

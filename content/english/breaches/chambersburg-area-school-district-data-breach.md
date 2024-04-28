@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | casdonline.org      | 
 | Threat Actor      | Blackbyte      | 
 | Date Discovered      | Sep 08, 2023      | 

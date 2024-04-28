@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | genericon.at      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Jun 16, 2023      | 

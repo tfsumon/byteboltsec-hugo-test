@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | sxu.edu      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Aug 15, 2023      | 

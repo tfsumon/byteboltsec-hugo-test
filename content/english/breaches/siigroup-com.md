@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/september
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | siigroup.com      | 
 | Threat Actor    | Karma Leaks      | 
 | Date Discovered    | Sep 30, 2021      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | suncoast-chc.org      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Oct 05, 2023      | 

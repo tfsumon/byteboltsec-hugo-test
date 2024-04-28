@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ok-ex.io      | 
 | Threat Actor      | ArvinClub      | 
 | Date Discovered      | Sep 04, 2023      | 

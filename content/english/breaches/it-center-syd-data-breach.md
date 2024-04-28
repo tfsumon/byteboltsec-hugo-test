@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | itcsyd.dk      | 
 | Threat Actor      | Rhysida      | 
 | Date Discovered      | Sep 11, 2023      | 

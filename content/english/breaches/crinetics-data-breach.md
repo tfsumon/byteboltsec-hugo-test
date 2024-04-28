@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | crinetics.com      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Mar 19, 2024      | 

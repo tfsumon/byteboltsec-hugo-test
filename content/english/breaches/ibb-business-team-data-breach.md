@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ibb-business-team.de      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jan 23, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | paulstuart.com      | 
 | Threat Actor      | Cactus      | 
 | Date Discovered      | Nov 22, 2023      | 

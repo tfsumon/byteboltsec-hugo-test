@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | nzbgeek.info      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Oct 01, 2021      | 

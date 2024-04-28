@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | metagenics.com.au      | 
 | Threat Actor    | Cuba      | 
 | Date Discovered    | Apr 01, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | mpmmedicalsupply.com      | 
 | Threat Actor      | CiphBit      | 
 | Date Discovered      | Jan 02, 2024      | 

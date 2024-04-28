@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | finite.com.au      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Nov 30, 2021      | 

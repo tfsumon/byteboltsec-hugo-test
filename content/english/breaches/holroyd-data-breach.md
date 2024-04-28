@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | holroyd.com      | 
 | Threat Actor      | INC_RANSOM      | 
 | Date Discovered      | Dec 08, 2023      | 

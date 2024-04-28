@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | neocyber.fr      | 
 | Threat Actor    | Everest      | 
 | Date Discovered    | Mar 09, 2022      | 

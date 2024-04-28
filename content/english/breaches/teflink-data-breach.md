@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | teflink.co.uk      | 
 | Threat Actor    | N/A      | 
 | Date Discovered    | Jun 08, 2022      | 

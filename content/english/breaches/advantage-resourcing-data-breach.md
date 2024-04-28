@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/may
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | advantageresourcing.com      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | May 22, 2023      | 

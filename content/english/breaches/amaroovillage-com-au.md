@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | amaroovillage.com.au      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Mar 11, 2021      | 

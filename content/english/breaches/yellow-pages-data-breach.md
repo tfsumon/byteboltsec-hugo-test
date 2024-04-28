@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | yellowpages.ca      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Apr 24, 2023      | 

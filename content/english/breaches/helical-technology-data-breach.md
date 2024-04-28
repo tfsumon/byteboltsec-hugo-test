@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | helical-technology.com      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Feb 21, 2024      | 

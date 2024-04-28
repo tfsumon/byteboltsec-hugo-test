@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | matrixschools.edu.my      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jan 16, 2023      | 

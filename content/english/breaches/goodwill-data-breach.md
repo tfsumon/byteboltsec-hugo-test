@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | goodwill.org      | 
 | Threat Actor      | Karakurt      | 
 | Date Discovered      | Aug 31, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ferrari.com      | 
 | Threat Actor      | RansomEXX      | 
 | Date Discovered      | Oct 03, 2022      | 

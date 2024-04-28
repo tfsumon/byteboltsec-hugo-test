@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | clinique.cob-osteopathie.fr      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Apr 10, 2022      | 

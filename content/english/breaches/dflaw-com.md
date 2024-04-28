@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/september
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | dflaw.com      | 
 | Threat Actor    | SunCrypt      | 
 | Date Discovered    | Sep 15, 2020      | 

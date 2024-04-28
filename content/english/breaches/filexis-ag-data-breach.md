@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | filexis.ch      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Mar 20, 2024      | 

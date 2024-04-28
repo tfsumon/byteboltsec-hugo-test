@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | mindef.mil.gt      | 
 | Threat Actor      | Cyclops      | 
 | Date Discovered      | Jul 03, 2023      | 

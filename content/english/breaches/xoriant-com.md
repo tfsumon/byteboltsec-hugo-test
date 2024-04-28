@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | xoriant.com      | 
 | Threat Actor    | Ragnar_Locker      | 
 | Date Discovered    | Jun 24, 2021      | 

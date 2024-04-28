@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ginko.com.tw      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jul 26, 2022      | 

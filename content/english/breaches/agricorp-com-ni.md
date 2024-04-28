@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | agricorp.com.ni      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Nov 05, 2021      | 

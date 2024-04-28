@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | iad.gob.do      | 
 | Threat Actor      | Quantum      | 
 | Date Discovered      | Sep 02, 2022      | 

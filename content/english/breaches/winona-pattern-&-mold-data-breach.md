@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | winonapattern.com      | 
 | Threat Actor      | Meow      | 
 | Date Discovered      | Jan 25, 2024      | 

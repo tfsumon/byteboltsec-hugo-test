@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | alhambrait.com      | 
 | Threat Actor      | Mallox      | 
 | Date Discovered      | Jan 19, 2023      | 

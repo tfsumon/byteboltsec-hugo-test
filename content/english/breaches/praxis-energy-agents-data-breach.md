@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | praxisenergyagents.com      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Jun 21, 2023      | 

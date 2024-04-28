@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | gci2000.com      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Mar 23, 2021      | 

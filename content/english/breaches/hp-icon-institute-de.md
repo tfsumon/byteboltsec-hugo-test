@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | hp.icon-institute.de      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Dec 07, 2021      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | entrustsol.com      | 
 | Threat Actor      | INC_RANSOM      | 
 | Date Discovered      | Sep 21, 2023      | 

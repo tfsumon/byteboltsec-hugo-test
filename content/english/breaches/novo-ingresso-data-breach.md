@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | novoingresso.com.br      | 
 | Threat Actor      | Ransomed      | 
 | Date Discovered      | Oct 09, 2023      | 

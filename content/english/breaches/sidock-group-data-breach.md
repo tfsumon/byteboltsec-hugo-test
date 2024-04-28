@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | sidockgroup.com      | 
 | Threat Actor      | DonutLeaks      | 
 | Date Discovered      | Oct 22, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | napilikaifoundation.org      | 
 | Threat Actor    | BlackByte      | 
 | Date Discovered    | Nov 01, 2021      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | shawandslavsky.com      | 
 | Threat Actor      | Quantum      | 
 | Date Discovered      | Aug 19, 2022      | 

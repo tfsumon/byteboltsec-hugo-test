@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | vsdruck.ch      | 
 | Threat Actor      | Royal      | 
 | Date Discovered      | Apr 13, 2023      | 

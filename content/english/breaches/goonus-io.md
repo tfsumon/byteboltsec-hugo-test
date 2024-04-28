@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | goonus.io      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Dec 25, 2021      | 

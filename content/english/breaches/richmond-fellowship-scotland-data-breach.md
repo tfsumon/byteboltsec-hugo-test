@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | trfs.org.uk      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Jan 23, 2024      | 

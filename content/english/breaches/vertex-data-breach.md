@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | vertex.ca      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Nov 28, 2023      | 

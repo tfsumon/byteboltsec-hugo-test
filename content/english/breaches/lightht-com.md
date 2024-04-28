@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | lightht.com      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Oct 04, 2021      | 

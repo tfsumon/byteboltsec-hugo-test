@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | mossinc.com      | 
 | Threat Actor    | Corporate Leaks      | 
 | Date Discovered    | Oct 02, 2020      | 

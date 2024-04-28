@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | rigginscompany.com      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Nov 17, 2020      | 

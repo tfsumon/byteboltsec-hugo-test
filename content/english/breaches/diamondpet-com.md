@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | diamondpet.com      | 
 | Threat Actor    | BlackByte      | 
 | Date Discovered    | Mar 28, 2022      | 

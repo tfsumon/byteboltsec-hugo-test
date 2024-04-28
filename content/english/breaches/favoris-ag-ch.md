@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | favoris-ag.ch      | 
 | Threat Actor    | ALPHV      | 
 | Date Discovered    | Apr 03, 2022      | 

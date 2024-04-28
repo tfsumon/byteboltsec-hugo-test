@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | reigroup.com      | 
 | Threat Actor    | LV Blog      | 
 | Date Discovered    | Nov 29, 2021      | 

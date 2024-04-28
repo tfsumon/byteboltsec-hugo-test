@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | udmercy.edu      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Feb 13, 2022      | 

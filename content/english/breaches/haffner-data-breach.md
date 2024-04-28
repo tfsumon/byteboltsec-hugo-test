@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | hugohaeffner.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Oct 12, 2023      | 

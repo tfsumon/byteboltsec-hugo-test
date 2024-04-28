@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | reallawyers.net      | 
 | Threat Actor      | RedRansomware      | 
 | Date Discovered      | Apr 03, 2024      | 

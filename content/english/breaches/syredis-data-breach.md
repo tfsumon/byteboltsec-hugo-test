@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | syredis.fr      | 
 | Threat Actor      | RedAlert      | 
 | Date Discovered      | Jul 07, 2022      | 

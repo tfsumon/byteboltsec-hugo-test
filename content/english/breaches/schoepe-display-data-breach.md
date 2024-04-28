@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | schoepe-display.com      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Dec 19, 2023      | 

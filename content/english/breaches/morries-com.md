@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | morries.com      | 
 | Threat Actor    | Lorenz      | 
 | Date Discovered    | Jun 24, 2021      | 

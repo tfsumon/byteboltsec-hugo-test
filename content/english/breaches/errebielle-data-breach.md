@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | errebielle.it      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Apr 04, 2023      | 

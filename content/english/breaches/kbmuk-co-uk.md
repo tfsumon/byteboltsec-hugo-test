@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/august
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | kbmuk.co.uk      | 
 | Threat Actor    | Hive      | 
 | Date Discovered    | Aug 01, 2021      | 

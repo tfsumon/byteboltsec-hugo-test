@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | intrasecttech.com      | 
 | Threat Actor      | Lorenz      | 
 | Date Discovered      | Apr 06, 2023      | 

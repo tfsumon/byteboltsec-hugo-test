@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | comune.villafranca.vr.it      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Mar 17, 2022      | 

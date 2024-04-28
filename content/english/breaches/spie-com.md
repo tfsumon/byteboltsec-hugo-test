@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/august
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | spie.com      | 
 | Threat Actor    | Corporate Leaks      | 
 | Date Discovered    | Aug 09, 2020      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | sheehanfamilycompanies.com      | 
 | Threat Actor      | Royal      | 
 | Date Discovered      | Nov 08, 2022      | 

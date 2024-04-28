@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | brycon.com      | 
 | Threat Actor      | RansomHouse      | 
 | Date Discovered      | Dec 06, 2022      | 

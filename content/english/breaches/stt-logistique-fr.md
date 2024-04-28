@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | stt-logistique.fr      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Mar 25, 2022      | 

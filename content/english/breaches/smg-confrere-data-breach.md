@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | smg-decoupage-tolerie.com      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Dec 06, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | h-ortmeier.de      | 
 | Threat Actor      | Royal      | 
 | Date Discovered      | Nov 09, 2022      | 

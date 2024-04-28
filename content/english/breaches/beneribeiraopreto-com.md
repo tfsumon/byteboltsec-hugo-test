@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | beneribeiraopreto.com      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Nov 18, 2020      | 

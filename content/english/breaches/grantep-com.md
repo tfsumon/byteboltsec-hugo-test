@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | grantep.com      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Dec 31, 2020      | 

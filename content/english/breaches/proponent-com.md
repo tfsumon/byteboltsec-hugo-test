@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/july
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | proponent.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Jul 09, 2021      | 

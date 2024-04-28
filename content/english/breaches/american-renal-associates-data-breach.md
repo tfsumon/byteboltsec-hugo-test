@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | innovativerenal.com      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Mar 12, 2024      | 

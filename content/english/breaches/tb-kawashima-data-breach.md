@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | tb-kawashima.co.jp      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jun 20, 2022      | 

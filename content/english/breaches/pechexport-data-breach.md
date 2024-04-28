@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | pechexport.mg      | 
 | Threat Actor      | Cyclops      | 
 | Date Discovered      | Jul 24, 2023      | 

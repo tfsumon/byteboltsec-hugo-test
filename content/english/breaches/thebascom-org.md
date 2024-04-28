@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | thebascom.org      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Jan 26, 2021      | 

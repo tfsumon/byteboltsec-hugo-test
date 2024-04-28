@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | multimasters.be      | 
 | Threat Actor      | Cactus      | 
 | Date Discovered      | Nov 07, 2023      | 

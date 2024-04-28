@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | spaldinggrammar.lincs.sch.uk      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Aug 30, 2022      | 

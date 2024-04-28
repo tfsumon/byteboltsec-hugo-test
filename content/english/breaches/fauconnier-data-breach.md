@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | fauconnier.com      | 
 | Threat Actor      | RAGroup      | 
 | Date Discovered      | Apr 12, 2024      | 

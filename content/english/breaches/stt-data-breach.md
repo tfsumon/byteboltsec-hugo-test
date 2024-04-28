@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | stt.fi      | 
 | Threat Actor      | LV      | 
 | Date Discovered      | Aug 04, 2022      | 

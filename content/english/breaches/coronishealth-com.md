@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/august
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | coronishealth.com      | 
 | Threat Actor    | Hive      | 
 | Date Discovered    | Aug 15, 2021      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | siriusshipping.eu      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Jan 04, 2023      | 

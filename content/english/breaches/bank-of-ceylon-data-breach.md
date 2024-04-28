@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | bankofceylon.co.uk      | 
 | Threat Actor      | Cloak      | 
 | Date Discovered      | Nov 21, 2023      | 

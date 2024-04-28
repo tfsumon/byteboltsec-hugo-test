@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | aiphone.com      | 
 | Threat Actor      | MoneyMessage      | 
 | Date Discovered      | Sep 04, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | fling.com      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Nov 22, 2021      | 

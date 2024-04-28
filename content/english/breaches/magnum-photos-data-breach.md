@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | magnumphotos.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jul 17, 2023      | 

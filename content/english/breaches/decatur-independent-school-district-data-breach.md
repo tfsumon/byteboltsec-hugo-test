@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | decaturisd.us      | 
 | Threat Actor      | INC_RANSOM      | 
 | Date Discovered      | Nov 16, 2023      | 

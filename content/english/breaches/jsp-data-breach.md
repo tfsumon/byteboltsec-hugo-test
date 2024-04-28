@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | jsppharma.com      | 
 | Threat Actor      | Insane      | 
 | Date Discovered      | Jan 18, 2024      | 

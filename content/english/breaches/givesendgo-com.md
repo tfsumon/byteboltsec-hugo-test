@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | givesendgo.com      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Feb 14, 2022      | 

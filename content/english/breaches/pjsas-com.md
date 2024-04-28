@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/august
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | pjsas.com      | 
 | Threat Actor    | LV Blog      | 
 | Date Discovered    | Aug 14, 2021      | 

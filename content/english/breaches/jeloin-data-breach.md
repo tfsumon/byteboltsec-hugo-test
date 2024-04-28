@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | jeloin.se      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jun 07, 2023      | 

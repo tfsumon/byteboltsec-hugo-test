@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | bafnagroup.com      | 
 | Threat Actor      | LV      | 
 | Date Discovered      | Aug 01, 2022      | 

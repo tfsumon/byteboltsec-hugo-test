@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | honeylady.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Jan 11, 2023      | 

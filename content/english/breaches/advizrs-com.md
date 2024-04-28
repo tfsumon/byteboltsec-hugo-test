@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | advizrs.com      | 
 | Threat Actor    | Lorenz      | 
 | Date Discovered    | Apr 12, 2022      | 

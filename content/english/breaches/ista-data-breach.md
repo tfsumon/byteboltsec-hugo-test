@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ista.com      | 
 | Threat Actor      | Daixin      | 
 | Date Discovered      | Aug 10, 2022      | 

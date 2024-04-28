@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | comune.palermo.it      | 
 | Threat Actor    | ViceSociety      | 
 | Date Discovered    | Jun 09, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | rafumgroup.com      | 
 | Threat Actor      | Mallox      | 
 | Date Discovered      | Apr 12, 2024      | 

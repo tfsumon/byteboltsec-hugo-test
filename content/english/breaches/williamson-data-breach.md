@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | williamsonfoodservice.co.uk      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Oct 22, 2023      | 

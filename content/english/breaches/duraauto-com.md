@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | duraauto.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Dec 29, 2021      | 

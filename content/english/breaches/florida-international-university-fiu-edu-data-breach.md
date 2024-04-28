@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | fiu.edu      | 
 | Threat Actor    | ALPHV      | 
 | Date Discovered    | Apr 08, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | cgt.it      | 
 | Threat Actor    | ALPHV      | 
 | Date Discovered    | Feb 03, 2022      | 

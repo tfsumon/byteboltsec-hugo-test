@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | atlascopco.com      | 
 | Threat Actor    | SunCrypt      | 
 | Date Discovered    | Apr 14, 2022      | 

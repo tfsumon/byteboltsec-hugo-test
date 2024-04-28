@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | IntegrityInc.org      | 
 | Threat Actor      | Mydata      | 
 | Date Discovered      | Jan 25, 2024      | 

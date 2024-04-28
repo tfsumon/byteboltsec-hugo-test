@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | duhocaau.vn      | 
 | Threat Actor      | Mallox      | 
 | Date Discovered      | Oct 16, 2023      | 

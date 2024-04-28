@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | cmmrlegal.com      | 
 | Threat Actor    | Ragnar_Locker      | 
 | Date Discovered    | Jun 11, 2020      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | hellmann.net      | 
 | Threat Actor    | RansomEXX      | 
 | Date Discovered    | Dec 15, 2021      | 

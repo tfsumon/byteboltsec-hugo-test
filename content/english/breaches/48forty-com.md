@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | 48forty.com      | 
 | Threat Actor    | AvosLocker      | 
 | Date Discovered    | Jan 10, 2022      | 

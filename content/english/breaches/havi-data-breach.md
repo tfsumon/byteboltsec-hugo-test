@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | havi.com      | 
 | Threat Actor      | Yanluowang      | 
 | Date Discovered      | Mar 16, 2022      | 

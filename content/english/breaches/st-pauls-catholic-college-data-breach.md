@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | st-pauls.surrey.sch.uk      | 
 | Threat Actor    | ViceSociety      | 
 | Date Discovered    | Jun 03, 2022      | 

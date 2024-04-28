@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | onlinesalespro.com      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Feb 10, 2022      | 

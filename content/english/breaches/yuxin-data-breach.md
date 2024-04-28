@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | esine.com.tw      | 
 | Threat Actor      | RAGroup      | 
 | Date Discovered      | Sep 01, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | chimbusco.com.sg      | 
 | Threat Actor    | AvosLocker      | 
 | Date Discovered    | Apr 19, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/july
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | onlogistics.es      | 
 | Threat Actor    | AvosLocker      | 
 | Date Discovered    | Jul 13, 2021      | 

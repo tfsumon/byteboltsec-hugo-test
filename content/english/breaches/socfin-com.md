@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/august
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | socfin.com      | 
 | Threat Actor    | Grief      | 
 | Date Discovered    | Aug 16, 2021      | 

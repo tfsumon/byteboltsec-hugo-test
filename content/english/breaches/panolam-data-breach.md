@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | panolam.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Dec 02, 2022      | 

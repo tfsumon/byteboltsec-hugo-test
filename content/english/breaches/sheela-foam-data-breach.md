@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | sheelafoam.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Nov 20, 2023      | 

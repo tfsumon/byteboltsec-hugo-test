@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | julia.ad      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Jun 10, 2021      | 

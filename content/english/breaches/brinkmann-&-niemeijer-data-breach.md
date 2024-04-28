@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | brinkmann-niemeijer.nl      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Jun 08, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | nobleoil.com      | 
 | Threat Actor    | ALPHV      | 
 | Date Discovered    | Mar 17, 2022      | 

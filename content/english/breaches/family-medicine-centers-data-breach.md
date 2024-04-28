@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/august
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | fmcclinics.com     | 
 | Threat Actor    | ViceSociety      | 
 | Date Discovered    | Aug 21, 2022      | 

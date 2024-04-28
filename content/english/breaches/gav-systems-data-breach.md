@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | gav.co.il      | 
 | Threat Actor      | MalekTeam      | 
 | Date Discovered      | Dec 28, 2023      | 

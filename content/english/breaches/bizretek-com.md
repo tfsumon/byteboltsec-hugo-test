@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | bizretek.com      | 
 | Threat Actor    | Lorenz      | 
 | Date Discovered    | Mar 29, 2022      | 

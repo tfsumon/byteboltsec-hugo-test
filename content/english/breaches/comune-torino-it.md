@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | comune.torino.it      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Dec 10, 2021      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/september
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | cansmart.co.za      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Sep 17, 2021      | 

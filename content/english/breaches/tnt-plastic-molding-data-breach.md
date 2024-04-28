@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | tntplasticmolding.com      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Oct 29, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | lasegunda.com.ar      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Feb 22, 2023      | 

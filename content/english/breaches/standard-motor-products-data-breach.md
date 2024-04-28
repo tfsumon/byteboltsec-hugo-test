@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | smp-corp.com      | 
 | Threat Actor      | IndustrialSpy      | 
 | Date Discovered      | Aug 18, 2022      | 

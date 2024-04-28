@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | pharmagestao.com.br      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Feb 02, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | sectrio.com      | 
 | Threat Actor    | Ragnar_Locker      | 
 | Date Discovered    | Jan 08, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | lapostemobile.fr      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jul 08, 2022      | 

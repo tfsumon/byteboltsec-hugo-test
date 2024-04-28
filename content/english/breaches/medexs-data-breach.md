@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | medexs.com      | 
 | Threat Actor      | Qilin      | 
 | Date Discovered      | Jun 23, 2023      | 

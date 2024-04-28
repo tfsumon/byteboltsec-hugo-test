@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | howlandlaw.net      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Nov 07, 2023      | 

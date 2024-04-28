@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/may
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | asl1abruzzo.it      | 
 | Threat Actor      | Monti      | 
 | Date Discovered      | May 04, 2023      | 

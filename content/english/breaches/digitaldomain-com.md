@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | digitaldomain.com      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Feb 17, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | profilalsace.com      | 
 | Threat Actor    | Grief      | 
 | Date Discovered    | Dec 15, 2021      | 

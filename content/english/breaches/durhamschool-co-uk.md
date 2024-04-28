@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | durhamschool.co.uk      | 
 | Threat Actor    | ViceSociety      | 
 | Date Discovered    | Jan 12, 2022      | 

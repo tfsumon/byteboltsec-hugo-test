@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | haeny.com      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Mar 14, 2022      | 

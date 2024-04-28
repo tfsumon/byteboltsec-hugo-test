@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | cdp.com.my      | 
 | Threat Actor    | SunCrypt      | 
 | Date Discovered    | Apr 25, 2022      | 

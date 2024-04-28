@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | infinigate.ch      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Aug 30, 2023      | 

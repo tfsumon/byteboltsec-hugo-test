@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | powertech.co.kr      | 
 | Threat Actor    | Cuba      | 
 | Date Discovered    | Mar 19, 2022      | 

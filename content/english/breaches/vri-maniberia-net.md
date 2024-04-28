@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | vri.maniberia.net      | 
 | Threat Actor    | ALPHV      | 
 | Date Discovered    | Mar 18, 2022      | 

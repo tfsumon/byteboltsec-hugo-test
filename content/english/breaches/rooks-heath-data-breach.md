@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | rooksheath.harrow.sch.uk      | 
 | Threat Actor      | ViceSociety      | 
 | Date Discovered      | Nov 02, 2022      | 

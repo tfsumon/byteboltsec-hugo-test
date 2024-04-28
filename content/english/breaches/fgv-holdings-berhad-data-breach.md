@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | fgvholdings.com      | 
 | Threat Actor      | Qilin      | 
 | Date Discovered      | Mar 14, 2024      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | beghelliusa.com      | 
 | Threat Actor      | Royal      | 
 | Date Discovered      | Apr 07, 2023      | 

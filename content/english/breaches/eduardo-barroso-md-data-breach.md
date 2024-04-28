@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | plasticsurgerymd.net      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Oct 25, 2023      | 

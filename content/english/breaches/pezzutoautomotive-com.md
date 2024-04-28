@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | pezzutoautomotive.com      | 
 | Threat Actor    | Xing Locker      | 
 | Date Discovered    | Apr 29, 2021      | 

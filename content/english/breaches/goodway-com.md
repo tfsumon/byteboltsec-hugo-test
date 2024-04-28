@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | goodway.com      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Apr 20, 2021      | 

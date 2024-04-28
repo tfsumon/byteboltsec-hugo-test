@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/august
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | trustteam.be      | 
 | Threat Actor    | SunCrypt      | 
 | Date Discovered    | Aug 25, 2020      | 

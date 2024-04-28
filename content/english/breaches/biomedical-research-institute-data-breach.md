@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | afbr-bri.org      | 
 | Threat Actor      | Meow      | 
 | Date Discovered      | Mar 07, 2024      | 

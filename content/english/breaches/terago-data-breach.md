@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | terago.ca      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Feb 08, 2024      | 

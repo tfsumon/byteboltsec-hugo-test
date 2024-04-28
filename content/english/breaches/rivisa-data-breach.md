@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | rivisa.net      | 
 | Threat Actor      | Sparta      | 
 | Date Discovered      | Sep 14, 2022      | 

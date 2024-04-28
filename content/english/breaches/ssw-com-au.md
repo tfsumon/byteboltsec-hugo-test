@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | ssw.com.au      | 
 | Threat Actor    | ALPHV      | 
 | Date Discovered    | Apr 01, 2022      | 

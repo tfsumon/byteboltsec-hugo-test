@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | cortinawatch.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jun 09, 2023      | 

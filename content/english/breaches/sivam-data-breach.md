@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | sivam.it      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Jan 17, 2024      | 

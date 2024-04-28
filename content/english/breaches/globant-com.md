@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | globant.com      | 
 | Threat Actor    | LAPSUS$      | 
 | Date Discovered    | Mar 30, 2022      | 

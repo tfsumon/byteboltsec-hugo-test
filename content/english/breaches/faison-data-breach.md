@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | faison.com      | 
 | Threat Actor      | DragonForce      | 
 | Date Discovered      | Mar 01, 2024      | 

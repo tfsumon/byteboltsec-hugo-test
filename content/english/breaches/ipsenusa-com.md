@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | ipsenusa.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Jun 09, 2021      | 

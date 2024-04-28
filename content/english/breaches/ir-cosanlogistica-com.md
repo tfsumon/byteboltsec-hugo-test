@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | ir.cosanlogistica.com      | 
 | Threat Actor    | Corporate Leaks      | 
 | Date Discovered    | Mar 20, 2020      | 

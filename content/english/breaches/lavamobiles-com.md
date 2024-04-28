@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | lavamobiles.com      | 
 | Threat Actor    | Snatch      | 
 | Date Discovered    | Dec 26, 2021      | 

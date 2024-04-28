@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | asafab.com      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Sep 15, 2023      | 

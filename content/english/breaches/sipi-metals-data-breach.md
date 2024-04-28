@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | sipicorp.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Jan 29, 2024      | 

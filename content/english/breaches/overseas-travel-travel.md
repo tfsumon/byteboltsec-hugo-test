@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | overseas-travel.travel      | 
 | Threat Actor    | Snatch      | 
 | Date Discovered    | Feb 02, 2022      | 

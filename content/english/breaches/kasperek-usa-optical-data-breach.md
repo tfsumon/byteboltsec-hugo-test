@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | kasperekusaoptical.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Oct 18, 2023      | 

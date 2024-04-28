@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | valverdehotel.com      | 
 | Threat Actor      | LV      | 
 | Date Discovered      | Aug 09, 2022      | 

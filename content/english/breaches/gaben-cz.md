@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | gaben.cz      | 
 | Threat Actor    | LV Blog      | 
 | Date Discovered    | Dec 06, 2021      | 

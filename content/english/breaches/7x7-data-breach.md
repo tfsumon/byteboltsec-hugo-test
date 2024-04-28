@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | 7x7oralsurgery.com      | 
 | Threat Actor      | Abyss      | 
 | Date Discovered      | Mar 30, 2023      | 

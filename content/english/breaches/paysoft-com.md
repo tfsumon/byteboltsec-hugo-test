@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | paysoft.com      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Feb 13, 2021      | 

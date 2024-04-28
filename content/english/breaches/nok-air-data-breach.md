@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | nokair.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Nov 21, 2022      | 

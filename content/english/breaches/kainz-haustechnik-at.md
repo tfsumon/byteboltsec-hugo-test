@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | kainz-haustechnik.at      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Feb 11, 2022      | 

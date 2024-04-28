@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | co.grant.mn.us      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Sep 12, 2023      | 

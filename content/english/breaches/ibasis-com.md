@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | ibasis.com      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Feb 07, 2022      | 

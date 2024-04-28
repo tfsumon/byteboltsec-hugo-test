@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | axa.com.ph      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Jun 02, 2021      | 

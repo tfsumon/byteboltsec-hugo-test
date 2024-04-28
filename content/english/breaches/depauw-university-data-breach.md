@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | depauw.edu      | 
 | Threat Actor      | BlackSuit      | 
 | Date Discovered      | Dec 01, 2023      | 

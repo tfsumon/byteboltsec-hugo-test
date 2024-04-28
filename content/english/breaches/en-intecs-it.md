@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | en.intecs.it      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Dec 13, 2020      | 

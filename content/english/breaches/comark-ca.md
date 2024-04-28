@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | comark.ca      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Dec 08, 2021      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/august
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | ludofact.de      | 
 | Threat Actor    | Groove      | 
 | Date Discovered    | Aug 27, 2021      | 

@@ -11,48 +11,76 @@
         {{ with .Params.image }}
         {{ if fileExists (add `assets/` .) }}
         {{$img:= resources.Get . }}
-	<p align="center">
-	<img loading="lazy" decoding="async" class="rounded-lg" src="{{$img.RelPermalink}}" alt="{{ if $.Params.h1 }}{{$.Params.h1}}{{ else if $.Params.title }}{{$.Params.title}}{{else}}{{print "blog-post"}} {{end}}" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
-	</p>
+          <p align="center">
+          <img loading="lazy" decoding="async" class="rounded-lg" src="{{$img.RelPermalink}}" alt="{{ if $.Params.h1 }}{{$.Params.h1}}{{ else if $.Params.title }}{{$.Params.title}}{{else}}{{print "blog-post"}} {{end}}" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+          </p>
         {{end}}
         {{end}}
       </div>
       <div class="col-lg-8">
-        <div class="mb-5">
-          {{ $publishDate := .PublishDate.Format "Jan 02, 2006" }}
-          {{ with site.GetPage (string .Params.Author | urlize | lower) }}
-          <div class="d-flex align-items-center card-author mt-4">
-            <div class="user-image mr-3">
-              <a href="{{.RelPermalink}}" title="{{.Title}}">
-                {{ if .Params.image }}
-                {{ $img:= resources.Get (.Params.image) }}
-                {{ $img:= $img.Fill "70x70" }}
-                {{ $imgWebp:= $img.Fill "70x70 webp" }}
-                <img loading="lazy" decoding="async" class="rounded-circle" src="{{ $imgWebp.RelPermalink }}" alt="author image" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
-                {{ else if .Params.Email }}
-                <img loading="lazy" decoding="async" class="rounded-circle" src="https://www.gravatar.com/avatar/{{ md5 . }}?s=70&pg&d=identicon">
-                {{ end }}
-              </a>
-            </div>
-            <div class="user-info">
-              <p class="font-weight-500 mb-0 h5"><a href="{{.RelPermalink}}">{{ .Title }}</a></p>
-              <span>{{$publishDate}}</span>
-            </div>
-          </div>
+        <ul class="mb-4 tags">
+          {{ if .Params.tags }}
+            <li class="list-inline-item">
+              {{ $tags := .Params.tags }}
+              {{ range $i, $ele := $tags }}
+                <a class="tag" href="/tags/{{. | lower | urlize}}">{{ . | title }}
+                </a>
+                {{ if not (eq (sub ($tags | len) 1) $i) }} &nbsp;&nbsp; {{ end }}
+              {{ end }}
+            </li>
           {{ end }}
-        </div>
+        </ul>
+
+        <h1 class="mb-2">{{.Params.h1}}</font></h1>
+        <ul class="mb-4 list-inline">
+          <li class="list-inline-item">
+            {{ $publishDate := .PublishDate.Format "Jan 02, 2006" }}
+            {{ with site.GetPage (string .Params.Author | urlize | lower) }}
+            <div class="d-flex align-items-center card-author mt-4">
+              <div class="user-image mr-3">
+                <a href="{{.RelPermalink}}" title="{{.Title}}">
+                  {{ if .Params.image }}
+                  {{ $img:= resources.Get (.Params.image) }}
+                  {{ $img:= $img.Fill "70x70" }}
+                  {{ $imgWebp:= $img.Fill "70x70 webp" }}
+                  <img loading="lazy" decoding="async" class="rounded-circle" src="{{ $imgWebp.RelPermalink }}" alt="author image" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+                  {{ else if .Params.Email }}
+                  <img loading="lazy" decoding="async" class="rounded-circle" src="https://www.gravatar.com/avatar/{{ md5 . }}?s=70&pg&d=identicon">
+                  {{ end }}
+                </a>
+              </div>
+              <ul class="list-inline">
+                <li class="list-inline-item">
+                <span class="text-black mb-0 h5"><a href="{{.RelPermalink}}">{{ .Title }}</a></span>
+                </li>
+                <li class="list-inline-item">
+                  ·
+                </li>
+                <li class="list-inline-item">
+                <span class="tag text-decoration-none mb-0">{{$publishDate}}</span>
+                </li>
+                <li class="list-inline-item">
+                  ·
+                </li>
+                <li class="list-inline-item">
+                <span class="tag text-decoration-none mb-0">{{printf "%d Minute Reading Time" .ReadingTime}}</span>
+                </li>
+              </ul>
+            </div>
+            {{ end }}
+          </li>
+        </ul>
 
         <div class="content">
-          <h1 class="mb-4">{{.Params.h1}}</font></h1>
-	  <p> {{ .Params.intro1 | markdownify }} </p>
-	  <p> {{ .Params.intro2 | markdownify }} </p>
-	  <p> {{ .Params.intro3 | markdownify }} </p>
-	  <p> {{ .Params.intro4 | markdownify }} </p>
-	  <p> {{ .Params.intro5 | markdownify }} </p>
-	  <p> {{ .Params.intro6 | markdownify }} </p>
-	  <p> {{ .Params.intro7 | markdownify }} </p>
-	  <p> {{ .Params.intro8 | markdownify }} </p>
-	  <p> <h2>Table of contents:</h2><p>
+          <p> {{ .Params.intro1 | markdownify }} </p>
+          <p> {{ .Params.intro2 | markdownify }} </p>
+          <p> {{ .Params.intro3 | markdownify }} </p>
+          <p> {{ .Params.intro4 | markdownify }} </p>
+          <p> {{ .Params.intro5 | markdownify }} </p>
+          <p> {{ .Params.intro6 | markdownify }} </p>
+          <p> {{ .Params.intro7 | markdownify }} </p>
+          <p> {{ .Params.intro8 | markdownify }} </p>
+          <p> <h2>Table of contents:</h2><p>
           {{ .TableOfContents }}
           {{.Content}}
         </div>

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | whitworth.edu      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Aug 11, 2022      | 

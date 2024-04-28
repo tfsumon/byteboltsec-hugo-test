@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | maginea.com      | 
 | Threat Actor    | Ragnar_Locker      | 
 | Date Discovered    | Dec 03, 2021      | 

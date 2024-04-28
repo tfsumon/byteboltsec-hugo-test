@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | charm.com      | 
 | Threat Actor      | Snatch      | 
 | Date Discovered      | Jan 15, 2024      | 

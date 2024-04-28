@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | bluelinea.com      | 
 | Threat Actor      | RAGroup      | 
 | Date Discovered      | Jul 31, 2023      | 

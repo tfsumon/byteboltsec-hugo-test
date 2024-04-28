@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | chemiflex.com      | 
 | Threat Actor      | Quantum      | 
 | Date Discovered      | Dec 09, 2022      | 

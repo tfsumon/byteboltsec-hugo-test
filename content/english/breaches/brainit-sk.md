@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | brainit.sk      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Feb 08, 2021      | 

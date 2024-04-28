@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | crossroadshealth.org      | 
 | Threat Actor    | Midas      | 
 | Date Discovered    | Jan 18, 2022      | 

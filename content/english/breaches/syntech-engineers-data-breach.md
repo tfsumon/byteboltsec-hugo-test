@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | syntech.com.sg      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Sep 18, 2023      | 

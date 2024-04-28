@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | powerbuy.co.th      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Jan 27, 2022      | 

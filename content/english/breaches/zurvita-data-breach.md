@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | zurvita.com      | 
 | Threat Actor      | RAGroup      | 
 | Date Discovered      | Aug 29, 2023      | 

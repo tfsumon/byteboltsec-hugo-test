@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | huesser.ch      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Apr 26, 2022      | 

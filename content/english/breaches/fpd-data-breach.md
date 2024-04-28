@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | fpdcompany.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Mar 28, 2024      | 

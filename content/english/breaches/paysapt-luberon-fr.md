@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | paysapt-luberon.fr      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Nov 12, 2021      | 

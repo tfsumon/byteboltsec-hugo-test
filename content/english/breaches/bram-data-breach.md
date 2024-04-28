@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | bramautogroup.com      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Feb 19, 2024      | 

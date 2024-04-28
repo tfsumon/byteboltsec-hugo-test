@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | a10networks.com      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Feb 09, 2023      | 

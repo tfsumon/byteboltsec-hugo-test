@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | kickex.com      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Dec 23, 2021      | 

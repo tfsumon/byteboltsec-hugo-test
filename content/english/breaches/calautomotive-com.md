@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/september
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | calautomotive.com      | 
 | Threat Actor    | Payload.bin      | 
 | Date Discovered    | Sep 26, 2021      | 

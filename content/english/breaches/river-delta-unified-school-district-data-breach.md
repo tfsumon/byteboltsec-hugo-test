@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | rdusd.org      | 
 | Threat Actor      | Meow      | 
 | Date Discovered      | Feb 21, 2024      | 

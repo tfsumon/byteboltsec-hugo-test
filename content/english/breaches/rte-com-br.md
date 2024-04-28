@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | rte.com.br      | 
 | Threat Actor    | HiveLeaks      | 
 | Date Discovered    | Jan 28, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | comune.londa.fi.it      | 
 | Threat Actor      | RansomHouse      | 
 | Date Discovered      | Aug 11, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | isrotel.com      | 
 | Threat Actor      | SharpBoys      | 
 | Date Discovered      | Jun 28, 2022      | 

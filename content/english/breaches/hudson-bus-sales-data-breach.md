@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | hudsonbussales.com      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Mar 26, 2024      | 

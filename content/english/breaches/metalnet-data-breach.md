@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/may
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | metalnet.nl      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | May 19, 2023      | 

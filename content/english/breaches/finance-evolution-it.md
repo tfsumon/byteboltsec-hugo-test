@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | finance-evolution.it      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Nov 23, 2020      | 

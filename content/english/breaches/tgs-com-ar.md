@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | tgs.com.ar      | 
 | Threat Actor    | ALPHV      | 
 | Date Discovered    | Apr 10, 2022      | 

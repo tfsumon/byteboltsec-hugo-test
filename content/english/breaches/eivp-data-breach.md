@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | eivp-paris.fr      | 
 | Threat Actor    | ALPHV      | 
 | Date Discovered    | Jun 12, 2022      | 

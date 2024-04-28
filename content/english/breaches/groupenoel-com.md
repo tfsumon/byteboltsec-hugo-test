@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/september
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | groupenoel.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Sep 11, 2020      | 

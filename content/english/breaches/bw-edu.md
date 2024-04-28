@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | bw.edu      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Jan 29, 2021      | 

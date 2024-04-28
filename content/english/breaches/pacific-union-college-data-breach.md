@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | puc.edu      | 
 | Threat Actor      | Trigona      | 
 | Date Discovered      | Jun 08, 2023      | 

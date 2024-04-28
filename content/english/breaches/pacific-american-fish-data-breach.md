@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | pafco.net      | 
 | Threat Actor      | INC_RANSOM      | 
 | Date Discovered      | Feb 12, 2024      | 

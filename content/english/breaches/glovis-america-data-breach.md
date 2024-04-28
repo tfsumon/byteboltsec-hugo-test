@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | glovisusa.com      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Sep 19, 2023      | 

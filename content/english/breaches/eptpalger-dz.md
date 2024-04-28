@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/september
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | eptpalger.dz      | 
 | Threat Actor    | Spook      | 
 | Date Discovered    | Sep 26, 2021      | 

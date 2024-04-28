@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | h-hotels.com      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Dec 19, 2022      | 

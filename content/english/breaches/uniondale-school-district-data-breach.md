@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | district.uniondaleschools.org      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Apr 17, 2023      | 

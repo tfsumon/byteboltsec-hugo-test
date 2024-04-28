@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | kablutronik.ro      | 
 | Threat Actor      | Hunters      | 
 | Date Discovered      | Apr 19, 2024      | 

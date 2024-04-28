@@ -1,6 +1,6 @@
 ---
 Discovered: February 24, 2020
-date: 2020-02-24
+date: 2020-02-24T00:00:00.000Z
 title: thenoc.net
 image: images/blog/CL0P.png
 author: Breachsense Support
@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | thenoc.net      | 
 | Threat Actor    | CL0P      | 
 | Date Discovered    | Feb 24, 2020      | 

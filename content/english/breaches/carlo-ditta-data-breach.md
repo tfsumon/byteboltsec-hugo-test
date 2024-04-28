@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | carlodittainc.net      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Sep 26, 2023      | 

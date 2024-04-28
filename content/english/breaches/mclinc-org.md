@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/august
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | mclinc.org      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Aug 13, 2020      | 

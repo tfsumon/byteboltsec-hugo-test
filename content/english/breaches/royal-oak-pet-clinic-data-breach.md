@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | royaloakpetclinic.com      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Aug 25, 2023      | 

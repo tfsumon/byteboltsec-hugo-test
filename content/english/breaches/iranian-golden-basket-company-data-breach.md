@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | sticompany.co      | 
 | Threat Actor      | ArvinClub      | 
 | Date Discovered      | Aug 24, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | xybion.com      | 
 | Threat Actor      | AvosLocker      | 
 | Date Discovered      | Sep 11, 2022      | 

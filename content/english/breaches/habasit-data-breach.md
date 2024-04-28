@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | habasit.com      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Jun 22, 2023      | 

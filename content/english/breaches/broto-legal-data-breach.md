@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | brotolegal.com.br      | 
 | Threat Actor      | BlackByte      | 
 | Date Discovered      | Nov 07, 2022      | 

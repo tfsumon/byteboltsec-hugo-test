@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | business.gov.om      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jun 21, 2022      | 

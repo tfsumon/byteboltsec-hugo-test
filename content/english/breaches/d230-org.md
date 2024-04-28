@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/may
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | d230.org      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | May 04, 2021      | 

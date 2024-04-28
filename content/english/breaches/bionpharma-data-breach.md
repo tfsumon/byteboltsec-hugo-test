@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | bionpharma.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Jul 25, 2023      | 

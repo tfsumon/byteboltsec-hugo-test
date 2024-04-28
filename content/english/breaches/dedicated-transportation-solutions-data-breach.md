@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | dtsolutions.net      | 
 | Threat Actor      | Cactus      | 
 | Date Discovered      | Jan 12, 2024      | 

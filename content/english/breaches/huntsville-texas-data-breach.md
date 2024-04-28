@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | huntsvilletx.gov & huntsvilletexas.com      | 
 | Threat Actor      | HiveLeaks      | 
 | Date Discovered      | Dec 21, 2022      | 

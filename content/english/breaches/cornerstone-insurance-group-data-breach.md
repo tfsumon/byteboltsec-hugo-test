@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | cornerstoneinsgrp.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Sep 21, 2022      | 

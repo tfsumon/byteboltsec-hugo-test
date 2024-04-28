@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | clarioncomms.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Oct 07, 2022      | 

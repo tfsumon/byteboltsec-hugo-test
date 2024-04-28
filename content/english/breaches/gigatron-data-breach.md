@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | gigatron.rs      | 
 | Threat Actor      | Qilin      | 
 | Date Discovered      | Feb 21, 2023      | 

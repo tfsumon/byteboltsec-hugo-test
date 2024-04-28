@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | el-mohandes.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Feb 06, 2023      | 

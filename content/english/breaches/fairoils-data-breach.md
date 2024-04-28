@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | fairoils.com      | 
 | Threat Actor      | BlackSuit      | 
 | Date Discovered      | Apr 11, 2024      | 

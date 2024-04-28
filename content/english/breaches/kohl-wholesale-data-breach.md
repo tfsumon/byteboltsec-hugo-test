@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | kohlwholesale.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Dec 18, 2023      | 

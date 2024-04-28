@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | norwescap.org      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Jan 11, 2021      | 

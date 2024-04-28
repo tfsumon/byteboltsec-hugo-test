@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | adata.com      | 
 | Threat Actor    | Ragnar_Locker      | 
 | Date Discovered    | Jun 06, 2021      | 

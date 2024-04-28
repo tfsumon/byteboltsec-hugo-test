@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | jaffelaw.com      | 
 | Threat Actor    | Pandora      | 
 | Date Discovered    | Mar 05, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | atlasmining.com.ph      | 
 | Threat Actor      | RansomHouse      | 
 | Date Discovered      | Sep 20, 2022      | 

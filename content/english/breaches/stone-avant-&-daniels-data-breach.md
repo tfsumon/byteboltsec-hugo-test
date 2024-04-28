@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | stoneavant.com      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Jan 18, 2024      | 

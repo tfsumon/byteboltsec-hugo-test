@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | vsortho.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Feb 06, 2024      | 

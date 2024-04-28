@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/september
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | caberz.net      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Sep 01, 2021      | 

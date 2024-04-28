@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | psomagen.com      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Nov 25, 2021      | 

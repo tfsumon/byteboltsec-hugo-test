@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | torindrive.com      | 
 | Threat Actor      | BlackByte      | 
 | Date Discovered      | Aug 29, 2022      | 

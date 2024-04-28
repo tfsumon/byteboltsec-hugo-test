@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | fontainebleau.com      | 
 | Threat Actor      | HiveLeaks      | 
 | Date Discovered      | Sep 15, 2022      | 

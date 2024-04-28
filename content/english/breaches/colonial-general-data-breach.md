@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | colonialgeneral.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Nov 30, 2022      | 

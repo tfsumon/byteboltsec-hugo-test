@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | trant.co.uk      | 
 | Threat Actor    | Cuba      | 
 | Date Discovered    | Mar 25, 2022      | 

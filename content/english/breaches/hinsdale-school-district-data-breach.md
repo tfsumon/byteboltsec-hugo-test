@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | hinsdale86.org      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Dec 13, 2023      | 

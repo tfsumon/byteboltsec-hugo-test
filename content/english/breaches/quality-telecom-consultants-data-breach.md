@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | qualitytelecominc.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Oct 12, 2022      | 

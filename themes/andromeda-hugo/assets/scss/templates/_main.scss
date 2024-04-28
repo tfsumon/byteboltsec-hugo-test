@@ -228,6 +228,26 @@
       }
     }
   }
+
+   &> ul:last-child {
+    margin-bottom: 0px !important;
+  }
+}
+
+.sidebar-filter-button {
+  display: none;
+  position: fixed;
+  border: 1px solid $border-color;
+  background-color: $white;
+
+  &,&::after {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+  }
+
+  @include desktop {
+    display: block;
+  }
 }
 
 // breadcrumb
@@ -962,8 +982,8 @@
   }
 
   .user-image {
-    height: 3.625rem;
-    width: 3.625rem;
+    height: 3.2rem;
+    width: 3.2rem;
     padding: 0.25rem;
     position: relative;
     border-radius: 50%;
@@ -982,8 +1002,8 @@
     }
 
     img {
-      height: 3.125rem;
-      width: 3.125rem;
+      height: 2.8rem;
+      width: 2.8rem;
     }
   }
 }

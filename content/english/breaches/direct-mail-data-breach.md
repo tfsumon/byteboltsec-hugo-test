@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | directmail.com.au      | 
 | Threat Actor      | INC_RANSOM      | 
 | Date Discovered      | Oct 26, 2023      | 

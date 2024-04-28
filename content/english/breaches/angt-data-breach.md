@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | angt-gabon.com      | 
 | Threat Actor      | LV      | 
 | Date Discovered      | Aug 25, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | hallcrossacademy.co.uk      | 
 | Threat Actor      | Snatch      | 
 | Date Discovered      | Jul 27, 2022      | 

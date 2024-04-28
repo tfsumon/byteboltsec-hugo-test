@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | kansascityhomes.com      | 
 | Threat Actor      | Blackbyte      | 
 | Date     | Jan 06, 2023      | 

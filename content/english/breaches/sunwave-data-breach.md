@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | sunwave.com.cn      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Mar 06, 2024      | 

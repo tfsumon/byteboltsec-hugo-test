@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | atlantatech.edu      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Oct 10, 2023      | 

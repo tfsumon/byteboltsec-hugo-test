@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | ktmtriallaw.com      | 
 | Threat Actor    | Everest      | 
 | Date Discovered    | Dec 05, 2021      | 

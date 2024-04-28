@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/august
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | ami.com      | 
 | Threat Actor    | RansomEXX      | 
 | Date Discovered    | Aug 26, 2021      | 

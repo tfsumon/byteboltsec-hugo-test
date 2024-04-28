@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | maytec.de      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Nov 15, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | pim.co.id      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Apr 04, 2024      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | enterprisebanking.com      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Sep 01, 2023      | 

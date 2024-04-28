@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | seves.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Jun 17, 2021      | 

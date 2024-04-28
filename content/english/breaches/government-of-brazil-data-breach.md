@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | gov.br      | 
 | Threat Actor      | BlackSuit      | 
 | Date Discovered      | Oct 20, 2023      | 

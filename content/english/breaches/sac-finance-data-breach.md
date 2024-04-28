@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | sacfinance.com      | 
 | Threat Actor      | RansomHouse      | 
 | Date Discovered      | Sep 13, 2023      | 

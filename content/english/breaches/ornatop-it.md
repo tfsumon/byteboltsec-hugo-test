@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | ornatop.it      | 
 | Threat Actor    | Grief      | 
 | Date Discovered    | Dec 05, 2021      | 

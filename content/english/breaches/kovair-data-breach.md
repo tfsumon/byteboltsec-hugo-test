@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | kovair.com      | 
 | Threat Actor      | Everest      | 
 | Date Discovered      | Jul 26, 2023      | 

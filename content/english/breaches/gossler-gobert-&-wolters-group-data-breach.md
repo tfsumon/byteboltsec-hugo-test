@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ggw.de      | 
 | Threat Actor      | DonutLeaks      | 
 | Date Discovered      | Sep 20, 2023      | 

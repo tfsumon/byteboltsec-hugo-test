@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | millscnc.co.uk      | 
 | Threat Actor    | HiveLeaks      | 
 | Date Discovered    | Apr 19, 2022      | 

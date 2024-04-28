@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | stingpharma.com      | 
 | Threat Actor      | Hunters      | 
 | Date Discovered      | Mar 20, 2024      | 

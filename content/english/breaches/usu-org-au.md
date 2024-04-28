@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/may
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | usu.org.au      | 
 | Threat Actor    | BlackByte      | 
 | Date Discovered    | May 13, 2022      | 

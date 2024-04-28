@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | cder.fr      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Jan 02, 2023      | 

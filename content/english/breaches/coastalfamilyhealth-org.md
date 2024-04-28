@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/may
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | coastalfamilyhealth.org      | 
 | Threat Actor    | Xing Locker      | 
 | Date Discovered    | May 24, 2021      | 

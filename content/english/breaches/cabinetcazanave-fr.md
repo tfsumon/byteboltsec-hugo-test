@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | cabinetcazanave.fr      | 
 | Threat Actor    | Midas      | 
 | Date Discovered    | Nov 15, 2021      | 

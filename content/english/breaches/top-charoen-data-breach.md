@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | topcharoen.co.th      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Oct 31, 2023      | 

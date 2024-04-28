@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | halleonard.com.au      | 
 | Threat Actor      | Qilin      | 
 | Date Discovered      | Jan 09, 2024      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ausl.mo.it      | 
 | Threat Actor      | Hunters      | 
 | Date Discovered      | Dec 13, 2023      | 

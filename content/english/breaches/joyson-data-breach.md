@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | joyson.cn      | 
 | Threat Actor      | Snatch      | 
 | Date Discovered      | Jul 18, 2023      | 

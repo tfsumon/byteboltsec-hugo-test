@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | stratford.edu      | 
 | Threat Actor      | Snatch      | 
 | Date Discovered      | Aug 18, 2022      | 

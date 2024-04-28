@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ventureinsga.com      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Aug 04, 2023      | 

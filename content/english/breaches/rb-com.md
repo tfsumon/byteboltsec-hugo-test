@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | rb.com      | 
 | Threat Actor    | Everest      | 
 | Date Discovered    | Apr 21, 2022      | 

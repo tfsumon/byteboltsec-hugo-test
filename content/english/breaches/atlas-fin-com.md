@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | atlas-fin.com      | 
 | Threat Actor    | Ragnar_Locker      | 
 | Date Discovered    | Oct 06, 2021      | 

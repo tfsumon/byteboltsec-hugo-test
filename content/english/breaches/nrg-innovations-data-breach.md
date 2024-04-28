@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | getnrg.com      | 
 | Threat Actor      | Everest      | 
 | Date Discovered      | Mar 15, 2023      | 

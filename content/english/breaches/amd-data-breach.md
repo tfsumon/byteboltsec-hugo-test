@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | amd.com      | 
 | Threat Actor      | RansomHouse      | 
 | Date Discovered      | Jun 28, 2022      | 

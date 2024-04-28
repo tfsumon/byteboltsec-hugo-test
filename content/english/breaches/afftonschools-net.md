@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | afftonschools.net      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Feb 25, 2021      | 

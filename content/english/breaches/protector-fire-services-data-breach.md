@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | protectorfire.com.au      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Oct 22, 2023      | 

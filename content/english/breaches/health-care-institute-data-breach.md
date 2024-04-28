@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | hci.edu      | 
 | Threat Actor      | CL0P      | 
 | Date     | Jun 05, 2023      | 

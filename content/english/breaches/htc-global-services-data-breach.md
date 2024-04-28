@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | htcinc.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Dec 01, 2023      | 

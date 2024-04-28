@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | ci.hercules.ca.us      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Feb 05, 2022      | 

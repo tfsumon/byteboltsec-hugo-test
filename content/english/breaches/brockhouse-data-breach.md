@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | brockhouse.co.uk      | 
 | Threat Actor      | Abyss      | 
 | Date Discovered      | Jul 19, 2023      | 

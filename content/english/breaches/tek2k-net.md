@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | tek2k.net      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Nov 05, 2020      | 

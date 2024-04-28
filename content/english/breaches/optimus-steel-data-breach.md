@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/may
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | optimus-steelusa.com      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | May 23, 2023      | 

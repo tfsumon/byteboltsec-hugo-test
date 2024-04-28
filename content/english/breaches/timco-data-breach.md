@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | timco.co.uk      | 
 | Threat Actor      | ViceSociety      | 
 | Date Discovered      | Jan 16, 2023      | 

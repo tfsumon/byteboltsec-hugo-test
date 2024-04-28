@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | global.toyota      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Nov 16, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/may
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | aliansce.com.br      | 
 | Threat Actor    | Corporate Leaks      | 
 | Date Discovered    | May 20, 2020      | 

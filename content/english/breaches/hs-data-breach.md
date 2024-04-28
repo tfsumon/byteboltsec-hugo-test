@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | hshospitalservice.com      | 
 | Threat Actor      | RansomHouse      | 
 | Date Discovered      | Feb 14, 2023      | 

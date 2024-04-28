@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | diamond-visions.com      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Feb 22, 2022      | 

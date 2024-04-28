@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ifpa.edu.br      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Jan 24, 2023      | 

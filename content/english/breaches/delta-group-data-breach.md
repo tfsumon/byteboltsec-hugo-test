@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | deltagroup.com.au      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Sep 18, 2023      | 

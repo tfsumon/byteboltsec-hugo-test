@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | tgstrans.com      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Jan 17, 2024      | 

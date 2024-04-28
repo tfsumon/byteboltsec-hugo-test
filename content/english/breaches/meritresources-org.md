@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | meritresources.org      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Nov 04, 2021      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | mbs.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Mar 15, 2022      | 

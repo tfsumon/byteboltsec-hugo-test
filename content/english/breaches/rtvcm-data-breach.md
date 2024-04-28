@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | rtvcm.es      | 
 | Threat Actor      | HiveLeaks      | 
 | Date Discovered      | Jul 14, 2022      | 

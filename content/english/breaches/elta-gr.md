@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/may
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | elta.gr      | 
 | Threat Actor    | ViceSociety      | 
 | Date Discovered    | May 05, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ollusa.edu      | 
 | Threat Actor      | AvosLocker      | 
 | Date Discovered      | Sep 13, 2022      | 

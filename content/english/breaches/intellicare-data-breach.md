@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | intellicare.com.ph      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Apr 27, 2023      | 

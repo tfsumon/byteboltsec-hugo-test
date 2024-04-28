@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | bsbroadband.in      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Jan 18, 2022      | 

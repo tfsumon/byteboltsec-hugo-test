@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | kolbestriping.com      | 
 | Threat Actor      | Rhysida      | 
 | Date Discovered      | Mar 21, 2024      | 

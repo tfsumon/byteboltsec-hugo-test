@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | wearejane.org      | 
 | Threat Actor      | SiegedSec      | 
 | Date Discovered      | Dec 13, 2023      | 

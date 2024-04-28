@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | clinicadentalmollerussa.com      | 
 | Threat Actor    | Hive      | 
 | Date Discovered    | Nov 18, 2021      | 

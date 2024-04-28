@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | joycone.com      | 
 | Threat Actor    | Lorenz      | 
 | Date Discovered    | Feb 11, 2021      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | spinalandsportscare.com      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Aug 04, 2023      | 

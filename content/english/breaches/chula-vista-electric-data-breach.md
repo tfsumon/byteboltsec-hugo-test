@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | c-v-e.com      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Sep 06, 2023      | 

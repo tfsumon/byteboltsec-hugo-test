@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | dcsolution.ch      | 
 | Threat Actor    | ALPHV      | 
 | Date Discovered    | Mar 28, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ospedale.al.it      | 
 | Threat Actor      | Ragnar_Locker      | 
 | Date Discovered      | Feb 23, 2023      | 

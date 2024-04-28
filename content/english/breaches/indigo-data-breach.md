@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | indigo.ca      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Mar 01, 2023      | 

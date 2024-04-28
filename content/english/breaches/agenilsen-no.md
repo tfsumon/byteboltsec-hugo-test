@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/may
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | agenilsen.no      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | May 03, 2022      | 

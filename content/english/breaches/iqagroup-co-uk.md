@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | iqagroup.co.uk      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Oct 26, 2020      | 

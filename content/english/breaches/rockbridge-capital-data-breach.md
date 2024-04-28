@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | rockbridgecapital.com      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Apr 26, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | itsgames.com      | 
 | Threat Actor      | DunghillLeak      | 
 | Date Discovered      | Apr 11, 2023      | 

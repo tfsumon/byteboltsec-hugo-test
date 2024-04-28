@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | jacksontwp.com      | 
 | Threat Actor      | DonutLeaks      | 
 | Date Discovered      | Jul 24, 2023      | 

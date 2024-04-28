@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | centuracollege.edu      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Nov 25, 2022      | 

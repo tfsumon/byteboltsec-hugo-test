@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | avelia.it      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Oct 30, 2020      | 

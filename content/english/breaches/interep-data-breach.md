@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | interep.com.br      | 
 | Threat Actor      | STORMOUS      | 
 | Date Discovered      | Sep 25, 2023      | 

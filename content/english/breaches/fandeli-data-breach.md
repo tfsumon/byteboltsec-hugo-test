@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | fandeli.com      | 
 | Threat Actor      | Lorenz      | 
 | Date Discovered      | Jul 29, 2022      | 

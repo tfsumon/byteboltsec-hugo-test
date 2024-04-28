@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | michiels-vleeswaren.be      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Apr 10, 2023      | 

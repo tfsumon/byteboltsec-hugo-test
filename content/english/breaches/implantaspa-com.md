@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | implantaspa.com      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Dec 26, 2020      | 

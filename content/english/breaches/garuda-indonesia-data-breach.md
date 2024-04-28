@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | garuda-indonesia.com      | 
 | Threat Actor      | Mallox      | 
 | Date Discovered      | Jul 11, 2023      | 

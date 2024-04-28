@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | shiraz.iau.ir      | 
 | Threat Actor      | ArvinClub      | 
 | Date Discovered      | Oct 09, 2023      | 

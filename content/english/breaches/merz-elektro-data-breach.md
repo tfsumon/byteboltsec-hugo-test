@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | merz-elektro.de      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Nov 23, 2023      | 

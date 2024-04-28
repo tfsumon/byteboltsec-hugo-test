@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | kventa.hu      | 
 | Threat Actor      | ViceSociety      | 
 | Date Discovered      | Mar 07, 2023      | 

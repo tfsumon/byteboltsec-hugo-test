@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | scu.edu      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Jun 20, 2023      | 

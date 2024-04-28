@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/may
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | antam.com      | 
 | Threat Actor      | ViceSociety      | 
 | Date Discovered      | May 18, 2023      | 

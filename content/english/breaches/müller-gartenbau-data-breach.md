@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | muellergartenbau.ch      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jan 13, 2023      | 

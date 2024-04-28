@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/september
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | shac.com.cn      | 
 | Threat Actor    | Hive      | 
 | Date Discovered    | Sep 28, 2021      | 

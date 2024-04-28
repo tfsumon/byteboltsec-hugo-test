@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | nbome.org      | 
 | Threat Actor      | Karakurt      | 
 | Date Discovered      | Mar 20, 2023      | 

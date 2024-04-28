@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/august
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | yazaki-group.com      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Aug 18, 2021      | 

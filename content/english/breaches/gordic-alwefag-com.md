@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | gordic.alwefag.com      | 
 | Threat Actor    | LockData Auction      | 
 | Date Discovered    | Oct 14, 2021      | 

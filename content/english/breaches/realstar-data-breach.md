@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | realstar.ca      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Dec 26, 2022      | 

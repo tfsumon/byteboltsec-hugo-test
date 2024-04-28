@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | smithcapital.com      | 
 | Threat Actor      | Monti      | 
 | Date Discovered      | Jan 24, 2024      | 

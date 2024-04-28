@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | zeusscientific.com      | 
 | Threat Actor      | AvosLocker      | 
 | Date Discovered      | Sep 20, 2022      | 

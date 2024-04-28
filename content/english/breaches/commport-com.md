@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | commport.com      | 
 | Threat Actor    | Lorenz      | 
 | Date Discovered    | Dec 20, 2020      | 

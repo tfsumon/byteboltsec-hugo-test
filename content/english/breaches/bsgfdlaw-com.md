@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | bsgfdlaw.com      | 
 | Threat Actor    | Hive      | 
 | Date Discovered    | Jun 24, 2021      | 

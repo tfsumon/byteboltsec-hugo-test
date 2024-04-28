@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | hiberus.com      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Jun 27, 2023      | 

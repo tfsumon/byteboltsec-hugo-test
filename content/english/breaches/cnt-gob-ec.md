@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/july
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | cnt.gob.ec      | 
 | Threat Actor    | RansomEXX      | 
 | Date Discovered    | Jul 21, 2021      | 

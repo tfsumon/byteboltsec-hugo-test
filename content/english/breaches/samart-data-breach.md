@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | samartcorp.com      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Apr 11, 2024      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | elitemate.com      | 
 | Threat Actor    | Arvin Club      | 
 | Date Discovered    | Jan 31, 2022      | 

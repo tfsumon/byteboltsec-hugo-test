@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | patton.com      | 
 | Threat Actor      | Cuba      | 
 | Date Discovered      | Dec 01, 2022      | 

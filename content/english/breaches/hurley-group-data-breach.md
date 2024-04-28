@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | hurleygroup.net      | 
 | Threat Actor      | Cactus      | 
 | Date Discovered      | Oct 09, 2023      | 

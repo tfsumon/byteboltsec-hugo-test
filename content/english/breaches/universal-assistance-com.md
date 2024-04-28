@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | universal-assistance.com      | 
 | Threat Actor    | RansomEXX      | 
 | Date Discovered    | Jun 03, 2021      | 

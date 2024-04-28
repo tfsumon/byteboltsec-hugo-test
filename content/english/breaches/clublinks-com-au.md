@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/may
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | clublinks.com.au      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | May 19, 2022      | 

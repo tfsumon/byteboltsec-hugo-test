@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | marcelsolution.com      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Sep 30, 2022      | 

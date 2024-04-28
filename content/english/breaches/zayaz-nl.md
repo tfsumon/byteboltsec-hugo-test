@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | zayaz.nl      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Apr 05, 2022      | 

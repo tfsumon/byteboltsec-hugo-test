@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | encinajpa.com      | 
 | Threat Actor      | Blackbyte      | 
 | Date Discovered      | Mar 15, 2024      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | illuma.co.uk      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Dec 19, 2020      | 

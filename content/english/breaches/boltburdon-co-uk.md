@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/may
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | boltburdon.co.uk      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | May 16, 2022      | 

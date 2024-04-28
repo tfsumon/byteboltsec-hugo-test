@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | pwadc.net      | 
 | Threat Actor    | Black Basta      | 
 | Date Discovered    | Jun 08, 2022      | 

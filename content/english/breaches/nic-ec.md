@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/august
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | nic.ec      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Aug 15, 2021      | 

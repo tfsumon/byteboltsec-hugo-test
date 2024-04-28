@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | boxerproperty.com      | 
 | Threat Actor      | Yanluowang      | 
 | Date Discovered      | Oct 26, 2022      | 

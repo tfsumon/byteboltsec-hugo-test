@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | tatapower.com      | 
 | Threat Actor      | Hive      | 
 | Date Discovered      | Oct 25, 2022      | 

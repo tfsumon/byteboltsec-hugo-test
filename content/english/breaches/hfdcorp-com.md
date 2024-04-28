@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | hfdcorp.com      | 
 | Threat Actor    | SunCrypt      | 
 | Date Discovered    | Nov 23, 2021      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | syrtech.com      | 
 | Threat Actor      | 3AM      | 
 | Date Discovered      | Dec 07, 2023      | 

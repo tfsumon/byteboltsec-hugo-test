@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | abkarlhedin.se      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Mar 29, 2022      | 

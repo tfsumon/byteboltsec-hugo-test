@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | kai.id      | 
 | Threat Actor      | STORMOUS      | 
 | Date Discovered      | Jan 15, 2024      | 

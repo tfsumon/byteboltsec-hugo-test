@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | afterpay.com      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Oct 31, 2021      | 

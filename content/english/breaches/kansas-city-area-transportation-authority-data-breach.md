@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | kcata.org      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Jan 29, 2024      | 

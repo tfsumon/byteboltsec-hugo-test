@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | lightbank.com      | 
 | Threat Actor      | Quantum      | 
 | Date Discovered      | Oct 21, 2022      | 

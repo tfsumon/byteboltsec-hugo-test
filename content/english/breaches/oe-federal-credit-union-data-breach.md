@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | oefederal.org      | 
 | Threat Actor      | NoEscape      | 
 | Date Discovered      | Nov 08, 2023      | 

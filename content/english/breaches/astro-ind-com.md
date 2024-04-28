@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/september
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | astro-ind.com      | 
 | Threat Actor    | Ragnar_Locker      | 
 | Date Discovered    | Sep 27, 2020      | 

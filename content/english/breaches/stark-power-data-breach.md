@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | stark-power.de      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Mar 04, 2024      | 

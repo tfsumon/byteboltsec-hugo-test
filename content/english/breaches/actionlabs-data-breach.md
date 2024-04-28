@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | actionlabs.com.ph      | 
 | Threat Actor      | DonutLeaks      | 
 | Date Discovered      | Aug 25, 2022      | 

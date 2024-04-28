@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | encinoenergy.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Feb 23, 2023      | 

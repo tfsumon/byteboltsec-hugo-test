@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | campbell.kyschools.us      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Dec 07, 2023      | 

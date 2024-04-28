@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | hawkinssales.com      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Dec 13, 2023      | 

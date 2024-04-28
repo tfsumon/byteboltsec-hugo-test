@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | isgec.com      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Dec 12, 2022      | 

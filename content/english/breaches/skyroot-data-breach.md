@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | skyroot.in      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Aug 28, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | abdalihospital.com      | 
 | Threat Actor      | Rhysida      | 
 | Date Discovered      | Dec 26, 2023      | 

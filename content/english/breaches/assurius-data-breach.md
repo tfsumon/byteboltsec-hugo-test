@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | assurius.be      | 
 | Threat Actor      | Qilin      | 
 | Date Discovered      | Nov 17, 2023      | 

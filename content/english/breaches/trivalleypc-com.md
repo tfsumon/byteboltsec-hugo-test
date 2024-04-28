@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | trivalleypc.com      | 
 | Threat Actor    | Grief      | 
 | Date Discovered    | Oct 22, 2021      | 

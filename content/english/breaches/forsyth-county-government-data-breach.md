@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | forsythco.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Aug 30, 2023      | 

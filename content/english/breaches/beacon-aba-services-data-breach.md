@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | beaconservices.org      | 
 | Threat Actor      | Karakurt      | 
 | Date Discovered      | Jun 06, 2023      | 

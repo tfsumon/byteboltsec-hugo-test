@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | jinny.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Jul 19, 2022      | 

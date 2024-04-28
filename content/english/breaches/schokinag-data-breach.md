@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | schokinag.com      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Mar 12, 2024      | 

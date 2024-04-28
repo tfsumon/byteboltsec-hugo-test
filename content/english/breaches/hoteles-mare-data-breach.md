@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/may
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | marehoteles.es      | 
 | Threat Actor      |  STORMOUS     | 
 | Date Discovered      | May 16, 2023      | 

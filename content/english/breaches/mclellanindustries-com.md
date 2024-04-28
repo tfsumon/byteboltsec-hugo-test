@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | mclellanindustries.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Mar 08, 2021      | 

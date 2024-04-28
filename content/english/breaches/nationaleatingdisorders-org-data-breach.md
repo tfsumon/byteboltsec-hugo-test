@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | nationaleatingdisorders.org      | 
 | Threat Actor    | REvil      | 
 | Date Discovered    | Oct 05, 2021      | 

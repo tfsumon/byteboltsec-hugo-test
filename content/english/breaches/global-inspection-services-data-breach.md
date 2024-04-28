@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ginspectionservices.com      | 
 | Threat Actor      | Cuba      | 
 | Date Discovered      | Sep 28, 2022      | 

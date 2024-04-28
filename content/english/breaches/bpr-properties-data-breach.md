@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | bpr-properties.com      | 
 | Threat Actor      | NoEscape      | 
 | Date Discovered      | Sep 25, 2023      | 

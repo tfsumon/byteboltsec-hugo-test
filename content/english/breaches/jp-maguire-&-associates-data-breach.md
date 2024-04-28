@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/may
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | jpmaguire.com      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | May 11, 2023      | 

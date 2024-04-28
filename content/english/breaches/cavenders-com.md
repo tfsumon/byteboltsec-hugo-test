@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | cavenders.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Apr 30, 2021      | 

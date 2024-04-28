@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | robisonengineering.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Jun 06, 2023      | 

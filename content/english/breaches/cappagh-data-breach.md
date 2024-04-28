@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | cappagh.co.uk      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Dec 05, 2022      | 

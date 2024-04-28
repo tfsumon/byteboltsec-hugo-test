@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | software-line.it      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Sep 18, 2022      | 

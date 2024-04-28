@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | ribasalvarez.cat      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Jun 25, 2020      | 

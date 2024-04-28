@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | bch.co.ao      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Apr 24, 2023      | 

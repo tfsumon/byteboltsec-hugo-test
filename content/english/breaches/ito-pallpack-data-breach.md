@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | pallpack.se      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Jan 10, 2024      | 

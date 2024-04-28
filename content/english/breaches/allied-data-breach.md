@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | alliedwoundcare.com      | 
 | Threat Actor      | Everest      | 
 | Date Discovered      | Jan 12, 2024      | 

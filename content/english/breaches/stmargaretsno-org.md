@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | stmargaretsno.org      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Nov 25, 2020      | 

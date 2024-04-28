@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | cpamerica.org      | 
 | Threat Actor    | AvosLocker      | 
 | Date Discovered    | Feb 11, 2022      | 

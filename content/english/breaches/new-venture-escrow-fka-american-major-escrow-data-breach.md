@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | newventureescrow.com      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Sep 11, 2023      | 

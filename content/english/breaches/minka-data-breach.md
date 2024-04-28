@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | minkagroup.net      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Jul 22, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/may
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | 888voip.com      | 
 | Threat Actor    | CL0P      | 
 | Date Discovered    | May 29, 2022      | 

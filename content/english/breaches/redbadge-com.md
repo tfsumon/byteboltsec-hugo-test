@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | redbadge.com      | 
 | Threat Actor    | ALPHV      | 
 | Date Discovered    | Jan 18, 2022      | 

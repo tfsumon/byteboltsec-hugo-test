@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | goldenbear.com      | 
 | Threat Actor      | MoneyMessage      | 
 | Date Discovered      | Apr 05, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | pscomponents.eu      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Apr 01, 2022      | 

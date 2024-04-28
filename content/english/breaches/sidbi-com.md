@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | sidbi.com      | 
 | Threat Actor    | ViceSociety      | 
 | Date Discovered    | Apr 24, 2022      | 

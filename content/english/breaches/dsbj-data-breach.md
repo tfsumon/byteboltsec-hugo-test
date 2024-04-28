@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | dsbj.com      | 
 | Threat Actor      | Royal      | 
 | Date    | Jan 05, 2023      | 

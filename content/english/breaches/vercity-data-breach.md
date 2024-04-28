@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | vercitygroup.com      | 
 | Threat Actor      | Karakurt      | 
 | Date Discovered      | Oct 27, 2022      | 

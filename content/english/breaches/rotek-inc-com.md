@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | rotek-inc.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Jan 22, 2021      | 

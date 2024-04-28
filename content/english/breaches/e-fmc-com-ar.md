@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | e-fmc.com.ar      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Mar 06, 2022      | 

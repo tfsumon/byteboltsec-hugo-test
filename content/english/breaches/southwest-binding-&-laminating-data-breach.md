@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | swbindinglaminating.com      | 
 | Threat Actor      | BlackSuit      | 
 | Date Discovered      | Feb 08, 2024      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | roscomanufacturing.com      | 
 | Threat Actor    | LV Blog      | 
 | Date Discovered    | Apr 09, 2021      | 

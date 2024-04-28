@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | protektor.co.uk      | 
 | Threat Actor      | Royal      | 
 | Date Discovered      | Mar 07, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | linkplus.com.hk      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Nov 16, 2022      | 

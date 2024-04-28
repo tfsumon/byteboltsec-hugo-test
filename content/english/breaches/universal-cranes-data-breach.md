@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/may
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | universalcranes.com      | 
 | Threat Actor      | Ragnar_Locker      | 
 | Date Discovered      | May 29, 2022      | 

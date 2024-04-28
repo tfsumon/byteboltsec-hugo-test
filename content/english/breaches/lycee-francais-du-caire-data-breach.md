@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | lfcaire.org      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jul 19, 2023      | 

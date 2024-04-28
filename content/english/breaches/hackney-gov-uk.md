@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | hackney.gov.uk      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Nov 03, 2020      | 

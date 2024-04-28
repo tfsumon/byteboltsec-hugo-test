@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | aulss6.veneto.it      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Jan 15, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | atb-sa.ch      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Feb 20, 2024      | 

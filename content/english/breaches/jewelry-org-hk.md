@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | jewelry.org.hk      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Mar 20, 2022      | 

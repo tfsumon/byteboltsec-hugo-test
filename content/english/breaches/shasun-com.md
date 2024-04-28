@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | shasun.com      | 
 | Threat Actor    | Ragnar_Locker      | 
 | Date Discovered    | Dec 05, 2020      | 

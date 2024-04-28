@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | hcsgi.com      | 
 | Threat Actor      | DonutLeaks      | 
 | Date Discovered      | Oct 02, 2022      | 

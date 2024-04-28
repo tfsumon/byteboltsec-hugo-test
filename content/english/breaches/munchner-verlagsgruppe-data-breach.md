@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | m-vg.de      | 
 | Threat Actor      |  Metaencryptor     | 
 | Date Discovered      | Aug 16, 2023      | 

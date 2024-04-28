@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | promerica.com.do      | 
 | Threat Actor      | RansomHouse      | 
 | Date Discovered      | Dec 30, 2023      | 

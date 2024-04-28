@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | bricpartnership.com      | 
 | Threat Actor      | Cactus      | 
 | Date Discovered      | Sep 11, 2023      | 

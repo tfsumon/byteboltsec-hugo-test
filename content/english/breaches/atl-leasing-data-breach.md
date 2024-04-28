@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | atl.com.tn      | 
 | Threat Actor      | Hunters      | 
 | Date Discovered      | Mar 13, 2024      | 

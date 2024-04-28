@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | livanda.se      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Jan 16, 2022      | 

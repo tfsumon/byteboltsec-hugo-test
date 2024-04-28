@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | dassaultfalcon.com      | 
 | Threat Actor    | Ragnar_Locker      | 
 | Date Discovered    | Dec 06, 2020      | 

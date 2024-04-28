@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | softverk.co.kr      | 
 | Threat Actor      | NoEscape      | 
 | Date Discovered      | Aug 22, 2023      | 

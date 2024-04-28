@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | hoermanseder.at      | 
 | Threat Actor    | Everest      | 
 | Date Discovered    | Oct 07, 2021      | 

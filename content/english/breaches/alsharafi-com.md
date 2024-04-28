@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/may
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | alsharafi.com      | 
 | Threat Actor    | Xing Locker      | 
 | Date Discovered    | May 27, 2021      | 

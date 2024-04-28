@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | johnsonmemorial.org      | 
 | Threat Actor    | Hive      | 
 | Date Discovered    | Oct 02, 2021      | 

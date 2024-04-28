@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | sogin.it      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Dec 12, 2021      | 

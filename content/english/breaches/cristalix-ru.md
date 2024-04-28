@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | cristalix.ru      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Nov 19, 2021      | 

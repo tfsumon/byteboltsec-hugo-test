@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/september
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | masterfluidsolutions.com      | 
 | Threat Actor    | AvosLocker      | 
 | Date Discovered    | Sep 21, 2021      | 

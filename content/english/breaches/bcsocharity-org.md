@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | bcsocharity.org      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Mar 04, 2021      | 

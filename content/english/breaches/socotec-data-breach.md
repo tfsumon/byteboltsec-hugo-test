@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | socotec.us      | 
 | Threat Actor      | SunCrypt      | 
 | Date Discovered      | Jun 19, 2022      | 

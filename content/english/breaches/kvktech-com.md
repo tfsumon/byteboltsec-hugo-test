@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | kvktech.com      | 
 | Threat Actor    | SunCrypt      | 
 | Date Discovered    | Feb 15, 2022      | 

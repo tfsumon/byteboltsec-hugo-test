@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | recamlaser.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jul 06, 2023      | 

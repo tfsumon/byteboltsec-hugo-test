@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | hs-furtwangen.de      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Sep 29, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | thorguard.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Sep 22, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | sbcisd.net      | 
 | Threat Actor      | Karakurt      | 
 | Date Discovered      | Nov 02, 2022      | 

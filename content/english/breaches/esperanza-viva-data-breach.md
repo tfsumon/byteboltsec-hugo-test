@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | evmexico.org      | 
 | Threat Actor      | Blackbyte      | 
 | Date Discovered      | Apr 17, 2023      | 

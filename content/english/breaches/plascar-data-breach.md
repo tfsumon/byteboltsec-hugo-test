@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | plascar.com.br      | 
 | Threat Actor      | ViceSociety      | 
 | Date Discovered      | Nov 30, 2022      | 

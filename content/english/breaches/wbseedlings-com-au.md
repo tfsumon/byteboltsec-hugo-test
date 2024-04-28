@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | wbseedlings.com.au      | 
 | Threat Actor    | LV Blog      | 
 | Date Discovered    | Jun 10, 2021      | 

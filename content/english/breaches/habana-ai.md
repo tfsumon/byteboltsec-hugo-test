@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | habana.ai      | 
 | Threat Actor    | Pay2Key      | 
 | Date Discovered    | Oct 13, 2021      | 

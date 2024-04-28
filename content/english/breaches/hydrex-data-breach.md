@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | hydrex.co.uk      | 
 | Threat Actor      | Cuba      | 
 | Date Discovered      | Aug 01, 2023      | 

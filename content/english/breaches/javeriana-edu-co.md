@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | javeriana.edu.co      | 
 | Threat Actor    | ViceSociety      | 
 | Date Discovered    | Dec 24, 2021      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | importadortrujillo.com.ec      | 
 | Threat Actor    | LV Blog      | 
 | Date Discovered    | Apr 17, 2022      | 

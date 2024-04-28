@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | ingelecgroup.com      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Nov 02, 2021      | 

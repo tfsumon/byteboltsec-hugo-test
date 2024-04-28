@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | mvmills.com      | 
 | Threat Actor      | AvosLocker      | 
 | Date Discovered      | Aug 28, 2022      | 

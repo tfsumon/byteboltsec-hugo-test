@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | anlpackaging.fr      | 
 | Threat Actor      |  CL0P     | 
 | Date Discovered      | Jul 13, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | power-broker.com      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Nov 07, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | secours-islamique.org      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Feb 02, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | southernwater.co.uk      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Jan 23, 2024      | 

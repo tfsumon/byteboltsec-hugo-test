@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | dogakoleji.k12.tr      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Feb 24, 2022      | 

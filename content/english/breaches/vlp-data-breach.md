@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | vlp.nl      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jul 12, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | cbi-hawaii.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Jan 05, 2021      | 

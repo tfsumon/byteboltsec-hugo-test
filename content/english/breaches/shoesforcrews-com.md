@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | shoesforcrews.com      | 
 | Threat Actor    | Cuba      | 
 | Date Discovered    | Feb 04, 2022      | 

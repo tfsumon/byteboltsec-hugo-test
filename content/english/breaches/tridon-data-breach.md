@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | tridon.com.au      | 
 | Threat Actor      | Cactus      | 
 | Date Discovered      | Dec 30, 2023      | 

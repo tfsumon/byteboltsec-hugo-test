@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | verbraucherzentrale-hessen.de      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Feb 28, 2024      | 

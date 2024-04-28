@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/may
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | blumeglobal.com      | 
 | Threat Actor    | AvosLocker      | 
 | Date Discovered    | May 19, 2022      | 

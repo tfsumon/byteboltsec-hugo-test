@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ispace.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Feb 27, 2023      | 

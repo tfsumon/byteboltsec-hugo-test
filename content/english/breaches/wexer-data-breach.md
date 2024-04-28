@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | wexer.com      | 
 | Threat Actor      | DarkVault      | 
 | Date Discovered      | Apr 12, 2024      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | sourcepro.com      | 
 | Threat Actor    | Corporate Leaks      | 
 | Date Discovered    | Oct 20, 2020      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | cr2.com      | 
 | Threat Actor      | AvosLocker      | 
 | Date Discovered      | Jun 17, 2022      | 

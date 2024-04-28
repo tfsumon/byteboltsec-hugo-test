@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | eos.info      | 
 | Threat Actor      | Lorenz      | 
 | Date Discovered      | Nov 16, 2023      | 

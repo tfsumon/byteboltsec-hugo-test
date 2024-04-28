@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | meridian.coop      | 
 | Threat Actor      | Blackbyte      | 
 | Date Discovered      | Oct 05, 2023      | 

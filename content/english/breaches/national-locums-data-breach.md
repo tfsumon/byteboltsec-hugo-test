@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | nationallocums.co.uk      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Feb 16, 2023      | 

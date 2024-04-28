@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | torann-france.fr      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Jan 20, 2022      | 

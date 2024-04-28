@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | perennialsfabrics.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Nov 15, 2022      | 

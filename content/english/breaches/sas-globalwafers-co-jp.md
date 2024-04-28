@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | sas-globalwafers.co.jp      | 
 | Threat Actor    | Pandora      | 
 | Date Discovered    | Mar 10, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | mhmrabv.org      | 
 | Threat Actor      | HiveLeaks      | 
 | Date Discovered      | Dec 23, 2022      | 

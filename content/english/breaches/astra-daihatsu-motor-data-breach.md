@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | astra-daihatsu.id      | 
 | Threat Actor      | Daixin      | 
 | Date Discovered      | Nov 24, 2022      | 

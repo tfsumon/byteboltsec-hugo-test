@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | unitex.com      | 
 | Threat Actor      | Cactus      | 
 | Date Discovered      | Sep 28, 2023      | 

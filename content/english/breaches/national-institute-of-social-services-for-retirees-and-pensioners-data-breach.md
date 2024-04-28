@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | pami.org.ar      | 
 | Threat Actor      | Rhysida      | 
 | Date Discovered      | Aug 14, 2023      | 

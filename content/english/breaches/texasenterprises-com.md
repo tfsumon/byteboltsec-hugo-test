@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | texasenterprises.com      | 
 | Threat Actor    | Midas      | 
 | Date Discovered    | Nov 22, 2021      | 

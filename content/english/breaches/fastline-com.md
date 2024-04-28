@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | fastline.com      | 
 | Threat Actor    | Entropy      | 
 | Date Discovered    | Dec 21, 2021      | 

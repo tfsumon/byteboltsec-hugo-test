@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | ppines.com      | 
 | Threat Actor    | Entropy      | 
 | Date Discovered    | Jan 24, 2022      | 

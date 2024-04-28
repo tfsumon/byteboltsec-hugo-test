@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | dooly.k12.ga.us      | 
 | Threat Actor      | UnSafe      | 
 | Date Discovered      | Dec 22, 2022      | 

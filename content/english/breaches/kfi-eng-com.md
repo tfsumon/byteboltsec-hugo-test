@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | kfi-eng.com      | 
 | Threat Actor    | BlackByte      | 
 | Date Discovered    | Dec 01, 2021      | 

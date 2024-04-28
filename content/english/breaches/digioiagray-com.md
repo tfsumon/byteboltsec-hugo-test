@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | digioiagray.com      | 
 | Threat Actor    | BlackByte      | 
 | Date Discovered    | Oct 24, 2021      | 

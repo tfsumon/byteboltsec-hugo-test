@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | dayliff.com      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Nov 11, 2020      | 

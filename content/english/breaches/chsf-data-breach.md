@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ch-sf.fr      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Sep 12, 2022      | 

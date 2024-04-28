@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | moltoluce.com      | 
 | Threat Actor      | LV      | 
 | Date Discovered      | Jun 16, 2022      | 

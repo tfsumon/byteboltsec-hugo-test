@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | quercus.pl      | 
 | Threat Actor      | Cuba      | 
 | Date Discovered      | Oct 21, 2022      | 

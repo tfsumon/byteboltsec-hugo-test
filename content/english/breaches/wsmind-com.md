@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/september
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | wsmind.com      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Sep 04, 2020      | 

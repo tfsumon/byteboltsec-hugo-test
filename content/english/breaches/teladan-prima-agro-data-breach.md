@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | teladanprima.com      | 
 | Threat Actor      | AvosLocker      | 
 | Date Discovered      | Sep 07, 2022      | 

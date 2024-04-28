@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | bighornplastering.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Apr 15, 2022      | 

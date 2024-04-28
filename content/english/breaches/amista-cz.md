@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | amista.cz      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Oct 08, 2021      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | bhbs.hereford.sch.uk      | 
 | Threat Actor      | ViceSociety      | 
 | Date Discovered      | Oct 31, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | braintreema.gov      | 
 | Threat Actor      | Royal      | 
 | Date Discovered      | Jul 20, 2023      | 

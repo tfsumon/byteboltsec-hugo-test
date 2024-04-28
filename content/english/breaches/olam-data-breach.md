@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | olamgroup.com      | 
 | Threat Actor      | Everest      | 
 | Date Discovered      | Aug 25, 2022      | 

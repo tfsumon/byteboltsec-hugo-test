@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/may
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | davispartners.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | May 05, 2021      | 

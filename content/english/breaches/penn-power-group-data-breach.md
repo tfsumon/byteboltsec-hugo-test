@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | pennpowergroup.com      | 
 | Threat Actor      | Blackbyte      | 
 | Date Discovered      | Feb 08, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/august
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | webstercare.com.au      | 
 | Threat Actor    | Payload.bin      | 
 | Date Discovered    | Aug 05, 2021      | 

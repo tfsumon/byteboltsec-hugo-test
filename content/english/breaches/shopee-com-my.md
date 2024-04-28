@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | shopee.com.my      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Jan 23, 2022      | 

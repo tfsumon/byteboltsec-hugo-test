@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | abvalve.com      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Nov 22, 2021      | 

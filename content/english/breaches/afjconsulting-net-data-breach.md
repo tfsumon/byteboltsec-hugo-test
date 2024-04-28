@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | afjconsulting.net      | 
 | Threat Actor    | CL0P      | 
 | Date Discovered    | Apr 11, 2022      | 

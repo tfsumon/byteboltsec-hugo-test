@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | autoglass.co.uk      | 
 | Threat Actor      | RAGroup      | 
 | Date Discovered      | Apr 16, 2024      | 

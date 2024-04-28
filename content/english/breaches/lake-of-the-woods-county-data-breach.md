@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | co.lake-of-the-woods.mn.us      | 
 | Threat Actor      | Meow      | 
 | Date Discovered      | Dec 28, 2023      | 

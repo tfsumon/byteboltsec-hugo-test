@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | bhcc.edu      | 
 | Threat Actor      | Snatch      | 
 | Date Discovered      | Jun 14, 2023      | 

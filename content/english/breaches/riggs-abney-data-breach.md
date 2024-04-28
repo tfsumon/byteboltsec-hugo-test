@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | riggsabney.com      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Aug 03, 2023      | 

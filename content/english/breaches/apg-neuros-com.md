@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | apg-neuros.com      | 
 | Threat Actor    | Snatch      | 
 | Date Discovered    | Nov 21, 2021      | 

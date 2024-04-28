@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | dgm-industrie.fr      | 
 | Threat Actor      | Royal      | 
 | Date Discovered      | Mar 20, 2023      | 

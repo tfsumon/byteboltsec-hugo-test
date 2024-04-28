@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | coopera.ch      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Mar 08, 2022      | 

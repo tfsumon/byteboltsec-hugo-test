@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | bobst.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Jun 06, 2023      | 

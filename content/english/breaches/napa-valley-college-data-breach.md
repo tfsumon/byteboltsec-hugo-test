@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | napavalley.edu      | 
 | Threat Actor      | BlackByte      | 
 | Date Discovered      | Jun 26, 2022      | 

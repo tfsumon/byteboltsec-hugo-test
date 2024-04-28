@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | etron.com      | 
 | Threat Actor      | Cuba      | 
 | Date Discovered      | Jun 14, 2022      | 

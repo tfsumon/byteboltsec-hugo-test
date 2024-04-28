@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/august
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | sklarwilton.com      | 
 | Threat Actor    | Payload.bin      | 
 | Date Discovered    | Aug 19, 2021      | 

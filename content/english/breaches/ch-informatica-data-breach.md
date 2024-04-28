@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | chinformatica.ch      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Aug 08, 2023      | 

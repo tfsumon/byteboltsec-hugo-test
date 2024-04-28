@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | samsonmktg.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Dec 14, 2020      | 

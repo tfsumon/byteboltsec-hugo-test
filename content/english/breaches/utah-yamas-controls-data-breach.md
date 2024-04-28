@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/may
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | utahyamas.com      | 
 | Threat Actor      | Royal      | 
 | Date Discovered      | May 23, 2023      | 

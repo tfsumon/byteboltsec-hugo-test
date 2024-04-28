@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | fxua.edu      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Jan 11, 2020      | 

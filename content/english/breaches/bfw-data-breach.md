@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | bfw.de      | 
 | Threat Actor      | Cuba      | 
 | Date Discovered      | Oct 25, 2022      | 

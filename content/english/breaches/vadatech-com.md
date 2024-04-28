@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | vadatech.com      | 
 | Threat Actor    | Lorenz      | 
 | Date Discovered    | Mar 08, 2022      | 

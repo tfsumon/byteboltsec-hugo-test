@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | aic.edu      | 
 | Threat Actor      | Unsafe      | 
 | Date Discovered      | Jan 15, 2024      | 

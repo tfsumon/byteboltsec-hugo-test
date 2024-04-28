@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | calamp.com      | 
 | Threat Actor    | RansomEXX      | 
 | Date Discovered    | Feb 23, 2021      | 

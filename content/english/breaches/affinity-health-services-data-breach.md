@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | affinityhealthservices.net      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jul 13, 2023      | 

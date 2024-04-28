@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | elliott-turbo.com      | 
 | Threat Actor    | Corporate Leaks      | 
 | Date Discovered    | Mar 23, 2021      | 

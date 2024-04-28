@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | elseif.com.sa      | 
 | Threat Actor      | Mallox      | 
 | Date Discovered      | Jan 16, 2023      | 

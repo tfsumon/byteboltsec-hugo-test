@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | jaxspine.com      | 
 | Threat Actor    | AvosLocker      | 
 | Date Discovered    | Feb 06, 2022      | 

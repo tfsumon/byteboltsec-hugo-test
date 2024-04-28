@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | bartshealth.nhs.uk      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Jul 03, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | internationalcentre.com      | 
 | Threat Actor    | Ragnar_Locker      | 
 | Date Discovered    | Apr 06, 2022      | 

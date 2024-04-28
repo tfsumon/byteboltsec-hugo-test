@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | blackswanhealth.com.au      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Mar 03, 2023      | 

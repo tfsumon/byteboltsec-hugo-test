@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | winnavegas.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Dec 17, 2021      | 

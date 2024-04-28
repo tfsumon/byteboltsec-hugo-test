@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | artemide.com      | 
 | Threat Actor      | Cactus      | 
 | Date Discovered      | Jul 21, 2023      | 

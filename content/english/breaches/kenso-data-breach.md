@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | kenso.com.my      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Nov 27, 2023      | 

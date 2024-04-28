@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | yee.org.tr      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Jul 05, 2023      | 

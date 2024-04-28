@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | superfund.com      | 
 | Threat Actor    | Cuba      | 
 | Date Discovered    | Jan 15, 2022      | 

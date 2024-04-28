@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | cloverpark.k12.wa.us      | 
 | Threat Actor    | Grief      | 
 | Date Discovered    | Jun 01, 2021      | 

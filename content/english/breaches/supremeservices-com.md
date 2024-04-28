@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | supremeservices.com      | 
 | Threat Actor    | Midas      | 
 | Date Discovered    | Apr 08, 2022      | 

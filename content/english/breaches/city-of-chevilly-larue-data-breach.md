@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ville-chevilly-larue.fr      | 
 | Threat Actor      | NoEscape      | 
 | Date Discovered      | Jul 27, 2023      | 

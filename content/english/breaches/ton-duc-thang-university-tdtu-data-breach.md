@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | tdtu.edu.vn      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Dec 12, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | bancocaribe.com.do      | 
 | Threat Actor    | HiveLeaks      | 
 | Date Discovered    | Jan 22, 2022      | 

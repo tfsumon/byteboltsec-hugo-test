@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | visiontechnologies.com      | 
 | Threat Actor      | LV      | 
 | Date Discovered      | Nov 29, 2022      | 

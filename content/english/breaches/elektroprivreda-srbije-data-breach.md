@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | eps.rs      | 
 | Threat Actor      | Qilin      | 
 | Date Discovered      | Feb 20, 2024      | 

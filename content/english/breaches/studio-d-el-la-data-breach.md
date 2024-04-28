@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | studiodella.it      | 
 | Threat Actor      | Knight      | 
 | Date Discovered      | Nov 30, 2023      | 

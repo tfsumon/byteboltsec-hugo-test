@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | wexas.com      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Sep 29, 2023      | 

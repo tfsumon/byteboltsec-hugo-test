@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | jamfilled.com      | 
 | Threat Actor      |  ALPHV     | 
 | Date Discovered      | Oct 16, 2022      | 

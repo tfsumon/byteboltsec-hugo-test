@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | hapolo.com.br      | 
 | Threat Actor    | Snatch      | 
 | Date Discovered    | Jan 13, 2022      | 

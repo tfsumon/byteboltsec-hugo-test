@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | westcargo.com.br      | 
 | Threat Actor      | Mallox      | 
 | Date Discovered      | Aug 11, 2023      | 

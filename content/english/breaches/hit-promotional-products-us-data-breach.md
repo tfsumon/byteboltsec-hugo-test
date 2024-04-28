@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | hitpromo.net      | 
 | Threat Actor      | Daixin      | 
 | Date Discovered      | Mar 30, 2023      | 

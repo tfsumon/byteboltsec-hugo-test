@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | lhotellerie-restauration.fr      | 
 | Threat Actor    | LV Blog      | 
 | Date Discovered    | Jan 28, 2022      | 

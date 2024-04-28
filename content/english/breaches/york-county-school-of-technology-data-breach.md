@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ytech.edu      | 
 | Threat Actor      |  Karakurt     | 
 | Date Discovered      | Jun 22, 2023      | 

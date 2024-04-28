@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | bolides.eu      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Nov 02, 2023      | 

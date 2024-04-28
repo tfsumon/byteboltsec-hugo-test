@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | gcesg.com      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Jun 23, 2023      | 

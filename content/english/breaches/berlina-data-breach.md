@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | berlina.co.id      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Dec 22, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | mark-taylor.com      | 
 | Threat Actor      | HiveLeaks      | 
 | Date Discovered      | Dec 15, 2022      | 

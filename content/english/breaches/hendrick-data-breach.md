@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | hendrickcorp.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Mar 14, 2023      | 

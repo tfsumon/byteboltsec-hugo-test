@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | alpinestyle.co.il      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Oct 23, 2021      | 

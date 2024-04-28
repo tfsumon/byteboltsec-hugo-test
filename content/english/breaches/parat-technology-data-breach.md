@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | parat-technology.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Dec 19, 2023      | 

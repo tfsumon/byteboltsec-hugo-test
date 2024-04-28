@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | schnepsmedia.com      | 
 | Threat Actor    | LV Blog      | 
 | Date Discovered    | Apr 26, 2021      | 

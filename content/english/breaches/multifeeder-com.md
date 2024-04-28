@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | multifeeder.com      | 
 | Threat Actor    | Lorenz      | 
 | Date Discovered    | Jan 10, 2021      | 

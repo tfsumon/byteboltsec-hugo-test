@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | borwafs.co.za      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jun 07, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/september
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | airpay.co.in      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Sep 16, 2021      | 

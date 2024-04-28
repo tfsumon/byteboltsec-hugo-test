@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | sysmex.com      | 
 | Threat Actor      | Hunters      | 
 | Date Discovered      | Apr 03, 2024      | 

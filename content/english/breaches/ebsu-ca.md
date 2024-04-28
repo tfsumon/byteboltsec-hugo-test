@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | ebsu.ca      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Dec 02, 2021      | 

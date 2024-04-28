@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | scott-mfg.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Mar 31, 2022      | 

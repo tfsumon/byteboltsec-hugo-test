@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | solanopetemergency.com      | 
 | Threat Actor      | Knight      | 
 | Date Discovered      | Sep 07, 2023      | 

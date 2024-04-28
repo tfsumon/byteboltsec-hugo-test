@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | palaugov.pw      | 
 | Threat Actor      | DragonForce      | 
 | Date Discovered      | Apr 08, 2024      | 

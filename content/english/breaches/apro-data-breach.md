@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | apro.cl      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Apr 13, 2023      | 

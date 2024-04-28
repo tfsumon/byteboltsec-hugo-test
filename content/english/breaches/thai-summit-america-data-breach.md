@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | thaisummit.us      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Mar 05, 2024      | 

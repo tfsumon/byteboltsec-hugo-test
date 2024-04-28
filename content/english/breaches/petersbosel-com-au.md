@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | petersbosel.com.au      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Dec 30, 2020      | 

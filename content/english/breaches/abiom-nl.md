@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | abiom.nl      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Nov 18, 2021      | 

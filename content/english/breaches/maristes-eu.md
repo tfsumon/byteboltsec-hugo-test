@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | maristes.eu      | 
 | Threat Actor    | ViceSociety      | 
 | Date Discovered    | Apr 18, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | fastpacehealth.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Aug 14, 2022      | 

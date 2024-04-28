@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | vision-plast.com      | 
 | Threat Actor      | Trigona      | 
 | Date Discovered      | Jan 22, 2024      | 

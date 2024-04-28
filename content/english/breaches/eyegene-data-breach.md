@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/may
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | eyegene.co.kr      | 
 | Threat Actor      | RAGroup      | 
 | Date Discovered      | May 08, 2023      | 

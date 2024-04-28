@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | walmart.com      | 
 | Threat Actor      | Yanluowang      | 
 | Date Discovered      | Jun 27, 2022      | 

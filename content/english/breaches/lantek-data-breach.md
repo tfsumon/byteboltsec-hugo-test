@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | lantek.com      | 
 | Threat Actor      | RansomHouse      | 
 | Date Discovered      | Oct 25, 2022      | 

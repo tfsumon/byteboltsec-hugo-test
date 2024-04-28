@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | stri.se      | 
 | Threat Actor      | Abyss      | 
 | Date Discovered      | Jul 17, 2023      | 

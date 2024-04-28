@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | aspirationtraining.com      | 
 | Threat Actor      | Rhysida      | 
 | Date Discovered      | Jan 02, 2024      | 

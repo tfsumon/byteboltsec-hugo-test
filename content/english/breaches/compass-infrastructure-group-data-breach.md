@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | compassinf.com      | 
 | Threat Actor      | Mallox      | 
 | Date Discovered      | Jun 27, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | regulvar.com      | 
 | Threat Actor    | Cuba      | 
 | Date Discovered    | Dec 13, 2021      | 

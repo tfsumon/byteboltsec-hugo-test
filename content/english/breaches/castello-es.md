@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | castello.es      | 
 | Threat Actor    | RansomEXX      | 
 | Date Discovered    | Apr 10, 2021      | 

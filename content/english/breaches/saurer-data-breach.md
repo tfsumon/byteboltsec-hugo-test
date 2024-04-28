@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | saurer.com      | 
 | Threat Actor      | Snatch      | 
 | Date Discovered      | Nov 14, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | doctorbruce.net      | 
 | Threat Actor      | Rhysida      | 
 | Date Discovered      | Oct 16, 2023      | 

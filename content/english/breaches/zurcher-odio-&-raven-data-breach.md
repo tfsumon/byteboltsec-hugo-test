@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | zurcherodioraven.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Dec 26, 2023      | 

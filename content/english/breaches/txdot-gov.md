@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | txdot.gov      | 
 | Threat Actor    | RansomEXX      | 
 | Date Discovered    | Dec 28, 2020      | 

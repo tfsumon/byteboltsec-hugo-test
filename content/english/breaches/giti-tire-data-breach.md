@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | giti.com      | 
 | Threat Actor      | Meow      | 
 | Date Discovered      | Nov 27, 2023      | 

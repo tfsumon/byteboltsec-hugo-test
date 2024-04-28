@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/september
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | gdha.com      | 
 | Threat Actor    | SunCrypt      | 
 | Date Discovered    | Sep 22, 2020      | 

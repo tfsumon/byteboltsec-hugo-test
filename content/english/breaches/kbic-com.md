@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | kbic.com      | 
 | Threat Actor    | Ragnar_Locker      | 
 | Date Discovered    | Feb 08, 2021      | 

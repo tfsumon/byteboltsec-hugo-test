@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ggelectronics.com      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Feb 27, 2023      | 

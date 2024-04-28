@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | agriloja.pt      | 
 | Threat Actor      | Everest      | 
 | Date Discovered      | Aug 15, 2023      | 

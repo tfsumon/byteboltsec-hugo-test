@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | get.es      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Aug 01, 2022      | 

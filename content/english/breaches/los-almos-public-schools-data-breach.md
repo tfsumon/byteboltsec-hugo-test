@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | laschools.net      | 
 | Threat Actor      | AvosLocker      | 
 | Date Discovered      | Aug 26, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | kikkerland.com      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Sep 06, 2023      | 

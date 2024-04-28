@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | idtech.com.tw      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Sep 23, 2022      | 

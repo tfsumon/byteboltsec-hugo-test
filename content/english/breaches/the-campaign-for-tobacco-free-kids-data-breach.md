@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | tobaccofreekids.com      | 
 | Threat Actor      | BlackSuit      | 
 | Date Discovered      | Feb 06, 2024      | 

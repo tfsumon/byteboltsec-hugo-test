@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/may
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | lelandcampbell.com      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | May 24, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | tagaviation.com      | 
 | Threat Actor      | UnSafe      | 
 | Date Discovered      | Jun 12, 2023      | 

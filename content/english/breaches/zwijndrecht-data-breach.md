@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | zwijndrecht.be      | 
 | Threat Actor      | Ragnar_Locker      | 
 | Date Discovered      | Nov 17, 2022      | 

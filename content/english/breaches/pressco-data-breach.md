@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | pressco.com      | 
 | Threat Actor      | Royal      | 
 | Date Discovered      | Nov 04, 2022      | 

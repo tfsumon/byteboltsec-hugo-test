@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | handelsschoolaalst.be      | 
 | Threat Actor      | Rhysida      | 
 | Date Discovered      | Nov 03, 2023      | 

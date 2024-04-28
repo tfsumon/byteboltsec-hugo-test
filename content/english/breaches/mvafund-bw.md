@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | mvafund.bw      | 
 | Threat Actor    | BlackByte      | 
 | Date Discovered    | Dec 01, 2021      | 

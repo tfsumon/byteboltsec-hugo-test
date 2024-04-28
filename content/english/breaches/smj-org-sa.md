@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | smj.org.sa      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Mar 29, 2021      | 

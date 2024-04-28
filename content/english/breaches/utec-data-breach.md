@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | utec.com.sa      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Nov 01, 2023      | 

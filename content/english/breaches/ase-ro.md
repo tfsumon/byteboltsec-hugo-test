@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | ase.ro      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Oct 23, 2020      | 

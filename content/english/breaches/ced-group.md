@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | ced.group      | 
 | Threat Actor    | ALPHV      | 
 | Date Discovered    | Jan 01, 2022      | 

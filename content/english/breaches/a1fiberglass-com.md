@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/september
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | a1fiberglass.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Sep 09, 2020      | 

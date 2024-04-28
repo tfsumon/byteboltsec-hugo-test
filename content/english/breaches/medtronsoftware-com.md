@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | medtronsoftware.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Jan 20, 2021      | 

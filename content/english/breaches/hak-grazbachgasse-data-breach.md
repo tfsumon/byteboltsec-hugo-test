@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | hak-graz.at      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Feb 13, 2023      | 

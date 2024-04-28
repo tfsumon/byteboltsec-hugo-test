@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | scot.nhs.uk      | 
 | Threat Actor      | INC_RANSOM      | 
 | Date Discovered      | Mar 28, 2024      | 

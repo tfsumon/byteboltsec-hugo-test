@@ -8,6 +8,7 @@ draft: false
 yearmonths: 2023/september
 ---
 
+
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
 | Victim      | zzcoldstores.com      | 

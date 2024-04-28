@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | boscom.com      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Jan 08, 2022      | 

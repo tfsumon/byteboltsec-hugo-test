@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/may
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | csd.co      | 
 | Threat Actor      | Monti      | 
 | Date Discovered      | May 12, 2023      | 

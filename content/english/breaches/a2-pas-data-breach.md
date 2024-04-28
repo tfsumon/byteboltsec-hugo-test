@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | a2-pas.fr      | 
 | Threat Actor      |       | 
 | Date Discovered      | Jul 22, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | fdcbuilding.com.au      | 
 | Threat Actor    | Cuba      | 
 | Date Discovered    | Jan 11, 2022      | 

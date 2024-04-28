@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | brookfield.k12.ct.us      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Dec 01, 2020      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | motordepot.co.uk      | 
 | Threat Actor      | Abyss      | 
 | Date Discovered      | Nov 13, 2023      | 

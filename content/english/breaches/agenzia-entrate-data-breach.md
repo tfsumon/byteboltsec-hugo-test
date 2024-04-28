@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | agenziaentrate.gov.it      | 
 | Threat Actor      |  LockBit     | 
 | Date Discovered      | Jul 25, 2022      | 

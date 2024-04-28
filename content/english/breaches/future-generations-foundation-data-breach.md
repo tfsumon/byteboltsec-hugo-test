@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | fgfoundation.ca      | 
 | Threat Actor      | Meow      | 
 | Date Discovered      | Mar 06, 2024      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/september
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | amphenolcanada.com      | 
 | Threat Actor    | AvosLocker      | 
 | Date Discovered    | Sep 22, 2021      | 

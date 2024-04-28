@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | pesa.pl      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Apr 12, 2023      | 

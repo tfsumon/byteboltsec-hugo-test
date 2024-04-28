@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | henry.k12.ga.us      | 
 | Threat Actor      | BlackSuit      | 
 | Date Discovered      | Dec 05, 2023      | 

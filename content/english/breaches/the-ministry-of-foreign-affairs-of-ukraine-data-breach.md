@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | mfa.gov.ua      | 
 | Threat Actor      | STORMOUS      | 
 | Date Discovered      | Mar 28, 2023      | 

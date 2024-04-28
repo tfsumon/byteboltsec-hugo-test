@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | bayview.com      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Jan 29, 2022      | 

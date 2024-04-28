@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | isi.co.id      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Jan 18, 2022      | 

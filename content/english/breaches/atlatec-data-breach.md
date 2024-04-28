@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | atlatec.com      | 
 | Threat Actor      | Royal      | 
 | Date Discovered      | Dec 26, 2022      | 

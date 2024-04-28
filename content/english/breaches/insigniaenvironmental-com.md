@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | insigniaenvironmental.com      | 
 | Threat Actor    | Ragnar_Locker      | 
 | Date Discovered    | Oct 08, 2020      | 

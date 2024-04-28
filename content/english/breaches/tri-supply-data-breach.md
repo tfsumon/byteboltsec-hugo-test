@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | trisupply.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Sep 14, 2022      | 

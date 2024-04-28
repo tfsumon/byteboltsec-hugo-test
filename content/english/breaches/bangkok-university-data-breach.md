@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | bu.ac.th      | 
 | Threat Actor      | Rhysida      | 
 | Date Discovered      | Nov 28, 2023      | 

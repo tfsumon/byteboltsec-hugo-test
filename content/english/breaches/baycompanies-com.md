@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | baycompanies.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Dec 26, 2020      | 

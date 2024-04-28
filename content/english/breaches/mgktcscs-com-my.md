@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | mgktcscs.com.my      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Oct 09, 2020      | 

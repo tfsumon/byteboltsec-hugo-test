@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | declatra.adv.br      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Jun 12, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | davis.vn      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Jun 21, 2021      | 

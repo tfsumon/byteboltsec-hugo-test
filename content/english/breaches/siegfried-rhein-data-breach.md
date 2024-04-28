@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | siegfried.com.mx      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jul 07, 2023      | 

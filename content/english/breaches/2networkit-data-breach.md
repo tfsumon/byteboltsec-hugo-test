@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | 2networkit.com      | 
 | Threat Actor      | Cuba      | 
 | Date Discovered      | Dec 15, 2022      | 

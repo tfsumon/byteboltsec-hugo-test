@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | creos-net.lu      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Jul 31, 2022      | 

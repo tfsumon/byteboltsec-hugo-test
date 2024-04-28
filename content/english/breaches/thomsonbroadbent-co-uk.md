@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | thomsonbroadbent.co.uk      | 
 | Threat Actor    | Snatch      | 
 | Date Discovered    | Jan 25, 2022      | 

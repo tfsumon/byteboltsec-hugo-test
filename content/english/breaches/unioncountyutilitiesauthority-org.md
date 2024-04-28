@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | unioncountyutilitiesauthority.org      | 
 | Threat Actor    | LV      | 
 | Date Discovered    | Jan 27, 2022      | 

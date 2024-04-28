@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | metzgervet.com      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Mar 19, 2024      | 

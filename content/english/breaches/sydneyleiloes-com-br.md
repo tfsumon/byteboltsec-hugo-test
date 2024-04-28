@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | sydneyleiloes.com.br      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Feb 23, 2022      | 

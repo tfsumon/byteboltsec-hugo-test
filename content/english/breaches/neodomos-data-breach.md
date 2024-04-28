@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | neodomos.fr      | 
 | Threat Actor      | Ciphbit      | 
 | Date Discovered      | Nov 08, 2023      | 

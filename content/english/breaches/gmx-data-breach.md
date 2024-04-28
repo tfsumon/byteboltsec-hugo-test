@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | gmx.com.mx      | 
 | Threat Actor      | BlackByte      | 
 | Date Discovered      | Aug 24, 2022      | 

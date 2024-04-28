@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | kuriertecnologia.com.br      | 
 | Threat Actor    | Spook      | 
 | Date Discovered    | Oct 06, 2021      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | hbmolding.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Apr 17, 2024      | 

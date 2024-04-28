@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | enprecis.com      | 
 | Threat Actor    | CL0P      | 
 | Date Discovered    | Jan 19, 2022      | 

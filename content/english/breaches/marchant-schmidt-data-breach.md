@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | marchantschmidt.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Jun 15, 2023      | 

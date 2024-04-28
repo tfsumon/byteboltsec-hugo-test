@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ftria.co.jp      | 
 | Threat Actor      |  NoEscape     | 
 | Date Discovered      | Aug 16, 2023      | 

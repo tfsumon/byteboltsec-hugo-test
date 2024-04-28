@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/september
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | tomix.me      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Sep 20, 2021      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | camparigroup.com      | 
 | Threat Actor    | Ragnar_Locker      | 
 | Date Discovered    | Oct 30, 2020      | 

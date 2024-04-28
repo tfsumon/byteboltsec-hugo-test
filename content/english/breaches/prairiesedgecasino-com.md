@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | prairiesedgecasino.com      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Dec 10, 2021      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | oraclecms.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Apr 16, 2024      | 

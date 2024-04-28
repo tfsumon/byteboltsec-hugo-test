@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | vandervinne.nl      | 
 | Threat Actor    | HiveLeaks      | 
 | Date Discovered    | Feb 09, 2022      | 

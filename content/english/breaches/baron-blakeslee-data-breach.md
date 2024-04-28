@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | baronblakeslee.net      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Apr 18, 2024      | 

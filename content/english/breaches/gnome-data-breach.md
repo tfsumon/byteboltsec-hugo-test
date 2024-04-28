@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | gnomelandscapes.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Nov 15, 2023      | 

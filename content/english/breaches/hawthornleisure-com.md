@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | hawthornleisure.com      | 
 | Threat Actor    | ViceSociety      | 
 | Date Discovered    | Dec 23, 2021      | 

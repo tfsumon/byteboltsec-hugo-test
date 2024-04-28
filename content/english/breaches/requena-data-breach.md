@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | requena.es      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Dec 07, 2022      | 

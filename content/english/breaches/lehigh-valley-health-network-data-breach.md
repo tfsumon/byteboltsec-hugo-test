@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | lvhn.org      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Mar 06, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ejgallo.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Dec 18, 2023      | 

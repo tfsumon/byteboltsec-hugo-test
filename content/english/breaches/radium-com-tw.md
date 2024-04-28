@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | radium.com.tw      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Nov 01, 2021      | 

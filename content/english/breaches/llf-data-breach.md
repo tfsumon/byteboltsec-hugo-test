@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | llf.ca      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Dec 12, 2022      | 

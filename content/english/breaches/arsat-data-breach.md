@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | arsat.com.ar      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Dec 16, 2022      | 

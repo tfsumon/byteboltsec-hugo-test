@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | phihydraulics.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Nov 22, 2023      | 

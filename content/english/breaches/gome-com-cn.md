@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | gome.com.cn      | 
 | Threat Actor    | HiveLeaks      | 
 | Date Discovered    | Jan 29, 2022      | 

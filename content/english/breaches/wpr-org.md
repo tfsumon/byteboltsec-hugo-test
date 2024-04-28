@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | wpr.org      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Nov 12, 2020      | 

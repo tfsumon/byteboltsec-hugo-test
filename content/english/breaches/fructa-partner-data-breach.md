@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | groupefructapartner.fr      | 
 | Threat Actor      | Ragnar_Locker      | 
 | Date Discovered      | Sep 20, 2023      | 

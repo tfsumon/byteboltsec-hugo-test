@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | docol.com.br      | 
 | Threat Actor    | LV Blog      | 
 | Date Discovered    | Nov 16, 2021      | 

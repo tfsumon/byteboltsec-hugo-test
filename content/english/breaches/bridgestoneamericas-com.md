@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | bridgestoneamericas.com      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Mar 11, 2022      | 

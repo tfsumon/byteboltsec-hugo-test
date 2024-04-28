@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | consilux.com.br      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Apr 10, 2024      | 

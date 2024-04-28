@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | rcsb.org      | 
 | Threat Actor      | Meow      | 
 | Date Discovered      | Dec 20, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | cnpc.com.pe      | 
 | Threat Actor      | Rhysida      | 
 | Date Discovered      | Feb 01, 2024      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | roemer-lueftung.de      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Dec 04, 2021      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | hollerclassic.com      | 
 | Threat Actor      | Lorenz      | 
 | Date Discovered      | Dec 01, 2022      | 

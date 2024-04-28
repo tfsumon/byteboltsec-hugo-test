@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/september
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | ucaa.org      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Sep 13, 2020      | 

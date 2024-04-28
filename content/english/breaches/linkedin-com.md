@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | linkedin.com      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Apr 11, 2021      | 

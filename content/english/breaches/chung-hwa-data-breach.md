@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | chciworld.com.tw      | 
 | Threat Actor      | RAGroup      | 
 | Date Discovered      | Nov 17, 2023      | 

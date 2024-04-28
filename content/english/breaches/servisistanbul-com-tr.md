@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/august
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | servisistanbul.com.tr      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Aug 31, 2021      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | alansmithpools.com      | 
 | Threat Actor      | BlackByte      | 
 | Date Discovered      | Sep 02, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | tension.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Jun 05, 2023      | 

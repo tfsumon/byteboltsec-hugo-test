@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/july
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | adiddas.com      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Jul 23, 2021      | 

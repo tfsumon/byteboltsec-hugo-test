@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | deqing.gov.cn      | 
 | Threat Actor      | SiegedSec      | 
 | Date Discovered      | Dec 10, 2023      | 

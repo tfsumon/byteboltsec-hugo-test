@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/may
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | christushealth.org      | 
 | Threat Actor    | AvosLocker      | 
 | Date Discovered    | May 12, 2022      | 

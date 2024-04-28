@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | altice.net      | 
 | Threat Actor      | HiveLeaks      | 
 | Date Discovered      | Aug 26, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | guardiananalytics.com      | 
 | Threat Actor      | Daixin      | 
 | Date Discovered      | Jan 24, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | politiaromana.ro      | 
 | Threat Actor      | KillSecurity      | 
 | Date Discovered      | Mar 22, 2024      | 

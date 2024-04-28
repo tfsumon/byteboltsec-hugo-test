@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | payrollselectservices.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Sep 21, 2023      | 

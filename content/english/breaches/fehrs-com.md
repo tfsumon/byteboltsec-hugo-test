@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | fehrs.com      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Feb 25, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | omniplussystem.com      | 
 | Threat Actor    | LV Blog      | 
 | Date Discovered    | Feb 18, 2022      | 

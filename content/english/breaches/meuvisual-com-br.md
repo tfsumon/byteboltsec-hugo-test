@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/july
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | meuvisual.com.br      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Jul 22, 2021      | 

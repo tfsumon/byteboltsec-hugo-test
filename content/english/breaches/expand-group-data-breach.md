@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | expandgroup.com.sg      | 
 | Threat Actor      | HiveLeaks      | 
 | Date Discovered      | Dec 15, 2022      | 

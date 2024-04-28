@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/september
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | machealth.com.au      | 
 | Threat Actor    | Hive      | 
 | Date Discovered    | Sep 25, 2021      | 

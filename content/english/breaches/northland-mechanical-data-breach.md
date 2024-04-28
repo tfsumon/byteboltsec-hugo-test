@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | northland-mn.com      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Dec 29, 2023      | 

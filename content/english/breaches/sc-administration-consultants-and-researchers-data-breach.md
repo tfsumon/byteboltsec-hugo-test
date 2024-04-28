@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ciasc.mx      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Dec 23, 2023      | 

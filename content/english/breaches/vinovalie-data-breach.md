@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | vinovalie.com      | 
 | Threat Actor      | NoEscape      | 
 | Date Discovered      | Nov 01, 2023      | 

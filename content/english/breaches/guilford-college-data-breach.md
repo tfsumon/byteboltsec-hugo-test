@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | guilford.edu      | 
 | Threat Actor      | HiveLeaks      | 
 | Date Discovered      | Nov 29, 2022      | 

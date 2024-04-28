@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | dacoll.co.uk      | 
 | Threat Actor    | CLOP      | 
 | Date Discovered    | Oct 12, 2021      | 

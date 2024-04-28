@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/may
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | krvostok.ru      | 
 | Threat Actor      | Malas      | 
 | Date Discovered      | May 19, 2023      | 

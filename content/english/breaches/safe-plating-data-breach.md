@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | safeplating.net      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Jan 30, 2024      | 

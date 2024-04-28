@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | hacienda.go.cr      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Apr 18, 2022      | 

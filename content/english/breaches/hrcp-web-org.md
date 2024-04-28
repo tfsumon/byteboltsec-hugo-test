@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | hrcp-web.org      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Dec 30, 2021      | 

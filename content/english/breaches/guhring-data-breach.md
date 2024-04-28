@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | guhring.com      | 
 | Threat Actor      | Knight      | 
 | Date Discovered      | Oct 10, 2023      | 

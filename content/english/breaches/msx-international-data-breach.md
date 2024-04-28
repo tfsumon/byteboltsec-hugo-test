@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | msxi.com      | 
 | Threat Actor      | Snatch      | 
 | Date Discovered      | Feb 28, 2023      | 

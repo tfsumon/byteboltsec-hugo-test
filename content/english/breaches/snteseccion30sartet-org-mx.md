@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | snteseccion30sartet.org.mx      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Mar 21, 2022      | 

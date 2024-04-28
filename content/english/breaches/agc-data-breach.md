@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | agc.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Jan 24, 2024      | 

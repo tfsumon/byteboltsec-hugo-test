@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | nobiskrug.com      | 
 | Threat Actor    | RansomEXX      | 
 | Date Discovered    | Apr 26, 2021      | 

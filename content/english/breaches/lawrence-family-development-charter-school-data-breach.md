@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/may
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | lfdcs.org      | 
 | Threat Actor      | Snatch      | 
 | Date Discovered      | May 03, 2023      | 

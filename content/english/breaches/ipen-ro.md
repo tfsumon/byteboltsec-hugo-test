@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | ipen.ro      | 
 | Threat Actor    | ALPHV      | 
 | Date Discovered    | Jan 23, 2022      | 

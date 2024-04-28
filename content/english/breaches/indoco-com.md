@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/july
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | indoco.com      | 
 | Threat Actor    | Corporate Leaks      | 
 | Date Discovered    | Jul 15, 2020      | 

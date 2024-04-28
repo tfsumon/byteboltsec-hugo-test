@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | broadriverretail.com      | 
 | Threat Actor      | Lorenz      | 
 | Date Discovered      | Oct 26, 2023      | 

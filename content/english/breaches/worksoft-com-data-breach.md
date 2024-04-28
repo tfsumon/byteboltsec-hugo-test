@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | worksoft.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Jun 06, 2022      | 

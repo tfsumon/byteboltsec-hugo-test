@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | job-beton.com      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Jun 26, 2023      | 

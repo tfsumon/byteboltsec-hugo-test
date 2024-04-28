@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | newpeoples.bank      | 
 | Threat Actor      | Black Basta      | 
 | Date Discovered      | Jul 01, 2022      | 

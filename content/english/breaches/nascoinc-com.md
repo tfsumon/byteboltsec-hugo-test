@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/september
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | nascoinc.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Sep 22, 2021      | 

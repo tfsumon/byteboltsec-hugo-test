@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ssp-worldwide.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Nov 22, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/may
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | diamond-box.co.uk      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | May 01, 2020      | 

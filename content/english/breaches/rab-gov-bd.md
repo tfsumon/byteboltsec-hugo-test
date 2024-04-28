@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | rab.gov.bd      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Jan 13, 2022      | 

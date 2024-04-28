@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | audiovideocorp.com      | 
 | Threat Actor      | RansomHouse      | 
 | Date Discovered      | Mar 02, 2023      | 

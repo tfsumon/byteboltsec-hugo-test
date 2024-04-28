@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | yahoo.com      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Feb 17, 2020      | 

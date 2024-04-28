@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | cambridgecollege.edu      | 
 | Threat Actor      | Monti      | 
 | Date Discovered      | Mar 16, 2023      | 

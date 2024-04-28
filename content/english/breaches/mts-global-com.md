@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | mts-global.com      | 
 | Threat Actor    | BlackMatter      | 
 | Date Discovered    | Oct 04, 2021      | 

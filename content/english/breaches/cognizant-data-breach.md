@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | cognizant.com      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Jun 29, 2023      | 

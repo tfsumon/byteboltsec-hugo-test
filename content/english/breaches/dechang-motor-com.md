@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/july
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | dechang-motor.com      | 
 | Threat Actor    | Hive      | 
 | Date Discovered    | Jul 28, 2021      | 

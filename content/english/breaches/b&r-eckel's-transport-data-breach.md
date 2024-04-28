@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/may
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | breckels.com      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | May 12, 2023      | 

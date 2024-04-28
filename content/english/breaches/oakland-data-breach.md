@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | oaklandca.gov      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Mar 03, 2023      | 

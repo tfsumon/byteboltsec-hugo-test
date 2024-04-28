@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/august
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | interflex.es      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Aug 17, 2021      | 

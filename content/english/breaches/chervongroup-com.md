@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | chervongroup.com      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Jan 14, 2022      | 

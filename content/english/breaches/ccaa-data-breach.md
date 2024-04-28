@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ccaa.com.br      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Mar 28, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/august
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | yamato-esulon.co.jp      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Aug 16, 2021      | 

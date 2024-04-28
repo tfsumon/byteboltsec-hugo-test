@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | oasisads.com      | 
 | Threat Actor      | Malas      | 
 | Date Discovered      | Jun 09, 2023      | 

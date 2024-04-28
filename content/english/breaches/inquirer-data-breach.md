@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/may
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | inquirer.com      | 
 | Threat Actor      | Cuba      | 
 | Date Discovered      | May 28, 2022      | 

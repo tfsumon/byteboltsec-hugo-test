@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | folio.com.au      | 
 | Threat Actor    | LV Blog      | 
 | Date Discovered    | Oct 28, 2021      | 

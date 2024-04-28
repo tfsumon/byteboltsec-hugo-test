@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ptai.com      | 
 | Threat Actor      | BlackSuit      | 
 | Date Discovered      | Apr 04, 2024      | 

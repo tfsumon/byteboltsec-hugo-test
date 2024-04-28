@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | opal-is.com      | 
 | Threat Actor      | BlackByte      | 
 | Date Discovered      | Jun 13, 2022      | 

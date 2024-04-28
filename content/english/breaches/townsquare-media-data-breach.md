@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | townsquaremedia.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Jul 04, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/may
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | mundo-r.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | May 16, 2023      | 

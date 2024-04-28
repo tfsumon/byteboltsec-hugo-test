@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | consulatehc.com      | 
 | Threat Actor      | HiveLeaks      | 
 | Date     | Jan 06, 2023      | 

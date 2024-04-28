@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | dmcivil.com.au      | 
 | Threat Actor      | Cactus      | 
 | Date Discovered      | Sep 22, 2023      | 

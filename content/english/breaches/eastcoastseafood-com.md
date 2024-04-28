@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | eastcoastseafood.com      | 
 | Threat Actor    | Ragnar_Locker      | 
 | Date Discovered    | Nov 30, 2020      | 

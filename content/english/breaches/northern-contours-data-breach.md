@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | northerncontours.com      | 
 | Threat Actor      | Lorenz      | 
 | Date Discovered      | Aug 23, 2022      | 

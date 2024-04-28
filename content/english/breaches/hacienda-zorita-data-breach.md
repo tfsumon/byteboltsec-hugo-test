@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | haciendazorita.com      | 
 | Threat Actor      | 3AM      | 
 | Date Discovered      | Sep 29, 2023      | 

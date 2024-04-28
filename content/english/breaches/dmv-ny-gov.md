@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/may
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | dmv.ny.gov      | 
 | Threat Actor    | Everest      | 
 | Date Discovered    | May 25, 2022      | 

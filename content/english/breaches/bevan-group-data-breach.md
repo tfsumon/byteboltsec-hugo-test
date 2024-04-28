@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | bevangroup.com      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Apr 27, 2023      | 

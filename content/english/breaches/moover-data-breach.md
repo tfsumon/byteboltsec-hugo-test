@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | moover.com      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Jan 02, 2024      | 

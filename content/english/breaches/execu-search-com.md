@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | execu-search.com      | 
 | Threat Actor    | Snatch      | 
 | Date Discovered    | Mar 01, 2020      | 

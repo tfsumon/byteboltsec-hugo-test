@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | elezabypharmacy.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Mar 18, 2024      | 

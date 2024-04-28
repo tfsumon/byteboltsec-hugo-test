@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | spinewest.com      | 
 | Threat Actor      | Monti      | 
 | Date Discovered      | Feb 26, 2024      | 

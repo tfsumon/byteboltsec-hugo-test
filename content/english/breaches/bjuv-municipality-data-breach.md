@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | bjuv.se      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Feb 27, 2024      | 

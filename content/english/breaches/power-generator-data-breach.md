@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | generator-power.co.uk      | 
 | Threat Actor      | Cuba      | 
 | Date Discovered      | Dec 02, 2022      | 

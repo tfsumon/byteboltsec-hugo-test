@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | agri-fab.com      | 
 | Threat Actor      | HiveLeaks      | 
 | Date Discovered      | Nov 16, 2022      | 

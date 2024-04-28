@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/august
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | biu.ac.il      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Aug 30, 2021      | 

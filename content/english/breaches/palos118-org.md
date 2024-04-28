@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/september
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | palos118.org      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Sep 12, 2020      | 

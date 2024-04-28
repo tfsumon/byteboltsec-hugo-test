@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | hoistcrane.com      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Oct 11, 2021      | 

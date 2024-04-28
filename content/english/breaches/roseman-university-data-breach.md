@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/may
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | roseman.edu      | 
 | Threat Actor      | AvosLocker      | 
 | Date Discovered      | May 01, 2023      | 

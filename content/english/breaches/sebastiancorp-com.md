@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/august
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | sebastiancorp.com      | 
 | Threat Actor    | Lorenz      | 
 | Date Discovered    | Aug 10, 2021      | 

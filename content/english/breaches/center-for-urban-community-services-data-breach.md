@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | cucs.org      | 
 | Threat Actor      | NoEscape      | 
 | Date Discovered      | Sep 18, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | undp.org      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Mar 28, 2024      | 

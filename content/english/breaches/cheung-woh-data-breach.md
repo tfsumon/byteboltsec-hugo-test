@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | cheungwoh.com.sg      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jul 28, 2022      | 

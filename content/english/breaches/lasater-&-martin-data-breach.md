@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | lasaterandmartin.com      | 
 | Threat Actor      | Abyss      | 
 | Date Discovered      | Sep 01, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | jaquith.com      | 
 | Threat Actor      | Monti      | 
 | Date Discovered      | Sep 15, 2023      | 

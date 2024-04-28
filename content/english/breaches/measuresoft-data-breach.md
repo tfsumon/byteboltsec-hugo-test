@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | measuresoft.com      | 
 | Threat Actor      | Mallox      | 
 | Date Discovered      | Oct 03, 2023      | 

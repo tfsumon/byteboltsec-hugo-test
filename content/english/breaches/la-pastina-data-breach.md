@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | lapastina.com      | 
 | Threat Actor      | Ransomhub      | 
 | Date Discovered      | Mar 22, 2024      | 

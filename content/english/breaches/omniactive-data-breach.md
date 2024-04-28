@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | omniactives.com      | 
 | Threat Actor      | REvil      | 
 | Date Discovered      | Jul 26, 2022      | 

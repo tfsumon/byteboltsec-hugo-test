@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | aisc-airbus.com      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Oct 18, 2021      | 

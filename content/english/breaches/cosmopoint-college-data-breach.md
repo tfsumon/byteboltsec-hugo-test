@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | cosmopointcolledge.edu      | 
 | Threat Actor      | AvosLocker      | 
 | Date Discovered      | Oct 21, 2022      | 

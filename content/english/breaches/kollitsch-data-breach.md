@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | kollitsch.eu      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Sep 28, 2022      | 

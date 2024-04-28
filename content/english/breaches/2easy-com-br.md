@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/may
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | 2easy.com.br      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | May 17, 2022      | 

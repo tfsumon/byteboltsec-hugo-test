@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | iqcontrols.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Aug 07, 2023      | 

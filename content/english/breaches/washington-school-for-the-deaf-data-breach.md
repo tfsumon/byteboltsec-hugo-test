@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | wsd.wa.gov      | 
 | Threat Actor      | INC_RANSOM      | 
 | Date Discovered      | Jan 15, 2024      | 

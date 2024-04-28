@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | loeschgroup.de      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Sep 13, 2022      | 

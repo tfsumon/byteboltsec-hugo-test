@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | btsave.io      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Jan 22, 2022      | 

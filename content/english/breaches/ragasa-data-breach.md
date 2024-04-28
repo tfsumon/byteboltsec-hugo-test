@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ragasa.com.mx      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Sep 07, 2023      | 

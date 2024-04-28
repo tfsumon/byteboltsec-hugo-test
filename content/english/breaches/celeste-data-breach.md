@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | celeste.fr      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Feb 07, 2024      | 

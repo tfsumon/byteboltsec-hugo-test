@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | roncelli.com      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Feb 26, 2024      | 

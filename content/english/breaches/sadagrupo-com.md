@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | sadagrupo.com      | 
 | Threat Actor    | Ragnar_Locker      | 
 | Date Discovered    | Dec 18, 2020      | 

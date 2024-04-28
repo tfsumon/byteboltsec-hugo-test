@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | all4labels.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Mar 28, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | mcairoaplitex.com      | 
 | Threat Actor    | Grief      | 
 | Date Discovered    | Jan 07, 2022      | 

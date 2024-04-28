@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | vtvcab.vn      | 
 | Threat Actor    | Everest      | 
 | Date Discovered    | Jun 07, 2022      | 

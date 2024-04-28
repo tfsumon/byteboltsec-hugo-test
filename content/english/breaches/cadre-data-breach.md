@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | cadreservices.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Oct 19, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | strataworldwide.com      | 
 | Threat Actor    | ALPHV      | 
 | Date Discovered    | Nov 30, 2021      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | galaxyfireworks.com      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Feb 01, 2024      | 

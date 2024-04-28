@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | anderco.com.sg      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Feb 07, 2024      | 

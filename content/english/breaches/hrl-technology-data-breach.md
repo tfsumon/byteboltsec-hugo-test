@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | hrlt.com.au      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Jan 23, 2023      | 

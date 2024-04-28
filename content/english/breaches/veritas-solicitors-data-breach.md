@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | veritassolicitors.co.uk      | 
 | Threat Actor      | BianLian"      | 
 | Date Discovered      | Jul 17, 2022      | 

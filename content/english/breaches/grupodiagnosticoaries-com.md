@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | grupodiagnosticoaries.com      | 
 | Threat Actor    | LV Blog      | 
 | Date Discovered    | Jun 13, 2021      | 

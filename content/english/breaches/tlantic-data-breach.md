@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | tlantic.com      | 
 | Threat Actor      | Mallox      | 
 | Date Discovered      | Jun 26, 2023      | 

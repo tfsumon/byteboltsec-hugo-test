@@ -2,31 +2,33 @@
 
 {{ partial "components/page-header.html" . }}
 
-<section class="section pb-0">
-  <div class="container">
-    <div class="col-lg-8 mx-auto">
-      <div class="row justify-content-center">
-        <div class="col-lg-12 text-center" data-aos="fade-in" data-aos-delay="100">
-          <h1><font size="+3">The Most Recent Data Breaches in {{ .Date.Format "2006" }}</font></h1>
+{{ if not (gt .Paginator.PageNumber 1) }}
+  <section class="section pb-0">
+    <div class="container">
+      <div class="col-lg-8 mx-auto">
+        <div class="row justify-content-center">
+          <div class="col-lg-12 text-center" data-aos="fade-in" data-aos-delay="100">
+            <h1><font size="+3">The Most Recent Data Breaches in {{ .Date.Format "2006" }}</font></h1>
+          </div>
+        </div>
+        <div class="content">
+          {{ .Content }}
         </div>
       </div>
-      <div class="content">
-        {{ .Content }}
-      </div>
     </div>
-  </div>
-</section>
+  </section>
+{{ end }}
 
 <section class="section-sm" data-aos="fade-in">
   <div class="container-xxl">
-    <div class="row align-items-start">
+    <div class="row gy-5 align-items-start">
       <div class="col-lg-4">
         {{ partial "components/breaches-filter.html" }}
       </div>
 
       <div class="col-lg-8">
         {{ $yearMonths := slice }}
-        {{ range $i, $data := (site.GetPage "breaches").Pages.GroupByPublishDate "January 2006" }}
+        {{ range $i, $data := (site.GetPage "/breaches").Pages.GroupByPublishDate "January 2006" }}
 
           {{ range first 1 .Pages }}
             {{ if .Params.yearmonths }}
@@ -38,7 +40,7 @@
         {{ $recentMonth := index (split (index $yearMonths 0) "/") 1 }}
 
 
-        <h2>Data Breaches - {{ Title $recentMonth }} {{ $recentYear }}</h2>
+        <h2>Data Breaches - {{ $recentMonth | title }} {{ $recentYear }}</h2>
         <div class="row">
           {{ $paginator := .Paginate (where site.RegularPages "Section" "in" site.Params.breachSections) }}
           {{ range $paginator.Pages }}

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | mcalvain.com      | 
 | Threat Actor      | Cactus      | 
 | Date Discovered      | Apr 05, 2024      | 

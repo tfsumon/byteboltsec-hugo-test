@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | frigorificorio2.com.ar      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Nov 15, 2021      | 

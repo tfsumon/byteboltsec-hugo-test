@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/may
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | omniaservizi.com      | 
 | Threat Actor      | Monti      | 
 | Date Discovered      | May 29, 2023      | 

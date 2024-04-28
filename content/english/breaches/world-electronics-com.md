@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/august
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | world-electronics.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Aug 30, 2021      | 

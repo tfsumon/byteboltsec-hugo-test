@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | hausammann.com      | 
 | Threat Actor      | RansomwareBlog      | 
 | Date Discovered      | Jun 26, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | allseasonmovers.com      | 
 | Threat Actor      | Royal      | 
 | Date Discovered      | Dec 19, 2022      | 

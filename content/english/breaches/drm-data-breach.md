@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | drmarbys.com      | 
 | Threat Actor      | Cactus      | 
 | Date Discovered      | Apr 18, 2024      | 

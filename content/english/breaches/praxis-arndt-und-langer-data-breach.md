@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | praxis-arndt-langer.de      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Oct 02, 2023      | 

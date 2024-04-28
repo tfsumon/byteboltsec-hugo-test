@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | bcda.gov.ph      | 
 | Threat Actor    | Lorenz      | 
 | Date Discovered    | Mar 29, 2021      | 

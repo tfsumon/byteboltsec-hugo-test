@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/may
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | sarasinandpartners.com      | 
 | Threat Actor    | ALPHV      | 
 | Date Discovered    | May 03, 2022      | 

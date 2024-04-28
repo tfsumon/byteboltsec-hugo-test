@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | fh-zwickau.de      | 
 | Threat Actor      | Royal      | 
 | Date Discovered      | Jan 17, 2023      | 

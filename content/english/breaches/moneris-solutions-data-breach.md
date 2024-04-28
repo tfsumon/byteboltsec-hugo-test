@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | moneris.com      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Nov 14, 2023      | 

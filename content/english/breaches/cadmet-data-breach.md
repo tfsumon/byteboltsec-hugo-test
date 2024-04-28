@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | cadmet.com      | 
 | Threat Actor      | Royal      | 
 | Date Discovered      | January 23, 2023      | 

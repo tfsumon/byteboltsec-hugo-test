@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/september
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | agsoknokke-heist.be      | 
 | Threat Actor    | SunCrypt      | 
 | Date Discovered    | Sep 15, 2020      | 

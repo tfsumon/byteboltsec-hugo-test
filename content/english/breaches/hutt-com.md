@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | hutt.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Nov 19, 2021      | 

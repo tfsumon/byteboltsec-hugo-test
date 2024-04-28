@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/august
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | q3langley.org.uk      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Aug 06, 2020      | 

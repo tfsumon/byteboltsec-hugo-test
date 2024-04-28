@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | swirepo.com      | 
 | Threat Actor    | CL0P      | 
 | Date Discovered    | Jan 28, 2022      | 

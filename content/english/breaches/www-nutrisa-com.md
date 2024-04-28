@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/september
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | www.nutrisa.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Sep 09, 2021      | 

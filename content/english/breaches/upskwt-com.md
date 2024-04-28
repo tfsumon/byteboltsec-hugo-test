@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/may
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | upskwt.com      | 
 | Threat Actor    | Cuba      | 
 | Date Discovered    | May 18, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/may
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | klinespecter.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | May 01, 2023      | 

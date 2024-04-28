@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | buildersmutual.com      | 
 | Threat Actor      | Royal      | 
 | Date Discovered      | Dec 28, 2022      | 

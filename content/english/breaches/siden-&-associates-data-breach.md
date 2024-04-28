@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | sidenlaw.com      | 
 | Threat Actor      | Monti      | 
 | Date Discovered      | Jul 24, 2023      | 

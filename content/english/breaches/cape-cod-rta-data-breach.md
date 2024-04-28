@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | capecodrta.org      | 
 | Threat Actor    | LV Blog      | 
 | Date Discovered    | Jun 10, 2022      | 

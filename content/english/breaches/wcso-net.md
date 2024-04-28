@@ -8,7 +8,9 @@ draft: false
 yearmonths: 1970/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | wcso.net      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Jan 01, 1970      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | lic-sl.com      | 
 | Threat Actor    | ViceSociety      | 
 | Date Discovered    | Apr 29, 2022      | 

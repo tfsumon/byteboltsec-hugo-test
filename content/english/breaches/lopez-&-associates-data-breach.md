@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | la-imaging.com      | 
 | Threat Actor      | Knight      | 
 | Date Discovered      | Sep 19, 2023      | 

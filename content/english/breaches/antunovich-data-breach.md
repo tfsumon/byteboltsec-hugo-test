@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | antunovich.com      | 
 | Threat Actor      | BlackSuit      | 
 | Date Discovered      | Feb 13, 2024      | 

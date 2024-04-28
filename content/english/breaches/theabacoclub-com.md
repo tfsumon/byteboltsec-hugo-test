@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | theabacoclub.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Jan 15, 2021      | 

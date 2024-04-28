@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | gameforge.com      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Nov 17, 2021      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | gov.vu      | 
 | Threat Actor      | RansomHouse      | 
 | Date Discovered      | Dec 26, 2022      | 

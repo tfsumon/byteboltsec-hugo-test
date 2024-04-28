@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | midf.com.my      | 
 | Threat Actor      | Rhysida      | 
 | Date Discovered      | Apr 08, 2024      | 

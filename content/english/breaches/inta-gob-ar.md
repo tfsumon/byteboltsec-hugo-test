@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | inta.gob.ar      | 
 | Threat Actor    | Everest      | 
 | Date Discovered    | Mar 15, 2022      | 

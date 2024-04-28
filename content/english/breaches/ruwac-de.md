@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | ruwac.de      | 
 | Threat Actor    | RansomEXX      | 
 | Date Discovered    | Dec 06, 2021      | 

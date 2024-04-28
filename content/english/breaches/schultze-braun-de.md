@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | schultze-braun.de      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Feb 24, 2022      | 

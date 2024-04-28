@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | schoeler-gabelstapler.de      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Nov 01, 2023      | 

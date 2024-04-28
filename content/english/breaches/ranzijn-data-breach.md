@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ranzijn.nl      | 
 | Threat Actor      | RAGroup      | 
 | Date Discovered      | Mar 25, 2024      | 

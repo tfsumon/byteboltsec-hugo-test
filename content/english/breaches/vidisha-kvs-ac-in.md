@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | vidisha.kvs.ac.in      | 
 | Threat Actor    | Arvin Club      | 
 | Date Discovered    | Nov 11, 2021      | 

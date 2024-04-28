@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | thenet.group      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Nov 07, 2022      | 

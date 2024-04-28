@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | stmc.edu.hk      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Dec 20, 2022      | 

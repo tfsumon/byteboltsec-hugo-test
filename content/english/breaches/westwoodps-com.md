@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | westwoodps.com      | 
 | Threat Actor    | Lorenz      | 
 | Date Discovered    | Jun 01, 2022      | 

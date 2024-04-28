@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | denford.co.uk      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Dec 22, 2023      | 

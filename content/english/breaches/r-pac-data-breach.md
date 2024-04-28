@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | r-pac.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Mar 20, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | delcoautomation.com      | 
 | Threat Actor      | BlackSuit      | 
 | Date Discovered      | Jan 10, 2024      | 

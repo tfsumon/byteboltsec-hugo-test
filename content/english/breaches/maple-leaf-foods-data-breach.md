@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | mapleleaffoods.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Nov 28, 2022      | 

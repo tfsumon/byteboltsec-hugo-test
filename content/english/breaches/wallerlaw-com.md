@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | wallerlaw.com      | 
 | Threat Actor    | ALPHV      | 
 | Date Discovered    | Mar 05, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | akij.net      | 
 | Threat Actor    | Night Sky      | 
 | Date Discovered    | Dec 28, 2021      | 

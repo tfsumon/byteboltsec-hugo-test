@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | txcpa.com      | 
 | Threat Actor    | AvosLocker      | 
 | Date Discovered    | Dec 06, 2021      | 

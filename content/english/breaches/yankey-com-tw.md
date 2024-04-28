@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | yankey.com.tw      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Oct 09, 2021      | 

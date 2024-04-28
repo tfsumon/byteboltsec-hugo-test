@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | cityofdefiance.com      | 
 | Threat Actor      | Knight      | 
 | Date Discovered      | Dec 14, 2023      | 

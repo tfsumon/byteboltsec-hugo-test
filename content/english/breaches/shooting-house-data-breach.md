@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | shootinghouse.com.br      | 
 | Threat Actor      | Ransomhub      | 
 | Date Discovered      | Mar 04, 2024      | 

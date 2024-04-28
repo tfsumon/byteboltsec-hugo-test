@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | acoustic-center.it      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Sep 27, 2023      | 

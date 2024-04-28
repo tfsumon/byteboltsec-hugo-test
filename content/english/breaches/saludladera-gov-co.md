@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | saludladera.gov.co      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Jun 02, 2020      | 

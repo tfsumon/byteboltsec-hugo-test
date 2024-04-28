@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | vcbweb.org      | 
 | Threat Actor      | Nokoyawa      | 
 | Date Discovered      | Jul 31, 2023      | 

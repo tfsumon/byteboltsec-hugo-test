@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | stradwickscarpetonenorthbay.com      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Sep 13, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | elimclin.com      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Feb 14, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | net.com.br      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Dec 31, 2021      | 

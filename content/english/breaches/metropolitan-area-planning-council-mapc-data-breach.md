@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | mapc.org      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Dec 23, 2023      | 

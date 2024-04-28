@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | cretafarms.gr      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Dec 19, 2022      | 

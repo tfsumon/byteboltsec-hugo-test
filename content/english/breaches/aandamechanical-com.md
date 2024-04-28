@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | aandamechanical.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Jun 06, 2021      | 

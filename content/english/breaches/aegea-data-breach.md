@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | aegea.com.br      | 
 | Threat Actor      | Royal      | 
 | Date Discovered      | Dec 26, 2022      | 

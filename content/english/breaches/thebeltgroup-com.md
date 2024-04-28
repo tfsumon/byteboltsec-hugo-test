@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | thebeltgroup.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Jan 25, 2021      | 

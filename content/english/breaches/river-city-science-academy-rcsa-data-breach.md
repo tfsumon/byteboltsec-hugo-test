@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | rivercityscience.org      | 
 | Threat Actor      | Karakurt      | 
 | Date Discovered      | Jan 10, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | brettmartin.com      | 
 | Threat Actor      | Blackbyte      | 
 | Date Discovered      | Jul 03, 2023      | 

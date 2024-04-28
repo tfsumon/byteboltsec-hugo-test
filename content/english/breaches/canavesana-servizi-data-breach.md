@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | scsivrea.it      | 
 | Threat Actor      | Cactus      | 
 | Date Discovered      | Oct 17, 2023      | 

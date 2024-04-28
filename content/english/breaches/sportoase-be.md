@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/may
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | sportoase.be      | 
 | Threat Actor    | HiveLeaks      | 
 | Date Discovered    | May 22, 2022      | 

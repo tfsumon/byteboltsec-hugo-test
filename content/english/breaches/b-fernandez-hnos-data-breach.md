@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | bfernandez.com      | 
 | Threat Actor      | Royal      | 
 | Date Discovered      | Nov 14, 2022      | 

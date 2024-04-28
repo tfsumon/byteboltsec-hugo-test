@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | calin.gr      | 
 | Threat Actor      | Karakurt      | 
 | Date Discovered      | Oct 18, 2022      | 

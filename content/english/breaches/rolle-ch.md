@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | rolle.ch      | 
 | Threat Actor    | ViceSociety      | 
 | Date Discovered    | Oct 10, 2021      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | wolfeeyeclinic.com      | 
 | Threat Actor    | Lorenz      | 
 | Date Discovered    | Apr 01, 2021      | 

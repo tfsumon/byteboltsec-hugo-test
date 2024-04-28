@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | iamsinc.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Apr 21, 2023      | 

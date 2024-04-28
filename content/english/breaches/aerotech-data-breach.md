@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | aero-tech.co.uk      | 
 | Threat Actor      | Mallox      | 
 | Date Discovered      | Nov 02, 2022      | 

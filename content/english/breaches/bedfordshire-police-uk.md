@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | bedfordshire.police.uk      | 
 | Threat Actor    | Arvin Club      | 
 | Date Discovered    | Mar 12, 2022      | 

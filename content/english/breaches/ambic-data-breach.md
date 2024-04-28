@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ambic.co.uk      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Oct 25, 2023      | 

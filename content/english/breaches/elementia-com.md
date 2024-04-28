@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | elementia.com      | 
 | Threat Actor    | Marketo      | 
 | Date Discovered    | Dec 26, 2020      | 

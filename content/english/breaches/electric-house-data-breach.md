@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | electric-house.com      | 
 | Threat Actor      | LV      | 
 | Date Discovered      | Jun 23, 2022      | 

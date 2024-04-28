@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | dirigsheetmetal.com      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Jan 25, 2024      | 

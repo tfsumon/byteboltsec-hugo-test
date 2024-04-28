@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/may
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | tosohbioscience.com      | 
 | Threat Actor    | Lorenz      | 
 | Date Discovered    | May 05, 2022      | 

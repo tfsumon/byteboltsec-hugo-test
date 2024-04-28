@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | surapon.com      | 
 | Threat Actor      | Cloak      | 
 | Date Discovered      | Aug 25, 2023      | 

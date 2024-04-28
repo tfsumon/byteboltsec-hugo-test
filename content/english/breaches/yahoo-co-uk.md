@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/july
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | yahoo.co.uk      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Jul 11, 2021      | 

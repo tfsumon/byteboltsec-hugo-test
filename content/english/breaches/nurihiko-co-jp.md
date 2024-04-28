@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | nurihiko.co.jp      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Nov 16, 2021      | 

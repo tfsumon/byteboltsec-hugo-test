@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | cosan.com.br      | 
 | Threat Actor    | Corporate Leaks      | 
 | Date Discovered    | Mar 20, 2020      | 

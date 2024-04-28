@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/may
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | foxconnbc.com      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | May 30, 2022      | 

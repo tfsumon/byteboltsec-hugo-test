@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/august
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | mauckbaker.com      | 
 | Threat Actor    | AvosLocker      | 
 | Date Discovered    | Aug 05, 2021      | 

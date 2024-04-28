@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | notelit.pl      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Sep 28, 2023      | 

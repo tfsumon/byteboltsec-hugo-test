@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | mindef.gob.pe      | 
 | Threat Actor      | RansomEXX      | 
 | Date Discovered      | Mar 27, 2024      | 

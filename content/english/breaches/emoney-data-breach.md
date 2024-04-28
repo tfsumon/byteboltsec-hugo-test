@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | emoneyfinance.com.au      | 
 | Threat Actor      | Royal      | 
 | Date Discovered      | Dec 29, 2022      | 

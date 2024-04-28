@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | bcj.com      | 
 | Threat Actor    | SunCrypt      | 
 | Date Discovered    | Dec 05, 2021      | 

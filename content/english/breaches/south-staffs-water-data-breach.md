@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | south-staffs-water.co.uk      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Aug 16, 2022      | 

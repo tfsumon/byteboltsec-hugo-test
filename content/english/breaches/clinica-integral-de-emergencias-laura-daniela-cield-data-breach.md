@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | clinicaintegral.com.co      | 
 | Threat Actor      | Snatch      | 
 | Date Discovered      | Dec 28, 2022      | 

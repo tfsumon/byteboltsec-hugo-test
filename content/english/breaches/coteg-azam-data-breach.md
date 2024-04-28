@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | coteg-azam.fr      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jun 22, 2022      | 

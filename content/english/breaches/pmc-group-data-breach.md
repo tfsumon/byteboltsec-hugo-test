@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | pmc-group.com      | 
 | Threat Actor      | Cuba      | 
 | Date Discovered      | Nov 25, 2022      | 

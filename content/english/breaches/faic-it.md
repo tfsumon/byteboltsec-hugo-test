@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | faic.it      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Apr 23, 2020      | 

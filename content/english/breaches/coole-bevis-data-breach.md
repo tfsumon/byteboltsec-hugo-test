@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | coolebevislaw.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Feb 28, 2023      | 

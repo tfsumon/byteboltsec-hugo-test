@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | mabgroup.com      | 
 | Threat Actor    | Snatch      | 
 | Date Discovered    | Jan 27, 2022      | 

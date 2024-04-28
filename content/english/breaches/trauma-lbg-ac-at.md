@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | trauma.lbg.ac.at      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Mar 03, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | metrogroupinc.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Nov 06, 2021      | 

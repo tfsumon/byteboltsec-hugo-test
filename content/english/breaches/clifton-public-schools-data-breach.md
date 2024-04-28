@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | clifton.k12.nj.us      | 
 | Threat Actor      |  Akira     | 
 | Date Discovered      | Aug 18, 2023      | 

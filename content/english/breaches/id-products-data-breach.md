@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | idproducts.com      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Nov 09, 2023      | 

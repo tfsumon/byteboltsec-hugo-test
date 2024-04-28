@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | kebs.org      | 
 | Threat Actor      | Rhysida      | 
 | Date Discovered      | Jul 07, 2023      | 

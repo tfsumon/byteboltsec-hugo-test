@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | parastari.org      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Oct 15, 2021      | 

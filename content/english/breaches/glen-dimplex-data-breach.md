@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | glendimplex.com      | 
 | Threat Actor      | LV      | 
 | Date Discovered      | Nov 28, 2022      | 

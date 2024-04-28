@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | enpos.com.tr      | 
 | Threat Actor      | STORMOUS      | 
 | Date Discovered      | Sep 14, 2023      | 

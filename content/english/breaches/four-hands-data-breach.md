@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | fourhands.com      | 
 | Threat Actor      | 0mega      | 
 | Date Discovered      | Jan 26, 2024      | 

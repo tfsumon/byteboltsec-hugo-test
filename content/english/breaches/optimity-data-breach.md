@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | optimity.co.uk      | 
 | Threat Actor      | Ransomed      | 
 | Date Discovered      | Aug 24, 2023      | 

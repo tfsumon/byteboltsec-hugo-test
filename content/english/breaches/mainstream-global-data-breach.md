@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | mainstream-global.com      | 
 | Threat Actor      | RansomHouse      | 
 | Date Discovered      | Sep 21, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | indura.net      | 
 | Threat Actor    | RansomEXX      | 
 | Date Discovered    | Feb 02, 2021      | 

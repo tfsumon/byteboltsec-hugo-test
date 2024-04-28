@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | strongco.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Jun 04, 2021      | 

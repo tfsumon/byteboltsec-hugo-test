@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/may
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | oliviers.ch      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | May 17, 2020      | 

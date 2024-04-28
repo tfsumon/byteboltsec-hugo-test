@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | nscs.org      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Jan 29, 2022      | 

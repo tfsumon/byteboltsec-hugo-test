@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ejmrefrigeration.co.uk      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Jul 24, 2023      | 

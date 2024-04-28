@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ellisontechnologies.com      | 
 | Threat Actor      | Blackbyte      | 
 | Date January 06, 2023      | Jan 06, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/may
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | laconcha.com.mx      | 
 | Threat Actor    | Grief      | 
 | Date Discovered    | May 27, 2021      | 

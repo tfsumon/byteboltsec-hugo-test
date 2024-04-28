@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | iwis.de      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Jan 03, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | kansai-u.ac.jp      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Nov 09, 2021      | 

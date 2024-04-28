@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | top-light.de      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Aug 11, 2023      | 

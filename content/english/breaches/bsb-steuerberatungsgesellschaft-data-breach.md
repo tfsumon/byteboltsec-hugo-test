@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | bsb-steuerberatung.de      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Jul 26, 2023      | 

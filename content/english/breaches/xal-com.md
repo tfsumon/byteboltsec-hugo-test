@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | xal.com      | 
 | Threat Actor    | ViceSociety      | 
 | Date Discovered    | Jan 12, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | pkoh.com      | 
 | Threat Actor      | DunghillLeak      | 
 | Date Discovered      | Nov 09, 2023      | 

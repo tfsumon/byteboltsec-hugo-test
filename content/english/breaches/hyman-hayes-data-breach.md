@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | hymanhayes.com      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Dec 15, 2023      | 

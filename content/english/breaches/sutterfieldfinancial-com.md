@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/july
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | sutterfieldfinancial.com      | 
 | Threat Actor    | Hive      | 
 | Date Discovered    | Jul 31, 2021      | 

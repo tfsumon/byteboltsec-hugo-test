@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | barwick.co.uk      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Apr 07, 2022      | 

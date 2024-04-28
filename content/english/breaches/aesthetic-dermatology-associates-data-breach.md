@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | adaderm.com      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Oct 02, 2022      | 

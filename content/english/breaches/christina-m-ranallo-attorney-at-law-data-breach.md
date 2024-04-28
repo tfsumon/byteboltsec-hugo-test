@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | cmranallolaw.com      | 
 | Threat Actor      | Everest      | 
 | Date Discovered      | Sep 12, 2023      | 

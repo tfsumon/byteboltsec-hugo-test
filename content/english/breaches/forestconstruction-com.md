@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | forestconstruction.com      | 
 | Threat Actor    | Ragnar_Locker      | 
 | Date Discovered    | Dec 13, 2020      | 

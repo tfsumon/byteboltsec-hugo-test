@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | triway.riellosistemi.it      | 
 | Threat Actor      | MoneyMessage      | 
 | Date Discovered      | Oct 13, 2023      | 

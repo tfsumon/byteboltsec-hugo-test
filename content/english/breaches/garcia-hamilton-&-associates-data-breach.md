@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/may
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | garciahamiltonassociates.com      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | May 05, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | dv8techgroup.com      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Jul 26, 2023      | 

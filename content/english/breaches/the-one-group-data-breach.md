@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | theonegroup.co.uk      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Oct 04, 2023      | 

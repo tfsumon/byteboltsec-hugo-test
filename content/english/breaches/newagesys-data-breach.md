@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | newagesys.com      | 
 | Threat Actor      | Cactus      | 
 | Date Discovered      | Mar 23, 2024      | 

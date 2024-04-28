@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | rovagnati.it      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jul 20, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | flytap.com      | 
 | Threat Actor      | Ragnar_Locker      | 
 | Date Discovered      | Sep 08, 2022      | 

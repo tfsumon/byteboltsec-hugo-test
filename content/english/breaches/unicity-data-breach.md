@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | unicity.com      | 
 | Threat Actor      | Snatch      | 
 | Date Discovered      | Nov 11, 2022      | 

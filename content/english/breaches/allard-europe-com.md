@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/may
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | allard-europe.com      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | May 05, 2020      | 

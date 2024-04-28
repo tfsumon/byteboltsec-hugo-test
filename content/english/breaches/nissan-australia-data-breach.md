@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | nissan.com.au      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Dec 23, 2023      | 

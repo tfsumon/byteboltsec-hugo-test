@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | cmontmorency.qc.ca      | 
 | Threat Actor      | AvosLocker      | 
 | Date Discovered      | Jul 15, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | robertoverino.com      | 
 | Threat Actor      | RansomHouse      | 
 | Date Discovered      | Jun 16, 2023      | 

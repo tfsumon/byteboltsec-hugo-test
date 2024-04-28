@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | doakshirreff.com      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Dec 16, 2020      | 

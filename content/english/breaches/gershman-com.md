@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | gershman.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Oct 01, 2021      | 

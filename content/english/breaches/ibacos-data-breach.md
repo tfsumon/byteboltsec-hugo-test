@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ibacos.com      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Oct 29, 2023      | 

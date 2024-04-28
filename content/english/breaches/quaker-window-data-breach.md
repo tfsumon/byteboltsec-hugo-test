@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | quakerwindows.com      | 
 | Threat Actor      | Cactus      | 
 | Date Discovered      | Dec 26, 2023      | 

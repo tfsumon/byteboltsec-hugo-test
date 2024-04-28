@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | easchangesystems.com      | 
 | Threat Actor      | Qilin      | 
 | Date Discovered      | Apr 08, 2024      | 

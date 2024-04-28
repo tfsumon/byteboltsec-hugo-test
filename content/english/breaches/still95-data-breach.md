@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | still95.it      | 
 | Threat Actor      | Cloak      | 
 | Date Discovered      | Aug 25, 2023      | 

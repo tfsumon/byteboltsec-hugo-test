@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | agnesb.eu      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jan 11, 2024      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | codisel.com.mx      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Feb 13, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | jakks.com      | 
 | Threat Actor      | HiveLeaks      | 
 | Date Discovered      | Dec 20, 2022      | 

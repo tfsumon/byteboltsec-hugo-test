@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | oil-india.com      | 
 | Threat Actor      | Snatch      | 
 | Date Discovered      | Oct 05, 2022      | 

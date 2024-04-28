@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | adnec.ae      | 
 | Threat Actor      |       | 
 | Date Discovered      | Nov 10, 2022      | 

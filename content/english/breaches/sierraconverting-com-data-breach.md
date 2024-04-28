@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | sierraconverting.com      | 
 | Threat Actor    | Ragnar_Locker      | 
 | Date Discovered    | Jun 0, 2022      | 

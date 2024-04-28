@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | rimex.com      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Mar 29, 2023      | 

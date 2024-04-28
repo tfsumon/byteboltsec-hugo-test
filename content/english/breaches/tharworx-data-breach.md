@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | tharworx.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Mar 30, 2023      | 

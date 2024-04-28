@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | indonesiapower.co.id      | 
 | Threat Actor      | RansomHouse      | 
 | Date Discovered      | Mar 21, 2023      | 

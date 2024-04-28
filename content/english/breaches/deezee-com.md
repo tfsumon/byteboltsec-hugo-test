@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | deezee.com      | 
 | Threat Actor    | Lorenz      | 
 | Date Discovered    | Apr 13, 2022      | 

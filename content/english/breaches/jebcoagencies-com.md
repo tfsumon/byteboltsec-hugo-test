@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | jebcoagencies.com      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Jan 13, 2021      | 

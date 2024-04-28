@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/may
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | sogegross.it      | 
 | Threat Actor    | BlackByte      | 
 | Date Discovered    | May 03, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | medlab.com.au      | 
 | Threat Actor      | Quantum      | 
 | Date Discovered      | Jun 15, 2022      | 

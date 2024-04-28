@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | imi-hydronic.com      | 
 | Threat Actor      | RansomHouse      | 
 | Date Discovered      | Jan 12, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/september
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | moss.co.uk      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Sep 09, 2021      | 

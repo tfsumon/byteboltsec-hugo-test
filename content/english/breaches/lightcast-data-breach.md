@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | lightcast.io      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Mar 27, 2023      | 

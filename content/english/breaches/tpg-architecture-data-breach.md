@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | tpgarchitecture.com      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Jan 22, 2024      | 

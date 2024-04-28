@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | snrshopping.com      | 
 | Threat Actor    | AvosLocker      | 
 | Date Discovered    | Nov 18, 2021      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | tokyo-plant.co.jp      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Apr 12, 2022      | 

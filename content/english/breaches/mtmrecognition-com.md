@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | mtmrecognition.com      | 
 | Threat Actor    | CL0P      | 
 | Date Discovered    | Oct 08, 2021      | 

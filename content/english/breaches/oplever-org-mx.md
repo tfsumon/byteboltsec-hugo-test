@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | oplever.org.mx      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Dec 27, 2021      | 

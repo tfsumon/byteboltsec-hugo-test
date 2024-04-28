@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | evronfoods.co.uk      | 
 | Threat Actor    | Grief      | 
 | Date Discovered    | Jun 30, 2021      | 

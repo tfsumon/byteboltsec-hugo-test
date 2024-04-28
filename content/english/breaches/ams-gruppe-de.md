@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | ams-gruppe.de      | 
 | Threat Actor    | ALPHV      | 
 | Date Discovered    | Jun 01, 2022      | 

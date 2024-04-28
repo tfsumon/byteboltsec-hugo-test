@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | fantasyspringsresort.com      | 
 | Threat Actor      | Royal      | 
 | Date Discovered      | Dec 27, 2022      | 

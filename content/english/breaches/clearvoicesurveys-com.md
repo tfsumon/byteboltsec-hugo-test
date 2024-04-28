@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | clearvoicesurveys.com      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Apr 21, 2021      | 

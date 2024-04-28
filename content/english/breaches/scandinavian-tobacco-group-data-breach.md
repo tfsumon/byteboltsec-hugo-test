@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | st-group.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Dec 05, 2022      | 

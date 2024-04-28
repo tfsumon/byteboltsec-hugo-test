@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | emalon.co.il      | 
 | Threat Actor      | MalekTeam      | 
 | Date Discovered      | Apr 06, 2024      | 

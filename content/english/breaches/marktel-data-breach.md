@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | marktel.es      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Oct 12, 2022      | 

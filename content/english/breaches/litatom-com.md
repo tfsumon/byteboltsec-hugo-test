@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | litatom.com      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Nov 01, 2021      | 

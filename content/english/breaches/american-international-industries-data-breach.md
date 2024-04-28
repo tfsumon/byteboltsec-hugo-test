@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | aiibeauty.com      | 
 | Threat Actor      | Quantum      | 
 | Date Discovered      | Jul 13, 2022      | 

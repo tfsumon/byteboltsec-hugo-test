@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/may
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | challenge-mfg.com      | 
 | Threat Actor    | Lorenz      | 
 | Date Discovered    | May 11, 2021      | 

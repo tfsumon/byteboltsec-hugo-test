@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/may
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | enssecurity.com      | 
 | Threat Actor    | CL0P      | 
 | Date Discovered    | May 25, 2022      | 

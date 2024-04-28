@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/july
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | guts.co.th      | 
 | Threat Actor    | Hive      | 
 | Date Discovered    | Jul 10, 2021      | 

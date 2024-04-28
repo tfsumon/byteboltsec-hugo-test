@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | intred.it      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Oct 18, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | covermeinsurance.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Feb 13, 2023      | 

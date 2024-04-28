@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | cptm.sp.gov.br      | 
 | Threat Actor      | Blackbyte      | 
 | Date Discovered      | Dec 30, 2022      | 

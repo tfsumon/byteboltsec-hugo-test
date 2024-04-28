@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | tcuniforms.com      | 
 | Threat Actor    | Grief      | 
 | Date Discovered    | Jan 06, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | k2sports.com      | 
 | Threat Actor      | BlackByte      | 
 | Date Discovered      | Jan 16, 2023      | 

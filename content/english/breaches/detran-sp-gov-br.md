@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | detran.sp.gov.br      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Jun 26, 2021      | 

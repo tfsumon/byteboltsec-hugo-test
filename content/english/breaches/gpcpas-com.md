@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | gpcpas.com      | 
 | Threat Actor    | Everest      | 
 | Date Discovered    | Mar 06, 2022      | 

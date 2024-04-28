@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | salesianum.org      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Nov 29, 2020      | 

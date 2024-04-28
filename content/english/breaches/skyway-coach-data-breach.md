@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | skywaycoach.ca      | 
 | Threat Actor      | Ransomhub      | 
 | Date Discovered      | Apr 09, 2024      | 

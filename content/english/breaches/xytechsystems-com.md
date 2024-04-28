@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/may
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | xytechsystems.com      | 
 | Threat Actor    | LV Blog      | 
 | Date Discovered    | May 26, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | recsilicon.com      | 
 | Threat Actor      | RansomEXX      | 
 | Date Discovered      | Dec 12, 2022      | 

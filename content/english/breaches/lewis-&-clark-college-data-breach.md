@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | lclark.edu      | 
 | Threat Actor      | ViceSociety      | 
 | Date Discovered      | Mar 31, 2023      | 

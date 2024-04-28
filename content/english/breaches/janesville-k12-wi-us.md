@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | janesville.k12.wi.us      | 
 | Threat Actor    | HiveLeaks      | 
 | Date Discovered    | Oct 24, 2021      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | zesa.co.zw      | 
 | Threat Actor      | Everest      | 
 | Date Discovered      | Aug 09, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | bauder.co.uk      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Apr 22, 2021      | 

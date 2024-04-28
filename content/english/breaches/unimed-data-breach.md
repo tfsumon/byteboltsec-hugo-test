@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | unimed.coop.br      | 
 | Threat Actor      | Trigona      | 
 | Date Discovered      | Sep 06, 2023      | 

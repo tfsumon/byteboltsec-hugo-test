@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | okanagan.bc.ca      | 
 | Threat Actor      | ViceSociety      | 
 | Date Discovered      | Jan 31, 2023      | 

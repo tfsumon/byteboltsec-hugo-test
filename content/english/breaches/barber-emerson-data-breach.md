@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | barberemerson.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Feb 14, 2024      | 

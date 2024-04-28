@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | procab.se      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Apr 20, 2022      | 

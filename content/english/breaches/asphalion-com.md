@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | asphalion.com      | 
 | Threat Actor    | HiveLeaks      | 
 | Date Discovered    | Feb 18, 2022      | 

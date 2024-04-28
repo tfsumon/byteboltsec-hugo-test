@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | kirkholm.dk      | 
 | Threat Actor      | Mallox      | 
 | Date Discovered      | Oct 02, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | qcrm4.com      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Apr 07, 2023      | 

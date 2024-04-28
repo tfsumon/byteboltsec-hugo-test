@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | globalpolymerscorp.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Apr 25, 2023      | 

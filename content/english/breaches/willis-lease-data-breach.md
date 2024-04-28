@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | willislease.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Feb 12, 2024      | 

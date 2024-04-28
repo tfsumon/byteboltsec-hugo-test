@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | partnershiphp.org      | 
 | Threat Actor    | HiveLeaks      | 
 | Date Discovered    | Mar 30, 2022      | 

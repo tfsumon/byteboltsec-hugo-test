@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | metal7.com      | 
 | Threat Actor      | Blackout      | 
 | Date Discovered      | Feb 28, 2024      | 

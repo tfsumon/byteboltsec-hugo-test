@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ksrsac.karnataka.gov.in      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Mar 22, 2023      | 

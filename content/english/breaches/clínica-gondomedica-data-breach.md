@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | cm-gondomar.pt      | 
 | Threat Actor      | Rhysida      | 
 | Date Discovered      | Oct 06, 2023      | 

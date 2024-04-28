@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | vahanen.com      | 
 | Threat Actor      | RedAlert      | 
 | Date Discovered      | Jul 10, 2022      | 

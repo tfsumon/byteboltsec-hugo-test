@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | econocom.com      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Oct 29, 2020      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | carinya.nsw.edu.au      | 
 | Threat Actor      | Royal      | 
 | Date Discovered      | Jan 18, 2023      | 

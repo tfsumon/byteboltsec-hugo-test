@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | francesking.com      | 
 | Threat Actor      |       | 
 | Date Discovered      | Aug 26, 2022      | 

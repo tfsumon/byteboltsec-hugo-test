@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | leicester.gov.uk      | 
 | Threat Actor      | INC_RANSOM      | 
 | Date Discovered      | Apr 03, 2024      | 

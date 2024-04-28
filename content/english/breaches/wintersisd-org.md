@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | wintersisd.org      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Oct 25, 2020      | 

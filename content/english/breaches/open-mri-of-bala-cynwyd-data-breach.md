@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | openmribala.com      | 
 | Threat Actor      | AvosLocker      | 
 | Date Discovered      | Mar 03, 2023      | 

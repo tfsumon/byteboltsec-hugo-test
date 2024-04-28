@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | ucel.edu.ar      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Oct 05, 2020      | 

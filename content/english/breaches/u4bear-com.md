@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | u4bear.com      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Nov 10, 2021      | 

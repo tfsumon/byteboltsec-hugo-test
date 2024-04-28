@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | montanarisrl.net      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Mar 17, 2022      | 

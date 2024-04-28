@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | positivepromotions.com      | 
 | Threat Actor    | Xing Locker      | 
 | Date Discovered    | Jun 02, 2021      | 

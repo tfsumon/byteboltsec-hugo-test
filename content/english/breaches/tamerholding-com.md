@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | tamerholding.com      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Dec 16, 2021      | 

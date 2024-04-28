@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | rafael.co.il      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Jun 27, 2021      | 

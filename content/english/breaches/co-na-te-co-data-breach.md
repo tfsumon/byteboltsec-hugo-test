@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | conateco.it      | 
 | Threat Actor      | Darkrace      | 
 | Date Discovered      | Jun 02, 2023      | 

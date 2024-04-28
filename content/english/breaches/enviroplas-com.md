@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | enviroplas.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Oct 25, 2021      | 

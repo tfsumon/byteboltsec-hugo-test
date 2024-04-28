@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | hvd.host      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Mar 01, 2024      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | islamabadpolice.gov.pk      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Jan 11, 2022      | 

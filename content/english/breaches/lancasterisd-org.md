@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | lancasterisd.org      | 
 | Threat Actor    | Grief      | 
 | Date Discovered    | Jun 09, 2021      | 

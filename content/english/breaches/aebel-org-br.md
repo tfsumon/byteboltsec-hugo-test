@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | aebel.org.br      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Jun 15, 2020      | 

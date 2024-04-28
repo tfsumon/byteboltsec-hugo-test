@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | fujiamerica.com      | 
 | Threat Actor    | Lorenz      | 
 | Date Discovered    | Mar 02, 2022      | 

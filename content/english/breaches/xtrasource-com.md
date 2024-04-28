@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/may
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | xtrasource.com      | 
 | Threat Actor    | Ragnar_Locker      | 
 | Date Discovered    | May 25, 2021      | 

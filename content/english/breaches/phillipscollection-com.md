@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/august
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | phillipscollection.com      | 
 | Threat Actor    | SunCrypt      | 
 | Date Discovered    | Aug 01, 2020      | 

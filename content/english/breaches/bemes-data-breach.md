@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | bemes.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Dec 15, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | cpa.ca      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Nov 06, 2023      | 

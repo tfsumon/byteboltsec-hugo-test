@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | albijjar.ae      | 
 | Threat Actor    | ArvinClub      | 
 | Date Discovered    | Apr 24, 2022      | 

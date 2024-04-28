@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | notariato.it      | 
 | Threat Actor    | RansomEXX      | 
 | Date Discovered    | Mar 31, 2021      | 

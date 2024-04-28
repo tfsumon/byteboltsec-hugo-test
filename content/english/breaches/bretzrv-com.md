@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | bretzrv.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Nov 27, 2020      | 

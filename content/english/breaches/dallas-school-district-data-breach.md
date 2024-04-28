@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | dallas.k12.or.us      | 
 | Threat Actor      | Royal      | 
 | Date Discovered      | Feb 21, 2023      | 

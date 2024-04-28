@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | fairfax.ca      | 
 | Threat Actor      | RansomHouse      | 
 | Date Discovered      | Jul 22, 2022      | 

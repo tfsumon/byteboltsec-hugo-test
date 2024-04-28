@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/september
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | lrz.de      | 
 | Threat Actor    | Groove      | 
 | Date Discovered    | Sep 09, 2021      | 

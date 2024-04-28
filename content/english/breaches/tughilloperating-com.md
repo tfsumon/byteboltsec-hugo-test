@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/august
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | tughilloperating.com      | 
 | Threat Actor    | SunCrypt      | 
 | Date Discovered    | Aug 26, 2020      | 

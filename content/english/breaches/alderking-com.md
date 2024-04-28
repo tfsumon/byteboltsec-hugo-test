@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/september
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | alderking.com      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Sep 30, 2021      | 

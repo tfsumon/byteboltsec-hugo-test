@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | mrm.com.mx      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jan 31, 2024      | 

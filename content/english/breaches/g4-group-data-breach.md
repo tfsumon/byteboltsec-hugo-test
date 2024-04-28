@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | groupg4.com      | 
 | Threat Actor      | RedAlert      | 
 | Date Discovered      | Sep 14, 2022      | 

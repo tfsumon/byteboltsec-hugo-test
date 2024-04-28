@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | ideal-fensterbau.de      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Feb 26, 2022      | 

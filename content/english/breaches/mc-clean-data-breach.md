@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | mcclean-gmbh.de      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Nov 15, 2022      | 

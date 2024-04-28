@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | c-ka.com      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Oct 29, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | samh.org.uk      | 
 | Threat Actor    | RansomEXX      | 
 | Date Discovered    | Mar 21, 2022      | 

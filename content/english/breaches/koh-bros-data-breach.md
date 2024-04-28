@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | kohbrothers.com      | 
 | Threat Actor      | Lorenz      | 
 | Date Discovered      | Nov 10, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | bomcalcado.pt      | 
 | Threat Actor      | Mallox      | 
 | Date Discovered      | Jan 25, 2023      | 

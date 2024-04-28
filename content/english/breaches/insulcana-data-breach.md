@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | insulcana.com      | 
 | Threat Actor      | RansomwareBlog      | 
 | Date Discovered      | Jul 28, 2023      | 

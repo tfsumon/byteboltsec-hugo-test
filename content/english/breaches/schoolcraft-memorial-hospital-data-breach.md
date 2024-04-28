@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | scmh.org.tw      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jul 27, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | dywidag-systems.com      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Dec 20, 2023      | 

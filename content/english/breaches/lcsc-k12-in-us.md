@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | lcsc.k12.in.us      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Nov 04, 2021      | 

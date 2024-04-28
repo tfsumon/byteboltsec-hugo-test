@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | biostar.com.tw      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Oct 09, 2021      | 

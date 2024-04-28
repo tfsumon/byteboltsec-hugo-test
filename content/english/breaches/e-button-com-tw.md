@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/september
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | e-button.com.tw      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Sep 07, 2021      | 

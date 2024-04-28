@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | skalar.com      | 
 | Threat Actor      | RansomwareBlog      | 
 | Date Discovered      | Mar 26, 2024      | 

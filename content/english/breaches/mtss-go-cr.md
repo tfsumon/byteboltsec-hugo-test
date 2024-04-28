@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | mtss.go.cr      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Apr 24, 2022      | 

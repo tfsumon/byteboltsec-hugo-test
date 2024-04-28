@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | woodholmegi.com      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Jan 02, 2021      | 

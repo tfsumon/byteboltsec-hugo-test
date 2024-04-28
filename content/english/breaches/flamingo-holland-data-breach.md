@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | flamingoholland.com      | 
 | Threat Actor      | Trigona      | 
 | Date Discovered      | Sep 06, 2023      | 

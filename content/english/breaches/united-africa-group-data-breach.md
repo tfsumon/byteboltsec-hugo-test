@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | unitedafricagroup.com.na      | 
 | Threat Actor      | Hunters      | 
 | Date Discovered      | Nov 07, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | totalfitness.co.uk      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Feb 17, 2021      | 

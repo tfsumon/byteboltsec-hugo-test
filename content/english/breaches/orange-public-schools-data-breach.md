@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | orange.k12.nj.us      | 
 | Threat Actor      | INC_RANSOM      | 
 | Date Discovered      | Feb 28, 2024      | 

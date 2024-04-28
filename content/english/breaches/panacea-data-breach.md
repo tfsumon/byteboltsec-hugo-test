@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | panaceahcs.com      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Apr 10, 2024      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | l37.com.au      | 
 | Threat Actor      | Karakurt      | 
 | Date Discovered      | Oct 19, 2022      | 

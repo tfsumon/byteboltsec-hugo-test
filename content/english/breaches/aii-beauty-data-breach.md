@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | aiibeauty.com      | 
 | Threat Actor      | AvosLocker      | 
 | Date Discovered      | Sep 18, 2022      | 

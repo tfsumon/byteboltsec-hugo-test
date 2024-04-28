@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | bpflegal.com      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Mar 16, 2021      | 

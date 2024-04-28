@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | laderach.com      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Nov 04, 2022      | 

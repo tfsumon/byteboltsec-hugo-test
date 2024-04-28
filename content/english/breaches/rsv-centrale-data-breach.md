@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | rsv-centrale.be      | 
 | Threat Actor      | Ciphbit      | 
 | Date Discovered      | Sep 18, 2023      | 

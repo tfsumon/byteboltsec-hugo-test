@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/september
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | shopify.com      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Sep 19, 2021      | 

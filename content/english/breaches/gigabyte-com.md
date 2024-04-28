@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/august
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | gigabyte.com      | 
 | Threat Actor    | RansomEXX      | 
 | Date Discovered    | Aug 12, 2021      | 

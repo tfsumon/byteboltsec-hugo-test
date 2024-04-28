@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | bcit.ca      | 
 | Threat Actor    | Hive      | 
 | Date Discovered    | Oct 26, 2021      | 

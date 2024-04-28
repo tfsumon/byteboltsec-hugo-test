@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | agateconstruction.net      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Apr 15, 2024      | 

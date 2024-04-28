@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | vanoss.k12.ok.us      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Nov 28, 2022      | 

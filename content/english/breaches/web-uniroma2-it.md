@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | web.uniroma2.it      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Oct 16, 2020      | 

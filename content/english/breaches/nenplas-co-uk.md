@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | nenplas.co.uk      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Mar 17, 2021      | 

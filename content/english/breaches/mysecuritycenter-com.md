@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/august
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | mysecuritycenter.com      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Aug 13, 2021      | 

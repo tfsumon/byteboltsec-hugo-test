@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | hifly.aero      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Jun 28, 2021      | 

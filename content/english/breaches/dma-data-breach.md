@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | dma.us       | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Jul 19, 2023      | 

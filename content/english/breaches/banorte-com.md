@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/august
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | banorte.com      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Aug 24, 2021      | 

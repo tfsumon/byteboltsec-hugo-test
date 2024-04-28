@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | jacobsfarmdelcabo.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Nov 30, 2023      | 

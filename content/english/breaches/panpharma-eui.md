@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/september
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | panpharma.eui      | 
 | Threat Actor    | Corporate Leaks      | 
 | Date Discovered    | Sep 09, 2020      | 

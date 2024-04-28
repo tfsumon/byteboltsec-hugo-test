@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | multistack.com      | 
 | Threat Actor      | Blackbyte      | 
 | Date Discovered      | Jun 19, 2023      | 

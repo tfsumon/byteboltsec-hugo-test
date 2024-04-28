@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | beithandesai.org.il      | 
 | Threat Actor      | MalekTeam      | 
 | Date Discovered      | Jan 16, 2024      | 

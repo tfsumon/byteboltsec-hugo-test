@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | gocruisers.org      | 
 | Threat Actor      | BlackSuit      | 
 | Date Discovered      | Jan 19, 2024      | 

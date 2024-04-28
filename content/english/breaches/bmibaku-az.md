@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | bmibaku.az      | 
 | Threat Actor    | x001xs      | 
 | Date Discovered    | Mar 13, 2022      | 

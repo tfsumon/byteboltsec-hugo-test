@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/august
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | alliancemercantile.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Aug 05, 2021      | 

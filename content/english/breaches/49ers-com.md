@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | 49ers.com      | 
 | Threat Actor    | BlackByte      | 
 | Date Discovered    | Feb 12, 2022      | 

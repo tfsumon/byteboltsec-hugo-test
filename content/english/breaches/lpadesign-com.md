@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | lpadesign.com      | 
 | Threat Actor    | AvosLocker      | 
 | Date Discovered    | Mar 23, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | valledelsol.com      | 
 | Threat Actor    | SunCrypt      | 
 | Date Discovered    | Feb 08, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | collectivitedemartinique.mq      | 
 | Threat Actor      | Rhysida      | 
 | Date Discovered      | Jun 12, 2023      | 

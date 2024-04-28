@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | apexga.bank      | 
 | Threat Actor      | Abyss      | 
 | Date Discovered      | Oct 27, 2023      | 

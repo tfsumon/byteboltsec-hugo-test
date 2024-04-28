@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | acesconn.com      | 
 | Threat Actor      | AvosLocker      | 
 | Date Discovered      | Mar 17, 2023      | 

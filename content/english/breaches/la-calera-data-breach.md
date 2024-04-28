@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | lacalera.pe      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Sep 12, 2022      | 

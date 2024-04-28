@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | paradox.com      | 
 | Threat Actor      | Black Basta      | 
 | Date Discovered      | Jun 22, 2022      | 

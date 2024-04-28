@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | lssa.org.za      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Jun 15, 2023      | 

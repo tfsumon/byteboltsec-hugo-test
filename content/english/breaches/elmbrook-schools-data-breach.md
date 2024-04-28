@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | elmbrookschools.org      | 
 | Threat Actor      |  ViceSociety     | 
 | Date Discovered      | Sep 05, 2022      | 

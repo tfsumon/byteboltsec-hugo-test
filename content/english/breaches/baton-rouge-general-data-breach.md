@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | brgeneral.org      | 
 | Threat Actor      | HiveLeaks      | 
 | Date Discovered      | Aug 25, 2022      | 

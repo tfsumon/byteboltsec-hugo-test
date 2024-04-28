@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | wison.com      | 
 | Threat Actor      | RansomHouse      | 
 | Date Discovered      | Jun 15, 2023      | 

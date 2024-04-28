@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | tristatehvac.com      | 
 | Threat Actor      | HiveLeaks      | 
 | Date Discovered      | Aug 15, 2022      | 

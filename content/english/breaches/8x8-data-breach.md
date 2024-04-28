@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | 8x8.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Dec 05, 2022      | 

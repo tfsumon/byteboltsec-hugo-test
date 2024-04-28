@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | kansasjointandspine.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Jun 22, 2023      | 

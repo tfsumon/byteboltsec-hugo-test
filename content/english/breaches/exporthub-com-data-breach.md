@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | exporthub.com      | 
 | Threat Actor      | CryptNet      | 
 | Date Discovered      | Apr 21, 2023      | 

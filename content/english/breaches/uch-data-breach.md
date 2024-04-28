@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | uchlogistics.co.uk      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Nov 17, 2023      | 

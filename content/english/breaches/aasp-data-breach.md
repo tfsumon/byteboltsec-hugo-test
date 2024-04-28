@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | aasp.org.br      | 
 | Threat Actor      | Ragnar_Locker      | 
 | Date Discovered      | Feb 23, 2023      | 

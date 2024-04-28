@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | a123systems.com      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Jul 12, 2023      | 

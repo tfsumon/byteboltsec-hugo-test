@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | noorulislam.org.uk      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Jun 28, 2020      | 

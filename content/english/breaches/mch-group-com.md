@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | mch-group.com      | 
 | Threat Actor    | CLOP      | 
 | Date Discovered    | Nov 02, 2021      | 

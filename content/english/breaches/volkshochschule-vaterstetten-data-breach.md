@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | vhs-vaterstetten.de      | 
 | Threat Actor      | Cloak      | 
 | Date Discovered      | Mar 26, 2024      | 

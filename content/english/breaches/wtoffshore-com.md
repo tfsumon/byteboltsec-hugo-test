@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | wtoffshore.com      | 
 | Threat Actor    | Corporate Leaks      | 
 | Date Discovered    | Apr 27, 2020      | 

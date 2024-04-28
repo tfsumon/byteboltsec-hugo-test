@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | aslnapoli3sud.it      | 
 | Threat Actor    | 54bb47h      | 
 | Date Discovered    | Jan 12, 2022      | 

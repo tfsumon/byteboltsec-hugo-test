@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | vincentfister.com      | 
 | Threat Actor      | Royal      | 
 | Date Discovered      | Dec 16, 2022      | 

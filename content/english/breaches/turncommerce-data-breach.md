@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | turncommerce.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Apr 06, 2023      | 

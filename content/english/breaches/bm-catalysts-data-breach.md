@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | bmcatalysts.co.uk      | 
 | Threat Actor      | MyData      | 
 | Date Discovered      | Feb 16, 2024      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | losaltosfoods.com      | 
 | Threat Actor      | ViceSociety      | 
 | Date Discovered      | Mar 06, 2023      | 

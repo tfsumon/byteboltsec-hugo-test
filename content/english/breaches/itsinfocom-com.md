@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | itsinfocom.com      | 
 | Threat Actor    | HiveLeaks      | 
 | Date Discovered    | Jan 25, 2022      | 

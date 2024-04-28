@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | sib.it      | 
 | Threat Actor      | ViceSociety      | 
 | Date Discovered      | Feb 01, 2023      | 

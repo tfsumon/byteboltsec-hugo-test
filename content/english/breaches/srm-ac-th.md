@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | srm.ac.th      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Dec 22, 2021      | 

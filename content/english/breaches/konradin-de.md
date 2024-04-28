@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | konradin.de      | 
 | Threat Actor    | HiveLeaks      | 
 | Date Discovered    | Mar 27, 2022      | 

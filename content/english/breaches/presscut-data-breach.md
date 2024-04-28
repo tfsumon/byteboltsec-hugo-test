@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | presscut.hr      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Sep 04, 2023      | 

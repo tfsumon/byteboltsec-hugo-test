@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | fincasrevuelta.es      | 
 | Threat Actor      | Everest      | 
 | Date Discovered      | Mar 11, 2024      | 

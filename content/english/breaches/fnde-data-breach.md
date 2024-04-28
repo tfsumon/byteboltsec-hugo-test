@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | fnde.gov.br      | 
 | Threat Actor      | RansomEXX      | 
 | Date Discovered      | Sep 04, 2022      | 

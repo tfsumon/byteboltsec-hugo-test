@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ambition24hours.co.za      | 
 | Threat Actor      | Mydata      | 
 | Date Discovered      | Jan 25, 2024      | 

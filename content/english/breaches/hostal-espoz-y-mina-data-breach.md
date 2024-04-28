@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | hostalespozymina.com      | 
 | Threat Actor      | Trigona      | 
 | Date Discovered      | Feb 29, 2024      | 

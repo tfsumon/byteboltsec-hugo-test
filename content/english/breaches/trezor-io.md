@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/july
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | trezor.io      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Jul 16, 2021      | 

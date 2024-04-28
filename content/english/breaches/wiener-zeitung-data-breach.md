@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      |  wienerzeitung.at     | 
 | Threat Actor      | Black Basta      | 
 | Date Discovered      | Jul 07, 2022      | 

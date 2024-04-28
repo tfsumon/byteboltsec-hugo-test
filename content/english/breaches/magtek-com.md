@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/may
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | magtek.com      | 
 | Threat Actor    | Lorenz      | 
 | Date Discovered    | May 20, 2022      | 

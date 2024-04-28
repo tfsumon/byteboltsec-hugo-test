@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | whirlpoolcorp.com      | 
 | Threat Actor    | Corporate Leaks      | 
 | Date Discovered    | Dec 26, 2020      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | tangcapital.bamboohr.com      | 
 | Threat Actor      | Ragnar_Locker      | 
 | Date Discovered      | Oct 11, 2022      | 

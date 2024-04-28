@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | diskriter.com      | 
 | Threat Actor      | HiveLeaks      | 
 | Date Discovered      | Jun 29, 2022      | 

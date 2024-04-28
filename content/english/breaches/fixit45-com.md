@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | fixit45.com      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Jan 16, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | abro.se      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Apr 25, 2023      | 

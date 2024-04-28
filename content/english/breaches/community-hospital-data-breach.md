@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | chal.org      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Nov 23, 2023      | 

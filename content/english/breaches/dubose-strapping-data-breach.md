@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | dubosestrapping.com      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Feb 16, 2024      | 

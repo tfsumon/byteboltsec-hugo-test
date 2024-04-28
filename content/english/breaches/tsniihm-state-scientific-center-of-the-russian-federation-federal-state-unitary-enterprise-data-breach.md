@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/may
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | cniihm.ru      | 
 | Threat Actor      | Malas      | 
 | Date Discovered      | May 30, 2023      | 

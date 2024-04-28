@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | chattanoogaheart.com      | 
 | Threat Actor      | Karakurt      | 
 | Date Discovered      | Jun 02, 2023      | 

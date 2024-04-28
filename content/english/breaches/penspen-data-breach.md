@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | penspen.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Feb 20, 2023      | 

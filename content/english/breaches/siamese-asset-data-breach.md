@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | siameseasset.co.th      | 
 | Threat Actor      | Qilin      | 
 | Date Discovered      | Sep 27, 2023      | 

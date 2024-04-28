@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ucpcrp.pt      | 
 | Threat Actor      | ViceSociety      | 
 | Date Discovered      | Dec 16, 2022      | 

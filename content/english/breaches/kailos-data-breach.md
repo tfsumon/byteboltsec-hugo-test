@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | kailos.ru      | 
 | Threat Actor      | Werewolves      | 
 | Date Discovered      | Dec 21, 2023      | 

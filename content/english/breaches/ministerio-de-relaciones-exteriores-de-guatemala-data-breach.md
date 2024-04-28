@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | minex.gob.gt      | 
 | Threat Actor      | VSOP      | 
 | Date Discovered      | Oct 24, 2022      | 

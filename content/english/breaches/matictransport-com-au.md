@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | matictransport.com.au      | 
 | Threat Actor    | BlackByte      | 
 | Date Discovered    | Oct 17, 2021      | 

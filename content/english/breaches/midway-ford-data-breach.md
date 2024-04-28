@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/may
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | midwayford.com.au      | 
 | Threat Actor      |  8BASE     | 
 | Date Discovered      | May 24, 2023      | 

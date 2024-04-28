@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/may
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | koenigstahl.pl      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | May 30, 2022      | 

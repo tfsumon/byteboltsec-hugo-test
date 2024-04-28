@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | betton.fr      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Sep 05, 2023      | 

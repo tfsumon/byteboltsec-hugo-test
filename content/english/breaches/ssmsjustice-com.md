@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | ssmsjustice.com      | 
 | Threat Actor    | CLOP      | 
 | Date Discovered    | Oct 21, 2021      | 

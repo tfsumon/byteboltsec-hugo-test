@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | tanisbrush.com      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Mar 27, 2024      | 

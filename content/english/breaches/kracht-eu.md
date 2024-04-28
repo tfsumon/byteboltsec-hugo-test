@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | kracht.eu      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Feb 25, 2022      | 

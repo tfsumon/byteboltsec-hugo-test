@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | somersetlogistics.com      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Jan 08, 2024      | 

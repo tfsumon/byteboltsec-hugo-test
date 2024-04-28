@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | bronstein-carmona.com      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Feb 14, 2024      | 

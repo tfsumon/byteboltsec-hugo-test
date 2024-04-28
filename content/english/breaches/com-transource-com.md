@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | com.transource.com      | 
 | Threat Actor    | Grief      | 
 | Date Discovered    | Oct 30, 2021      | 

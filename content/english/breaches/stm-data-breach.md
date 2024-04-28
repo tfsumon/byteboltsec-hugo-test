@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | stm.com.tw      | 
 | Threat Actor      | Cuba      | 
 | Date Discovered      | Jul 08, 2022      | 

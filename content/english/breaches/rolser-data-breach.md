@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/may
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | rolser.com      | 
 | Threat Actor      | Trigona      | 
 | Date Discovered      | May 22, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/may
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | whitehall-oh.us      | 
 | Threat Actor    | Snatch      | 
 | Date Discovered    | May 31, 2022      | 

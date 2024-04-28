@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | doerrgroup.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Dec 04, 2023      | 

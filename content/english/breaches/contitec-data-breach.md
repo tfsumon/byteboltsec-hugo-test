@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | contitec.net.br      | 
 | Threat Actor      | Knight      | 
 | Date Discovered      | Dec 04, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | asahigroup.com.hk      | 
 | Threat Actor      | BlackByte      | 
 | Date Discovered      | Oct 31, 2022      | 

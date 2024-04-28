@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | unine.ch      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Feb 27, 2022      | 

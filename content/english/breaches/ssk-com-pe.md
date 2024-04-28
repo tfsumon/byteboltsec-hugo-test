@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | ssk.com.pe      | 
 | Threat Actor    | HiveLeaks      | 
 | Date Discovered    | Apr 27, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/july
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | floridasugarcaneleague.org      | 
 | Threat Actor    | Hive      | 
 | Date Discovered    | Jul 01, 2021      | 

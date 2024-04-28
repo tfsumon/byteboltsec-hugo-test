@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | tco.com.tr      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Feb 20, 2022      | 

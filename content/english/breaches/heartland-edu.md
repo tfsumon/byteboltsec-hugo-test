@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | heartland.edu      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Oct 24, 2020      | 

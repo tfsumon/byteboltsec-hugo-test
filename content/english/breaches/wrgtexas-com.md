@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/august
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | wrgtexas.com      | 
 | Threat Actor    | Payload.bin      | 
 | Date Discovered    | Aug 02, 2021      | 

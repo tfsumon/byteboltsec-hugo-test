@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | swhealthcare.net      | 
 | Threat Actor      | DonutLeaks      | 
 | Date Discovered      | Jul 11, 2023      | 

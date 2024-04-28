@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | estrategas.com.mx      | 
 | Threat Actor      | ALPHV      | 
 | Date    | Jan 05, 2023      | 

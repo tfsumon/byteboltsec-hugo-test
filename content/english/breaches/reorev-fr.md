@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | reorev.fr      | 
 | Threat Actor    | LV Blog      | 
 | Date Discovered    | Apr 27, 2021      | 

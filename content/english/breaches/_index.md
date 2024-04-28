@@ -1,11 +1,6 @@
 ---
 title: ""
 description: ""
-
-build:
-  list: never
-  publishResources: false
-  render: never
 ---
 
 In 2017, The Economist named data [the world’s most valuable resource](https://www.economist.com/leaders/2017/05/06/the-worlds-most-valuable-resource-is-no-longer-oil-but-data), and that, of course, is still true today.  

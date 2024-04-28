@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | steeleglobal.com      | 
 | Threat Actor      | HiveLeaks      | 
 | Date Discovered      | Jul 05, 2022      | 

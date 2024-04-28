@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | leonardsexpress.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Jan 03, 2024      | 

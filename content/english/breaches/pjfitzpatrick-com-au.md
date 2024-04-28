@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | pjfitzpatrick.com.au      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Jun 12, 2020      | 

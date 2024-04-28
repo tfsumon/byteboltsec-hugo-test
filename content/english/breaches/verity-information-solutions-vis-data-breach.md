@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | veritycloud.com      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Nov 28, 2022      | 

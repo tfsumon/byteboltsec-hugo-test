@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | buffaloschools.org      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Mar 12, 2021      | 

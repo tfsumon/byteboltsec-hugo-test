@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | comcom-sgc.fr      | 
 | Threat Actor      | Nokoyawa      | 
 | Date Discovered      | Jul 21, 2023      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/may
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | uniquetooling.com.au      | 
 | Threat Actor    | LV Blog      | 
 | Date Discovered    | May 23, 2021      | 

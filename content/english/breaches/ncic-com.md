@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | ncic.com      | 
 | Threat Actor    | Grief      | 
 | Date Discovered    | Oct 20, 2021      | 

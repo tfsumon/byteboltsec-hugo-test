@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | dsalaw.com.au      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Aug 22, 2023      | 

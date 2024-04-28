@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | bmwmuniquemotors.com.br      | 
 | Threat Actor      | Knight      | 
 | Date Discovered      | Oct 16, 2023      | 

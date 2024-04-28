@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/september
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | envelopeworks.com      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Sep 25, 2023      | 

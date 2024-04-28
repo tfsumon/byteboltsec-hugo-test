@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | colliers.com      | 
 | Threat Actor    | LV Blog      | 
 | Date Discovered    | Jan 20, 2021      | 

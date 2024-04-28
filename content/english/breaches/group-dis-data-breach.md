@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/may
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | group-dis.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | May 16, 2023      | 

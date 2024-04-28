@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | jones-hamilton.com      | 
 | Threat Actor      | Abyss      | 
 | Date Discovered      | Mar 21, 2023      | 

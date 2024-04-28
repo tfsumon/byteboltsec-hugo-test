@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | audiusa.com      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Jun 15, 2021      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | signumcz.com      | 
 | Threat Actor    | Everest      | 
 | Date Discovered    | Feb 21, 2022      | 

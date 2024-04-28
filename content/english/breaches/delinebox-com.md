@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | delinebox.com      | 
 | Threat Actor    | Cuba      | 
 | Date Discovered    | Dec 15, 2021      | 

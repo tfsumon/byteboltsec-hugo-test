@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/may
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | ogdencountryclub.com      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | May 02, 2021      | 

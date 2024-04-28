@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | projectmore.org      | 
 | Threat Actor      | Hunters      | 
 | Date Discovered      | Jan 05, 2024      | 

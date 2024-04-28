@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/june
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | rgalliance.com      | 
 | Threat Actor      | Quantum      | 
 | Date Discovered      | Jun 17, 2022      | 

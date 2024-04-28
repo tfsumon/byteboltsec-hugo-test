@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | duravit.com      | 
 | Threat Actor      | Ragnar      | 
 | Date Discovered      | Oct 28, 2022      | 

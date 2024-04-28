@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | msim.de      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Nov 16, 2023      | 

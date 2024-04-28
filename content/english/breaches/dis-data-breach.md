@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | disltd.ca      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Apr 11, 2023      | 

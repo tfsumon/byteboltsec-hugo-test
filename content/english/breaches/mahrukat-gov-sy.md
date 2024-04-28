@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | mahrukat.gov.sy      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Jun 22, 2021      | 

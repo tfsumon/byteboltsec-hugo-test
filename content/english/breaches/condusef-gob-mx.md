@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | condusef.gob.mx      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Jan 12, 2022      | 

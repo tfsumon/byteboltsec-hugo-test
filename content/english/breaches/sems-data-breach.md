@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | semsinc.net      | 
 | Threat Actor      | LockBut      | 
 | Date Discovered      | Feb 16, 2023      | 

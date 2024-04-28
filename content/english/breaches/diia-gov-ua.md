@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | diia.gov.ua      | 
 | Threat Actor    | Free Civilian      | 
 | Date Discovered    | Feb 13, 2022      | 

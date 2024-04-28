@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | ghihornos.com      | 
 | Threat Actor    | Ragnar_Locker      | 
 | Date Discovered    | Mar 01, 2022      | 

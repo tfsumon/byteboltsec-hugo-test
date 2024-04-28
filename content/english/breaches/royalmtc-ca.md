@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/september
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | royalmtc.ca      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Sep 24, 2020      | 

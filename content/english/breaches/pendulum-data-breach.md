@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | pendulum.top      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Jan 09, 2023      | 

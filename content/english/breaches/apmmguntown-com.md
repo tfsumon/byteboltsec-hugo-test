@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | apmmguntown.com      | 
 | Threat Actor    | LV Blog      | 
 | Date Discovered    | Apr 14, 2021      | 

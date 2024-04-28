@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/may
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | coraphysicaltherapy.com      | 
 | Threat Actor    | ALPHV      | 
 | Date Discovered    | May 02, 2022      | 

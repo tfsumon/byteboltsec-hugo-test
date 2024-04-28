@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | atlassecurityservices.us      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Mar 22, 2023      | 

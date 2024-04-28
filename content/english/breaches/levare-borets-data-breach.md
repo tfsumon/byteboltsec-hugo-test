@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/august
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | levare.com      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Aug 14, 2023      | 

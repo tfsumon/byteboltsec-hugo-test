@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/march
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | contechs.co.uk      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Mar 13, 2024      | 

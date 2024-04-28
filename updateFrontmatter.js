@@ -4,7 +4,7 @@ const yaml = require('js-yaml');
 const MarkdownIt = require('markdown-it');
 const mdi = new MarkdownIt();
 
-const directoryPath = path.join(__dirname, 'content/english/breaches');
+const directoryPath = path.join(__dirname, 'content/english/__low');
 
 // Helper function to format date to "YYYY/Month"
 function formatDate(dateStr) {
@@ -46,7 +46,10 @@ function updateFrontMatter(filePath) {
             const yamlUpdated = yaml.dump(frontMatter, { lineWidth: -1 });
 
             // Reassemble the full content with updated front matter
-            const updatedContent = `---\n${yamlUpdated}---\n${contentParts.slice(2).join('---')}`;
+            let updatedContent = `---\n${yamlUpdated}---\n${contentParts.slice(2).join('---')}`;
+
+            // Replace "| Data Breach Report------------:" with "| Data Breach Report\n------------:"
+            updatedContent = updatedContent.replace('| Data Breach Report------------:', '| Data Breach Report\n------------:');
 
             // Write the updated content back to the file
             fs.writeFile(filePath, updatedContent, 'utf8', (err) => {
@@ -61,6 +64,7 @@ function updateFrontMatter(filePath) {
         }
     });
 }
+
 
 // Process all markdown files in the directory
 fs.readdir(directoryPath, (err, files) => {

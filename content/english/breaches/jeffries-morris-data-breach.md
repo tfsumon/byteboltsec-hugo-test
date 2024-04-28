@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | thejeffriescompanies.com      | 
 | Threat Actor      | RansomHouse      | 
 | Date Discovered      | Feb 10, 2023      | 

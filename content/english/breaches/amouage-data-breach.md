@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | amouage.com      | 
 | Threat Actor      | Trigona      | 
 | Date Discovered      | Apr 18, 2023      | 

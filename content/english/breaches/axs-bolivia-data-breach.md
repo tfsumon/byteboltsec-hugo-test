@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2024/february
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | axsbolivia.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Feb 07, 2024      | 

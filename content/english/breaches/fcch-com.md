@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | fcch.com      | 
 | Threat Actor    | HiveLeaks      | 
 | Date Discovered    | Apr 07, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | devmetal.com      | 
 | Threat Actor    | LV Blog      | 
 | Date Discovered    | Mar 25, 2021      | 

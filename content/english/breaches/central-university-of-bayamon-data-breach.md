@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ucb.edu.pr      | 
 | Threat Actor      | NoEscape      | 
 | Date Discovered      | Oct 24, 2023      | 

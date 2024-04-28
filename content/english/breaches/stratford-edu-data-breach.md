@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | stratford.edu      | 
 | Threat Actor    | REvil      | 
 | Date Discovered    | Apr 24, 2022      | 

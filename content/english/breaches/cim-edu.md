@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/december
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | cim.edu      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Dec 29, 2020      | 

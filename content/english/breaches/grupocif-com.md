@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/july
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | grupocif.com      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Jul 01, 2020      | 

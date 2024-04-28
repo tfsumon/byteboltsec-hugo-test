@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/july
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | anhalt-bitterfeld.de      | 
 | Threat Actor    | Grief      | 
 | Date Discovered    | Jul 12, 2021      | 

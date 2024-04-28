@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/september
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | ativy.com      | 
 | Threat Actor    | Grief      | 
 | Date Discovered    | Sep 04, 2021      | 

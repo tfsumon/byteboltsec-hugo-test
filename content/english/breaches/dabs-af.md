@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | dabs.af      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Jan 09, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/september
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | movilnet.com.ve      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Sep 29, 2021      | 

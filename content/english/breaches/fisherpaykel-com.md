@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/june
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | fisherpaykel.com      | 
 | Threat Actor    | Corporate Leaks      | 
 | Date Discovered    | Jun 10, 2020      | 

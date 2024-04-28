@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | westcentralfoods.com      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Oct 17, 2020      | 

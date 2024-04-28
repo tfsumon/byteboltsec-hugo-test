@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | hkscda.org      | 
 | Threat Actor      | LV      | 
 | Date Discovered      | Jul 29, 2022      | 

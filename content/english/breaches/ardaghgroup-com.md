@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/april
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | ardaghgroup.com      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Apr 03, 2021      | 

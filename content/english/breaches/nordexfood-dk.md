@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | nordexfood.dk      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Mar 20, 2022      | 

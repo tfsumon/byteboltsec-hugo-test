@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/january
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | admiral.at      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Jan 30, 2023      | 

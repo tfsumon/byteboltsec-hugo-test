@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | banleong.com.sg      | 
 | Threat Actor      | Mallox      | 
 | Date Discovered      | Dec 14, 2022      | 

@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/july
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | chenmoore.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Jul 21, 2022      | 

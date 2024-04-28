@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/april
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | cavalierhospital.com      | 
 | Threat Actor      | AvosLocker      | 
 | Date Discovered      | Apr 25, 2023      | 

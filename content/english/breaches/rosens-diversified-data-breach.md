@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | rosensdiversifiedinc.com      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Dec 05, 2023      | 

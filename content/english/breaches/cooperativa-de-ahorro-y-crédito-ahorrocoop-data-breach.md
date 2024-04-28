@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/may
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ahorrocoop.cl      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | May 10, 2023      | 

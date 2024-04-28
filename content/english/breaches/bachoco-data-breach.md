@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/december
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | bachoco.com.mx      | 
 | Threat Actor      | Cactus      | 
 | Date Discovered      | Dec 29, 2023      | 

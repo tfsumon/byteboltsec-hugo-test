@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | rainbowtravel.info      | 
 | Threat Actor      | Monti      | 
 | Date Discovered      | Oct 02, 2023      | 

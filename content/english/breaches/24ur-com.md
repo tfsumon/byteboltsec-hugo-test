@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/february
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | 24ur.com      | 
 | Threat Actor    | RansomEXX      | 
 | Date Discovered    | Feb 15, 2022      | 

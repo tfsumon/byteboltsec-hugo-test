@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/march
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | medinadairy.co.uk      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Mar 23, 2022      | 

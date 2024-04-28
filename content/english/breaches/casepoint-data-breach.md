@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/may
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | casepoint.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | May 31, 2023      | 

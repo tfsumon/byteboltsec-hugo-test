@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/november
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | inoxpa.com      | 
 | Threat Actor    | BlackByte      | 
 | Date Discovered    | Nov 24, 2021      | 

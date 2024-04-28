@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/august
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | artasgrubu.com      | 
 | Threat Actor    | AvosLocker      | 
 | Date Discovered    | Aug 28, 2021      | 

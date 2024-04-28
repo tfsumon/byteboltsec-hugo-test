@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | transport.nsw.gov.au      | 
 | Threat Actor    | CLOP      | 
 | Date Discovered    | Oct 05, 2021      | 

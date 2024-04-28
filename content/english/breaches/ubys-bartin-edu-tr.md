@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/october
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | ubys.bartin.edu.tr      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Oct 18, 2021      | 

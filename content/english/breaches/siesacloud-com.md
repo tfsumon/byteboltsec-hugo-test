@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2020/january
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | siesacloud.com      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Jan 14, 2020      | 

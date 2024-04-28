@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2021/september
 ---
 
-| Data Breach Report------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | benner.com.br      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Sep 14, 2021      | 

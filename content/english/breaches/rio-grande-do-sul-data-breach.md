@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2022/october
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | rs.gov.br      | 
 | Threat Actor      | Everest      | 
 | Date Discovered      | Oct 10, 2022      | 

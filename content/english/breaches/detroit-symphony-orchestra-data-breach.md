@@ -8,7 +8,9 @@ draft: false
 yearmonths: 2023/november
 ---
 
-| Data Breach Report------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | dso.org      | 
 | Threat Actor      | Snatch      | 
 | Date Discovered      | Nov 02, 2023      | 
