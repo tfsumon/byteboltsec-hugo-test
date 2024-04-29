@@ -11,27 +11,32 @@
 {{ end }}
 
 {{ $years := $years | uniq }}
-<div class="months">
-  {{ range $i, $ele := $years }}
-    {{ $year := . }}
-    {{ $filteredMonths := slice }}
+<div class="col-lg-4 breaches-sidebar" id="sidebarContent">
+  <div class="months">
+    {{ range $i, $ele := $years }}
+      {{ $year := . }}
+      {{ $filteredMonths := slice }}
 
-    {{/* Show Year */}}
-    <div class="year">{{ . }}</div>
+      {{/* Show Year */}}
+      <div class="year">{{ . }}</div>
 
-    {{ range $key, $data := $yearMonths }}
-      {{ if strings.Contains . $year }}
-        {{ $filteredMonths = $filteredMonths | append . }}
+      {{ range $key, $data := $yearMonths }}
+        {{ if strings.Contains . $year }}
+          {{ $filteredMonths = $filteredMonths | append . }}
+        {{ end }}
       {{ end }}
+      <ul>
+        {{/* Show Current Looped Year Related Months */}}
+        {{- $filteredMonthsReversed := partial "reverse-slice.html" $filteredMonths -}}
+        {{ range $filteredMonthsReversed }}
+          <li>
+            <a href="/breaches/{{ . }}">{{ index (split . "/") 1 }}</a>
+          </li>
+        {{ end }}
+      </ul>
     {{ end }}
-    <ul>
-      {{/* Show Current Looped Year Related Months */}}
-      {{- $filteredMonthsReversed := partial "reverse-slice.html" $filteredMonths -}}
-      {{ range $filteredMonthsReversed }}
-        <li>
-          <a href="/breaches/{{ . }}">{{ index (split . "/") 1 }}</a>
-        </li>
-      {{ end }}
-    </ul>
-  {{ end }}
+  </div>
+  <button class="breaches-sidebar-close-btn">
+    <i class="las la-times"></i>
+  </button>
 </div>

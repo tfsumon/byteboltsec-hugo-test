@@ -197,19 +197,23 @@
 // Breaches Sidebar 
 .months {
   box-shadow: 0px 0px 10px 10px #00000005;
-  padding: 20px;
+  padding: 40px 30px;
+  
+  @include desktop-lg {
+    padding: 30px;
+  }
+
   .year {
     font-size: 20px;
     font-weight: 500;
     margin-bottom: 15px;
-    padding-bottom: 15px;
-    border-bottom: 1px solid #f5f3f3;
+    color: $black !important;
   }
   ul {
     gap: 10px;
     display: flex;
     flex-wrap: wrap;
-    margin-bottom: 40px;
+    margin-bottom: 30px;
     list-style-type: none;
     li {
       a {
@@ -223,7 +227,7 @@
 
         &:hover {
           color: white;
-          background-color: rgb(25, 22, 22);
+          background-color: $black;
         }
       }
     }
@@ -234,19 +238,83 @@
   }
 }
 
-.sidebar-filter-button {
+.sidebar-open-btn {
   display: none;
-  position: fixed;
-  border: 1px solid $border-color;
+  font-size: .9em;
+  padding: 6px 10px;
+  margin-right: 10px;
+  border-radius: 6px;
+  white-space: nowrap;
   background-color: $white;
+  border: 1px solid $border-color;
 
-  &,&::after {
-    border-top-left-radius: 0px !important;
-    border-bottom-left-radius: 0px !important;
+  img {
+  }
+
+  span {
+    margin-left: 5px;
+    display: inline-block;
+    @include mobile {
+      display: none;
+    }
   }
 
   @include desktop {
     display: block;
+  }
+}
+
+.breaches-sidebar {
+  top: 100px;
+  position: sticky;
+  
+  &-close-btn {
+    display: none;
+  }
+  .months {
+    overflow: auto;
+    max-height: 88vh;
+  }
+
+  @include desktop {
+    top: 0px;
+    padding-inline: 0px;
+    max-width: 80%;
+    width: 400px;
+    height: 100%;
+    z-index: 9999;
+    left: -100%;
+    position: fixed;
+    background-color: $white;
+    box-shadow: 0 0 10px 10px #00000005;
+    transition: all 0.5s cubic-bezier(0.19, 1, 0.22, 1);
+  
+    .months {
+      max-height: 100vh;
+      box-shadow: none;
+    }
+  
+    &.active {
+      left: 0;
+    }
+  
+    &-close-btn {
+      position: absolute;
+      right: -40px;
+      top: 30px;
+      width: 40px;
+      height: 40px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      z-index: 9999;
+      border: none;
+      background-color: $white;
+      border-top-right-radius: 10px;
+      border-bottom-right-radius: 10px;
+      box-shadow: 0 0 10px 10px #00000005;
+    }
   }
 }
 
@@ -945,7 +1013,7 @@
   border-radius: 1.125rem;
   overflow: hidden;
   border: 0;
-  margin-top: 1.875rem;
+  margin-bottom: 1.875rem;
   height: calc(100% - 1.875rem);
 
   .card-body {

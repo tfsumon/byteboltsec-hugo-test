@@ -19,17 +19,14 @@
   </section>
 {{ end }}
 
-<section class="section-sm" data-aos="fade-in">
+<section class="section-sm">
   <div class="container-xxl">
-    <div class="row gy-5 align-items-start">
-      <div class="col-lg-4">
-        {{ partial "components/breaches-filter.html" }}
-      </div>
+    <div class="row align-items-start">
+      {{ partial "components/breaches-filter.html" }}
 
       <div class="col-lg-8">
         {{ $yearMonths := slice }}
         {{ range $i, $data := (site.GetPage "/breaches").Pages.GroupByPublishDate "January 2006" }}
-
           {{ range first 1 .Pages }}
             {{ if .Params.yearmonths }}
               {{ $yearMonths = $yearMonths | append (.PublishDate | time.Format "2006/January" | lower) }}
@@ -38,17 +35,18 @@
         {{ end }}
         {{ $recentYear := index (split (index $yearMonths 0) "/") 0 }}
         {{ $recentMonth := index (split (index $yearMonths 0) "/") 1 }}
-
-
-        <h2>Data Breaches - {{ $recentMonth | title }} {{ $recentYear }}</h2>
+        
+        {{ if not (gt .Paginator.PageNumber 1) }}
+          <h2 class="mb-4">Data Breaches - {{ $recentMonth | title }} {{ $recentYear }}</h2>
+        {{ end }}
         <div class="row">
           {{ $paginator := .Paginate (where site.RegularPages "Section" "in" site.Params.breachSections) }}
           {{ range $paginator.Pages }}
-            <div class="col-lg-6">
+            <div class="col-md-6 col-lg-6">
             {{ .Render "article" }}
             </div>
           {{ end }}
-          <div class="col-12 mt-5">
+          <div class="col-12 mt-3">
             {{"<!-- pagination -->" | safeHTML }}
             {{ $paginator := .Paginator }}
             <!-- Number of links either side of the current page. -->
@@ -61,7 +59,7 @@
             {{ $upper_limit := (sub $paginator.TotalPages $adjacent_links) }}
             <!-- If there's more than one page. -->
             {{ if gt $paginator.TotalPages 1 }}
-            <nav class="mb-3">
+            <nav class="mb-0">
               <ul class="pagination justify-content-center">
                 <!-- Previous page. -->
                 {{ if $paginator.HasPrev }}
