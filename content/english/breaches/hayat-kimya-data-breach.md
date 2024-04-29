@@ -1,14 +1,16 @@
 ---
-Discovered: "September 11, 2022"
-date: "2022-09-11"
-title: "Hayat Kimya"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+Discovered: September 11, 2022
+date: '2022-09-11'
+title: Hayat Kimya
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | hayat.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Sep 11, 2022      | 

@@ -1,14 +1,16 @@
 ---
-date: "2023-10-05"
-discovered: "October 05, 2023"
-title: "Meridian"
-image: "images/blog/Blackbyte.png"
-author: "Breachsense Support"
+date: '2023-10-05'
+discovered: October 05, 2023
+title: Meridian
+image: images/blog/Blackbyte.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | meridian.coop      | 
 | Threat Actor      | Blackbyte      | 
 | Date Discovered      | Oct 05, 2023      | 

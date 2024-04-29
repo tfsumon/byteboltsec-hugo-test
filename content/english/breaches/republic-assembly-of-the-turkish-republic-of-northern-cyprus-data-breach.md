@@ -1,14 +1,16 @@
 ---
-date: "2023-08-30"
-discovered: "August 30, 2023"
-title: "Republic Assembly of the Turkish Republic of Northern Cyprus"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-08-30'
+discovered: August 30, 2023
+title: Republic Assembly of the Turkish Republic of Northern Cyprus
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | cm.gov.nc.tr      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Aug 30, 2023      | 

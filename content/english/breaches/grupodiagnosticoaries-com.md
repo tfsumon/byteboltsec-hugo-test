@@ -1,14 +1,16 @@
 ---
-Discovered: "June 13, 2021"
-date: "2021-06-13"
-title: "grupodiagnosticoaries.com"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: June 13, 2021
+date: '2021-06-13'
+title: grupodiagnosticoaries.com
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/june
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | grupodiagnosticoaries.com      | 
 | Threat Actor    | LV Blog      | 
 | Date Discovered    | Jun 13, 2021      | 

@@ -1,14 +1,16 @@
 ---
-date: "2023-02-14"
-discovered: "February 14, 2023"
-title: "Reventics"
-image: "images/blog/Royal.png"
-author: "Breachsense Support"
+date: '2023-02-14'
+discovered: February 14, 2023
+title: Reventics
+image: images/blog/Royal.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | reventics.com      | 
 | Threat Actor      | Royal      | 
 | Date Discovered      | Feb 14, 2023      | 

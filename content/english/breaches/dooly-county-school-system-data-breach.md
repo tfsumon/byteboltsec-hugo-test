@@ -1,14 +1,16 @@
 ---
-Discovered: "December 22, 2022"
-date: "2022-12-22"
-title: "Dooly County School System"
-image: "images/blog/UnSafe.png"
-author: "Breachsense Support"
+Discovered: December 22, 2022
+date: '2022-12-22'
+title: Dooly County School System
+image: images/blog/UnSafe.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | dooly.k12.ga.us      | 
 | Threat Actor      | UnSafe      | 
 | Date Discovered      | Dec 22, 2022      | 

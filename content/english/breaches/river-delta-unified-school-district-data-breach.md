@@ -1,14 +1,16 @@
 ---
-date: "2024-02-21"
-discovered: "February 21, 2024"
-title: "River Delta Unified School District"
-image: "images/blog/Meow.png"
-author: "Breachsense Support"
+date: '2024-02-21'
+discovered: February 21, 2024
+title: River Delta Unified School District
+image: images/blog/Meow.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | rdusd.org      | 
 | Threat Actor      | Meow      | 
 | Date Discovered      | Feb 21, 2024      | 

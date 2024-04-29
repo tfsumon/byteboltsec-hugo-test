@@ -1,14 +1,16 @@
 ---
-date: "2024-03-13"
-discovered: "March 13, 2024"
-title: "Boulevard Brewing"
-image: "images/blog/BlackBasta.png"
-author: "Breachsense Support"
+date: '2024-03-13'
+discovered: March 13, 2024
+title: Boulevard Brewing
+image: images/blog/BlackBasta.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | boulevard.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Mar 13, 2024      | 

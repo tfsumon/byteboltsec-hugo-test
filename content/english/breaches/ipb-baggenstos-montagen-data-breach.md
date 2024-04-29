@@ -1,14 +1,16 @@
 ---
-Discovered: "October 28, 2022"
-date: "2022-10-28"
-title: "ipb Baggenstos Montagen"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: October 28, 2022
+date: '2022-10-28'
+title: ipb Baggenstos Montagen
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ipb.ch      | 
 | Threat Actor      | Karakurt      | 
 | Date Discovered      | Oct 28, 2022      | 

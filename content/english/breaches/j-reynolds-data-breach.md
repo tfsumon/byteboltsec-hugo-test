@@ -1,14 +1,16 @@
 ---
-date: "2023-02-09"
-discovered: "February 09, 2023"
-title: "J Reynolds"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+date: '2023-02-09'
+discovered: February 09, 2023
+title: J Reynolds
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | jreynolds.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Feb 09, 2023      | 

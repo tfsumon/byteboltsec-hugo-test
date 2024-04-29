@@ -1,14 +1,16 @@
 ---
-date: "2023-07-13"
-discovered: "July 13, 2023"
-title: "Divgi TorqTransfer Systems"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+date: '2023-07-13'
+discovered: July 13, 2023
+title: Divgi TorqTransfer Systems
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | divgi-tts.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Jul 13, 2023      | 

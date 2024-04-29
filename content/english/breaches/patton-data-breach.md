@@ -1,14 +1,16 @@
 ---
-Discovered: "December 01, 2022"
-date: "2022-12-01"
-title: "Patton"
-image: "images/blog/Cuba.png"
-author: "Breachsense Support"
+Discovered: December 01, 2022
+date: '2022-12-01'
+title: Patton
+image: images/blog/Cuba.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | patton.com      | 
 | Threat Actor      | Cuba      | 
 | Date Discovered      | Dec 01, 2022      | 

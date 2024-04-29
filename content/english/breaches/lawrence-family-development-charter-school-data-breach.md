@@ -1,14 +1,16 @@
 ---
-date: "2023-05-03"
-discovered: "May 03, 2023"
-title: "Lawrence Family Development Charter School"
-image: "images/blog/Snatch.png"
-author: "Breachsense Support"
+date: '2023-05-03'
+discovered: May 03, 2023
+title: Lawrence Family Development Charter School
+image: images/blog/Snatch.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/may
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | lfdcs.org      | 
 | Threat Actor      | Snatch      | 
 | Date Discovered      | May 03, 2023      | 

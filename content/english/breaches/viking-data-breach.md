@@ -1,14 +1,16 @@
 ---
-date: "2023-12-19"
-discovered: "December 19, 2023"
-title: "Viking "
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+date: '2023-12-19'
+discovered: December 19, 2023
+title: 'Viking '
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | vikingtherapeutics.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Dec 19, 2023      | 

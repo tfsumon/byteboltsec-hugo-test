@@ -1,14 +1,16 @@
 ---
-date: "2024-03-05"
-discovered: "March 05, 2024"
-title: "The City of Nassau Bay"
-image: "images/blog/Akira.png"
-author: "Breachsense Support"
+date: '2024-03-05'
+discovered: March 05, 2024
+title: The City of Nassau Bay
+image: images/blog/Akira.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | nassaubay.com      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Mar 05, 2024      | 

@@ -1,14 +1,16 @@
 ---
-Discovered: "November 25, 2021"
-date: "2021-11-25"
-title: "policia.gob.ec"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: November 25, 2021
+date: '2021-11-25'
+title: policia.gob.ec
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/november
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | policia.gob.ec      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Nov 25, 2021      | 

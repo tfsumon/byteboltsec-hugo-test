@@ -1,14 +1,16 @@
 ---
-Discovered: "August 18, 2022"
-date: "2022-08-18"
-title: "Wooton Academy Trust"
-image: "images/blog/HiveLeaks.png"
-author: "Breachsense Support"
+Discovered: August 18, 2022
+date: '2022-08-18'
+title: Wooton Academy Trust
+image: images/blog/HiveLeaks.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | woottonupper.co.uk      | 
 | Threat Actor      | HiveLeaks      | 
 | Date Discovered      | Aug 18, 2022      | 

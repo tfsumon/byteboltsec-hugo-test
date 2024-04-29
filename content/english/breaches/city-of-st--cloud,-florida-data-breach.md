@@ -1,14 +1,16 @@
 ---
-date: "2024-04-19"
-discovered: "April 19, 2024"
-title: "City of St. Cloud, Florida"
-image: "images/blog/Hunters.png"
-author: "Breachsense Support"
+date: '2024-04-19'
+discovered: April 19, 2024
+title: City of St. Cloud, Florida
+image: images/blog/Hunters.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/april
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | stcloudfl.gov      | 
 | Threat Actor      | Hunters      | 
 | Date Discovered      | Apr 19, 2024      | 

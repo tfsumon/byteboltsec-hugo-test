@@ -1,14 +1,16 @@
 ---
-date: "2024-01-17"
-discovered: "January 17, 2024"
-title: "Syndicat General des Vignerons de la Champagne"
-image: "images/blog/8BASE.png"
-author: "Breachsense Support"
+date: '2024-01-17'
+discovered: January 17, 2024
+title: Syndicat General des Vignerons de la Champagne
+image: images/blog/8BASE.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | sgv-champagne.fr      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Jan 17, 2024      | 

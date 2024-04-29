@@ -1,14 +1,16 @@
 ---
-date: "2023-01-20"
-discovered: "January 20, 2023"
-title: "Monmouth College"
-image: "images/blog/ViceSociety.png"
-author: "Breachsense Support"
+date: '2023-01-20'
+discovered: January 20, 2023
+title: Monmouth College
+image: images/blog/ViceSociety.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | monmouthcollege.edu      | 
 | Threat Actor      | ViceSociety      | 
 | Date Discovered      | Jan 20, 2023      | 

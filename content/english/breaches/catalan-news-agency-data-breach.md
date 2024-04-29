@@ -1,14 +1,16 @@
 ---
-date: "2023-10-09"
-discovered: "October 09, 2023"
-title: "Catalan News Agency"
-image: "images/blog/Medusa.png"
-author: "Breachsense Support"
+date: '2023-10-09'
+discovered: October 09, 2023
+title: Catalan News Agency
+image: images/blog/Medusa.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | catalannews.com      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Oct 09, 2023      | 

@@ -1,14 +1,16 @@
 ---
-date: "2023-05-04"
-discovered: "May 04, 2023"
-title: "ASL 1 Avezzano - Sulmona - L'Aquila"
-image: "images/blog/Monti.png"
-author: "Breachsense Support"
+date: '2023-05-04'
+discovered: May 04, 2023
+title: ASL 1 Avezzano - Sulmona - L'Aquila
+image: images/blog/Monti.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/may
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | asl1abruzzo.it      | 
 | Threat Actor      | Monti      | 
 | Date Discovered      | May 04, 2023      | 

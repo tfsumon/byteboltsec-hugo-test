@@ -1,14 +1,16 @@
 ---
-date: "2023-05-01"
-discovered: "May 01, 2023"
-title: "Western Digital"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+date: '2023-05-01'
+discovered: May 01, 2023
+title: Western Digital
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/may
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | westerndigital.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | May 01, 2023      | 

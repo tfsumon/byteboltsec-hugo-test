@@ -1,14 +1,16 @@
 ---
-date: "2023-11-30"
-discovered: "November 30, 2023"
-title: "Science History Institute"
-image: "images/blog/NoEscape.png"
-author: "Breachsense Support"
+date: '2023-11-30'
+discovered: November 30, 2023
+title: Science History Institute
+image: images/blog/NoEscape.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | sciencehistory.org      | 
 | Threat Actor      | NoEscape      | 
 | Date Discovered      | Nov 30, 2023      | 

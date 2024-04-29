@@ -1,14 +1,16 @@
 ---
-date: "2024-02-29"
-discovered: "February 29, 2024"
-title: "DTN Management"
-image: "images/blog/Akira.png"
-author: "Breachsense Support"
+date: '2024-02-29'
+discovered: February 29, 2024
+title: DTN Management
+image: images/blog/Akira.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | dtnmgt.com      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Feb 29, 2024      | 

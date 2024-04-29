@@ -1,14 +1,16 @@
 ---
-date: "2023-06-19"
-discovered: "June 19, 2023"
-title: "TDM"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-06-19'
+discovered: June 19, 2023
+title: TDM
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | tdm.com.pe      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jun 19, 2023      | 

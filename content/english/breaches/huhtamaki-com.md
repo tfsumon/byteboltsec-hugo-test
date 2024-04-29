@@ -1,14 +1,16 @@
 ---
-Discovered: "January 09, 2022"
-date: "2022-01-09"
-title: "huhtamaki.com"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: January 09, 2022
+date: '2022-01-09'
+title: huhtamaki.com
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/january
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | huhtamaki.com      | 
 | Threat Actor    | Everest      | 
 | Date Discovered    | Jan 09, 2022      | 

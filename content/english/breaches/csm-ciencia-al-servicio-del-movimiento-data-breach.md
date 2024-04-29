@@ -1,14 +1,16 @@
 ---
-date: "2023-12-23"
-discovered: "December 23, 2023"
-title: "CSM Ciencia al Servicio del Movimiento"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-12-23'
+discovered: December 23, 2023
+title: CSM Ciencia al Servicio del Movimiento
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | csmsa.com.ar      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Dec 23, 2023      | 

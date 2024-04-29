@@ -1,14 +1,16 @@
 ---
-date: "2023-06-01"
-discovered: "June 01, 2023"
-title: "Oppida"
-image: "images/blog/Qilin.png"
-author: "Breachsense Support"
+date: '2023-06-01'
+discovered: June 01, 2023
+title: Oppida
+image: images/blog/Qilin.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | oppida.com      | 
 | Threat Actor      | Qilin      | 
 | Date Discovered      | Jun 01, 2023      | 

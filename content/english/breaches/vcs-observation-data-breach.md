@@ -1,14 +1,16 @@
 ---
-date: "2024-02-06"
-discovered: "February 06, 2024"
-title: "VCS Observation"
-image: "images/blog/Akira.png"
-author: "Breachsense Support"
+date: '2024-02-06'
+discovered: February 06, 2024
+title: VCS Observation
+image: images/blog/Akira.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | vcsobservation.com      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Feb 06, 2024      | 

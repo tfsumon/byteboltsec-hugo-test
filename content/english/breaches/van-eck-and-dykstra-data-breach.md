@@ -1,14 +1,16 @@
 ---
-date: "2023-09-29"
-discovered: "September 29, 2023"
-title: "Van Eck and Dykstra"
-image: "images/blog/Play.png"
-author: "Breachsense Support"
+date: '2023-09-29'
+discovered: September 29, 2023
+title: Van Eck and Dykstra
+image: images/blog/Play.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | vanecktransport.nl      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Sep 29, 2023      | 

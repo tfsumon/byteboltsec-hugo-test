@@ -1,14 +1,16 @@
 ---
-date: "2023-12-14"
-discovered: "December 14, 2023"
-title: "SBK"
-image: "images/blog/8BASE.png"
-author: "Breachsense Support"
+date: '2023-12-14'
+discovered: December 14, 2023
+title: SBK
+image: images/blog/8BASE.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | sbkrealestate.com      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Dec 14, 2023      | 

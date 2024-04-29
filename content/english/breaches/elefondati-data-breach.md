@@ -1,14 +1,16 @@
 ---
-Discovered: "August 15, 2022"
-date: "2022-08-15"
-title: "ELEFONDATI"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: August 15, 2022
+date: '2022-08-15'
+title: ELEFONDATI
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | elefondati.it      | 
 | Threat Actor      | LV      | 
 | Date Discovered      | Aug 15, 2022      | 

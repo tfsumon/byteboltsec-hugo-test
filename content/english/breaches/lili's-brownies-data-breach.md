@@ -1,14 +1,16 @@
 ---
-date: "2024-02-12"
-discovered: "February 12, 2024"
-title: "Lili's Brownies"
-image: "images/blog/8BASE.png"
-author: "Breachsense Support"
+date: '2024-02-12'
+discovered: February 12, 2024
+title: Lili's Brownies
+image: images/blog/8BASE.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | lilisbrownies.fr      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Feb 12, 2024      | 

@@ -1,14 +1,16 @@
 ---
-date: "2023-08-18"
-discovered: "August 18, 2023"
-title: "Clifton Public Schools"
-image: "images/blog/Akira.png"
-author: "Breachsense Support"
+date: '2023-08-18'
+discovered: August 18, 2023
+title: Clifton Public Schools
+image: images/blog/Akira.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | clifton.k12.nj.us      | 
 | Threat Actor      |  Akira     | 
 | Date Discovered      | Aug 18, 2023      | 

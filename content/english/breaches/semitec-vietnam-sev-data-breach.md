@@ -1,14 +1,16 @@
 ---
-Discovered: "December 26, 2022"
-date: "2022-12-26"
-title: "Semitec Vietnam (SEV)"
-image: "images/blog/BianLian.png"
-author: "Breachsense Support"
+Discovered: December 26, 2022
+date: '2022-12-26'
+title: Semitec Vietnam (SEV)
+image: images/blog/BianLian.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | semitec.vn      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Dec 26, 2022      | 

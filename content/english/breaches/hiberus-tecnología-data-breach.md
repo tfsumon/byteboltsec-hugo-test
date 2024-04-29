@@ -1,14 +1,16 @@
 ---
-date: "2023-06-27"
-discovered: "June 27, 2023"
-title: "Hiberus Tecnología"
-image: "images/blog/BianLian.png"
-author: "Breachsense Support"
+date: '2023-06-27'
+discovered: June 27, 2023
+title: Hiberus Tecnología
+image: images/blog/BianLian.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | hiberus.com      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Jun 27, 2023      | 

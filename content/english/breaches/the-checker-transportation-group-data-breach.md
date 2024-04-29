@@ -1,14 +1,16 @@
 ---
-Discovered: "September 09, 2022"
-date: "2022-09-09"
-title: "The Checker Transportation Group"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+Discovered: September 09, 2022
+date: '2022-09-09'
+title: The Checker Transportation Group
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | thecheckergroup.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Sep 09, 2022      | 

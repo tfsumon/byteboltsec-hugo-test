@@ -1,14 +1,16 @@
 ---
-Discovered: "December 07, 2022"
-date: "2022-12-07"
-title: "G4S"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: December 07, 2022
+date: '2022-12-07'
+title: G4S
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | g4s.com       | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Dec 07, 2022      | 

@@ -1,14 +1,16 @@
 ---
-date: "2023-02-07"
-discovered: "February 07, 2023"
-title: "AmerisourceBergen"
-image: "images/blog/Lorenz.png"
-author: "Breachsense Support"
+date: '2023-02-07'
+discovered: February 07, 2023
+title: AmerisourceBergen
+image: images/blog/Lorenz.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | amerisourcebergen.com      | 
 | Threat Actor      | Lorenz      | 
 | Date Discovered      | Feb 07, 2023      | 

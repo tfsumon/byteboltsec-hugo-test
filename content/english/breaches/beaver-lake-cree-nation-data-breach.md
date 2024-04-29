@@ -1,14 +1,16 @@
 ---
-date: "2023-10-24"
-discovered: "October 24, 2023"
-title: "Beaver Lake Cree Nation"
-image: "images/blog/Medusa.png"
-author: "Breachsense Support"
+date: '2023-10-24'
+discovered: October 24, 2023
+title: Beaver Lake Cree Nation
+image: images/blog/Medusa.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | beaverlakecreenation.ca      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Oct 24, 2023      | 

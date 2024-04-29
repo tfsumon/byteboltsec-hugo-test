@@ -1,14 +1,16 @@
 ---
-date: "2024-03-28"
-discovered: "March 28, 2024"
-title: "Quality Enclosures"
-image: "images/blog/Play.png"
-author: "Breachsense Support"
+date: '2024-03-28'
+discovered: March 28, 2024
+title: Quality Enclosures
+image: images/blog/Play.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | qualityenclosures.com      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Mar 28, 2024      | 

@@ -1,14 +1,16 @@
 ---
-date: "2024-01-08"
-discovered: "January 08, 2024"
-title: "The Lutheran World Federation"
-image: "images/blog/Rhysida.png"
-author: "Breachsense Support"
+date: '2024-01-08'
+discovered: January 08, 2024
+title: The Lutheran World Federation
+image: images/blog/Rhysida.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | lutheranworld.org      | 
 | Threat Actor      | Rhysida      | 
 | Date Discovered      | Jan 08, 2024      | 

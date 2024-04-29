@@ -1,14 +1,16 @@
 ---
-date: "2023-07-17"
-discovered: "July 17, 2023"
-title: "Emoneko"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-07-17'
+discovered: July 17, 2023
+title: Emoneko
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | eyedoc.com.na      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jul 17, 2023      | 

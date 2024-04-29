@@ -1,14 +1,16 @@
 ---
-date: "2023-05-03"
-discovered: "May 03, 2023"
-title: "Albany ENT & Allergy Services"
-image: "images/blog/RansomHouse.png"
-author: "Breachsense Support"
+date: '2023-05-03'
+discovered: May 03, 2023
+title: Albany ENT & Allergy Services
+image: images/blog/RansomHouse.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/may
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | albanyentandallergy.com      | 
 | Threat Actor      | RansomHouse      | 
 | Date Discovered      | May 03, 2023      | 

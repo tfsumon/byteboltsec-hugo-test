@@ -1,14 +1,16 @@
 ---
-date: "2024-02-21"
-discovered: "February 21, 2024"
-title: "Finlay Screening & Crushing Systems"
-image: "images/blog/Hunters.png"
-author: "Breachsense Support"
+date: '2024-02-21'
+discovered: February 21, 2024
+title: Finlay Screening & Crushing Systems
+image: images/blog/Hunters.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | finlay.com.au      | 
 | Threat Actor      | Hunters      | 
 | Date Discovered      | Feb 21, 2024      | 

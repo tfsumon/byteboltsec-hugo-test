@@ -1,14 +1,16 @@
 ---
-date: "2023-08-30"
-discovered: "August 30, 2023"
-title: "Wright, Moore, DeHart, Dupuis & Hutchinson"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+date: '2023-08-30'
+discovered: August 30, 2023
+title: Wright, Moore, DeHart, Dupuis & Hutchinson
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | wmddh.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Aug 30, 2023      | 

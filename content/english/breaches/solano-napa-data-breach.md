@@ -1,14 +1,16 @@
 ---
-date: "2023-09-07"
-discovered: "September 07, 2023"
-title: "Solano-Napa"
-image: "images/blog/Knight.png"
-author: "Breachsense Support"
+date: '2023-09-07'
+discovered: September 07, 2023
+title: Solano-Napa
+image: images/blog/Knight.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | solanopetemergency.com      | 
 | Threat Actor      | Knight      | 
 | Date Discovered      | Sep 07, 2023      | 

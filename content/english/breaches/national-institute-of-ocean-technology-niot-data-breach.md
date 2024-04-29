@@ -1,14 +1,16 @@
 ---
-date: "2023-03-17"
-discovered: "March 17, 2023"
-title: "National Institute of Ocean Technology (NIOT)"
-image: "images/blog/Medusa.png"
-author: "Breachsense Support"
+date: '2023-03-17'
+discovered: March 17, 2023
+title: National Institute of Ocean Technology (NIOT)
+image: images/blog/Medusa.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | niot.res.in      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Mar 17, 2023      | 

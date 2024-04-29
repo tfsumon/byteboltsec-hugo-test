@@ -1,14 +1,16 @@
 ---
-date: "2024-02-29"
-discovered: "February 29, 2024"
-title: "Eastern Shipbuilding Group"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2024-02-29'
+discovered: February 29, 2024
+title: Eastern Shipbuilding Group
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | easternshipbuilding.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Feb 29, 2024      | 

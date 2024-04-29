@@ -1,14 +1,16 @@
 ---
-Discovered: "January 20, 2021"
-date: "2021-01-20"
-title: "colliers.com"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: January 20, 2021
+date: '2021-01-20'
+title: colliers.com
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/january
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | colliers.com      | 
 | Threat Actor    | LV Blog      | 
 | Date Discovered    | Jan 20, 2021      | 

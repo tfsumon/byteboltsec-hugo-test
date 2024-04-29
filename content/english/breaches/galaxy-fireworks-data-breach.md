@@ -1,14 +1,16 @@
 ---
-date: "2024-02-01"
-discovered: "February 01, 2024"
-title: "Galaxy Fireworks"
-image: "images/blog/Medusa.png"
-author: "Breachsense Support"
+date: '2024-02-01'
+discovered: February 01, 2024
+title: Galaxy Fireworks
+image: images/blog/Medusa.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | galaxyfireworks.com      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Feb 01, 2024      | 

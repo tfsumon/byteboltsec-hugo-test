@@ -67,3 +67,14 @@ suffixes = [""]
 [outputFormats.WebAppManifest]
 mediaType = "application/manifest+json"
 rel = "manifest"
+
+############################# Taxonomies ##############################
+
+[taxonomies]
+  yearmonth = "yearmonths"
+  tags = "tags"
+
+############################# Permalinks ##############################
+
+[permalinks]
+  yearmonths = "/breaches/:year/:monthname/"

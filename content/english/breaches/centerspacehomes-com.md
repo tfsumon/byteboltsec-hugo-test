@@ -1,14 +1,16 @@
 ---
-Discovered: "November 27, 2021"
-date: "2021-11-27"
-title: "centerspacehomes.com"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: November 27, 2021
+date: '2021-11-27'
+title: centerspacehomes.com
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/november
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | centerspacehomes.com      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Nov 27, 2021      | 

@@ -1,14 +1,16 @@
 ---
-Discovered: "June 12, 2022"
-date: "2022-06-12"
-title: "Laiteries Reunies Societe cooperative"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: June 12, 2022
+date: '2022-06-12'
+title: Laiteries Reunies Societe cooperative
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/june
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | lrgg.ch      | 
 | Threat Actor    | Black Basta      | 
 | Date Discovered    | Jun 12, 2022      | 

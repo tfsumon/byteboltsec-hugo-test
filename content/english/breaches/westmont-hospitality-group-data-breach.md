@@ -1,14 +1,16 @@
 ---
-date: "2023-01-30"
-discovered: "January 30, 2023"
-title: "Westmont Hospitality Group"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+date: '2023-01-30'
+discovered: January 30, 2023
+title: Westmont Hospitality Group
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | whg.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Jan 30, 2023      | 

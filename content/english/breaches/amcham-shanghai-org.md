@@ -1,14 +1,16 @@
 ---
-Discovered: "May 17, 2022"
-date: "2022-05-17"
-title: "amcham-shanghai.org"
-image: "images/blog/Lorenz.png"
-author: "Breachsense Support"
+Discovered: May 17, 2022
+date: '2022-05-17'
+title: amcham-shanghai.org
+image: images/blog/Lorenz.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/may
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | amcham-shanghai.org      | 
 | Threat Actor    | Lorenz      | 
 | Date Discovered    | May 17, 2022      | 

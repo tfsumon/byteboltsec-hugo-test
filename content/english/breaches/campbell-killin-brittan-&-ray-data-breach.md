@@ -1,14 +1,16 @@
 ---
-date: "2023-07-21"
-discovered: "July 21, 2023"
-title: "Campbell Killin Brittan & Ray"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+date: '2023-07-21'
+discovered: July 21, 2023
+title: Campbell Killin Brittan & Ray
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ckbrlaw.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Jul 21, 2023      | 

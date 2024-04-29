@@ -1,14 +1,16 @@
 ---
-date: "2023-01-27"
-discovered: "January 27, 2023"
-title: "Bristol Community College"
-image: "images/blog/ViceSociety.png"
-author: "Breachsense Support"
+date: '2023-01-27'
+discovered: January 27, 2023
+title: Bristol Community College
+image: images/blog/ViceSociety.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | bristolcc.edu      | 
 | Threat Actor      | ViceSociety      | 
 | Date Discovered      | Jan 27, 2023      | 

@@ -1,14 +1,16 @@
 ---
-date: "2023-04-13"
-discovered: "April 13, 2023"
-title: "SunPower Marine"
-image: "images/blog/AvosLocker.png"
-author: "Breachsense Support"
+date: '2023-04-13'
+discovered: April 13, 2023
+title: SunPower Marine
+image: images/blog/AvosLocker.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/april
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | sunpowermarine.com      | 
 | Threat Actor      | AvosLocker      | 
 | Date Discovered      | Apr 13, 2023      | 

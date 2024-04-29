@@ -1,14 +1,16 @@
 ---
-date: "2023-01-25"
-discovered: "January 25, 2023"
-title: "FiFood"
-image: "images/blog/Mallox.png"
-author: "Breachsense Support"
+date: '2023-01-25'
+discovered: January 25, 2023
+title: FiFood
+image: images/blog/Mallox.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | fifood.sa      | 
 | Threat Actor      | Mallox      | 
 | Date Discovered      | Jan 25, 2023      | 

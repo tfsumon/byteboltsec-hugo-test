@@ -1,14 +1,16 @@
 ---
-Discovered: "August 22, 2022"
-date: "2022-08-22"
-title: "Northwest Pipe Fittings"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: August 22, 2022
+date: '2022-08-22'
+title: Northwest Pipe Fittings
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | northwestpipe.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Aug 22, 2022      | 

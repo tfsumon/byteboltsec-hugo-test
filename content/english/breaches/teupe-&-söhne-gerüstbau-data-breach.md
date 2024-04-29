@@ -1,14 +1,16 @@
 ---
-date: "2024-03-14"
-discovered: "March 14, 2024"
-title: "Teupe & Söhne Gerüstbau"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2024-03-14'
+discovered: March 14, 2024
+title: Teupe & Söhne Gerüstbau
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | geruestbau.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Mar 14, 2024      | 

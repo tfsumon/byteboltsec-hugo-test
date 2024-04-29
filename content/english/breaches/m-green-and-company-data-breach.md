@@ -1,14 +1,16 @@
 ---
-Discovered: "June 15, 2022"
-date: "2022-06-15"
-title: "M. Green and Company"
-image: "images/blog/Quantum.png"
-author: "Breachsense Support"
+Discovered: June 15, 2022
+date: '2022-06-15'
+title: M. Green and Company
+image: images/blog/Quantum.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | mgreencpas.com      | 
 | Threat Actor      | Quantum      | 
 | Date Discovered      | Jun 15, 2022      | 

@@ -1,14 +1,16 @@
 ---
-Discovered: "October 19, 2022"
-date: "2022-10-19"
-title: "Latitude 37"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: October 19, 2022
+date: '2022-10-19'
+title: Latitude 37
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | l37.com.au      | 
 | Threat Actor      | Karakurt      | 
 | Date Discovered      | Oct 19, 2022      | 

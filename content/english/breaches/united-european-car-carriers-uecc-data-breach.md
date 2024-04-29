@@ -1,14 +1,16 @@
 ---
-date: "2023-04-24"
-discovered: "April 24, 2023"
-title: "United European Car Carriers (UECC)"
-image: "images/blog/Play.png"
-author: "Breachsense Support"
+date: '2023-04-24'
+discovered: April 24, 2023
+title: United European Car Carriers (UECC)
+image: images/blog/Play.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/april
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | uecc.com      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Apr 24, 2023      | 

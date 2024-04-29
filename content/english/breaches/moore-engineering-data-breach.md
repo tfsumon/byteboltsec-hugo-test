@@ -1,14 +1,16 @@
 ---
-Discovered: "April 06, 2023"
-date: "2023-04-06"
-title: "Moore Engineering"
-image: "images/blog/Lorenz.png"
-author: "Breachsense Support"
+Discovered: April 06, 2023
+date: '2023-04-06'
+title: Moore Engineering
+image: images/blog/Lorenz.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/april
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | mooreengineeringinc.com      | 
 | Threat Actor      | Lorenz      | 
 | Date Discovered      | Apr 06, 2023      | 

@@ -1,14 +1,16 @@
 ---
-date: "2024-02-14"
-discovered: "February 14, 2024"
-title: "Rajawali"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2024-02-14'
+discovered: February 14, 2024
+title: Rajawali
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | rajawali.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Feb 14, 2024      | 

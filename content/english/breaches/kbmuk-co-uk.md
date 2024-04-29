@@ -1,14 +1,16 @@
 ---
-Discovered: "August 01, 2021"
-date: "2021-08-01"
-title: "kbmuk.co.uk"
-image: "images/blog/HiveLeaks.png"
-author: "Breachsense Support"
+Discovered: August 01, 2021
+date: '2021-08-01'
+title: kbmuk.co.uk
+image: images/blog/HiveLeaks.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/august
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | kbmuk.co.uk      | 
 | Threat Actor    | Hive      | 
 | Date Discovered    | Aug 01, 2021      | 

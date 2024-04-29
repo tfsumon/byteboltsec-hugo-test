@@ -1,14 +1,16 @@
 ---
-Discovered: "June 24, 2021"
-date: "2021-06-24"
-title: "xoriant.com"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: June 24, 2021
+date: '2021-06-24'
+title: xoriant.com
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/june
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | xoriant.com      | 
 | Threat Actor    | Ragnar_Locker      | 
 | Date Discovered    | Jun 24, 2021      | 

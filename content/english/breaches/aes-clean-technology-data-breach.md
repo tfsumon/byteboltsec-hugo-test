@@ -1,14 +1,16 @@
 ---
-Discovered: "September 28, 2022"
-date: "2022-09-28"
-title: "AES Clean Technology"
-image: "images/blog/Basta.png"
-author: "Breachsense Support"
+Discovered: September 28, 2022
+date: '2022-09-28'
+title: AES Clean Technology
+image: images/blog/Basta.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | aesclean.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Sep 28, 2022      | 

@@ -1,14 +1,16 @@
 ---
-date: "2023-07-13"
-discovered: "July 13, 2023"
-title: "TGI Direct"
-image: "images/blog/CL0P.png"
-author: "Breachsense Support"
+date: '2023-07-13'
+discovered: July 13, 2023
+title: TGI Direct
+image: images/blog/CL0P.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | tgidirect.net      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Jul 13, 2023      | 

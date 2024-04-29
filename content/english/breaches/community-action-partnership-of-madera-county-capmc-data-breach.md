@@ -1,14 +1,16 @@
 ---
-date: "2023-01-05"
-discovered: "January 05, 2023"
-title: "Community Action Partnership of Madera County (CAPMC)"
-image: "images/blog/Blackbyte.png"
-author: "Breachsense Support"
+date: '2023-01-05'
+discovered: January 05, 2023
+title: Community Action Partnership of Madera County (CAPMC)
+image: images/blog/Blackbyte.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | maderacap.org      | 
 | Threat Actor      | Blackbyte      | 
 | Date     | Jan 05, 2023      | 

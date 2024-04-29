@@ -1,14 +1,16 @@
 ---
-date: "2023-07-31"
-discovered: "July 31, 2023"
-title: "Alinabal"
-image: "images/blog/Snatch.png"
-author: "Breachsense Support"
+date: '2023-07-31'
+discovered: July 31, 2023
+title: Alinabal
+image: images/blog/Snatch.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | alinabal.com      | 
 | Threat Actor      | Snatch      | 
 | Date Discovered      | Jul 31, 2023      | 

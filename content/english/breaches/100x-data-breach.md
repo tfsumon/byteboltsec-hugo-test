@@ -1,14 +1,16 @@
 ---
-date: "2023-05-01"
-discovered: "May 01, 2023"
-title: "100X"
-image: "images/blog/RansomHouse.png"
-author: "Breachsense Support"
+date: '2023-05-01'
+discovered: May 01, 2023
+title: 100X
+image: images/blog/RansomHouse.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/may
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | 100x.com      | 
 | Threat Actor      | RansomHouse      | 
 | Date Discovered      | May 01, 2023      | 

@@ -1,14 +1,16 @@
 ---
-Discovered: "August 28, 2022"
-date: "2022-08-28"
-title: "Drapery Concepts"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: August 28, 2022
+date: '2022-08-28'
+title: Drapery Concepts
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | draperyconceptsny.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Aug 28, 2022      | 

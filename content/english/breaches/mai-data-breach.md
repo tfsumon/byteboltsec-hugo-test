@@ -1,14 +1,16 @@
 ---
-Discovered: "July 22, 2022"
-date: "2022-07-22"
-title: "MAI"
-image: "images/blog/Basta.png"
-author: "Breachsense Support"
+Discovered: July 22, 2022
+date: '2022-07-22'
+title: MAI
+image: images/blog/Basta.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | maifl.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Jul 22, 2022      | 

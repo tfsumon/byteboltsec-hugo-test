@@ -1,14 +1,16 @@
 ---
-Discovered: "June 14, 2022"
-date: "2022-06-14"
-title: "Green Mountain Electric Supply"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+Discovered: June 14, 2022
+date: '2022-06-14'
+title: Green Mountain Electric Supply
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | gmes.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Jun 14, 2022      | 

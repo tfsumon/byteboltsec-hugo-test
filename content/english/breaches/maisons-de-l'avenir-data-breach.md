@@ -1,14 +1,16 @@
 ---
-date: "2024-01-16"
-discovered: "January 16, 2024"
-title: "Maisons de l'Avenir"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2024-01-16'
+discovered: January 16, 2024
+title: Maisons de l'Avenir
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | maisonsdelavenir.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jan 16, 2024      | 

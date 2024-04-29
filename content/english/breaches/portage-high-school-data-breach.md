@@ -1,14 +1,16 @@
 ---
-date: "2023-10-24"
-discovered: "October 24, 2023"
-title: "Portage High School"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+date: '2023-10-24'
+discovered: October 24, 2023
+title: Portage High School
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | portage.k12.in.us      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Oct 24, 2023      | 

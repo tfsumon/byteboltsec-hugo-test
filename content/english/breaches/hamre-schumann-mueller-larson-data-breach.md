@@ -1,14 +1,16 @@
 ---
-date: "2023-07-11"
-discovered: "July 11, 2023"
-title: "Hamre, Schumann, Mueller & Larson"
-image: "images/blog/Akira.png"
-author: "Breachsense Support"
+date: '2023-07-11'
+discovered: July 11, 2023
+title: Hamre, Schumann, Mueller & Larson
+image: images/blog/Akira.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | hsml.com      | 
 | Threat Actor      |  Akira     | 
 | Date Discovered      | Jul 11, 2023      | 

@@ -1,14 +1,16 @@
 ---
-Discovered: "December 02, 2022"
-date: "2022-12-02"
-title: "Landau Media"
-image: "images/blog/Cuba.png"
-author: "Breachsense Support"
+Discovered: December 02, 2022
+date: '2022-12-02'
+title: Landau Media
+image: images/blog/Cuba.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | landaumedia.de      | 
 | Threat Actor      | Cuba      | 
 | Date Discovered      | Dec 02, 2022      | 

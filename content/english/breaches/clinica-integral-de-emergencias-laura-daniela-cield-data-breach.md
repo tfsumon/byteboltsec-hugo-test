@@ -1,14 +1,16 @@
 ---
-Discovered: "December 28, 2022"
-date: "2022-12-28"
-title: "Clinica Integral De Emergencias Laura Daniela (CIELD)"
-image: "images/blog/Snatch.png"
-author: "Breachsense Support"
+Discovered: December 28, 2022
+date: '2022-12-28'
+title: Clinica Integral De Emergencias Laura Daniela (CIELD)
+image: images/blog/Snatch.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | clinicaintegral.com.co      | 
 | Threat Actor      | Snatch      | 
 | Date Discovered      | Dec 28, 2022      | 

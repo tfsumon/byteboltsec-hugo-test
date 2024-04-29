@@ -1,14 +1,16 @@
 ---
-Discovered: "February 05, 2021"
-date: "2021-02-05"
-title: "munoztrucking.net"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: February 05, 2021
+date: '2021-02-05'
+title: munoztrucking.net
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/february
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | munoztrucking.net      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Feb 05, 2021      | 

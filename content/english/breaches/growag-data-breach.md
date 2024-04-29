@@ -1,14 +1,16 @@
 ---
-Discovered: "August 25, 2022"
-date: "2022-08-25"
-title: "growag"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: August 25, 2022
+date: '2022-08-25'
+title: growag
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | growag.ch      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Aug 25, 2022      | 

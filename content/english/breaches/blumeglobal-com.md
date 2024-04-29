@@ -1,14 +1,16 @@
 ---
-Discovered: "May 19, 2022"
-date: "2022-05-19"
-title: "blumeglobal.com"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: May 19, 2022
+date: '2022-05-19'
+title: blumeglobal.com
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/may
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | blumeglobal.com      | 
 | Threat Actor    | AvosLocker      | 
 | Date Discovered    | May 19, 2022      | 

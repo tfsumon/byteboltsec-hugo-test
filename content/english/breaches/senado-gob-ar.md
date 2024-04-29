@@ -1,14 +1,16 @@
 ---
-Discovered: "March 13, 2022"
-date: "2022-03-13"
-title: "senado.gob.ar"
-image: "images/blog/ViceSociety.png"
-author: "Breachsense Support"
+Discovered: March 13, 2022
+date: '2022-03-13'
+title: senado.gob.ar
+image: images/blog/ViceSociety.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/march
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | senado.gob.ar      | 
 | Threat Actor    | ViceSociety      | 
 | Date Discovered    | Mar 13, 2022      | 

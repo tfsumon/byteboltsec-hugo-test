@@ -1,14 +1,16 @@
 ---
-date: "2024-01-30"
-discovered: "January 30, 2024"
-title: "Cislo & Thomas"
-image: "images/blog/BianLian.png"
-author: "Breachsense Support"
+date: '2024-01-30'
+discovered: January 30, 2024
+title: Cislo & Thomas
+image: images/blog/BianLian.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | cisloandthomas.com      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Jan 30, 2024      | 

@@ -1,14 +1,16 @@
 ---
-Discovered: "December 05, 2022"
-date: "2022-12-05"
-title: "Wiesauplast"
-image: "images/blog/DataLeak.png"
-author: "Breachsense Support"
+Discovered: December 05, 2022
+date: '2022-12-05'
+title: Wiesauplast
+image: images/blog/DataLeak.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | wiesauplast.de      | 
 | Threat Actor      | DataLeak      | 
 | Date Discovered      | Dec 05, 2022      | 

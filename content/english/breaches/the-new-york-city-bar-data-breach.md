@@ -1,14 +1,16 @@
 ---
-date: "2023-01-16"
-discovered: "January 16, 2023"
-title: "The New York City Bar"
-image: "images/blog/CL0P.png"
-author: "Breachsense Support"
+date: '2023-01-16'
+discovered: January 16, 2023
+title: The New York City Bar
+image: images/blog/CL0P.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | nycbar.org      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Jan 16, 2023      | 

@@ -80,8 +80,8 @@ $(document).ready(function () {
         title = $(this).attr("title");
       navTabs.append(
         '<li class="nav-item"><a class="nav-link" href="#">' +
-          title +
-          "</a></li>"
+        title +
+        "</a></li>"
       );
     });
 
@@ -283,4 +283,65 @@ $(document).ready(function () {
       false
     );
   })();
+
+  // Sidebar in Mobile Devices Hide & Show
+  function sidebar() {
+    const sidebar = document.querySelector("#sidebarContent");
+    const sidebarOpenBtn = document.querySelector(".sidebar-open-btn");
+    const sidebarCloseBtn = document.querySelector(".breaches-sidebar-close-btn");
+
+    function closeSidebar() {
+      sidebarOpenBtn.classList.remove("active");
+      sidebar.classList.remove("active");
+
+      // Prevent Body Scrolling
+      document.body.classList.remove("navbar-show");
+      document.body.style.removeProperty("padding-right");
+
+      // Remove Backdrop
+      if (document.querySelector(".tf-backdrop")) {
+        document.querySelector(".tf-backdrop").remove();
+      }
+    }
+
+    function showSidebar() {
+      sidebarOpenBtn.classList.add("active");
+      sidebar.classList.add("active");
+
+      // Close Sidebar If user click outside of sidebar element
+      const backdrop = document.createElement("div");
+      backdrop.setAttribute(
+        "style",
+        "width: 100vw;height: 100vh;background-color:#000000;opacity: 0.6;position:fixed;z-index:1000;left:0;top:0;"
+      );
+      backdrop.setAttribute("class", "tf-backdrop");
+      if (!document.querySelector(".tf-backdrop")) {
+        document.body.insertBefore(backdrop, sidebar.children[-1]);
+      }
+    }
+
+    sidebarOpenBtn.addEventListener("click", (e) => {
+      e.preventDefault();
+
+      if (sidebarOpenBtn.classList.contains("active")) {
+        closeSidebar();
+      } else {
+        showSidebar();
+        document.querySelector(".tf-backdrop").addEventListener("click", () => {
+          closeSidebar();
+        });
+      }
+
+      window.addEventListener("resize", () => {
+        if (screen.width >= 1200) {
+          closeSidebar();
+        }
+      });
+    });
+    sidebarCloseBtn.addEventListener("click", (e) => {
+      e.preventDefault();
+      closeSidebar();
+    });
+  }
+  sidebar();
 });

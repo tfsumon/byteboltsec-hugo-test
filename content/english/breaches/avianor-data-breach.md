@@ -1,14 +1,16 @@
 ---
-date: "2023-11-08"
-discovered: "November 08, 2023"
-title: "Avianor"
-image: "images/blog/NoEscape.png"
-author: "Breachsense Support"
+date: '2023-11-08'
+discovered: November 08, 2023
+title: Avianor
+image: images/blog/NoEscape.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | avianor.com      | 
 | Threat Actor      | NoEscape      | 
 | Date Discovered      | Nov 08, 2023      | 

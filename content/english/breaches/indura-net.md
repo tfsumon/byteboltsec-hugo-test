@@ -1,14 +1,16 @@
 ---
-Discovered: "February 02, 2021"
-date: "2021-02-02"
-title: "indura.net"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: February 02, 2021
+date: '2021-02-02'
+title: indura.net
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/february
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | indura.net      | 
 | Threat Actor    | RansomEXX      | 
 | Date Discovered    | Feb 02, 2021      | 

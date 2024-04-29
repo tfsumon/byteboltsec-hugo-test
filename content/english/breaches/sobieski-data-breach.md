@@ -1,14 +1,16 @@
 ---
-date: "2023-10-11"
-discovered: "October 11, 2023"
-title: "Sobieski"
-image: "images/blog/INC_RANSOM.png"
-author: "Breachsense Support"
+date: '2023-10-11'
+discovered: October 11, 2023
+title: Sobieski
+image: images/blog/INC_RANSOM.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | sobieskiinc.com      | 
 | Threat Actor      | INC_RANSOM      | 
 | Date Discovered      | Oct 11, 2023      | 

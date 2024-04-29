@@ -1,14 +1,16 @@
 ---
-date: "2023-08-02"
-discovered: "August 02, 2023"
-title: "Kimco"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+date: '2023-08-02'
+discovered: August 02, 2023
+title: Kimco
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | kimco.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Aug 02, 2023      | 

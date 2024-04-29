@@ -1,14 +1,16 @@
 ---
-date: "2024-04-17"
-discovered: "April 17, 2024"
-title: "HB Molding"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2024-04-17'
+discovered: April 17, 2024
+title: HB Molding
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/april
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | hbmolding.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Apr 17, 2024      | 

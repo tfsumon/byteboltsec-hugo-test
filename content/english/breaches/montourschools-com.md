@@ -1,14 +1,16 @@
 ---
-Discovered: "July 30, 2021"
-date: "2021-07-30"
-title: "montourschools.com"
-image: "images/blog/HiveLeaks.png"
-author: "Breachsense Support"
+Discovered: July 30, 2021
+date: '2021-07-30'
+title: montourschools.com
+image: images/blog/HiveLeaks.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/july
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | montourschools.com      | 
 | Threat Actor    | Hive      | 
 | Date Discovered    | Jul 30, 2021      | 

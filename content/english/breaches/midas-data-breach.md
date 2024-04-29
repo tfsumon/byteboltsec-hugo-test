@@ -1,14 +1,16 @@
 ---
-Discovered: "November 15, 2022"
-date: "2022-11-15"
-title: "Midas"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: November 15, 2022
+date: '2022-11-15'
+title: Midas
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | midashospitality.com      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Nov 15, 2022      | 

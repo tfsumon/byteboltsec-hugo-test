@@ -1,14 +1,16 @@
 ---
-date: "2023-12-08"
-discovered: "December 08, 2023"
-title: "Tri-City Medical"
-image: "images/blog/INC_RANSOM.png"
-author: "Breachsense Support"
+date: '2023-12-08'
+discovered: December 08, 2023
+title: Tri-City Medical
+image: images/blog/INC_RANSOM.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | tricitymed.org      | 
 | Threat Actor      | INC_RANSOM      | 
 | Date Discovered      | Dec 08, 2023      | 

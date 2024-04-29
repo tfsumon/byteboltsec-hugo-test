@@ -1,14 +1,16 @@
 ---
-date: "2023-10-10"
-discovered: "October 10, 2023"
-title: "Elbe-Obst Fruchtverarbeitung"
-image: "images/blog/NoEscape.png"
-author: "Breachsense Support"
+date: '2023-10-10'
+discovered: October 10, 2023
+title: Elbe-Obst Fruchtverarbeitung
+image: images/blog/NoEscape.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | fruchtverarbeitung.de      | 
 | Threat Actor      | NoEscape      | 
 | Date Discovered      | Oct 10, 2023      | 

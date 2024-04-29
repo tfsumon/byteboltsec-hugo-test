@@ -1,14 +1,16 @@
 ---
-Discovered: "December 11, 2021"
-date: "2021-12-11"
-title: "jpbdselangor.gov.my"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: December 11, 2021
+date: '2021-12-11'
+title: jpbdselangor.gov.my
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/december
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | jpbdselangor.gov.my      | 
 | Threat Actor    | LV Blog      | 
 | Date Discovered    | Dec 11, 2021      | 

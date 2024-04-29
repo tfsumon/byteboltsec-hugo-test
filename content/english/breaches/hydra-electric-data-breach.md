@@ -1,14 +1,16 @@
 ---
-Discovered: "July 11, 2022"
-date: "2022-07-11"
-title: "Hydra-Electric"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+Discovered: July 11, 2022
+date: '2022-07-11'
+title: Hydra-Electric
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/july
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | hydraelectric.com      | 
 | Threat Actor    | ALPHV      | 
 | Date Discovered    | Jul 11, 2022      | 

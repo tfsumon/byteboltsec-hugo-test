@@ -1,14 +1,16 @@
 ---
-Discovered: "October 16, 2022"
-date: "2022-10-16"
-title: "Groupe Savoie"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: October 16, 2022
+date: '2022-10-16'
+title: Groupe Savoie
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | groupesavoie.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Oct 16, 2022      | 

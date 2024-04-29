@@ -1,14 +1,16 @@
 ---
-Discovered: "September 14, 2022"
-date: "2022-09-14"
-title: "Tri Supply"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+Discovered: September 14, 2022
+date: '2022-09-14'
+title: Tri Supply
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | trisupply.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Sep 14, 2022      | 

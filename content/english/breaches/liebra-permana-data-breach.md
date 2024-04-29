@@ -1,14 +1,16 @@
 ---
-date: "2023-01-11"
-discovered: "January 11, 2023"
-title: "Liebra Permana"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+date: '2023-01-11'
+discovered: January 11, 2023
+title: Liebra Permana
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | liebrapermana.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Jan 11, 2023      | 

@@ -1,14 +1,16 @@
 ---
-date: "2023-10-03"
-discovered: "October 03, 2023"
-title: "AllCare Pharmacy"
-image: "images/blog/Lorenz.png"
-author: "Breachsense Support"
+date: '2023-10-03'
+discovered: October 03, 2023
+title: AllCare Pharmacy
+image: images/blog/Lorenz.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | allcarepharmacy.com      | 
 | Threat Actor      | Lorenz      | 
 | Date Discovered      | Oct 03, 2023      | 

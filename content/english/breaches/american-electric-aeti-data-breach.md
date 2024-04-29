@@ -1,14 +1,16 @@
 ---
-date: "2023-02-17"
-discovered: "February 17, 2023"
-title: "American Electric (AETI)"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-02-17'
+discovered: February 17, 2023
+title: American Electric (AETI)
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | aeti.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Feb 17, 2023      | 

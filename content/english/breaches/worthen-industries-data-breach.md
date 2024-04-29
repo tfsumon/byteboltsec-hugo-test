@@ -1,14 +1,16 @@
 ---
-date: "2024-01-22"
-discovered: "January 22, 2024"
-title: "Worthen Industries"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+date: '2024-01-22'
+discovered: January 22, 2024
+title: Worthen Industries
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | worthenind.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Jan 22, 2024      | 

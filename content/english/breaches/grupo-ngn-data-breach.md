@@ -1,14 +1,16 @@
 ---
-Discovered: "December 05, 2022"
-date: "2022-12-05"
-title: "Grupo NGN"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+Discovered: December 05, 2022
+date: '2022-12-05'
+title: Grupo NGN
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | grupongn.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Dec 05, 2022      | 

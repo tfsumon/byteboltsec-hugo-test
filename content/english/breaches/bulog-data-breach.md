@@ -1,14 +1,16 @@
 ---
-date: "2023-02-23"
-discovered: "February 23, 2023"
-title: "Bulog"
-image: "images/blog/RansomEXX.png"
-author: "Breachsense Support"
+date: '2023-02-23'
+discovered: February 23, 2023
+title: Bulog
+image: images/blog/RansomEXX.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | bulog.co.id      | 
 | Threat Actor      | RansomEXX      | 
 | Date Discovered      | Feb 23, 2023      | 

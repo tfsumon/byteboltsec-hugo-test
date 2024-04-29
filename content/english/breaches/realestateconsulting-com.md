@@ -1,14 +1,16 @@
 ---
-Discovered: "May 08, 2022"
-date: "2022-05-08"
-title: "realestateconsulting.com"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: May 08, 2022
+date: '2022-05-08'
+title: realestateconsulting.com
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/may
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | realestateconsulting.com      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | May 08, 2022      | 

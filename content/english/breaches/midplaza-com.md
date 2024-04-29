@@ -1,14 +1,16 @@
 ---
-Discovered: "August 25, 2021"
-date: "2021-08-25"
-title: "midplaza.com"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: August 25, 2021
+date: '2021-08-25'
+title: midplaza.com
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/august
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | midplaza.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Aug 25, 2021      | 

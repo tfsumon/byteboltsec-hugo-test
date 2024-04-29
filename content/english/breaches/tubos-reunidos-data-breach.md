@@ -1,14 +1,16 @@
 ---
-date: "2023-04-21"
-discovered: "April 21, 2023"
-title: "Tubos Reunidos"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-04-21'
+discovered: April 21, 2023
+title: Tubos Reunidos
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/april
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | tubosreunidosgroup.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Apr 21, 2023      | 

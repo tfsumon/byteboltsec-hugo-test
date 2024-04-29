@@ -1,14 +1,16 @@
 ---
-Discovered: "October 28, 2022"
-date: "2022-10-28"
-title: "R1 Group"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: October 28, 2022
+date: '2022-10-28'
+title: R1 Group
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | r1group.it      | 
 | Threat Actor      | Karakurt      | 
 | Date Discovered      | Oct 28, 2022      | 

@@ -1,14 +1,16 @@
 ---
-date: "2024-02-02"
-discovered: "February 02, 2024"
-title: "DMS Imaging"
-image: "images/blog/Cuba.png"
-author: "Breachsense Support"
+date: '2024-02-02'
+discovered: February 02, 2024
+title: DMS Imaging
+image: images/blog/Cuba.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | dms-imaging.com      | 
 | Threat Actor      | Cuba      | 
 | Date Discovered      | Feb 02, 2024      | 

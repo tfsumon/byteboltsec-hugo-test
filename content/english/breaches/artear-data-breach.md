@@ -1,14 +1,16 @@
 ---
-Discovered: "June 24, 2022"
-date: "2022-06-24"
-title: "Artear"
-image: "images/blog/HiveLeaks.png"
-author: "Breachsense Support"
+Discovered: June 24, 2022
+date: '2022-06-24'
+title: Artear
+image: images/blog/HiveLeaks.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | artear.com      | 
 | Threat Actor      | HiveLeaks      | 
 | Date Discovered      | Jun 24, 2022      | 

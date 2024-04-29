@@ -1,14 +1,16 @@
 ---
-Discovered: "July 07, 2021"
-date: "2021-07-07"
-title: "fidcar.com"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: July 07, 2021
+date: '2021-07-07'
+title: fidcar.com
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/july
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | fidcar.com      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Jul 07, 2021      | 

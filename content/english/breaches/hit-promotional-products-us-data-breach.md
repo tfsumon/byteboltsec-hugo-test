@@ -1,14 +1,16 @@
 ---
-date: "2023-03-30"
-discovered: "March 30, 2023"
-title: "Hit Promotional Products (US)"
-image: "images/blog/Daixin.png"
-author: "Breachsense Support"
+date: '2023-03-30'
+discovered: March 30, 2023
+title: Hit Promotional Products (US)
+image: images/blog/Daixin.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | hitpromo.net      | 
 | Threat Actor      | Daixin      | 
 | Date Discovered      | Mar 30, 2023      | 

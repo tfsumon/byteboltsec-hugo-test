@@ -1,14 +1,16 @@
 ---
-date: "2023-05-16"
-discovered: "May 16, 2023"
-title: "Hoteles Mare"
-image: "images/blog/STORMOUS.png"
-author: "Breachsense Support"
+date: '2023-05-16'
+discovered: May 16, 2023
+title: Hoteles Mare
+image: images/blog/STORMOUS.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/may
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | marehoteles.es      | 
 | Threat Actor      |  STORMOUS     | 
 | Date Discovered      | May 16, 2023      | 

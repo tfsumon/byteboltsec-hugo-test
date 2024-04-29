@@ -1,14 +1,16 @@
 ---
-date: "2023-07-04"
-discovered: "July 04, 2023"
-title: "Polanglo"
-image: "images/blog/8BASE.png"
-author: "Breachsense Support"
+date: '2023-07-04'
+discovered: July 04, 2023
+title: Polanglo
+image: images/blog/8BASE.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | polanglo.pl      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Jul 04, 2023      | 

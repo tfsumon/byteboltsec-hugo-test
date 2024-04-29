@@ -1,14 +1,16 @@
 ---
-date: "2023-09-08"
-discovered: "September 08, 2023"
-title: "Superior Labor Court"
-image: "images/blog/8BASE.png"
-author: "Breachsense Support"
+date: '2023-09-08'
+discovered: September 08, 2023
+title: Superior Labor Court
+image: images/blog/8BASE.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | tst.jus.br      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Sep 08, 2023      | 

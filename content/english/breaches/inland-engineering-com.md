@@ -1,14 +1,16 @@
 ---
-Discovered: "April 17, 2022"
-date: "2022-04-17"
-title: "inland-engineering.com"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: April 17, 2022
+date: '2022-04-17'
+title: inland-engineering.com
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/april
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | inland-engineering.com      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Apr 17, 2022      | 

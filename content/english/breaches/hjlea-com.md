@@ -1,14 +1,16 @@
 ---
-Discovered: "September 07, 2021"
-date: "2021-09-07"
-title: "hjlea.com"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: September 07, 2021
+date: '2021-09-07'
+title: hjlea.com
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/september
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | hjlea.com      | 
 | Threat Actor    | Grief      | 
 | Date Discovered    | Sep 07, 2021      | 

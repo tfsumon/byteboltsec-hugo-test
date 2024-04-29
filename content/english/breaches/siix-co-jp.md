@@ -1,14 +1,16 @@
 ---
-Discovered: "November 30, 2021"
-date: "2021-11-30"
-title: "siix.co.jp"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: November 30, 2021
+date: '2021-11-30'
+title: siix.co.jp
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/november
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | siix.co.jp      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Nov 30, 2021      | 

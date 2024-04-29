@@ -1,14 +1,16 @@
 ---
-date: "2023-11-06"
-discovered: "November 06, 2023"
-title: "Strojírensky Zkusební Ustav"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-11-06'
+discovered: November 06, 2023
+title: Strojírensky Zkusební Ustav
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | szutest.cz      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Nov 06, 2023      | 

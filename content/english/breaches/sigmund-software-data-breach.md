@@ -1,14 +1,16 @@
 ---
-Discovered: "September 22, 2022"
-date: "2022-09-22"
-title: "Sigmund Software"
-image: "images/blog/HiveLeaks.png"
-author: "Breachsense Support"
+Discovered: September 22, 2022
+date: '2022-09-22'
+title: Sigmund Software
+image: images/blog/HiveLeaks.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | sigmundsoftware.com      | 
 | Threat Actor      | HiveLeaks      | 
 | Date Discovered      | Sep 22, 2022      | 

@@ -1,14 +1,16 @@
 ---
-date: "2023-05-12"
-discovered: "May 12, 2023"
-title: "B&R Eckel's Transport"
-image: "images/blog/BianLian.png"
-author: "Breachsense Support"
+date: '2023-05-12'
+discovered: May 12, 2023
+title: B&R Eckel's Transport
+image: images/blog/BianLian.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/may
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | breckels.com      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | May 12, 2023      | 

@@ -1,14 +1,16 @@
 ---
-Discovered: "December 07, 2022"
-date: "2022-12-07"
-title: "SOTO"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+Discovered: December 07, 2022
+date: '2022-12-07'
+title: SOTO
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | soto.com.au      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Dec 07, 2022      | 

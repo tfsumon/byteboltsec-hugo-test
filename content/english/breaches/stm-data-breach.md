@@ -1,14 +1,16 @@
 ---
-Discovered: "July 08, 2022"
-date: "2022-07-08"
-title: "STM"
-image: "images/blog/Cuba.png"
-author: "Breachsense Support"
+Discovered: July 08, 2022
+date: '2022-07-08'
+title: STM
+image: images/blog/Cuba.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | stm.com.tw      | 
 | Threat Actor      | Cuba      | 
 | Date Discovered      | Jul 08, 2022      | 

@@ -1,14 +1,16 @@
 ---
-Discovered: "October 05, 2022"
-date: "2022-10-05"
-title: "OPPLE"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: October 05, 2022
+date: '2022-10-05'
+title: OPPLE
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | opple.com      | 
 | Threat Actor      | Snatch      | 
 | Date Discovered      | Oct 05, 2022      | 

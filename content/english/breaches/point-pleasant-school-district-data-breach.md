@@ -1,14 +1,16 @@
 ---
-date: "2023-08-04"
-discovered: "August 04, 2023"
-title: "Point Pleasant School District"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-08-04'
+discovered: August 04, 2023
+title: Point Pleasant School District
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | pointpleasant.k12.nj.us      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Aug 04, 2023      | 

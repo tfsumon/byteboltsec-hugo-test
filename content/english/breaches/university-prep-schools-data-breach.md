@@ -1,14 +1,16 @@
 ---
-date: "2023-08-30"
-discovered: "August 30, 2023"
-title: "University Prep Schools"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-08-30'
+discovered: August 30, 2023
+title: University Prep Schools
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | uprepschool.org      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Aug 30, 2023      | 

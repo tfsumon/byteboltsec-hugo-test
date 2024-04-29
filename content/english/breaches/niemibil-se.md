@@ -1,14 +1,16 @@
 ---
-Discovered: "November 09, 2021"
-date: "2021-11-09"
-title: "niemibil.se"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: November 09, 2021
+date: '2021-11-09'
+title: niemibil.se
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/november
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | niemibil.se      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Nov 09, 2021      | 

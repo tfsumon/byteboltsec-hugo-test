@@ -1,14 +1,16 @@
 ---
-date: "2023-09-04"
-discovered: "September 04, 2023"
-title: "Global Logistic Properties"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-09-04'
+discovered: September 04, 2023
+title: Global Logistic Properties
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | glprop.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Sep 04, 2023      | 

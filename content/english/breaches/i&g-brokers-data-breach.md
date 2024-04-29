@@ -1,14 +1,16 @@
 ---
-date: "2023-08-22"
-discovered: "August 22, 2023"
-title: "I&G Brokers"
-image: "images/blog/Ransomed.png"
-author: "Breachsense Support"
+date: '2023-08-22'
+discovered: August 22, 2023
+title: I&G Brokers
+image: images/blog/Ransomed.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | iandgbrokers.com      | 
 | Threat Actor      | Ransomed      | 
 | Date Discovered      | Aug 22, 2023      | 

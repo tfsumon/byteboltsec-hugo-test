@@ -1,14 +1,16 @@
 ---
-date: "2023-02-06"
-discovered: "February 06, 2023"
-title: "BP Lawyers"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-02-06'
+discovered: February 06, 2023
+title: BP Lawyers
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | bplawyers.co.id      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Feb 06, 2023      | 

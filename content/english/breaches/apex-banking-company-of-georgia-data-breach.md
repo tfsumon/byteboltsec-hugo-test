@@ -1,14 +1,16 @@
 ---
-date: "2023-10-27"
-discovered: "October 27, 2023"
-title: "Apex Banking Company of Georgia"
-image: "images/blog/Abyss.png"
-author: "Breachsense Support"
+date: '2023-10-27'
+discovered: October 27, 2023
+title: Apex Banking Company of Georgia
+image: images/blog/Abyss.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | apexga.bank      | 
 | Threat Actor      | Abyss      | 
 | Date Discovered      | Oct 27, 2023      | 

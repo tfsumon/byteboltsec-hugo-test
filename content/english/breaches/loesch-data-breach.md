@@ -1,14 +1,16 @@
 ---
-Discovered: "September 13, 2022"
-date: "2022-09-13"
-title: "Loesch"
-image: "images/blog/CL0P.png"
-author: "Breachsense Support"
+Discovered: September 13, 2022
+date: '2022-09-13'
+title: Loesch
+image: images/blog/CL0P.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | loeschgroup.de      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Sep 13, 2022      | 

@@ -1,14 +1,16 @@
 ---
-Discovered: "June 22, 2022"
-date: "2022-06-22"
-title: "Canaropa"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: June 22, 2022
+date: '2022-06-22'
+title: Canaropa
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | canaropa.com      | 
 | Threat Actor      | Black Basta      | 
 | Date Discovered      | Jun 22, 2022      | 

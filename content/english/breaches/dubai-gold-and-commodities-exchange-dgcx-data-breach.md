@@ -1,14 +1,16 @@
 ---
-date: "2023-02-07"
-discovered: "February 07, 2023"
-title: "Dubai Gold and Commodities Exchange (DGCX)"
-image: "images/blog/RansomHouse.png"
-author: "Breachsense Support"
+date: '2023-02-07'
+discovered: February 07, 2023
+title: Dubai Gold and Commodities Exchange (DGCX)
+image: images/blog/RansomHouse.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | dgcx.ae      | 
 | Threat Actor      | RansomHouse      | 
 | Date Discovered      | Feb 07, 2023      | 

@@ -1,14 +1,16 @@
 ---
-date: "2022-11-08"
-discovered: "November 08, 2022"
-title: "Medibank"
-image: "images/blog/REvil.png"
-author: "Breachsense Support"
+date: '2022-11-08'
+discovered: November 08, 2022
+title: Medibank
+image: images/blog/REvil.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | medibank.com.au      | 
 | Threat Actor      | REvil      | 
 | Date Discovered      | Nov 08, 2022      | 

@@ -1,14 +1,16 @@
 ---
-date: "2023-08-09"
-discovered: "August 09, 2023"
-title: "Avertronics"
-image: "images/blog/NoEscape.png"
-author: "Breachsense Support"
+date: '2023-08-09'
+discovered: August 09, 2023
+title: Avertronics
+image: images/blog/NoEscape.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | avertronics.com      | 
 | Threat Actor      | NoEscape      | 
 | Date Discovered      | Aug 09, 2023      | 

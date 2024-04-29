@@ -1,14 +1,16 @@
 ---
-date: "2023-12-22"
-discovered: "December 22, 2023"
-title: "Sterling Homes"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-12-22'
+discovered: December 22, 2023
+title: Sterling Homes
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | sterlinghomes.com.au      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Dec 22, 2023      | 

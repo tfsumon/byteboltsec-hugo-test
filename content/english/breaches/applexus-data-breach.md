@@ -1,14 +1,16 @@
 ---
-Discovered: "July 26, 2022"
-date: "2022-07-26"
-title: "Applexus"
-image: "images/blog/CL0P.png"
-author: "Breachsense Support"
+Discovered: July 26, 2022
+date: '2022-07-26'
+title: Applexus
+image: images/blog/CL0P.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | applexus.com      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Jul 26, 2022      | 

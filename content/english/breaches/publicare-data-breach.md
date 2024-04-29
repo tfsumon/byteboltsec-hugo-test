@@ -1,14 +1,16 @@
 ---
-Discovered: "December 19, 2022"
-date: "2022-12-19"
-title: "Publicare"
-image: "images/blog/ViceSociety.png"
-author: "Breachsense Support"
+Discovered: December 19, 2022
+date: '2022-12-19'
+title: Publicare
+image: images/blog/ViceSociety.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | publicare.ch      | 
 | Threat Actor      | ViceSociety      | 
 | Date Discovered      | Dec 19, 2022      | 

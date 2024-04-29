@@ -1,14 +1,16 @@
 ---
-Discovered: "August 31, 2022"
-date: "2022-08-31"
-title: "4cRisk"
-image: "images/blog/BianLian.png"
-author: "Breachsense Support"
+Discovered: August 31, 2022
+date: '2022-08-31'
+title: 4cRisk
+image: images/blog/BianLian.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | 4crisk.com.au      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Aug 31, 2022      | 

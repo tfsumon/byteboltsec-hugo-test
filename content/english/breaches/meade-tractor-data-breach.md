@@ -1,14 +1,16 @@
 ---
-date: "2023-04-20"
-discovered: "April 20, 2023"
-title: "Meade Tractor"
-image: "images/blog/BlackBasta.png"
-author: "Breachsense Support"
+date: '2023-04-20'
+discovered: April 20, 2023
+title: Meade Tractor
+image: images/blog/BlackBasta.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/april
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | meadetractor.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Apr 20, 2023      | 

@@ -1,14 +1,16 @@
 ---
-date: "2023-03-27"
-discovered: "March 27, 2023"
-title: "James, McElroy and Diehl"
-image: "images/blog/Play.png"
-author: "Breachsense Support"
+date: '2023-03-27'
+discovered: March 27, 2023
+title: James, McElroy and Diehl
+image: images/blog/Play.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | jmdlaw.com      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Mar 27, 2023      | 

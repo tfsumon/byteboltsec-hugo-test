@@ -1,14 +1,16 @@
 ---
-date: "2023-03-13"
-discovered: "March 13, 2023"
-title: "Favorite Foods"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-03-13'
+discovered: March 13, 2023
+title: Favorite Foods
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | favoritefoods.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Mar 13, 2023      | 

@@ -1,14 +1,16 @@
 ---
-date: "2023-02-23"
-discovered: "February 23, 2023"
-title: "Rayab"
-image: "images/blog/Medusa.png"
-author: "Breachsense Support"
+date: '2023-02-23'
+discovered: February 23, 2023
+title: Rayab
+image: images/blog/Medusa.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | rayabco.com      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Feb 23, 2023      | 

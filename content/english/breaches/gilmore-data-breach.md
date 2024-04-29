@@ -1,14 +1,16 @@
 ---
-date: "2024-03-04"
-discovered: "March 04, 2024"
-title: "Gilmore"
-image: "images/blog/BlackSuit.png"
-author: "Breachsense Support"
+date: '2024-03-04'
+discovered: March 04, 2024
+title: Gilmore
+image: images/blog/BlackSuit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | gilmorelv.com      | 
 | Threat Actor      | BlackSuit      | 
 | Date Discovered      | Mar 04, 2024      | 

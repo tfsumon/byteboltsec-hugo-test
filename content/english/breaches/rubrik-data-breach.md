@@ -1,14 +1,16 @@
 ---
-date: "2023-03-15"
-discovered: "March 15, 2023"
-title: "Rubrik"
-image: "images/blog/CL0P.png"
-author: "Breachsense Support"
+date: '2023-03-15'
+discovered: March 15, 2023
+title: Rubrik
+image: images/blog/CL0P.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | rubrik.com      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Mar 15, 2023      | 

@@ -1,14 +1,16 @@
 ---
-Discovered: "August 04, 2022"
-date: "2022-08-04"
-title: "STT"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: August 04, 2022
+date: '2022-08-04'
+title: STT
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | stt.fi      | 
 | Threat Actor      | LV      | 
 | Date Discovered      | Aug 04, 2022      | 

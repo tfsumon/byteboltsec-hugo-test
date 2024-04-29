@@ -1,14 +1,16 @@
 ---
-Discovered: "February 25, 2022"
-date: "2022-02-25"
-title: "mcdonalds.com"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: February 25, 2022
+date: '2022-02-25'
+title: mcdonalds.com
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/february
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | mcdonalds.com      | 
 | Threat Actor    | Snatch      | 
 | Date Discovered    | Feb 25, 2022      | 

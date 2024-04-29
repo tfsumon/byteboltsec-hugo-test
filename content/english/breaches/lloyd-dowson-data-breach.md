@@ -1,14 +1,16 @@
 ---
-date: "2023-01-13"
-discovered: "January 13, 2023"
-title: "Lloyd Dowson"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-01-13'
+discovered: January 13, 2023
+title: Lloyd Dowson
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | lloyddowson.co.uk      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jan 13, 2023      | 

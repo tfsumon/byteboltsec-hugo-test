@@ -1,14 +1,16 @@
 ---
-date: "2023-04-25"
-discovered: "April 25, 2023"
-title: "NAGASE"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-04-25'
+discovered: April 25, 2023
+title: NAGASE
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/april
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | nagase.co.jp      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Apr 25, 2023      | 

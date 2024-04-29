@@ -1,14 +1,16 @@
 ---
-Discovered: "November 15, 2022"
-date: "2022-11-15"
-title: "Baysgarth School"
-image: "images/blog/ViceSociety.png"
-author: "Breachsense Support"
+Discovered: November 15, 2022
+date: '2022-11-15'
+title: Baysgarth School
+image: images/blog/ViceSociety.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | baysgarthschool.co.uk      | 
 | Threat Actor      | ViceSociety      | 
 | Date Discovered      | Nov 15, 2022      | 

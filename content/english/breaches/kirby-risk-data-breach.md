@@ -1,14 +1,16 @@
 ---
-date: "2023-09-11"
-discovered: "September 11, 2023"
-title: "Kirby Risk"
-image: "images/blog/Blackbyte.png"
-author: "Breachsense Support"
+date: '2023-09-11'
+discovered: September 11, 2023
+title: Kirby Risk
+image: images/blog/Blackbyte.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | kirbyrisk.com      | 
 | Threat Actor      | Blackbyte      | 
 | Date Discovered      | Sep 11, 2023      | 

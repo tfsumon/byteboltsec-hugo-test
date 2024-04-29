@@ -1,14 +1,16 @@
 ---
-date: "2023-06-08"
-discovered: "June 08, 2023"
-title: "Cooperative Technologies"
-image: "images/blog/Darkrace.png"
-author: "Breachsense Support"
+date: '2023-06-08'
+discovered: June 08, 2023
+title: Cooperative Technologies
+image: images/blog/Darkrace.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | cooperativetechnologies.com      | 
 | Threat Actor      | Darkrace      | 
 | Date Discovered      | Jun 08, 2023      | 

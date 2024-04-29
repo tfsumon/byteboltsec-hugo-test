@@ -1,14 +1,16 @@
 ---
-date: "2024-03-01"
-discovered: "March 01, 2024"
-title: "Artissimo Designs"
-image: "images/blog/DragonForce.png"
-author: "Breachsense Support"
+date: '2024-03-01'
+discovered: March 01, 2024
+title: Artissimo Designs
+image: images/blog/DragonForce.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | artissimodesigns.com      | 
 | Threat Actor      | DragonForce      | 
 | Date Discovered      | Mar 01, 2024      | 

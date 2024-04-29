@@ -1,14 +1,16 @@
 ---
-Discovered: "August 05, 2022"
-date: "2022-08-05"
-title: "Semikron"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: August 05, 2022
+date: '2022-08-05'
+title: Semikron
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | semikron.com      | 
 | Threat Actor      | LV      | 
 | Date Discovered      | Aug 05, 2022      | 

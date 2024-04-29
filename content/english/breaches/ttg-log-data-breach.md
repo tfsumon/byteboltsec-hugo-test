@@ -1,14 +1,16 @@
 ---
-date: "2023-06-30"
-discovered: "June 30, 2023"
-title: "TTG Log"
-image: "images/blog/8BASE.png"
-author: "Breachsense Support"
+date: '2023-06-30'
+discovered: June 30, 2023
+title: TTG Log
+image: images/blog/8BASE.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | sticonsultoria.com.br      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Jun 30, 2023      | 

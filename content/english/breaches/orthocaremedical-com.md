@@ -1,14 +1,16 @@
 ---
-Discovered: "October 14, 2021"
-date: "2021-10-14"
-title: "orthocaremedical.com"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: October 14, 2021
+date: '2021-10-14'
+title: orthocaremedical.com
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/october
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | orthocaremedical.com      | 
 | Threat Actor    | LockData Auction      | 
 | Date Discovered    | Oct 14, 2021      | 

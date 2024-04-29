@@ -1,14 +1,16 @@
 ---
-date: "2024-03-15"
-discovered: "March 15, 2024"
-title: "GFAD"
-image: "images/blog/BlackBasta.png"
-author: "Breachsense Support"
+date: '2024-03-15'
+discovered: March 15, 2024
+title: GFAD
+image: images/blog/BlackBasta.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | gfad.de      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Mar 15, 2024      | 

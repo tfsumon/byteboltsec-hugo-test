@@ -1,14 +1,16 @@
 ---
-date: "2024-01-15"
-discovered: "January 15, 2024"
-title: "Lee Spring"
-image: "images/blog/Rhysida.png"
-author: "Breachsense Support"
+date: '2024-01-15'
+discovered: January 15, 2024
+title: Lee Spring
+image: images/blog/Rhysida.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | leespring.com      | 
 | Threat Actor      | Rhysida      | 
 | Date Discovered      | Jan 15, 2024      | 

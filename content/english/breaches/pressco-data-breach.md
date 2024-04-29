@@ -1,14 +1,16 @@
 ---
-Discovered: "November 04, 2022"
-date: "2022-11-04"
-title: "Pressco"
-image: "images/blog/Royal.png"
-author: "Breachsense Support"
+Discovered: November 04, 2022
+date: '2022-11-04'
+title: Pressco
+image: images/blog/Royal.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | pressco.com      | 
 | Threat Actor      | Royal      | 
 | Date Discovered      | Nov 04, 2022      | 

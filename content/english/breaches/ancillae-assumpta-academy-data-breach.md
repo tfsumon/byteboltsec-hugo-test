@@ -1,14 +1,16 @@
 ---
-date: "2023-10-26"
-discovered: "October 26, 2023"
-title: "Ancillae-Assumpta Academy"
-image: "images/blog/Snatch.png"
-author: "Breachsense Support"
+date: '2023-10-26'
+discovered: October 26, 2023
+title: Ancillae-Assumpta Academy
+image: images/blog/Snatch.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ancillae.org      | 
 | Threat Actor      | Snatch      | 
 | Date Discovered      | Oct 26, 2023      | 

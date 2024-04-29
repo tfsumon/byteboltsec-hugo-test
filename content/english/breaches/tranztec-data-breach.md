@@ -1,14 +1,16 @@
 ---
-date: "2023-04-27"
-discovered: "April 27, 2023"
-title: "Tranztec"
-image: "images/blog/RansomHouse.png"
-author: "Breachsense Support"
+date: '2023-04-27'
+discovered: April 27, 2023
+title: Tranztec
+image: images/blog/RansomHouse.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/april
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | tranztec.com      | 
 | Threat Actor      | RansomHouse      | 
 | Date Discovered      | Apr 27, 2023      | 

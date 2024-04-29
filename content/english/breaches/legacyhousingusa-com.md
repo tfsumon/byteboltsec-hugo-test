@@ -1,14 +1,16 @@
 ---
-Discovered: "February 28, 2021"
-date: "2021-02-28"
-title: "legacyhousingusa.com"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: February 28, 2021
+date: '2021-02-28'
+title: legacyhousingusa.com
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/february
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | legacyhousingusa.com      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Feb 28, 2021      | 

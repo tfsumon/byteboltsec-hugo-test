@@ -1,14 +1,16 @@
 ---
-Discovered: "November 15, 2022"
-date: "2022-11-15"
-title: "Keenan"
-image: "images/blog/Royal.png"
-author: "Breachsense Support"
+Discovered: November 15, 2022
+date: '2022-11-15'
+title: Keenan
+image: images/blog/Royal.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | keenanins.com      | 
 | Threat Actor      | Royal      | 
 | Date Discovered      | Nov 15, 2022      | 

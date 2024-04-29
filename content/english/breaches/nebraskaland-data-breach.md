@@ -1,14 +1,16 @@
 ---
-date: "2023-06-15"
-discovered: "June 15, 2023"
-title: "Nebraskaland"
-image: "images/blog/Blackbyte.png"
-author: "Breachsense Support"
+date: '2023-06-15'
+discovered: June 15, 2023
+title: Nebraskaland
+image: images/blog/Blackbyte.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | nebraskaland.com      | 
 | Threat Actor      | Blackbyte      | 
 | Date Discovered      | Jun 15, 2023      | 

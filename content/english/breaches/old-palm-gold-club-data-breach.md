@@ -1,14 +1,16 @@
 ---
-Discovered: "July 04, 2022"
-date: "2022-07-04"
-title: "Old Palm Gold Club"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: July 04, 2022
+date: '2022-07-04'
+title: Old Palm Gold Club
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | oldpalmgolfclub.com      | 
 | Threat Actor      |  Black Basta     | 
 | Date Discovered      | Jul 04, 2022      | 

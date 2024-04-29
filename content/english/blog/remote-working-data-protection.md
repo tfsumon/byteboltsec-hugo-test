@@ -3,6 +3,7 @@ date: "2024-04-18"
 title: "Data Protection for Remote Working"
 image: "images/blog/remote-working-data-protection.webp"
 description: "Learn everything about remote work data protection. Discover the best practices to protect your remote employees and organization from data breaches."
+tags: ["Data Protection"]
 author: "Breachsense"
 h1: "Data Protection for Remote Working"
 intro1: "Need to protect your data but still allow access to remote workers? Looking for some best practices to follow?"

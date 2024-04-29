@@ -1,14 +1,16 @@
 ---
-Discovered: "January 27, 2021"
-date: "2021-01-27"
-title: "bc.sc.gov.br"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: January 27, 2021
+date: '2021-01-27'
+title: bc.sc.gov.br
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/january
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | bc.sc.gov.br      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Jan 27, 2021      | 

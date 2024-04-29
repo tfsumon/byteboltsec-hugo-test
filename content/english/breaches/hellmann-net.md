@@ -1,14 +1,16 @@
 ---
-Discovered: "December 15, 2021"
-date: "2021-12-15"
-title: "hellmann.net"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: December 15, 2021
+date: '2021-12-15'
+title: hellmann.net
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/december
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | hellmann.net      | 
 | Threat Actor    | RansomEXX      | 
 | Date Discovered    | Dec 15, 2021      | 

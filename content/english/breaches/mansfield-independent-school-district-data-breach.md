@@ -1,14 +1,16 @@
 ---
-Discovered: "October 02, 2022"
-date: "2022-10-02"
-title: "Mansfield Independent School District"
-image: "images/blog/HiveLeaks.png"
-author: "Breachsense Support"
+Discovered: October 02, 2022
+date: '2022-10-02'
+title: Mansfield Independent School District
+image: images/blog/HiveLeaks.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | mansfieldisd.org      | 
 | Threat Actor      | HiveLeaks      | 
 | Date Discovered      | Oct 02, 2022      | 

@@ -1,14 +1,16 @@
 ---
-Discovered: "November 05, 2021"
-date: "2021-11-05"
-title: "mercantilandina.com.ar"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: November 05, 2021
+date: '2021-11-05'
+title: mercantilandina.com.ar
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/november
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | mercantilandina.com.ar      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Nov 05, 2021      | 

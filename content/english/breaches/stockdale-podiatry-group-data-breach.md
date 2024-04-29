@@ -1,14 +1,16 @@
 ---
-date: "2023-08-11"
-discovered: "August 11, 2023"
-title: "Stockdale Podiatry Group"
-image: "images/blog/8BASE.png"
-author: "Breachsense Support"
+date: '2023-08-11'
+discovered: August 11, 2023
+title: Stockdale Podiatry Group
+image: images/blog/8BASE.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | wetreatyourfeet.com      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Aug 11, 2023      | 

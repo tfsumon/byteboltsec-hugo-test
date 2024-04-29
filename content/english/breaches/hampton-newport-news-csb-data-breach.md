@@ -1,14 +1,16 @@
 ---
-date: "2023-11-21"
-discovered: "November 21, 2023"
-title: "Hampton-Newport News CSB"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+date: '2023-11-21'
+discovered: November 21, 2023
+title: Hampton-Newport News CSB
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | hnncsb.org      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Nov 21, 2023      | 

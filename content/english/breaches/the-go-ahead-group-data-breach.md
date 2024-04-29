@@ -1,14 +1,16 @@
 ---
-date: "2023-09-27"
-discovered: "September 27, 2023"
-title: "The Go-Ahead Group"
-image: "images/blog/DunghillLeak.png"
-author: "Breachsense Support"
+date: '2023-09-27'
+discovered: September 27, 2023
+title: The Go-Ahead Group
+image: images/blog/DunghillLeak.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | go-ahead.com      | 
 | Threat Actor      | DunghillLeak      | 
 | Date Discovered      | Sep 27, 2023      | 

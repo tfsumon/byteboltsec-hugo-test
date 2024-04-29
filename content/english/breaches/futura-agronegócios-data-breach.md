@@ -1,14 +1,16 @@
 ---
-date: "2023-06-19"
-discovered: "June 19, 2023"
-title: "Futura Agronegócios"
-image: "images/blog/8BASE.png"
-author: "Breachsense Support"
+date: '2023-06-19'
+discovered: June 19, 2023
+title: Futura Agronegócios
+image: images/blog/8BASE.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | futuraagro.com.br      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Jun 19, 2023      | 

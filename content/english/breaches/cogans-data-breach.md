@@ -1,14 +1,16 @@
 ---
-date: "2024-02-20"
-discovered: "February 20, 2024"
-title: "Cogans"
-image: "images/blog/Trisec.png"
-author: "Breachsense Support"
+date: '2024-02-20'
+discovered: February 20, 2024
+title: Cogans
+image: images/blog/Trisec.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | cogans.ie      | 
 | Threat Actor      | Trisec      | 
 | Date Discovered      | Feb 20, 2024      | 

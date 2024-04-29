@@ -1,14 +1,16 @@
 ---
-Discovered: "September 18, 2021"
-date: "2021-09-18"
-title: "rlsblaw.com"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: September 18, 2021
+date: '2021-09-18'
+title: rlsblaw.com
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/september
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | rlsblaw.com      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Sep 18, 2021      | 

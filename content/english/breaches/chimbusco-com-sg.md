@@ -1,14 +1,16 @@
 ---
-Discovered: "April 19, 2022"
-date: "2022-04-19"
-title: "chimbusco.com.sg"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: April 19, 2022
+date: '2022-04-19'
+title: chimbusco.com.sg
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/april
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | chimbusco.com.sg      | 
 | Threat Actor    | AvosLocker      | 
 | Date Discovered    | Apr 19, 2022      | 

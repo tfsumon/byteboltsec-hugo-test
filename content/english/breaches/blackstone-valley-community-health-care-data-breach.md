@@ -1,14 +1,16 @@
 ---
-date: "2023-12-19"
-discovered: "December 19, 2023"
-title: "Blackstone Valley Community Health Care"
-image: "images/blog/Hunters.png"
-author: "Breachsense Support"
+date: '2023-12-19'
+discovered: December 19, 2023
+title: Blackstone Valley Community Health Care
+image: images/blog/Hunters.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | bvchc.org      | 
 | Threat Actor      | Hunters      | 
 | Date Discovered      | Dec 19, 2023      | 

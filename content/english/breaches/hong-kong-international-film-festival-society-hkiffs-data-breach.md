@@ -1,14 +1,16 @@
 ---
-date: "2023-04-18"
-discovered: "April 18, 2023"
-title: "Hong Kong International Film Festival Society (HKIFFS)"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-04-18'
+discovered: April 18, 2023
+title: Hong Kong International Film Festival Society (HKIFFS)
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/april
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | hkiff.org.hk      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Apr 18, 2023      | 

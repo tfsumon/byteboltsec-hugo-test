@@ -1,14 +1,16 @@
 ---
-date: "2023-09-20"
-discovered: "September 20, 2023"
-title: "American University of Antigua"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+date: '2023-09-20'
+discovered: September 20, 2023
+title: American University of Antigua
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | auamed.org      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Sep 20, 2023      | 

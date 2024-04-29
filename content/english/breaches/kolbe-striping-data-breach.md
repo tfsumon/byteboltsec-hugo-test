@@ -1,14 +1,16 @@
 ---
-date: "2024-03-21"
-discovered: "March 21, 2024"
-title: "Kolbe Striping"
-image: "images/blog/Rhysida.png"
-author: "Breachsense Support"
+date: '2024-03-21'
+discovered: March 21, 2024
+title: Kolbe Striping
+image: images/blog/Rhysida.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | kolbestriping.com      | 
 | Threat Actor      | Rhysida      | 
 | Date Discovered      | Mar 21, 2024      | 

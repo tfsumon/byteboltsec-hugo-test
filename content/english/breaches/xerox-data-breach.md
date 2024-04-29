@@ -1,14 +1,16 @@
 ---
-date: "2024-01-02"
-discovered: "January 02, 2024"
-title: "Xerox"
-image: "images/blog/INC_RANSOM.png"
-author: "Breachsense Support"
+date: '2024-01-02'
+discovered: January 02, 2024
+title: Xerox
+image: images/blog/INC_RANSOM.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | xerox.com      | 
 | Threat Actor      | INC_RANSOM      | 
 | Date Discovered      | Jan 02, 2024      | 

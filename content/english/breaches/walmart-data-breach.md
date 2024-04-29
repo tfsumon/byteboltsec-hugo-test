@@ -1,14 +1,16 @@
 ---
-Discovered: "June 27, 2022"
-date: "2022-06-27"
-title: "Walmart"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: June 27, 2022
+date: '2022-06-27'
+title: Walmart
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | walmart.com      | 
 | Threat Actor      | Yanluowang      | 
 | Date Discovered      | Jun 27, 2022      | 

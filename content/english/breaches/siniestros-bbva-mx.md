@@ -1,14 +1,16 @@
 ---
-Discovered: "February 23, 2022"
-date: "2022-02-23"
-title: "siniestros.bbva.mx"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: February 23, 2022
+date: '2022-02-23'
+title: siniestros.bbva.mx
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/february
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | siniestros.bbva.mx      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Feb 23, 2022      | 

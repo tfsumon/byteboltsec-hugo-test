@@ -1,14 +1,16 @@
 ---
-date: "2023-07-31"
-discovered: "July 31, 2023"
-title: "Chu de Rennes"
-image: "images/blog/BianLian.png"
-author: "Breachsense Support"
+date: '2023-07-31'
+discovered: July 31, 2023
+title: Chu de Rennes
+image: images/blog/BianLian.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | chu-rennes.fr      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Jul 31, 2023      | 

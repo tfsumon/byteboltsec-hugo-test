@@ -1,14 +1,16 @@
 ---
-date: "2024-02-22"
-discovered: "February 22, 2024"
-title: "HRTec"
-image: "images/blog/BianLian.png"
-author: "Breachsense Support"
+date: '2024-02-22'
+discovered: February 22, 2024
+title: HRTec
+image: images/blog/BianLian.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | hrtec.net      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Feb 22, 2024      | 

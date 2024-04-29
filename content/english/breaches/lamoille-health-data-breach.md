@@ -1,14 +1,16 @@
 ---
-Discovered: "July 07, 2022"
-date: "2022-07-07"
-title: "Lamoille Health"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: July 07, 2022
+date: '2022-07-07'
+title: Lamoille Health
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | lamoillehealthpartners.org      | 
 | Threat Actor      | BlackByte      | 
 | Date Discovered      | Jul 07, 2022      | 

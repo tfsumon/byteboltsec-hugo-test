@@ -1,14 +1,16 @@
 ---
-Discovered: "October 21, 2022"
-date: "2022-10-21"
-title: "MK Real Estate Development"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: October 21, 2022
+date: '2022-10-21'
+title: MK Real Estate Development
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | mk.co.th      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Oct 21, 2022      | 

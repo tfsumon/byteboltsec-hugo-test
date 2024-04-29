@@ -1,14 +1,16 @@
 ---
-date: "2023-03-16"
-discovered: "March 16, 2023"
-title: "Etex"
-image: "images/blog/Blackbyte.png"
-author: "Breachsense Support"
+date: '2023-03-16'
+discovered: March 16, 2023
+title: Etex
+image: images/blog/Blackbyte.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | etex.net      | 
 | Threat Actor      | Blackbyte      | 
 | Date Discovered      | Mar 16, 2023      | 

@@ -1,14 +1,16 @@
 ---
-Discovered: "March 17, 2023"
-date: "2022-03-17"
-title: "World Market"
-image: "images/blog/CL0P.png"
-author: "Breachsense Support"
+Discovered: March 17, 2023
+date: '2022-03-17'
+title: World Market
+image: images/blog/CL0P.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | worldmarket.com      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Mar 17, 2023      | 

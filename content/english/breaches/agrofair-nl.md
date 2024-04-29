@@ -1,14 +1,16 @@
 ---
-Discovered: "December 16, 2021"
-date: "2021-12-16"
-title: "agrofair.nl"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: December 16, 2021
+date: '2021-12-16'
+title: agrofair.nl
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/december
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | agrofair.nl      | 
 | Threat Actor    | LV Blog      | 
 | Date Discovered    | Dec 16, 2021      | 

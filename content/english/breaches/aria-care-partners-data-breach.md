@@ -1,14 +1,16 @@
 ---
-date: "2023-09-06"
-discovered: "September 06, 2023"
-title: "Aria Care Partners"
-image: "images/blog/Trigona.png"
-author: "Breachsense Support"
+date: '2023-09-06'
+discovered: September 06, 2023
+title: Aria Care Partners
+image: images/blog/Trigona.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ariacarepartners.com      | 
 | Threat Actor      | Trigona      | 
 | Date Discovered      | Sep 06, 2023      | 

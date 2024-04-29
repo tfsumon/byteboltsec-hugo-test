@@ -1,14 +1,16 @@
 ---
-date: "2023-08-25"
-discovered: "August 25, 2023"
-title: "Ontellus"
-image: "images/blog/Blackbyte.png"
-author: "Breachsense Support"
+date: '2023-08-25'
+discovered: August 25, 2023
+title: Ontellus
+image: images/blog/Blackbyte.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ontellus.com      | 
 | Threat Actor      | Blackbyte      | 
 | Date Discovered      | Aug 25, 2023      | 

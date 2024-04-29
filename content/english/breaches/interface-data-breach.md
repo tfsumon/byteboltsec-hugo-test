@@ -1,14 +1,16 @@
 ---
-Discovered: "December 21, 2022"
-date: "2022-12-21"
-title: "Interface"
-image: "images/blog/HiveLeaks.png"
-author: "Breachsense Support"
+Discovered: December 21, 2022
+date: '2022-12-21'
+title: Interface
+image: images/blog/HiveLeaks.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | interface.com      | 
 | Threat Actor      | HiveLeaks      | 
 | Date Discovered      | Dec 21, 2022      | 

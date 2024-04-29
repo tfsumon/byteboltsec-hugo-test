@@ -1,14 +1,16 @@
 ---
-Discovered: "July 27, 2022"
-date: "2022-07-27"
-title: "Hall Cross Academy"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: July 27, 2022
+date: '2022-07-27'
+title: Hall Cross Academy
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | hallcrossacademy.co.uk      | 
 | Threat Actor      | Snatch      | 
 | Date Discovered      | Jul 27, 2022      | 

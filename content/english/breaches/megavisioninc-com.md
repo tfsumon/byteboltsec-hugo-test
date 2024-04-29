@@ -1,14 +1,16 @@
 ---
-Discovered: "July 05, 2021"
-date: "2021-07-05"
-title: "megavisioninc.com"
-image: "images/blog/HiveLeaks.png"
-author: "Breachsense Support"
+Discovered: July 05, 2021
+date: '2021-07-05'
+title: megavisioninc.com
+image: images/blog/HiveLeaks.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/july
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | megavisioninc.com      | 
 | Threat Actor    | Hive      | 
 | Date Discovered    | Jul 05, 2021      | 

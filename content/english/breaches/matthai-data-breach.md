@@ -1,14 +1,16 @@
 ---
-date: "2023-06-08"
-discovered: "June 08, 2023"
-title: "Matthai"
-image: "images/blog/BlackBasta.png"
-author: "Breachsense Support"
+date: '2023-06-08'
+discovered: June 08, 2023
+title: Matthai
+image: images/blog/BlackBasta.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | matthaei.de      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Jun 08, 2023      | 

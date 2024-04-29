@@ -1,14 +1,16 @@
 ---
-Discovered: "September 08, 2022"
-date: "2022-09-08"
-title: "Midway"
-image: "images/blog/Basta.png"
-author: "Breachsense Support"
+Discovered: September 08, 2022
+date: '2022-09-08'
+title: Midway
+image: images/blog/Basta.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | midwayimporting.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Sep 08, 2022      | 

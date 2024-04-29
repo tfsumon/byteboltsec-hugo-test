@@ -1,14 +1,16 @@
 ---
-date: "2024-02-28"
-discovered: "February 28, 2024"
-title: "Lurie Children's Hospital"
-image: "images/blog/Rhysida.png"
-author: "Breachsense Support"
+date: '2024-02-28'
+discovered: February 28, 2024
+title: Lurie Children's Hospital
+image: images/blog/Rhysida.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | luriechildrens.org      | 
 | Threat Actor      | Rhysida      | 
 | Date Discovered      | Feb 28, 2024      | 

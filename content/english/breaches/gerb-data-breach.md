@@ -1,14 +1,16 @@
 ---
-date: "2023-08-02"
-discovered: "August 02, 2023"
-title: "GERB"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-08-02'
+discovered: August 02, 2023
+title: GERB
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | gerb.bg      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Aug 02, 2023      | 

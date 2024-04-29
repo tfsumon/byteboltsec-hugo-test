@@ -1,14 +1,16 @@
 ---
-Discovered: "December 15, 2022"
-date: "2022-12-15"
-title: "Expand Group"
-image: "images/blog/HiveLeaks.png"
-author: "Breachsense Support"
+Discovered: December 15, 2022
+date: '2022-12-15'
+title: Expand Group
+image: images/blog/HiveLeaks.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | expandgroup.com.sg      | 
 | Threat Actor      | HiveLeaks      | 
 | Date Discovered      | Dec 15, 2022      | 

@@ -1,14 +1,16 @@
 ---
-date: "2024-04-15"
-discovered: "April 15, 2024"
-title: "Robar"
-image: "images/blog/BlackBasta.png"
-author: "Breachsense Support"
+date: '2024-04-15'
+discovered: April 15, 2024
+title: Robar
+image: images/blog/BlackBasta.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/april
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | robar.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Apr 15, 2024      | 

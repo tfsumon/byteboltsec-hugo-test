@@ -1,14 +1,16 @@
 ---
-Discovered: "August 29, 2022"
-date: "2022-08-29"
-title: "Grande Stevens"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: August 29, 2022
+date: '2022-08-29'
+title: Grande Stevens
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | grandestevens.it      | 
 | Threat Actor      | BlackByte      | 
 | Date Discovered      | Aug 29, 2022      | 

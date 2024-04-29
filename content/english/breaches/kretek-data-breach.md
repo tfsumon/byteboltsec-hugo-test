@@ -1,14 +1,16 @@
 ---
-date: "2023-04-07"
-discovered: "April 07, 2023"
-title: "Kretek"
-image: "images/blog/Royal.png"
-author: "Breachsense Support"
+date: '2023-04-07'
+discovered: April 07, 2023
+title: Kretek
+image: images/blog/Royal.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/april
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | kretek.com      | 
 | Threat Actor      | Royal      | 
 | Date Discovered      | Apr 07, 2023      | 

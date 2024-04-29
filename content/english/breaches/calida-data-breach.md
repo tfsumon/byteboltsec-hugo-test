@@ -1,14 +1,16 @@
 ---
-date: "2024-03-26"
-discovered: "March 26, 2024"
-title: "Calida"
-image: "images/blog/Akira.png"
-author: "Breachsense Support"
+date: '2024-03-26'
+discovered: March 26, 2024
+title: Calida
+image: images/blog/Akira.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | calida.com.au      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Mar 26, 2024      | 

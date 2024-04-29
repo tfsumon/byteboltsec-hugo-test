@@ -1,14 +1,16 @@
 ---
-date: "2023-12-27"
-discovered: "December 27, 2023"
-title: "Bay Orthopedic"
-image: "images/blog/BianLian.png"
-author: "Breachsense Support"
+date: '2023-12-27'
+discovered: December 27, 2023
+title: Bay Orthopedic
+image: images/blog/BianLian.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | bayorthopedic.com      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Dec 27, 2023      | 

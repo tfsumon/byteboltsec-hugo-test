@@ -1,14 +1,16 @@
 ---
-date: "2023-09-18"
-discovered: "September 18, 2023"
-title: "Syntech Engineers"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-09-18'
+discovered: September 18, 2023
+title: Syntech Engineers
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | syntech.com.sg      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Sep 18, 2023      | 

@@ -1,14 +1,16 @@
 ---
-Discovered: "October 20, 2020"
-date: "2020-10-20"
-title: "biologicale.com"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: October 20, 2020
+date: '2020-10-20'
+title: biologicale.com
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2020/october
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | biologicale.com      | 
 | Threat Actor    | Ragnar_Locker      | 
 | Date Discovered    | Oct 20, 2020      | 

@@ -1,14 +1,16 @@
 ---
-date: "2023-06-26"
-discovered: "June 26, 2023"
-title: "American Crane Rental"
-image: "images/blog/BianLian.png"
-author: "Breachsense Support"
+date: '2023-06-26'
+discovered: June 26, 2023
+title: American Crane Rental
+image: images/blog/BianLian.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | americancranerental.net      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Jun 26, 2023      | 

@@ -1,14 +1,16 @@
 ---
-date: "2024-01-26"
-discovered: "January 26, 2024"
-title: "Four Hands"
-image: "images/blog/0mega.png"
-author: "Breachsense Support"
+date: '2024-01-26'
+discovered: January 26, 2024
+title: Four Hands
+image: images/blog/0mega.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | fourhands.com      | 
 | Threat Actor      | 0mega      | 
 | Date Discovered      | Jan 26, 2024      | 

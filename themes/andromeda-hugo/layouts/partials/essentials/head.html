@@ -3,6 +3,11 @@
 <title>{{.Title}} Data Breach in {{.PublishDate.Format "2006"}}</title>
 {{ else if and (eq .Section "breaches") ( ne .Params.author "Breachsense Support") }}
 <title>Latest Data Breaches and Most Recent Data Breach Incidents</title>
+{{ else if and (strings.Contains .Permalink "/breaches/") (eq .Kind "term") }}
+  {{ $year := index (split .Title "/") 0 }}
+  {{ $month := index (split .Title "/") 1 }}
+  
+  <title>Data breaches in {{ $month }} {{ $year }}</title>
 {{ else }}
 <title>{{.Title | default site.Title}}</title>
 {{ end }}

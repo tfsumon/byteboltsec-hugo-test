@@ -1,14 +1,16 @@
 ---
-Discovered: "March 26, 2021"
-date: "2021-03-26"
-title: "cityofkingman.gov"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: March 26, 2021
+date: '2021-03-26'
+title: cityofkingman.gov
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/march
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | cityofkingman.gov      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Mar 26, 2021      | 

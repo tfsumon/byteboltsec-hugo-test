@@ -1,14 +1,16 @@
 ---
-Discovered: "December 12, 2022"
-date: "2022-12-12"
-title: "Warren County Community College"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+Discovered: December 12, 2022
+date: '2022-12-12'
+title: Warren County Community College
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | warren.edu      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Dec 12, 2022      | 

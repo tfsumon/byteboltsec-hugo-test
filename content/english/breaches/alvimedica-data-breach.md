@@ -1,14 +1,16 @@
 ---
-date: "2023-11-30"
-discovered: "November 30, 2023"
-title: "Alvimedica"
-image: "images/blog/Snatch.png"
-author: "Breachsense Support"
+date: '2023-11-30'
+discovered: November 30, 2023
+title: Alvimedica
+image: images/blog/Snatch.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | alvimedica.com      | 
 | Threat Actor      | Snatch      | 
 | Date Discovered      | Nov 30, 2023      | 

@@ -1,14 +1,16 @@
 ---
-date: "2023-12-29"
-discovered: "December 29, 2023"
-title: "Coastal Plains"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-12-29'
+discovered: December 29, 2023
+title: Coastal Plains
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | coastalplainsctr.org      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Dec 29, 2023      | 

@@ -1,14 +1,16 @@
 ---
-date: "2023-01-12"
-discovered: "January 12, 2023"
-title: "G.W. Becker"
-image: "images/blog/HiveLeaks.png"
-author: "Breachsense Support"
+date: '2023-01-12'
+discovered: January 12, 2023
+title: G.W. Becker
+image: images/blog/HiveLeaks.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | gwbcrane.com      | 
 | Threat Actor      | HiveLeaks      | 
 | Date Discovered      | Jan 12, 2023      | 

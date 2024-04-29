@@ -1,14 +1,16 @@
 ---
-date: "2023-12-18"
-discovered: "December 18, 2023"
-title: "InsideSource"
-image: "images/blog/8BASE.png"
-author: "Breachsense Support"
+date: '2023-12-18'
+discovered: December 18, 2023
+title: InsideSource
+image: images/blog/8BASE.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | insidesource.com      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Dec 18, 2023      | 

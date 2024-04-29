@@ -1,14 +1,16 @@
 ---
-date: "2023-10-12"
-discovered: "October 12, 2023"
-title: "Haffner"
-image: "images/blog/BlackBasta.png"
-author: "Breachsense Support"
+date: '2023-10-12'
+discovered: October 12, 2023
+title: Haffner
+image: images/blog/BlackBasta.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | hugohaeffner.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Oct 12, 2023      | 

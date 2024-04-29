@@ -1,14 +1,16 @@
 ---
-date: "2023-11-16"
-discovered: "November 16, 2023"
-title: "Cardinal MetalWorks"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+date: '2023-11-16'
+discovered: November 16, 2023
+title: Cardinal MetalWorks
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | cardinalmetalworks.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Nov 16, 2023      | 

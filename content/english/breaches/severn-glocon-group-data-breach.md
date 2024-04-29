@@ -1,14 +1,16 @@
 ---
-Discovered: "October 12, 2022"
-date: "2022-10-12"
-title: "Severn Glocon Group"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: October 12, 2022
+date: '2022-10-12'
+title: Severn Glocon Group
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | severnvalve.com      | 
 | Threat Actor      | RansomHouse      | 
 | Date Discovered      | Oct 12, 2022      | 

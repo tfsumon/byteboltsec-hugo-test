@@ -1,14 +1,16 @@
 ---
-date: "2023-05-02"
-discovered: "May 02, 2023"
-title: "Blume 2000"
-image: "images/blog/BlackBasta.png"
-author: "Breachsense Support"
+date: '2023-05-02'
+discovered: May 02, 2023
+title: Blume 2000
+image: images/blog/BlackBasta.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/may
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | blume2000.de      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | May 02, 2023      | 

@@ -1,14 +1,16 @@
 ---
-date: "2023-11-21"
-discovered: "November 21, 2023"
-title: "Bank of Ceylon"
-image: "images/blog/Cloak.png"
-author: "Breachsense Support"
+date: '2023-11-21'
+discovered: November 21, 2023
+title: Bank of Ceylon
+image: images/blog/Cloak.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | bankofceylon.co.uk      | 
 | Threat Actor      | Cloak      | 
 | Date Discovered      | Nov 21, 2023      | 

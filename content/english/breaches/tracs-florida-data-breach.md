@@ -1,14 +1,16 @@
 ---
-date: "2023-12-06"
-discovered: "December 06, 2023"
-title: "TraCS Florida"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+date: '2023-12-06'
+discovered: December 06, 2023
+title: TraCS Florida
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | tracsflorida.org      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Dec 06, 2023      | 

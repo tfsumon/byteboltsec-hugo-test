@@ -1,14 +1,16 @@
 ---
-Discovered: "October 12, 2022"
-date: "2022-10-12"
-title: "AMPORTS"
-image: "images/blog/Basta.png"
-author: "Breachsense Support"
+Discovered: October 12, 2022
+date: '2022-10-12'
+title: AMPORTS
+image: images/blog/Basta.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | amports.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Oct 12, 2022      | 

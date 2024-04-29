@@ -1,14 +1,16 @@
 ---
-date: "2023-12-26"
-discovered: "December 26, 2023"
-title: "Avesco Rent"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-12-26'
+discovered: December 26, 2023
+title: Avesco Rent
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | avescorent.ch      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Dec 26, 2023      | 

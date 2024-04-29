@@ -1,14 +1,16 @@
 ---
-date: "2023-01-11"
-discovered: "January 11, 2023"
-title: "Thor"
-image: "images/blog/Lorenz.png"
-author: "Breachsense Support"
+date: '2023-01-11'
+discovered: January 11, 2023
+title: Thor
+image: images/blog/Lorenz.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | thorsp.com      | 
 | Threat Actor      | Lorenz      | 
 | Date Discovered      | Jan 11, 2023      | 

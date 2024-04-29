@@ -1,14 +1,16 @@
 ---
-Discovered: "January 25, 2022"
-date: "2022-01-25"
-title: "favo.id"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: January 25, 2022
+date: '2022-01-25'
+title: favo.id
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/january
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | favo.id      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Jan 25, 2022      | 

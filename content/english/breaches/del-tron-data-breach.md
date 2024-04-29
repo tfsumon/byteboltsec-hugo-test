@@ -1,14 +1,16 @@
 ---
-date: "2024-02-07"
-discovered: "February 07, 2024"
-title: "Del-Tron"
-image: "images/blog/Abyss.png"
-author: "Breachsense Support"
+date: '2024-02-07'
+discovered: February 07, 2024
+title: Del-Tron
+image: images/blog/Abyss.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | deltron.com      | 
 | Threat Actor      | Abyss      | 
 | Date Discovered      | Feb 07, 2024      | 

@@ -1,14 +1,16 @@
 ---
-date: "2024-01-12"
-discovered: "January 12, 2024"
-title: "Limburg.net"
-image: "images/blog/Medusa.png"
-author: "Breachsense Support"
+date: '2024-01-12'
+discovered: January 12, 2024
+title: Limburg.net
+image: images/blog/Medusa.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | limburg.net      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Jan 12, 2024      | 

@@ -1,14 +1,16 @@
 ---
-date: "2023-12-10"
-discovered: "December 10, 2023"
-title: "Televisa"
-image: "images/blog/SiegedSec.png"
-author: "Breachsense Support"
+date: '2023-12-10'
+discovered: December 10, 2023
+title: Televisa
+image: images/blog/SiegedSec.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | televisa.com      | 
 | Threat Actor      | SiegedSec      | 
 | Date Discovered      | Dec 10, 2023      | 

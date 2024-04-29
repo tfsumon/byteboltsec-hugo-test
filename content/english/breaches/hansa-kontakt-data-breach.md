@@ -1,14 +1,16 @@
 ---
-Discovered: "July 03, 2022"
-date: "2022-07-03"
-title: "Hansa Kontakt"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+Discovered: July 03, 2022
+date: '2022-07-03'
+title: Hansa Kontakt
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | hansa-kontakt.hu      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Jul 03, 2022      | 

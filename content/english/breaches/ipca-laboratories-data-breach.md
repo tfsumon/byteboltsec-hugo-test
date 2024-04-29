@@ -1,14 +1,16 @@
 ---
-Discovered: "September 11, 2022"
-date: "2022-09-11"
-title: "Ipca Laboratories"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: September 11, 2022
+date: '2022-09-11'
+title: Ipca Laboratories
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ipca.com      | 
 | Threat Actor      | RansomHouse      | 
 | Date Discovered      | Sep 11, 2022      | 

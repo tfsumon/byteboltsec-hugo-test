@@ -1,14 +1,16 @@
 ---
-date: "2023-07-25"
-discovered: "July 25, 2023"
-title: "Collins Aerospace"
-image: "images/blog/BianLian.png"
-author: "Breachsense Support"
+date: '2023-07-25'
+discovered: July 25, 2023
+title: Collins Aerospace
+image: images/blog/BianLian.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | collinsaerospace.com      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Jul 25, 2023      | 

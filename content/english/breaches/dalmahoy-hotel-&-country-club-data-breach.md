@@ -1,14 +1,16 @@
 ---
-date: "2024-02-12"
-discovered: "February 12, 2024"
-title: "Dalmahoy Hotel & Country Club"
-image: "images/blog/Hunters.png"
-author: "Breachsense Support"
+date: '2024-02-12'
+discovered: February 12, 2024
+title: Dalmahoy Hotel & Country Club
+image: images/blog/Hunters.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | dalmahoyhotelandcountryclub.co.uk      | 
 | Threat Actor      | Hunters      | 
 | Date Discovered      | Feb 12, 2024      | 

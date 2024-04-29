@@ -1,14 +1,16 @@
 ---
-date: "2023-08-01"
-discovered: "August 01, 2023"
-title: "Batesville Tool & Die"
-image: "images/blog/RagnarLocker.png"
-author: "Breachsense Support"
+date: '2023-08-01'
+discovered: August 01, 2023
+title: Batesville Tool & Die
+image: images/blog/RagnarLocker.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | btdinc.com      | 
 | Threat Actor      | RagnarLocker      | 
 | Date Discovered      | Aug 01, 2023      | 

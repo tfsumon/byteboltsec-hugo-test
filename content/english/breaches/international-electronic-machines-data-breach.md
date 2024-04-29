@@ -1,14 +1,16 @@
 ---
-date: "2023-12-26"
-discovered: "December 26, 2023"
-title: "International Electronic Machines"
-image: "images/blog/Akira.png"
-author: "Breachsense Support"
+date: '2023-12-26'
+discovered: December 26, 2023
+title: International Electronic Machines
+image: images/blog/Akira.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | iem.net      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Dec 26, 2023      | 

@@ -1,14 +1,16 @@
 ---
-Discovered: "November 27, 2020"
-date: "2020-11-27"
-title: "tntorello.com"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: November 27, 2020
+date: '2020-11-27'
+title: tntorello.com
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2020/november
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | tntorello.com      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Nov 27, 2020      | 

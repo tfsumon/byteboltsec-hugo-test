@@ -1,14 +1,16 @@
 ---
-date: "2023-09-19"
-discovered: "September 19, 2023"
-title: "Auckland Transport"
-image: "images/blog/Medusa.png"
-author: "Breachsense Support"
+date: '2023-09-19'
+discovered: September 19, 2023
+title: Auckland Transport
+image: images/blog/Medusa.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | at.govt.nz      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Sep 19, 2023      | 

@@ -1,14 +1,16 @@
 ---
-Discovered: "May 18, 2022"
-date: "2022-05-18"
-title: "vivalia.be"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: May 18, 2022
+date: '2022-05-18'
+title: vivalia.be
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/may
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | vivalia.be      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | May 18, 2022      | 

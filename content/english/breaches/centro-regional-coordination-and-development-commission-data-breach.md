@@ -1,14 +1,16 @@
 ---
-date: "2023-11-08"
-discovered: "November 08, 2023"
-title: "Centro Regional Coordination and Development Commission"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-11-08'
+discovered: November 08, 2023
+title: Centro Regional Coordination and Development Commission
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ccdrc.pt      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Nov 08, 2023      | 

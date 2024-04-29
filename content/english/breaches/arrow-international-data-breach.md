@@ -1,14 +1,16 @@
 ---
-date: "2024-01-31"
-discovered: "January 31, 2024"
-title: "Arrow International"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2024-01-31'
+discovered: January 31, 2024
+title: Arrow International
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | arrowinternational.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jan 31, 2024      | 

@@ -1,14 +1,16 @@
 ---
-date: "2023-11-28"
-discovered: "November 28, 2023"
-title: "North Texas Municipal Water District"
-image: "images/blog/Daixin.png"
-author: "Breachsense Support"
+date: '2023-11-28'
+discovered: November 28, 2023
+title: North Texas Municipal Water District
+image: images/blog/Daixin.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ntmwd.com      | 
 | Threat Actor      | Daixin      | 
 | Date Discovered      | Nov 28, 2023      | 

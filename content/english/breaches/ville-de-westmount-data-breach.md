@@ -1,14 +1,16 @@
 ---
-Discovered: "November 21, 2022"
-date: "2022-11-21"
-title: "Ville de Westmount"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: November 21, 2022
+date: '2022-11-21'
+title: Ville de Westmount
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | westmount.org      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Nov 21, 2022      | 

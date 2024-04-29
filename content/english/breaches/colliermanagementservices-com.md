@@ -1,14 +1,16 @@
 ---
-Discovered: "July 26, 2021"
-date: "2021-07-26"
-title: "colliermanagementservices.com"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: July 26, 2021
+date: '2021-07-26'
+title: colliermanagementservices.com
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/july
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | colliermanagementservices.com      | 
 | Threat Actor    | LV Blog      | 
 | Date Discovered    | Jul 26, 2021      | 

@@ -1,14 +1,16 @@
 ---
-Discovered: "November 10, 2022"
-date: "2022-11-10"
-title: "Softeq"
-image: "images/blog/CL0P.png"
-author: "Breachsense Support"
+Discovered: November 10, 2022
+date: '2022-11-10'
+title: Softeq
+image: images/blog/CL0P.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | softeq.com      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Nov 10, 2022      | 

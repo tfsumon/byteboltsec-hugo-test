@@ -1,14 +1,16 @@
 ---
-Discovered: "November 17, 2022"
-date: "2022-11-17"
-title: "Lake Charles Memorial Health System"
-image: "images/blog/HiveLeaks.png"
-author: "Breachsense Support"
+Discovered: November 17, 2022
+date: '2022-11-17'
+title: Lake Charles Memorial Health System
+image: images/blog/HiveLeaks.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | lcmh.com      | 
 | Threat Actor      | HiveLeaks      | 
 | Date Discovered      | Nov 17, 2022      | 

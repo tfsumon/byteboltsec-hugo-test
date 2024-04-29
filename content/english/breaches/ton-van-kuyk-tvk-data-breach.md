@@ -1,14 +1,16 @@
 ---
-date: "2023-01-19"
-discovered: "January 19, 2023"
-title: "Ton van Kuyk (TVK)"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-01-19'
+discovered: January 19, 2023
+title: Ton van Kuyk (TVK)
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | tvk.nl      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jan 19, 2023      | 

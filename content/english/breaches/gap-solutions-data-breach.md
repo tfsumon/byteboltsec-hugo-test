@@ -1,14 +1,16 @@
 ---
-date: "2024-03-01"
-discovered: "March 01, 2024"
-title: "Gap Solutions"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2024-03-01'
+discovered: March 01, 2024
+title: Gap Solutions
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | gapsolutions.com.au      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Mar 01, 2024      | 

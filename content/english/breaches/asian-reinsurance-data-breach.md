@@ -1,14 +1,16 @@
 ---
-date: "2023-01-09"
-discovered: "January 09, 2023"
-title: "Asian Reinsurance"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-01-09'
+discovered: January 09, 2023
+title: Asian Reinsurance
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | asianrecorp.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jan 09, 2023      | 

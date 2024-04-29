@@ -1,14 +1,16 @@
 ---
-date: "2023-09-12"
-discovered: "September 12, 2023"
-title: "International Joint Commission"
-image: "images/blog/NoEscape.png"
-author: "Breachsense Support"
+date: '2023-09-12'
+discovered: September 12, 2023
+title: International Joint Commission
+image: images/blog/NoEscape.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ijc.org      | 
 | Threat Actor      | NoEscape      | 
 | Date Discovered      | Sep 12, 2023      | 

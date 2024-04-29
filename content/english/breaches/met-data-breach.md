@@ -1,14 +1,16 @@
 ---
-date: "2023-03-02"
-discovered: "March 02, 2023"
-title: "Met"
-image: "images/blog/Snatch.png"
-author: "Breachsense Support"
+date: '2023-03-02'
+discovered: March 02, 2023
+title: Met
+image: images/blog/Snatch.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | metopera.org      | 
 | Threat Actor      | Snatch      | 
 | Date Discovered      | Mar 02, 2023      | 

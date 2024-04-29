@@ -1,14 +1,16 @@
 ---
-Discovered: "November 28, 2022"
-date: "2022-11-28"
-title: "Glen Dimplex"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: November 28, 2022
+date: '2022-11-28'
+title: Glen Dimplex
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | glendimplex.com      | 
 | Threat Actor      | LV      | 
 | Date Discovered      | Nov 28, 2022      | 

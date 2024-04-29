@@ -1,14 +1,16 @@
 ---
-date: "2023-06-02"
-discovered: "June 02, 2023"
-title: "Fire Safety Design (FSD)"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-06-02'
+discovered: June 02, 2023
+title: Fire Safety Design (FSD)
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | fsd.se      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jun 02, 2023      | 

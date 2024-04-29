@@ -1,14 +1,16 @@
 ---
-date: "2023-10-04"
-discovered: "October 04, 2023"
-title: "US Liner"
-image: "images/blog/0mega.png"
-author: "Breachsense Support"
+date: '2023-10-04'
+discovered: October 04, 2023
+title: US Liner
+image: images/blog/0mega.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | uslco.com      | 
 | Threat Actor      | 0mega      | 
 | Date Discovered      | Oct 04, 2023      | 

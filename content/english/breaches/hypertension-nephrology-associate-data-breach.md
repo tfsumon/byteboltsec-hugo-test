@@ -1,14 +1,16 @@
 ---
-date: "2024-02-29"
-discovered: "February 29, 2024"
-title: "Hypertension Nephrology Associate"
-image: "images/blog/BianLian.png"
-author: "Breachsense Support"
+date: '2024-02-29'
+discovered: February 29, 2024
+title: Hypertension Nephrology Associate
+image: images/blog/BianLian.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | hypertensionnephrologyassociates.com      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Feb 29, 2024      | 

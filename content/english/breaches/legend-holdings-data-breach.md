@@ -1,14 +1,16 @@
 ---
-Discovered: "October 20, 2022"
-date: "2022-10-20"
-title: "Legend Holdings"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: October 20, 2022
+date: '2022-10-20'
+title: Legend Holdings
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | legendholdings.com      | 
 | Threat Actor      | Karakurt      | 
 | Date Discovered      | Oct 20, 2022      | 

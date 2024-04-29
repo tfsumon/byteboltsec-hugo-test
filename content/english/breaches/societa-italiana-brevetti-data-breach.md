@@ -1,14 +1,16 @@
 ---
-date: "2023-02-01"
-discovered: "February 01, 2023"
-title: "Societa Italiana Brevetti"
-image: "images/blog/ViceSociety.png"
-author: "Breachsense Support"
+date: '2023-02-01'
+discovered: February 01, 2023
+title: Societa Italiana Brevetti
+image: images/blog/ViceSociety.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | sib.it      | 
 | Threat Actor      | ViceSociety      | 
 | Date Discovered      | Feb 01, 2023      | 

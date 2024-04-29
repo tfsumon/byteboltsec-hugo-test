@@ -1,14 +1,16 @@
 ---
-Discovered: "July 05, 2022"
-date: "2022-07-05"
-title: "Yurtiçi Kargo"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+Discovered: July 05, 2022
+date: '2022-07-05'
+title: Yurtiçi Kargo
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | yurticikargo.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Jul 05, 2022      | 

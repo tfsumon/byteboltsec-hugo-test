@@ -1,14 +1,16 @@
 ---
-Discovered: "August 07, 2022"
-date: "2022-08-07"
-title: "New West Metals"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: August 07, 2022
+date: '2022-08-07'
+title: New West Metals
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | newwestmetals.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Aug 07, 2022      | 

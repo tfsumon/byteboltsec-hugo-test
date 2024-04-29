@@ -1,14 +1,16 @@
 ---
-date: "2023-05-28"
-discovered: "May 28, 2023"
-title: "Technology and Telecommunications Consultants (TTC)"
-image: "images/blog/Trigona.png"
-author: "Breachsense Support"
+date: '2023-05-28'
+discovered: May 28, 2023
+title: Technology and Telecommunications Consultants (TTC)
+image: images/blog/Trigona.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/may
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | feit.com      | 
 | Threat Actor      | Trigona      | 
 | Date Discovered      | May 28, 2023      | 

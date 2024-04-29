@@ -1,14 +1,16 @@
 ---
-Discovered: "October 06, 2022"
-date: "2022-10-06"
-title: "United Grinding"
-image: "images/blog/Basta.png"
-author: "Breachsense Support"
+Discovered: October 06, 2022
+date: '2022-10-06'
+title: United Grinding
+image: images/blog/Basta.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | grinding.ch      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Oct 06, 2022      | 

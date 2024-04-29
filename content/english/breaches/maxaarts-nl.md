@@ -1,14 +1,16 @@
 ---
-Discovered: "November 28, 2020"
-date: "2020-11-28"
-title: "maxaarts.nl"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: November 28, 2020
+date: '2020-11-28'
+title: maxaarts.nl
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2020/november
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | maxaarts.nl      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Nov 28, 2020      | 

@@ -1,14 +1,16 @@
 ---
-date: "2023-01-30"
-discovered: "January 30, 2023"
-title: "Seguros Equinoccial"
-image: "images/blog/ViceSociety.png"
-author: "Breachsense Support"
+date: '2023-01-30'
+discovered: January 30, 2023
+title: Seguros Equinoccial
+image: images/blog/ViceSociety.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | segurosequinoccial.com      | 
 | Threat Actor      | ViceSociety      | 
 | Date Discovered      | Jan 30, 2023      | 

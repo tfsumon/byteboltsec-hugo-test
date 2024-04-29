@@ -1,14 +1,16 @@
 ---
-Discovered: "July 14, 2022"
-date: "2022-07-14"
-title: "SERV Behavioral Health System"
-image: "images/blog/HiveLeaks.png"
-author: "Breachsense Support"
+Discovered: July 14, 2022
+date: '2022-07-14'
+title: SERV Behavioral Health System
+image: images/blog/HiveLeaks.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/july
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | servbhs.org      | 
 | Threat Actor    | HiveLeaks      | 
 | Date Discovered    | Jul 14, 2022      | 

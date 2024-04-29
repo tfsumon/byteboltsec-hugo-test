@@ -1,14 +1,16 @@
 ---
-date: "2023-09-19"
-discovered: "September 19, 2023"
-title: "Grupo Boreal"
-image: "images/blog/Trigona.png"
-author: "Breachsense Support"
+date: '2023-09-19'
+discovered: September 19, 2023
+title: Grupo Boreal
+image: images/blog/Trigona.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | grupoboreal.com.ar      | 
 | Threat Actor      | Trigona      | 
 | Date Discovered      | Sep 19, 2023      | 

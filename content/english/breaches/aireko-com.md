@@ -1,14 +1,16 @@
 ---
-Discovered: "February 27, 2021"
-date: "2021-02-27"
-title: "aireko.com"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: February 27, 2021
+date: '2021-02-27'
+title: aireko.com
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/february
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | aireko.com      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Feb 27, 2021      | 

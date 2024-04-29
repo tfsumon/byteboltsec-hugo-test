@@ -1,14 +1,16 @@
 ---
-Discovered: "August 30, 2022"
-date: "2022-08-30"
-title: "Brigatine"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: August 30, 2022
+date: '2022-08-30'
+title: Brigatine
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | brigantine.com      | 
 | Threat Actor      | AvosLocker      | 
 | Date Discovered      | Aug 30, 2022      | 

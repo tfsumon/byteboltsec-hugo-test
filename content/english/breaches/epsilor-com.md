@@ -1,14 +1,16 @@
 ---
-Discovered: "November 09, 2021"
-date: "2021-11-09"
-title: "epsilor.com"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: November 09, 2021
+date: '2021-11-09'
+title: epsilor.com
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/november
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | epsilor.com      | 
 | Threat Actor    | Moses Staff      | 
 | Date Discovered    | Nov 09, 2021      | 

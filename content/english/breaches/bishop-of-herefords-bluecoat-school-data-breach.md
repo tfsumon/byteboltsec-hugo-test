@@ -1,14 +1,16 @@
 ---
-Discovered: "October 31, 2022"
-date: "2022-10-31"
-title: "Bishop of Herefords Bluecoat School"
-image: "images/blog/ViceSociety.png"
-author: "Breachsense Support"
+Discovered: October 31, 2022
+date: '2022-10-31'
+title: Bishop of Herefords Bluecoat School
+image: images/blog/ViceSociety.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | bhbs.hereford.sch.uk      | 
 | Threat Actor      | ViceSociety      | 
 | Date Discovered      | Oct 31, 2022      | 

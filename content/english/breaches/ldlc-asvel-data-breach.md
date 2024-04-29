@@ -1,14 +1,16 @@
 ---
-date: "2023-10-12"
-discovered: "October 12, 2023"
-title: "LDLC ASVEL"
-image: "images/blog/NoEscape.png"
-author: "Breachsense Support"
+date: '2023-10-12'
+discovered: October 12, 2023
+title: LDLC ASVEL
+image: images/blog/NoEscape.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ldlcasvel.com      | 
 | Threat Actor      | NoEscape      | 
 | Date Discovered      | Oct 12, 2023      | 

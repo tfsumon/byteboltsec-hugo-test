@@ -1,14 +1,16 @@
 ---
-date: "2023-08-15"
-discovered: "August 15, 2023"
-title: "Verdeil Foundation"
-image: "images/blog/NoEscape.png"
-author: "Breachsense Support"
+date: '2023-08-15'
+discovered: August 15, 2023
+title: Verdeil Foundation
+image: images/blog/NoEscape.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | verdeil.ch      | 
 | Threat Actor      | NoEscape      | 
 | Date Discovered      | Aug 15, 2023      | 

@@ -1,14 +1,16 @@
 ---
-Discovered: "September 06, 2022"
-date: "2022-09-06"
-title: "GAV Resorts"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: September 06, 2022
+date: '2022-09-06'
+title: GAV Resorts
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | gavresorts.com.br      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Sep 06, 2022      | 

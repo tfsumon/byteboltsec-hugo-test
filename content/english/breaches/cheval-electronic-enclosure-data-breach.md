@@ -1,14 +1,16 @@
 ---
-Discovered: "October 19, 2022"
-date: "2022-10-19"
-title: "Cheval Electronic Enclosure"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: October 19, 2022
+date: '2022-10-19'
+title: Cheval Electronic Enclosure
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | chevalgrp.com      | 
 | Threat Actor      | Karakurt      | 
 | Date Discovered      | Oct 19, 2022      | 

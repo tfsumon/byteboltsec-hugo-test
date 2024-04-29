@@ -1,14 +1,16 @@
 ---
-date: "2023-12-23"
-discovered: "December 23, 2023"
-title: "Rajamangala University of Technology Tawan-Ok"
-image: "images/blog/STORMOUS.png"
-author: "Breachsense Support"
+date: '2023-12-23'
+discovered: December 23, 2023
+title: Rajamangala University of Technology Tawan-Ok
+image: images/blog/STORMOUS.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | rmutto.ac.th      | 
 | Threat Actor      | STORMOUS      | 
 | Date Discovered      | Dec 23, 2023      | 

@@ -1,14 +1,16 @@
 ---
-Discovered: "October 26, 2022"
-date: "2022-10-26"
-title: "Cadeply"
-image: "images/blog/Basta.png"
-author: "Breachsense Support"
+Discovered: October 26, 2022
+date: '2022-10-26'
+title: Cadeply
+image: images/blog/Basta.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | cadeploy.com      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Oct 26, 2022      | 

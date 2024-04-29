@@ -1,14 +1,16 @@
 ---
-Discovered: "May 31, 2022"
-date: "2022-05-31"
-title: "klasnerandsolomon.com"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: May 31, 2022
+date: '2022-05-31'
+title: klasnerandsolomon.com
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/may
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | klasnerandsolomon.com      | 
 | Threat Actor    | Snatch      | 
 | Date Discovered    | May 31, 2022      | 

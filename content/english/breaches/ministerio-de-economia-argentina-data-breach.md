@@ -1,14 +1,16 @@
 ---
-Discovered: "September 22, 2022"
-date: "2022-09-22"
-title: "Ministerio de Economía Argentina"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: September 22, 2022
+date: '2022-09-22'
+title: Ministerio de Economía Argentina
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | economia.gob.ar      | 
 | Threat Actor      | Everest      | 
 | Date Discovered      | Sep 22, 2022      | 

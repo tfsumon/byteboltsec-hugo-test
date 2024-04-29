@@ -1,14 +1,16 @@
 ---
-date: "2023-04-27"
-discovered: "April 27, 2023"
-title: "Intellicare"
-image: "images/blog/CL0P.png"
-author: "Breachsense Support"
+date: '2023-04-27'
+discovered: April 27, 2023
+title: Intellicare
+image: images/blog/CL0P.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/april
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | intellicare.com.ph      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Apr 27, 2023      | 

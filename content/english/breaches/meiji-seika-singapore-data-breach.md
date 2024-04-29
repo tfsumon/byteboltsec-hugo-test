@@ -1,14 +1,16 @@
 ---
-Discovered: "August 31, 2022"
-date: "2022-08-31"
-title: "Meiji Seika Singapore"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: August 31, 2022
+date: '2022-08-31'
+title: Meiji Seika Singapore
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | meiji.com.sg      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Aug 31, 2022      | 

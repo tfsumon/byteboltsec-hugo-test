@@ -1,14 +1,16 @@
 ---
-Discovered: "May 17, 2022"
-date: "2022-05-17"
-title: "rexontec.com.tw"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: May 17, 2022
+date: '2022-05-17'
+title: rexontec.com.tw
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/may
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | rexontec.com.tw      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | May 17, 2022      | 

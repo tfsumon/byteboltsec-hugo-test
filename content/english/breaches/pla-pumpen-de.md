@@ -1,14 +1,16 @@
 ---
-Discovered: "August 29, 2021"
-date: "2021-08-29"
-title: "pla-pumpen.de"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: August 29, 2021
+date: '2021-08-29'
+title: pla-pumpen.de
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/august
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | pla-pumpen.de      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Aug 29, 2021      | 

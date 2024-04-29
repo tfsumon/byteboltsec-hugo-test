@@ -1,14 +1,16 @@
 ---
-date: "2023-10-17"
-discovered: "October 17, 2023"
-title: "Greenpoint"
-image: "images/blog/INC_RANSOM.png"
-author: "Breachsense Support"
+date: '2023-10-17'
+discovered: October 17, 2023
+title: Greenpoint
+image: images/blog/INC_RANSOM.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | greenpoint.com      | 
 | Threat Actor      | INC_RANSOM      | 
 | Date Discovered      | Oct 17, 2023      | 

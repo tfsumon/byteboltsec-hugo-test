@@ -1,14 +1,16 @@
 ---
-Discovered: "April 27, 2022"
-date: "2022-04-27"
-title: "frisa.com"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+Discovered: April 27, 2022
+date: '2022-04-27'
+title: frisa.com
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/april
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | frisa.com      | 
 | Threat Actor    | ALPHV      | 
 | Date Discovered    | Apr 27, 2022      | 

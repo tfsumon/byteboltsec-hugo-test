@@ -1,14 +1,16 @@
 ---
-Discovered: "August 11, 2022"
-date: "2022-08-11"
-title: "Whitworth University"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: August 11, 2022
+date: '2022-08-11'
+title: Whitworth University
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | whitworth.edu      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Aug 11, 2022      | 

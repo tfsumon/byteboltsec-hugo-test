@@ -1,14 +1,16 @@
 ---
-date: "2023-09-12"
-discovered: "September 12, 2023"
-title: "Steripharma"
-image: "images/blog/Medusa.png"
-author: "Breachsense Support"
+date: '2023-09-12'
+discovered: September 12, 2023
+title: Steripharma
+image: images/blog/Medusa.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | steripharma.com      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Sep 12, 2023      | 

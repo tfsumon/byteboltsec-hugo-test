@@ -1,14 +1,16 @@
 ---
-Discovered: "December 22, 2022"
-date: "2022-12-22"
-title: "Atlas Commodities"
-image: "images/blog/Royal.png"
-author: "Breachsense Support"
+Discovered: December 22, 2022
+date: '2022-12-22'
+title: Atlas Commodities
+image: images/blog/Royal.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | atlascommodities.com      | 
 | Threat Actor      | Royal      | 
 | Date Discovered      | Dec 22, 2022      | 

@@ -1,14 +1,16 @@
 ---
-Discovered: "October 07, 2021"
-date: "2021-10-07"
-title: "hill-cpa.com"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: October 07, 2021
+date: '2021-10-07'
+title: hill-cpa.com
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/october
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | hill-cpa.com      | 
 | Threat Actor    | AvosLocker      | 
 | Date Discovered    | Oct 07, 2021      | 

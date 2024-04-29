@@ -1,14 +1,16 @@
 ---
-date: "2023-06-05"
-discovered: "June 05, 2023"
-title: "YKK"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-06-05'
+discovered: June 05, 2023
+title: YKK
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ykk.com      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Jun 05, 2023      | 

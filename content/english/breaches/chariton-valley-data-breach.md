@@ -1,14 +1,16 @@
 ---
-date: "2023-06-27"
-discovered: "June 27, 2023"
-title: "Chariton Valley"
-image: "images/blog/Akira.png"
-author: "Breachsense Support"
+date: '2023-06-27'
+discovered: June 27, 2023
+title: Chariton Valley
+image: images/blog/Akira.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | cvalley.net      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Jun 27, 2023      | 

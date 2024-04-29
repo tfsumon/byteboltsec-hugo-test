@@ -4,6 +4,7 @@ title: "Data Breaches Cause Loss of Customer Trust [Studies]"
 image: "images/blog/Data Breaches Cause Loss of Customer Trust [Studies].png"
 author: "Breachsense"
 description: "Learn everything about the impact of data breaches on customer trust. Discover how data breaches affect customer trust." 
+tags: ["Customer Trust"]
 author: "Breachsense"
 h1: "Data Breaches Cause Loss of Customer Trust"
 intro1: "Data breaches have become a major concern for businesses and consumers alike, with the potential to cause devastating financial and reputational damage." 

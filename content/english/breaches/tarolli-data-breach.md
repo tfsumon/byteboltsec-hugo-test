@@ -1,14 +1,16 @@
 ---
-date: "2023-03-15"
-discovered: "March 15, 2023"
-title: "Tarolli"
-image: "images/blog/Lorenz.png"
-author: "Breachsense Support"
+date: '2023-03-15'
+discovered: March 15, 2023
+title: Tarolli
+image: images/blog/Lorenz.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | tarolli.com      | 
 | Threat Actor      | Lorenz      | 
 | Date Discovered      | Mar 15, 2023      | 

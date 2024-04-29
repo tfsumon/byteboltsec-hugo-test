@@ -1,14 +1,16 @@
 ---
-date: "2023-08-30"
-discovered: "August 30, 2023"
-title: "Pasquale Bruni"
-image: "images/blog/NoEscape.png"
-author: "Breachsense Support"
+date: '2023-08-30'
+discovered: August 30, 2023
+title: Pasquale Bruni
+image: images/blog/NoEscape.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | pasqualebruni.com      | 
 | Threat Actor      | NoEscape      | 
 | Date Discovered      | Aug 30, 2023      | 

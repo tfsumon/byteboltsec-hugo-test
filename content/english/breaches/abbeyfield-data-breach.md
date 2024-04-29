@@ -1,14 +1,16 @@
 ---
-date: "2023-09-13"
-discovered: "September 13, 2023"
-title: "Abbeyfield"
-image: "images/blog/INC_RANSOM.png"
-author: "Breachsense Support"
+date: '2023-09-13'
+discovered: September 13, 2023
+title: Abbeyfield
+image: images/blog/INC_RANSOM.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | abbeyfieldatbraintree.co.uk      | 
 | Threat Actor      | INC_RANSOM      | 
 | Date Discovered      | Sep 13, 2023      | 

@@ -1,14 +1,16 @@
 ---
-date: "2023-08-21"
-discovered: "August 21, 2023"
-title: "Seiko"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+date: '2023-08-21'
+discovered: August 21, 2023
+title: Seiko
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | seiko.co.jp      | 
 | Threat Actor      |  ALPHV     | 
 | Date Discovered      | Aug 21, 2023      | 

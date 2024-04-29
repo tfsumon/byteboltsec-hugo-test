@@ -1,14 +1,16 @@
 ---
-Discovered: "March 16, 2021"
-date: "2021-03-16"
-title: "bpflegal.com"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: March 16, 2021
+date: '2021-03-16'
+title: bpflegal.com
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/march
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | bpflegal.com      | 
 | Threat Actor    | Pysa      | 
 | Date Discovered    | Mar 16, 2021      | 

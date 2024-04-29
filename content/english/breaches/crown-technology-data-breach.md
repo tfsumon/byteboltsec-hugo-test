@@ -1,14 +1,16 @@
 ---
-Discovered: "December 06, 2022"
-date: "2022-12-06"
-title: "Crown Technology"
-image: "images/blog/BianLian.png"
-author: "Breachsense Support"
+Discovered: December 06, 2022
+date: '2022-12-06'
+title: Crown Technology
+image: images/blog/BianLian.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | crowntech.com      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Dec 06, 2022      | 

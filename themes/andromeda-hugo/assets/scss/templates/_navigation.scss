@@ -21,7 +21,7 @@ header {
   left: 0;
   z-index: 1000;
   background-color: $white;
-  padding: 1.8rem 0;
+  padding: 1.2rem 0;
   transition: .15s ease-out;
 
   @include tablet {
@@ -34,17 +34,19 @@ header {
   &.header-sticky-top {
     padding: 1.06rem 0;
     box-shadow: 0px 0.25rem 1.125rem 0 rgba(32, 45, 73, 0.02);
-    @include mobile-xs {
-      padding: 5px 0 0.625rem 0;
+    @include desktop {
+      padding: 10px 0px 0.625rem 0px;
     }
   }
-
+  .navbar {
+    justify-content: space-between;
+  }
   .navbar-brand {
-    @include tablet {
-      img {
-        height: 1.8rem;
-      }
+    @include desktop-lg {
+      width: 145px;
+      padding: 0px !important;
     }
+
     // @include mobile-xs {
     //   width: 100%;
     //   margin: 0;
@@ -54,12 +56,12 @@ header {
   }
 
   .navbar-light .navbar-toggler {
-    border-color: transparent;
+    border: 0;
     padding: 0;
     font-size: 2.25rem;
-    color: lighten($black, 13.33);
-    border: 0;
     transition: .3s ease;
+    border-color: transparent;
+    color: lighten($black, 13.33);
 
     @include tablet {
       font-size: 2rem;

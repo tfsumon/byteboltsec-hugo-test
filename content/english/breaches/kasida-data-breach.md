@@ -1,14 +1,16 @@
 ---
-date: "2023-09-11"
-discovered: "September 11, 2023"
-title: "Kasida"
-image: "images/blog/Ransomed.png"
-author: "Breachsense Support"
+date: '2023-09-11'
+discovered: September 11, 2023
+title: Kasida
+image: images/blog/Ransomed.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | kasida.bg      | 
 | Threat Actor      | Ransomed      | 
 | Date Discovered      | Sep 11, 2023      | 

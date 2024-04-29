@@ -1,14 +1,16 @@
 ---
-date: "2024-04-08"
-discovered: "April 08, 2024"
-title: "Carrozzeria Aretusa"
-image: "images/blog/Ransomhub.png"
-author: "Breachsense Support"
+date: '2024-04-08'
+discovered: April 08, 2024
+title: Carrozzeria Aretusa
+image: images/blog/Ransomhub.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/april
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | aretusamilano.it      | 
 | Threat Actor      | Ransomhub      | 
 | Date Discovered      | Apr 08, 2024      | 

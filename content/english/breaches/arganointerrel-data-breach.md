@@ -1,14 +1,16 @@
 ---
-date: "2023-08-14"
-discovered: "August 14, 2023"
-title: "ArganoInterRel"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+date: '2023-08-14'
+discovered: August 14, 2023
+title: ArganoInterRel
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | interrel.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Aug 14, 2023      | 

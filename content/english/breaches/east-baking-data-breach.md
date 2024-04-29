@@ -1,14 +1,16 @@
 ---
-date: "2023-09-15"
-discovered: "September 15, 2023"
-title: "East Baking"
-image: "images/blog/Monti.png"
-author: "Breachsense Support"
+date: '2023-09-15'
+discovered: September 15, 2023
+title: East Baking
+image: images/blog/Monti.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/september
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | eastbaking.com      | 
 | Threat Actor      | Monti      | 
 | Date Discovered      | Sep 15, 2023      | 

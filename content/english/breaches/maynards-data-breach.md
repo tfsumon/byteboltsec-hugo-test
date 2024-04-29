@@ -1,14 +1,16 @@
 ---
-Discovered: "November 07, 2022"
-date: "2022-11-07"
-title: "Maynards"
-image: "images/blog/Royal.png"
-author: "Breachsense Support"
+Discovered: November 07, 2022
+date: '2022-11-07'
+title: Maynards
+image: images/blog/Royal.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | maynards.com      | 
 | Threat Actor      | Royal      | 
 | Date Discovered      | Nov 07, 2022      | 

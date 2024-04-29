@@ -1,14 +1,16 @@
 ---
-date: "2023-06-08"
-discovered: "June 08, 2023"
-title: "Harbro"
-image: "images/blog/Akira.png"
-author: "Breachsense Support"
+date: '2023-06-08'
+discovered: June 08, 2023
+title: Harbro
+image: images/blog/Akira.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | harbro.co.uk      | 
 | Threat Actor      | Akira      | 
 | Date Discovered      | Jun 08, 2023      | 

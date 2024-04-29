@@ -1,14 +1,16 @@
 ---
-date: "2024-02-12"
-discovered: "February 12, 2024"
-title: "Civilgeometer.at"
-image: "images/blog/Qilin.png"
-author: "Breachsense Support"
+date: '2024-02-12'
+discovered: February 12, 2024
+title: Civilgeometer.at
+image: images/blog/Qilin.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | zivilgeometer.at      | 
 | Threat Actor      | Qilin      | 
 | Date Discovered      | Feb 12, 2024      | 

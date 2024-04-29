@@ -1,14 +1,16 @@
 ---
-date: "2022-11-21"
-discovered: "November 21, 2021"
-title: "Saipress"
-image: "images/blog/Snatch.png"
-author: "Breachsense Support"
+date: '2022-11-21'
+discovered: November 21, 2021
+title: Saipress
+image: images/blog/Snatch.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | saipress.com      | 
 | Threat Actor      | Snatch      | 
 | Date Discovered      | Feb 01, 2023      | 

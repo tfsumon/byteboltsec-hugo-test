@@ -1,14 +1,16 @@
 ---
-date: "2023-12-13"
-discovered: "December 13, 2023"
-title: "Petroleum"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-12-13'
+discovered: December 13, 2023
+title: Petroleum
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | petrotec.com.qa      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Dec 13, 2023      | 

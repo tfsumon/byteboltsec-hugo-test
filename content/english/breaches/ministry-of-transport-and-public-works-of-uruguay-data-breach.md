@@ -1,14 +1,16 @@
 ---
-Discovered: "November 28, 2022"
-date: "2022-11-28"
-title: "Ministry of Transport and Public Works of Uruguay"
-image: "images/blog/Play.png"
-author: "Breachsense Support"
+Discovered: November 28, 2022
+date: '2022-11-28'
+title: Ministry of Transport and Public Works of Uruguay
+image: images/blog/Play.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | mtop.gub.uy      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Nov 28, 2022      | 

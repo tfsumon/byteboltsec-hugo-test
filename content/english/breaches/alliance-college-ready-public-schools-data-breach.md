@@ -1,14 +1,16 @@
 ---
-date: "2023-10-11"
-discovered: "October 11, 2023"
-title: "Alliance College-Ready Public Schools"
-image: "images/blog/Snatch.png"
-author: "Breachsense Support"
+date: '2023-10-11'
+discovered: October 11, 2023
+title: Alliance College-Ready Public Schools
+image: images/blog/Snatch.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | laalliance.org      | 
 | Threat Actor      | Snatch      | 
 | Date Discovered      | Oct 11, 2023      | 

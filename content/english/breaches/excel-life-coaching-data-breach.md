@@ -1,14 +1,16 @@
 ---
-date: "2024-03-22"
-discovered: "March 22, 2024"
-title: "Excel Life Coaching"
-image: "images/blog/KillSecurity.png"
-author: "Breachsense Support"
+date: '2024-03-22'
+discovered: March 22, 2024
+title: Excel Life Coaching
+image: images/blog/KillSecurity.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | excellifecoaching.com      | 
 | Threat Actor      | KillSecurity      | 
 | Date Discovered      | Mar 22, 2024      | 

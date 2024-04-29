@@ -1,14 +1,16 @@
 ---
-Discovered: "August 09, 2021"
-date: "2021-08-09"
-title: "habibs.com.br"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: August 09, 2021
+date: '2021-08-09'
+title: habibs.com.br
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/august
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | habibs.com.br      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Aug 09, 2021      | 

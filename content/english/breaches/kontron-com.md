@@ -1,14 +1,16 @@
 ---
-Discovered: "July 31, 2021"
-date: "2021-07-31"
-title: "kontron.com"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: July 31, 2021
+date: '2021-07-31'
+title: kontron.com
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/july
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | kontron.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Jul 31, 2021      | 

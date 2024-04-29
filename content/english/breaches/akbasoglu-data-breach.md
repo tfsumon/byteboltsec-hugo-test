@@ -1,14 +1,16 @@
 ---
-date: "2023-10-16"
-discovered: "October 16, 2023"
-title: "Akbasoglu"
-image: "images/blog/Knight.png"
-author: "Breachsense Support"
+date: '2023-10-16'
+discovered: October 16, 2023
+title: Akbasoglu
+image: images/blog/Knight.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | akbasoglu.com      | 
 | Threat Actor      | Knight      | 
 | Date Discovered      | Oct 16, 2023      | 

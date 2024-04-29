@@ -1,14 +1,16 @@
 ---
-date: "2023-08-16"
-discovered: "August 16, 2023"
-title: "FTRIA"
-image: "images/blog/NoEscape.png"
-author: "Breachsense Support"
+date: '2023-08-16'
+discovered: August 16, 2023
+title: FTRIA
+image: images/blog/NoEscape.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | ftria.co.jp      | 
 | Threat Actor      |  NoEscape     | 
 | Date Discovered      | Aug 16, 2023      | 

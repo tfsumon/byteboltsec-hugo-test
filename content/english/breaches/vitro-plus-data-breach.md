@@ -1,14 +1,16 @@
 ---
-date: "2023-12-08"
-discovered: "December 08, 2023"
-title: "Vitro Plus"
-image: "images/blog/Play.png"
-author: "Breachsense Support"
+date: '2023-12-08'
+discovered: December 08, 2023
+title: Vitro Plus
+image: images/blog/Play.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | vitroplus.nl      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Dec 08, 2023      | 

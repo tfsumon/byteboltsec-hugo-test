@@ -1,14 +1,16 @@
 ---
-Discovered: "July 27, 2021"
-date: "2021-07-27"
-title: "keltbray.com"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: July 27, 2021
+date: '2021-07-27'
+title: keltbray.com
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/july
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | keltbray.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Jul 27, 2021      | 

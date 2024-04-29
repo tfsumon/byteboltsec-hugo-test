@@ -1,14 +1,16 @@
 ---
-date: "2023-11-02"
-discovered: "November 02, 2023"
-title: "Town of Iowa"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+date: '2023-11-02'
+discovered: November 02, 2023
+title: Town of Iowa
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | iowala.org      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Nov 02, 2023      | 

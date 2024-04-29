@@ -1,14 +1,16 @@
 ---
-date: "2023-11-22"
-discovered: "November 22, 2023"
-title: "Martinique"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+date: '2023-11-22'
+discovered: November 22, 2023
+title: Martinique
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | martinique.no      | 
 | Threat Actor      | LockBit      | 
 | Date Discovered      | Nov 22, 2023      | 

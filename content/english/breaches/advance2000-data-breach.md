@@ -1,14 +1,16 @@
 ---
-date: "2023-02-13"
-discovered: "February 13, 2023"
-title: "Advance2000"
-image: "images/blog/BianLian.png"
-author: "Breachsense Support"
+date: '2023-02-13'
+discovered: February 13, 2023
+title: Advance2000
+image: images/blog/BianLian.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/february
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | advance2000.com      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Feb 13, 2023      | 

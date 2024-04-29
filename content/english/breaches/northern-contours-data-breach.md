@@ -1,14 +1,16 @@
 ---
-Discovered: "August 23, 2022"
-date: "2022-08-23"
-title: "Northern Contours"
-image: "images/blog/Lorenz.png"
-author: "Breachsense Support"
+Discovered: August 23, 2022
+date: '2022-08-23'
+title: Northern Contours
+image: images/blog/Lorenz.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | northerncontours.com      | 
 | Threat Actor      | Lorenz      | 
 | Date Discovered      | Aug 23, 2022      | 

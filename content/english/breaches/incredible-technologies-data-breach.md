@@ -1,14 +1,16 @@
 ---
-date: "2023-04-11"
-discovered: "April 11, 2023"
-title: "Incredible Technologies"
-image: "images/blog/DunghillLeak.png"
-author: "Breachsense Support"
+date: '2023-04-11'
+discovered: April 11, 2023
+title: Incredible Technologies
+image: images/blog/DunghillLeak.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/april
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | itsgames.com      | 
 | Threat Actor      | DunghillLeak      | 
 | Date Discovered      | Apr 11, 2023      | 

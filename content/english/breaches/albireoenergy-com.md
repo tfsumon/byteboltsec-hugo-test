@@ -1,14 +1,16 @@
 ---
-Discovered: "October 22, 2021"
-date: "2021-10-22"
-title: "albireoenergy.com"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: October 22, 2021
+date: '2021-10-22'
+title: albireoenergy.com
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/october
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | albireoenergy.com      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Oct 22, 2021      | 

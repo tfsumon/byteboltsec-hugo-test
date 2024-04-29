@@ -1,14 +1,16 @@
 ---
-date: "2023-06-16"
-discovered: "June 16, 2023"
-title: "ASZ"
-image: "images/blog/Qilin.png"
-author: "Breachsense Support"
+date: '2023-06-16'
+discovered: June 16, 2023
+title: ASZ
+image: images/blog/Qilin.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/june
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | asz-gmbh.de      | 
 | Threat Actor      | Qilin      | 
 | Date Discovered      | Jun 16, 2023      | 

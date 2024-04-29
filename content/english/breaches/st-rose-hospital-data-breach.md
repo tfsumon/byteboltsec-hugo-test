@@ -1,14 +1,16 @@
 ---
-Discovered: "December 30, 2022"
-date: "2022-12-30"
-title: "St. Rose Hospital"
-image: "images/blog/BianLian.png"
-author: "Breachsense Support"
+Discovered: December 30, 2022
+date: '2022-12-30'
+title: St. Rose Hospital
+image: images/blog/BianLian.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | strosehospital.org      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Dec 30, 2022      | 

@@ -1,14 +1,16 @@
 ---
-Discovered: "January 25, 2022"
-date: "2022-01-25"
-title: "itsinfocom.com"
-image: "images/blog/HiveLeaks.png"
-author: "Breachsense Support"
+Discovered: January 25, 2022
+date: '2022-01-25'
+title: itsinfocom.com
+image: images/blog/HiveLeaks.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/january
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | itsinfocom.com      | 
 | Threat Actor    | HiveLeaks      | 
 | Date Discovered    | Jan 25, 2022      | 

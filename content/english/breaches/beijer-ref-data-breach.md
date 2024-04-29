@@ -1,14 +1,16 @@
 ---
-date: "2023-07-27"
-discovered: "July 27, 2023"
-title: "Beijer Ref"
-image: "images/blog/NoEscape.png"
-author: "Breachsense Support"
+date: '2023-07-27'
+discovered: July 27, 2023
+title: Beijer Ref
+image: images/blog/NoEscape.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/july
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | beijer.es      | 
 | Threat Actor      | NoEscape      | 
 | Date Discovered      | Jul 27, 2023      | 

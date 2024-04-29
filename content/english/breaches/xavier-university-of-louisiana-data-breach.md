@@ -1,14 +1,16 @@
 ---
-Discovered: "December 21, 2022"
-date: "2022-12-21"
-title: "Xavier University of Louisiana"
-image: "images/blog/ViceSociety.png"
-author: "Breachsense Support"
+Discovered: December 21, 2022
+date: '2022-12-21'
+title: Xavier University of Louisiana
+image: images/blog/ViceSociety.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | xula.edu      | 
 | Threat Actor      | ViceSociety      | 
 | Date Discovered      | Dec 21, 2022      | 

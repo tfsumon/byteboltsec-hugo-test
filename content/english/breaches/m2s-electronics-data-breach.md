@@ -1,14 +1,16 @@
 ---
-Discovered: "November 21, 2022"
-date: "2022-11-21"
-title: "M2S Electronics"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: November 21, 2022
+date: '2022-11-21'
+title: M2S Electronics
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | m2selectronics.com      | 
 | Threat Actor      |       | 
 | Date Discovered      | Nov 21, 2022      | 

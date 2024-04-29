@@ -1,14 +1,16 @@
 ---
-Discovered: "April 05, 2022"
-date: "2022-04-05"
-title: "enoahisolution.com"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+Discovered: April 05, 2022
+date: '2022-04-05'
+title: enoahisolution.com
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/april
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | enoahisolution.com      | 
 | Threat Actor    | ALPHV      | 
 | Date Discovered    | Apr 05, 2022      | 

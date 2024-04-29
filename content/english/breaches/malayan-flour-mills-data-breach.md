@@ -1,14 +1,16 @@
 ---
-Discovered: "October 04, 2022"
-date: "2022-10-04"
-title: "Malayan Flour Mills"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: October 04, 2022
+date: '2022-10-04'
+title: Malayan Flour Mills
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | mfm.com.my      | 
 | Threat Actor      | Ragnar_Locker      | 
 | Date Discovered      | Oct 04, 2022      | 

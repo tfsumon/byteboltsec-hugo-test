@@ -1,14 +1,16 @@
 ---
-date: "2023-11-06"
-discovered: "November 06, 2023"
-title: "Currax"
-image: "images/blog/ALPHV.png"
-author: "Breachsense Support"
+date: '2023-11-06'
+discovered: November 06, 2023
+title: Currax
+image: images/blog/ALPHV.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/november
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | curraxpharma.com      | 
 | Threat Actor      | ALPHV      | 
 | Date Discovered      | Nov 06, 2023      | 

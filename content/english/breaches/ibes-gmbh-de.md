@@ -1,14 +1,16 @@
 ---
-Discovered: "September 29, 2021"
-date: "2021-09-29"
-title: "ibes-gmbh.de"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: September 29, 2021
+date: '2021-09-29'
+title: ibes-gmbh.de
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/september
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | ibes-gmbh.de      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Sep 29, 2021      | 

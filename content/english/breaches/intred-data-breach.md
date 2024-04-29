@@ -1,14 +1,16 @@
 ---
-date: "2023-10-18"
-discovered: "October 18, 2023"
-title: "Intred"
-image: "images/blog/BlackBasta.png"
-author: "Breachsense Support"
+date: '2023-10-18'
+discovered: October 18, 2023
+title: Intred
+image: images/blog/BlackBasta.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | intred.it      | 
 | Threat Actor      | BlackBasta      | 
 | Date Discovered      | Oct 18, 2023      | 

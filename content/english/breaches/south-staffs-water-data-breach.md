@@ -1,14 +1,16 @@
 ---
-Discovered: "August 16, 2022"
-date: "2022-08-16"
-title: "South Staffs Water"
-image: "images/blog/CL0P.png"
-author: "Breachsense Support"
+Discovered: August 16, 2022
+date: '2022-08-16'
+title: South Staffs Water
+image: images/blog/CL0P.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | south-staffs-water.co.uk      | 
 | Threat Actor      | CL0P      | 
 | Date Discovered      | Aug 16, 2022      | 

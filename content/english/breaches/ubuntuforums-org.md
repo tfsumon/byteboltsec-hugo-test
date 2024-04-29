@@ -1,14 +1,16 @@
 ---
-Discovered: "August 17, 2021"
-date: "2021-08-17"
-title: "ubuntuforums.org"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: August 17, 2021
+date: '2021-08-17'
+title: ubuntuforums.org
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/august
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | ubuntuforums.org      | 
 | Threat Actor    | RaidForums      | 
 | Date Discovered    | Aug 17, 2021      | 

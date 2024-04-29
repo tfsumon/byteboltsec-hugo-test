@@ -1,14 +1,16 @@
 ---
-Discovered: "April 24, 2022"
-date: "2022-04-24"
-title: "beckerlaw.com"
-image: "images/blog/LockBit.png"
-author: "Breachsense Support"
+Discovered: April 24, 2022
+date: '2022-04-24'
+title: beckerlaw.com
+image: images/blog/LockBit.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/april
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | beckerlaw.com      | 
 | Threat Actor    | LockBit      | 
 | Date Discovered    | Apr 24, 2022      | 

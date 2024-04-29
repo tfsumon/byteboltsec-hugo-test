@@ -1,14 +1,16 @@
 ---
-Discovered: "December 20, 2022"
-date: "2022-12-20"
-title: "Keralty"
-image: "images/blog/RansomHouse.png"
-author: "Breachsense Support"
+Discovered: December 20, 2022
+date: '2022-12-20'
+title: Keralty
+image: images/blog/RansomHouse.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | keralty.com      | 
 | Threat Actor      | RansomHouse      | 
 | Date Discovered      | Dec 20, 2022      | 

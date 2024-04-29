@@ -1,14 +1,16 @@
 ---
-Discovered: "June 02, 2022"
-date: "2022-06-02"
-title: "Jonathan Adler"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: June 02, 2022
+date: '2022-06-02'
+title: Jonathan Adler
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/june
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | jonathanadler.com      | 
 | Threat Actor    | Ragnar_Locker      | 
 | Date Discovered    | Jun 02, 2022      | 

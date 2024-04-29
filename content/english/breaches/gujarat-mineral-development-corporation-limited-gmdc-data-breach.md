@@ -1,14 +1,16 @@
 ---
-date: "2023-03-24"
-discovered: "March 24, 2023"
-title: "Gujarat Mineral Development Corporation Limited (GMDC)"
-image: "images/blog/Medusa.png"
-author: "Breachsense Support"
+date: '2023-03-24'
+discovered: March 24, 2023
+title: Gujarat Mineral Development Corporation Limited (GMDC)
+image: images/blog/Medusa.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/march
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | gmdcltd.com      | 
 | Threat Actor      | Medusa      | 
 | Date Discovered      | Mar 24, 2023      | 

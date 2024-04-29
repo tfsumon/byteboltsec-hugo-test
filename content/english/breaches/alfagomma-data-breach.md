@@ -1,14 +1,16 @@
 ---
-date: "2023-08-28"
-discovered: "August 28, 2023"
-title: "Alfagomma"
-image: "images/blog/Play.png"
-author: "Breachsense Support"
+date: '2023-08-28'
+discovered: August 28, 2023
+title: Alfagomma
+image: images/blog/Play.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | alfagomma.com      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Aug 28, 2023      | 

@@ -1,14 +1,16 @@
 ---
-date: "2023-05-19"
-discovered: "May 19, 2023"
-title: "Autln"
-image: "images/blog/Ragnar_Locker.png"
-author: "Breachsense Support"
+date: '2023-05-19'
+discovered: May 19, 2023
+title: Autln
+image: images/blog/Ragnar_Locker.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/may
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | metallorum.mx      | 
 | Threat Actor      | Ragnar_Locker      | 
 | Date Discovered      | May 19, 2023      | 

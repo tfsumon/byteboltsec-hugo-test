@@ -1,14 +1,16 @@
 ---
-Discovered: "December 13, 2022"
-date: "2022-12-13"
-title: "Vancouver Film School (VFS)"
-image: "images/blog/Play.png"
-author: "Breachsense Support"
+Discovered: December 13, 2022
+date: '2022-12-13'
+title: Vancouver Film School (VFS)
+image: images/blog/Play.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/december
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | vfs.edu      | 
 | Threat Actor      | Play      | 
 | Date Discovered      | Dec 13, 2022      | 

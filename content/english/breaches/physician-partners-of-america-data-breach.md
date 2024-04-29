@@ -1,14 +1,16 @@
 ---
-date: "2023-01-12"
-discovered: "January 12, 2023"
-title: "Physician Partners of America"
-image: "images/blog/Snatch.png"
-author: "Breachsense Support"
+date: '2023-01-12'
+discovered: January 12, 2023
+title: Physician Partners of America
+image: images/blog/Snatch.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | physicianpartnersofamerica.com      | 
 | Threat Actor      | Snatch      | 
 | Date Discovered      | Jan 12, 2023      | 

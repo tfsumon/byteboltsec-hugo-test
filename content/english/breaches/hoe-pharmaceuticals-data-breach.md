@@ -1,14 +1,16 @@
 ---
-date: "2024-01-23"
-discovered: "January 23, 2024"
-title: "HOE Pharmaceuticals"
-image: "images/blog/RansomHouse.png"
-author: "Breachsense Support"
+date: '2024-01-23'
+discovered: January 23, 2024
+title: HOE Pharmaceuticals
+image: images/blog/RansomHouse.png
+author: Breachsense Support
 draft: false
+yearmonths: 2024/january
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | hoepharma.com.my      | 
 | Threat Actor      | RansomHouse      | 
 | Date Discovered      | Jan 23, 2024      | 

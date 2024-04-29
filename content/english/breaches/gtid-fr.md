@@ -1,14 +1,16 @@
 ---
-Discovered: "August 11, 2021"
-date: "2021-08-11"
-title: "gtid.fr"
-image: "images/blog/Breaches.png"
-author: "Breachsense Support"
+Discovered: August 11, 2021
+date: '2021-08-11'
+title: gtid.fr
+image: images/blog/Breaches.png
+author: Breachsense Support
 draft: false
+yearmonths: 2021/august
 ---
 
-| Data Breach Report         |              | 
-| :-----------: | :-------------:   |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:   |:-------------:    | :-----:|
 | Victim    | gtid.fr      | 
 | Threat Actor    | Conti      | 
 | Date Discovered    | Aug 11, 2021      | 

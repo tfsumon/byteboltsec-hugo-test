@@ -1,14 +1,16 @@
 ---
-Discovered: "August 19, 2022"
-date: "2022-08-19"
-title: "Shaw & Slavsky"
-image: "images/blog/Quantum.png"
-author: "Breachsense Support"
+Discovered: August 19, 2022
+date: '2022-08-19'
+title: Shaw & Slavsky
+image: images/blog/Quantum.png
+author: Breachsense Support
 draft: false
+yearmonths: 2022/august
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | shawandslavsky.com      | 
 | Threat Actor      | Quantum      | 
 | Date Discovered      | Aug 19, 2022      | 

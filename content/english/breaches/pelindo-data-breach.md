@@ -1,14 +1,16 @@
 ---
-date: "2023-10-12"
-discovered: "October 12, 2023"
-title: "Pelindo"
-image: "images/blog/BianLian.png"
-author: "Breachsense Support"
+date: '2023-10-12'
+discovered: October 12, 2023
+title: Pelindo
+image: images/blog/BianLian.png
+author: Breachsense Support
 draft: false
+yearmonths: 2023/october
 ---
 
-| Data Breach Report           |              | 
-| :-----------: | :-------------:     |:-------------:    | :-----:|
+
+| Data Breach Report
+------------:     |:-------------:    | :-----:|
 | Victim      | pelindo.co.id      | 
 | Threat Actor      | BianLian      | 
 | Date Discovered      | Oct 12, 2023      | 
