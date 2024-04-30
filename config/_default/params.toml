@@ -23,6 +23,10 @@ custom_script= ""
 mainSections= ["blog"]
 breachSections= ["breaches"]
 
+# Change month format for /breaches page sidebar
+[sidebar_breaches]
+month_short_format = false # set it to true if you don't want full format of the month.
+
 # contact information
 [contact_info]
 address = "23811 Chagrin Blvd. Ste 200 Beachwood, Ohio 44122"

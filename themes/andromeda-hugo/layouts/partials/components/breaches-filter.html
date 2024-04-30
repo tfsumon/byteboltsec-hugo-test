@@ -28,9 +28,18 @@
       <ul>
         {{/* Show Current Looped Year Related Months */}}
         {{- $filteredMonthsReversed := partial "reverse-slice.html" $filteredMonths -}}
+        {{ $shortFormat := site.Params.sidebar_breaches.month_short_format }}
+        {{ $monthMap := dict "January" "Jan" "February" "Feb" "March" "Mar" "April" "Apr" "May" "May" "June" "Jun" "July" "Jul" "August" "Aug" "September" "Sep" "October" "Oct" "November" "Nov" "December" "Dec" }}
+
         {{ range $filteredMonthsReversed }}
+        {{ $month := index (split . "/") 1 }}
+
+        {{ if $shortFormat }}
+          {{ $month = index $monthMap ($month | title) }}
+        {{ end }}
+
           <li>
-            <a href="/breaches/{{ . }}">{{ index (split . "/") 1 }}</a>
+            <a href="/breaches/{{ . }}">{{ $month }}</a>
           </li>
         {{ end }}
       </ul>

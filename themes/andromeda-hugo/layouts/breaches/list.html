@@ -37,7 +37,7 @@
         {{ $recentMonth := index (split (index $yearMonths 0) "/") 1 }}
         
         {{ if not (gt .Paginator.PageNumber 1) }}
-          <h2 class="mb-4">Data Breaches - {{ $recentMonth | title }} {{ $recentYear }}</h2>
+          <h2 class="mb-5 text-center">Data Breaches - {{ $recentMonth | title }} {{ $recentYear }}</h2>
         {{ end }}
         <div class="row">
           {{ $paginator := .Paginate (where site.RegularPages "Section" "in" site.Params.breachSections) }}

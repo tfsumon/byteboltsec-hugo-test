@@ -11,7 +11,7 @@
         {{ $year := index (split .Title "/") 0 }}
         {{ $month := index (split .Title "/") 1 }}
         
-        <h2 class="mb-4">Data Breaches - {{ $month }} {{ $year }} </h2>
+        <h2 class="mb-5 text-center">Data Breaches - {{ $month }} {{ $year }} </h2>
         <div class="row">
           {{ range .Data.Pages }}
             <div class="col-md-6 col-lg-6">
