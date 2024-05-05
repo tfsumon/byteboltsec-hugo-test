@@ -1,5 +1,7 @@
 ---
 title: "Breachsense"
+# meta_title: "example meta title"
+# description: "example meta description"
 image: "images/author/Logo2lines.png"
 email: "info@breachsense.com"
 social:
