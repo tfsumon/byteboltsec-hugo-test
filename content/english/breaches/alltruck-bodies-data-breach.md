@@ -1,8 +1,8 @@
 ---
 date: '2024-04-22'
 discovered: April 22, 2024
-title: Delano Joint Union High School District
-image: images/blog/INC_RANSOM.png
+title: Alltruck Bodies
+image: images/blog/Play.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/april
@@ -10,8 +10,8 @@ yearmonths: 2024/april
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | djuhsd.org      | 
-| Threat Actor      | INC_RANSOM      | 
+| Victim      | alltruckbodies.com.au      | 
+| Threat Actor      | Play      | 
 | Date Discovered      | Apr 22, 2024      | 
-| Description      | Delano Joint Union High School District is a public school district based in Kern County, California, United States.      | 
+| Description      | Alltruck Bodies designs, builds, and customizes truck and trailer body solutions.      | 
 | Leak Size      | Unknown      | 

@@ -1,7 +1,7 @@
 ---
 date: '2024-04-22'
 discovered: April 22, 2024
-title: Delano Joint Union High School District
+title: Continuing Healthcare Solutions
 image: images/blog/INC_RANSOM.png
 author: Breachsense Support
 draft: false
@@ -10,8 +10,8 @@ yearmonths: 2024/april
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | djuhsd.org      | 
+| Victim      | continuinghc.com      | 
 | Threat Actor      | INC_RANSOM      | 
 | Date Discovered      | Apr 22, 2024      | 
-| Description      | Delano Joint Union High School District is a public school district based in Kern County, California, United States.      | 
+| Description      | Continuing Healthcare Solutions is a provider of long-term care services.      | 
 | Leak Size      | Unknown      | 
