@@ -267,7 +267,7 @@ $(document).ready(function () {
       function () {
         var forms = document.getElementsByClassName("needs-validation");
         var validation = Array.prototype.filter.call(forms, function (form) {
-          form.addEventListener(
+          form?.addEventListener(
             "submit",
             function (event) {
               if (form.checkValidity() === false) {
@@ -320,14 +320,14 @@ $(document).ready(function () {
       }
     }
 
-    sidebarOpenBtn.addEventListener("click", (e) => {
+    sidebarOpenBtn?.addEventListener("click", (e) => {
       e.preventDefault();
 
       if (sidebarOpenBtn.classList.contains("active")) {
         closeSidebar();
       } else {
         showSidebar();
-        document.querySelector(".tf-backdrop").addEventListener("click", () => {
+        document.querySelector(".tf-backdrop")?.addEventListener("click", () => {
           closeSidebar();
         });
       }
@@ -338,7 +338,7 @@ $(document).ready(function () {
         }
       });
     });
-    sidebarCloseBtn.addEventListener("click", (e) => {
+    sidebarCloseBtn?.addEventListener("click", (e) => {
       e.preventDefault();
       closeSidebar();
     });
