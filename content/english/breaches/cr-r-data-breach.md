@@ -1,19 +1,19 @@
 ---
-Discovered: November 07, 2022
-date: '2022-11-07'
+Discovered: December 27, 2022
+date: '2022-12-27'
 title: CR&R
-image: images/blog/ViceSociety.png
+image: images/blog/ALPHV.png
 author: Breachsense Support
 draft: false
-yearmonths: 2022/november
+yearmonths: 2022/december
 ---
 
 
 | Data Breach Report
 ------------:     |:-------------:    | :-----:|
 | Victim      | crrwasteservices.com      | 
-| Threat Actor      | ViceSociety      | 
-| Date Discovered      | Nov 07, 2022      | 
-| Description      | CR&R Incorporated is one of Southern California's most innovative and successful waste and recycling collection companies.      | 
+| Threat Actor      | ALPHV      | 
+| Date Discovered      | Dec 27, 2022      | 
+| Description      | CR&R provides recycling and waste collection services.      | 
 | Leak Size      | N/A      | 
 
