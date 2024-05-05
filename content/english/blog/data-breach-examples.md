@@ -4,6 +4,7 @@ title: "Data Breach Examples: 15 Biggest Data Breaches Explained"
 image: "images/blog/data-breach-examples.png"
 description: "Discover the 15 biggest data breach examples that occured recently. Learn what were the biggest data breaches lately."
 author: "Breachsense"
+tags: ["data breach examples", "case studies"]
 h1: "The 15 biggest data breach examples in history"
 intro1: "FACT: Data breaches continue to make headlines in 2024"
 intro2: "Millions of sensitive records are [leaked or stolen daily](https://www.breachsense.com/breaches/), and cybercriminals exploit this data to commit fraud, steal data from their victims' networks, and launch ransomware attacks."

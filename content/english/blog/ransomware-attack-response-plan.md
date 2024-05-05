@@ -4,6 +4,7 @@ title: "The Definitive Guide to Creating a Ransomware Response Plan"
 image: "images/blog/ransomware-attack-response-plan.webp"
 description: "Discover the best practices for responding to a ransomware attack. Learn the six steps to mitigate the impact of a ransomware attack."
 author: "Breachsense"
+tags: ["incident response", "malware", "data breach"]
 h1: "The Definitive Guide to Creating a Ransomware Response Plan"
 intro1: "FACT: There's been a 53% increase in ransomware attacks compared to last year. ([GuidePoint](https://www.guidepointsecurity.com/blog/grit-ransomware-report-february-2024/))"
 intro2: "Over the last 12 months, the number of active ransomware gangs has surged by 58%."

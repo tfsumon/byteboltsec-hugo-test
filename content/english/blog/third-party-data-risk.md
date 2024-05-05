@@ -4,6 +4,7 @@ title: "A Quick Guide To Third-Party Data Risk"
 image: "images/blog/third-party-data-risk.webp"
 description: "Discover the best practices for managing third-party data risk. Learn the best practices for implementing a third-party risk management framework."
 author: "Breachsense"
+tags: ["third party risk", "prevention"]
 h1: "A Quick Guide To Third-Party Data Risk"
 intro1: "FACT: Over 4.7 billion third-party credentials were leaked last year via infostealer malware."
 intro2: "This number includes usernames and passwords for popular business tools, such as Microsoft 365, Gmail, Salesforce, and Slack."

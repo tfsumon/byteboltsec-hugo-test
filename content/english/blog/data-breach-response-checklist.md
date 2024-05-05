@@ -3,6 +3,7 @@ date: "2024-01-30"
 title: "Data Breach Response Checklist: 5 Steps to a Data Breach Response Plan"
 image: "images/blog/data-breach-checklist.png"
 description: "Discover how to develop a data breach response plan with the data breach response checklist. Learn the 5 things your data breach response plan must include."
+tags: ["incident response", "data breach"]
 h1: "Five Step Data Breach Response Checklist"
 intro1: "Nowadays, data breaches have become an increasingly common threat to businesses of all sizes."
 intro2: "In fact, for many businesses, the question isn't whether their data will get breached; it's a question of when."

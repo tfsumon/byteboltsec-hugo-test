@@ -4,6 +4,7 @@ title: "10 Best Dark Web Monitoring Tools Today."
 image: "images/blog/dark-web-monitoring-tools.png"
 description: "Discover the best dark web monitoring tools. Learn what tools to use to monitor the dark web for your company's data."
 author: "Breachsense"
+tags: ["dark web", "monitoring", "security"]
 h1: "The 10 Best Dark Web Monitoring Tools"
 intro1: "1. Breachesense<br>2. Zerofox<br>3. Heroic<br>4. SpyCloud<br>5. HackNotice<br>6. Have I Been Pwned<br>7. Cyber Intelligence House<br>8. Constella Intelligence<br>9. Flashpoint<br>10. Flare"
 intro2: "Have you been burned by bad dark web monitoring tools that were nothing but snake oil?"
