@@ -1,8 +1,8 @@
 ---
 date: '2024-04-22'
 discovered: April 22, 2024
-title: Delano Joint Union High School District
-image: images/blog/INC_RANSOM.png
+title: Targus
+image: images/blog/RedRansomware.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/april
@@ -10,8 +10,8 @@ yearmonths: 2024/april
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | djuhsd.org      | 
-| Threat Actor      | INC_RANSOM      | 
+| Victim      | targus.com      | 
+| Threat Actor      | RedRansomware      | 
 | Date Discovered      | Apr 22, 2024      | 
-| Description      | Delano Joint Union High School District is a public school district based in Kern County, California, United States.      | 
+| Description      | Targus is a manufacturer and distributor of accessories such as laptop bags, tablet cases, privacy screens.      | 
 | Leak Size      | Unknown      | 

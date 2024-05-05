@@ -1,7 +1,7 @@
 ---
 date: '2024-04-23'
 discovered: April 23, 2024
-title: Atlantic States Marine Fisheries Commission
+title: Bieler + Lang
 image: images/blog/8BASE.png
 author: Breachsense Support
 draft: false
@@ -10,8 +10,8 @@ yearmonths: 2024/april
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | asmfc.org      | 
+| Victim      | bieler-lang.de      | 
 | Threat Actor      | 8BASE      | 
 | Date Discovered      | Apr 23, 2024      | 
-| Description      | The Atlantic States Marine Fisheries Commission (ASMFC) is a commission of U.S. states formed to coordinate and manage fishery resources.      | 
+| Description      | Bieler + Lang specializes in project planning, engineering, installation, gas detection, maintenance and repair services.      | 
 | Leak Size      | Unknown      | 
