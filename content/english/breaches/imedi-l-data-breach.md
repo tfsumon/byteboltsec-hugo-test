@@ -1,6 +1,6 @@
 ---
-date: '2024-05-03'
-discovered: May 03, 2024
+date: '2024-05-07'
+discovered: May 07, 2024
 title: Imedi L
 image: images/blog/Akira.png
 author: Breachsense Support
@@ -12,7 +12,7 @@ draft: false
 | :-----------: | :-------------:     |:-------------:    | :-----:|
 | Victim      | imedil.ge      | 
 | Threat Actor      | Akira      | 
-| Date Discovered      | May 03, 2024      | 
-| Description      | Imedi L is the first insurance company on the Georgian market, which is mainly focused on health and related risks insurance.      | 
-| Leak Size      | Unknown      | 
+| Date Discovered      | May 07, 2024      | 
+| Description      | Imedi L is a health insurer and is part of the largest healthcaregroup in Georgia.      | 
+| Leak Size      | 18GB      | 
 

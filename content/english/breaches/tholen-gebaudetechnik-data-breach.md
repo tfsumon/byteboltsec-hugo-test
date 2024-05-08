@@ -1,6 +1,6 @@
 ---
-date: '2024-05-03'
-discovered: May 03, 2024
+date: '2024-05-06'
+discovered: May 06, 2024
 title: Tholen Gebaudetechnik
 image: images/blog/Qilin.png
 author: Breachsense Support
@@ -12,7 +12,7 @@ draft: false
 | :-----------: | :-------------:     |:-------------:    | :-----:|
 | Victim      | tholen-gebaeudetechnik.de      | 
 | Threat Actor      | Qilin      | 
-| Date Discovered      | May 03, 2024      | 
-| Description      | Tholen Gebaudetechnik Group is your reliable partner in the areas of electrical engineering , security technology , renewable energies as well as heating, ventilation and plumbing .      | 
+| Date Discovered      | May 06, 2024      | 
+| Description      | Tholen Gebaudetechnik is an electrician in Gangelt, Germany.      | 
 | Leak Size      | Unknown      | 
 

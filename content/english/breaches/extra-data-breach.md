@@ -1,6 +1,6 @@
 ---
-date: '2024-05-03'
-discovered: May 03, 2024
+date: '2024-05-06'
+discovered: May 06, 2024
 title: Extra
 image: images/blog/Ransomhub.png
 author: Breachsense Support
@@ -12,7 +12,7 @@ draft: false
 | :-----------: | :-------------:     |:-------------:    | :-----:|
 | Victim      | extraco.ae      | 
 | Threat Actor      | Ransomhub      | 
-| Date Discovered      | May 03, 2024      | 
+| Date Discovered      | May 06, 2024      | 
 | Description      | Extra Co is a manufacturing company that focuses on fiberglass composites, precast facades, metal works, scaffolding, and aluminum works.      | 
-| Leak Size      | 20GB      | 
+| Leak Size      | Unknown      | 
 

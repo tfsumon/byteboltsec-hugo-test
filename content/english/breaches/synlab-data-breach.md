@@ -1,19 +1,18 @@
 ---
-date: '2023-07-28'
-discovered: July 28, 2023
+date: '2024-05-06'
+discovered: May 06, 2024
 title: SYNLAB
-image: images/blog/CL0P.png
+image: images/blog/BlackBasta.png
 author: Breachsense Support
+yearmonths: 2024/may
 draft: false
-yearmonths: 2023/july
 ---
 
-
-| Data Breach Report
-------------:     |:-------------:    | :-----:|
-| Victim      | synlab.fr      | 
-| Threat Actor      | CL0P      | 
-| Date Discovered      | Jul 28, 2023      | 
-| Description      | SYNLAB offers a full range of medical diagnostic services to patients, doctors, hospitals, clinics and the pharmaceutical industry.      | 
-| Leak Size      | Unknown      | 
+| Data Breach Report           |              | 
+| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Victim      | synlab.com      | 
+| Threat Actor      | BlackBasta      | 
+| Date Discovered      | May 06, 2024      | 
+| Description      | SYNLAB International is the leader in medical diagnostic services and specialty testing in Europe.      | 
+| Leak Size      | 1.5TB      | 
 

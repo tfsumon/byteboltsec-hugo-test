@@ -1,19 +1,18 @@
 ---
-date: '2023-05-24'
-discovered: May 24, 2023
-title: Sunray
+date: '2024-05-07'
+discovered: May 07, 2024
+title: SunRay
 image: images/blog/LockBit.png
 author: Breachsense Support
+yearmonths: 2024/may
 draft: false
-yearmonths: 2023/may
 ---
 
-
-| Data Breach Report
-------------:     |:-------------:    | :-----:|
-| Victim      | sunray.com.sg      | 
+| Data Breach Report           |              | 
+| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Victim      | sunray.com      | 
 | Threat Actor      | LockBit      | 
-| Date Discovered      | May 24, 2023      | 
-| Description      | Sunray Woodcraft Construction Pte Ltd is a leading award-winning construction company in Singapore since 1987, specialising in Interior Fit-Out, Addition and Alteration works.      | 
+| Date Discovered      | May 07, 2024      | 
+| Description      | SunRay Construction Solutions offers lien and bond claim management services, helping clients manage their rights and avoid costly mistakes in construction projects.      | 
 | Leak Size      | Unknown      | 
 

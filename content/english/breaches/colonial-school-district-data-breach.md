@@ -1,6 +1,6 @@
 ---
-date: '2024-05-02'
-discovered: May 02, 2024
+date: '2024-05-07'
+discovered: May 07, 2024
 title: Colonial School District
 image: images/blog/LockBit.png
 author: Breachsense Support
@@ -10,9 +10,9 @@ draft: false
 
 | Data Breach Report           |              | 
 | :-----------: | :-------------:     |:-------------:    | :-----:|
-| Victim      | colonialsd.org      | 
+| Victim      | colonial.edu      | 
 | Threat Actor      | LockBit      | 
-| Date Discovered      | May 02, 2024      | 
-| Description      | Colonial is a public shool district in Plymouth Meeting, PA.      | 
+| Date Discovered      | May 07, 2024      | 
+| Description      | Colonial School District is an educational institution providing K-12 education in the United States.      | 
 | Leak Size      | Unknown      | 
 

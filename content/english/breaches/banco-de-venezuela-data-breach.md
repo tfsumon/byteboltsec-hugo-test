@@ -1,19 +1,18 @@
 ---
-date: '2023-04-20'
-discovered: April 20, 2023
-title: Banco De Venezuela
+date: '2024-05-08'
+discovered: May 08, 2024
+title: Banco de Venezuela
 image: images/blog/LockBit.png
 author: Breachsense Support
+yearmonths: 2024/may
 draft: false
-yearmonths: 2023/april
 ---
 
-
-| Data Breach Report
-------------:     |:-------------:    | :-----:|
+| Data Breach Report           |              | 
+| :-----------: | :-------------:     |:-------------:    | :-----:|
 | Victim      | bancodevenezuela.com      | 
 | Threat Actor      | LockBit      | 
-| Date Discovered      | Apr 20, 2023      | 
-| Description      | Banco De Venezuela is an institution with a long history in the national financial system.      | 
+| Date Discovered      | May 08, 2024      | 
+| Description      | Banco de Venezuela is one of the largest and oldest banks in Venezuela.      | 
 | Leak Size      | Unknown      | 
 

@@ -1,7 +1,7 @@
 ---
 date: '2024-05-03'
 discovered: May 03, 2024
-title: Stainless May 03, 2024ry & Engineering
+title: Stainless Foundary & Engineering
 image: images/blog/Play.png
 author: Breachsense Support
 yearmonths: 2024/may
