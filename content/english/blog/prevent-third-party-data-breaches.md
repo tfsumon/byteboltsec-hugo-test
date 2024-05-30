@@ -4,7 +4,7 @@ title: "A Quick Guide to Preventing Third-party Data Breaches."
 image: "images/blog/prevent-third-party-data-breaches.webp"
 description: "Discover how to prevent a third-party data breach. Learn ten steps to reduce your risk of a third-party data breach."
 author: "Breachsense"
-tags: ["third party risk", "prevention"]
+tags: ["Third-Party Risk", "Best Practices"]
 h1: "A Quick Guide To Third-Party Data Breaches"
 intro1: "Are you worried about a third-party vendor leaking your data? Wondering how to prevent third-party breaches?"
 intro2: "According to Forrester, 55% of organizations experienced an incident or breach involving a third-party provider in 2021."

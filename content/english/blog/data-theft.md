@@ -4,6 +4,7 @@ title: "What is Data Theft: Definition, Causes, and How To Prevent a Breach"
 image: "images/blog/data-theft.png"
 description: "Learn everything about the data theft. Discover what causes data theft, why it matters and how to prevent it." 
 author: "Breachsense"
+tags: ["Data Breach", "Incident Response"]
 h1: "What is data theft and how to prevent it"
 intro1: "FACT: The average cost of a data breach is [USD 4.45 million](https://www.ibm.com/reports/data-breach)."
 intro2: "FACT: 60% of small businesses that suffer a breach [go out of business](https://www.cnbc.com/2019/10/13/cyberattacks-cost-small-companies-200k-putting-many-out-of-business.html) within six months."

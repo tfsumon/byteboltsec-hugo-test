@@ -4,7 +4,7 @@ title: "Prevent a Data Leaks In Your Company: Causes and Prevention"
 image: "images/blog/data-leak-prevention.png"
 description: "Discover how to prevent a data leak in your company. Learn the causes and steps needed to prevent a data leak in your company." 
 author: "Breachsense"
-tags: ["prevention", "data leak"]
+tags: ["Data Leak", "Best Practices"]
 h1: "14 Data Leak Prevention Strategies"
 intro1: "Fact: [74% of all data breaches](https://www.verizon.com/business/resources/Tf30/reports/2023-data-breach-investigations-report-dbir.pdf) include an element of human error."
 intro2: "Fact: [86% of all data breaches](https://www.verizon.com/business/resources/Tf30/reports/2023-data-breach-investigations-report-dbir.pdf) involve the use of stolen credentials."

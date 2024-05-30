@@ -3,7 +3,7 @@ date: "2024-04-19"
 title: "How human error causes data breaches"
 image: "images/blog/human-error.png"
 description: "Discover how to human error causes so many data breaches. Learn how human error can lead to a data breach."
-tags: ["data breach", "human error"]
+tags: ["Data Breach", "Human Error"]
 author: "Breachsense"
 h1: "Why are so many data breaches caused human error?"
 intro1: "The sad truth is history is filled with data breaches that were caused by human error."

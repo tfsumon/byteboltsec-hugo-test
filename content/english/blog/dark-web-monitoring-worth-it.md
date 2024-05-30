@@ -4,7 +4,7 @@ title: "Making the business case for dark web monitoring."
 image: "images/blog/dark-web-monitoring-worth-it.png"
 description: "Learn why every business needs dark web monitoring. Discover why organizations implement dark web monitoring." 
 author: "Breachsense"
-tags: ["dark web", "monitoring", "security"]
+tags: ["Dark Web Monitoring", "Security Research"]
 h1: "Is dark web monitoring worth it?"
 intro1: "Wondering how to leverage dark web monitoring to make your organization more secure?"
 intro2: "Do you want to reset leaked employee credentials before they're exploited?"

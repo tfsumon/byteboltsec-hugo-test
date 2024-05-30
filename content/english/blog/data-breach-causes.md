@@ -4,6 +4,7 @@ title: "5 Top Causes of Data Breaches - Data Breach Causes Explained"
 image: "images/blog/data-breach-causes.png"
 description: "Discover the most common causes of data breaches. Learn what causes a data breach and how data breaches typically occur."
 author: "Breachsense"
+tags: ["Data Breach", "Cyberattack Trends"]
 h1: "5 Most Common Causes of Data Breaches"
 intro1: "Are you worried about your company's data being breached? Wondering what are the most common causes of a data breach that you should be preventing?"
 intro2: "As someone who collects leaked data for a living, it's clear to me that more data is leaked daily than we can possibly index in a single day. If your organization stores sensitive data, there's a good chance you may experience a data breach at some point. To prevent your company from making headlines, it's crucial to understand the most common types of data breaches and learn how to prevent those from happening."

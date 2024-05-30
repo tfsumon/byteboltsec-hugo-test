@@ -4,6 +4,7 @@ title: "The Top Data Security Metrics & KPIs You Need To Track"
 image: "images/blog/data-security-metrics.webp"
 description: "Discover what data security metrics and KPIs you need to track. Learn which data security metrics and KPIs are important to your organization."
 author: "Breachsense"
+tags: ["Data Security Best Practices", "Security Research"]
 h1: "18 Data Security Metrics & KPIs You Need To Track"
 intro1: "Wondering what data security metrics you should be tracking? Do you have a checklist of the most important metrics and KPIs to track your efforts?"
 intro2: "As the saying goes, you can't manage what you can't measure. And the same holds true for cybersecurity as well."

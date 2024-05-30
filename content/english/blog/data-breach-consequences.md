@@ -4,6 +4,7 @@ title: "8 Damaging Consequences of a Data Breach Explained."
 image: "images/blog/data-breach-consequences.png"
 description: "Discover the most common consequences of data breaches. Learn the consequences of a data breach and how to prevent them."
 author: "Breachsense"
+tags: ["Data Breach", "Financial Impact"]
 h1: "8 Damaging Consequences of a Data Breach"
 intro1: "FACT: The number of new data breaches is steadily rising."
 intro2: "According to [Checkpoint](https://www.checkpoint.com/press-releases/surge-in-cybercrime-check-point-2023-mid-year-security-report-reveals-8-spike-in-global-cyberattacks/), since the second quarter of last year, there's been an 8% surge in global weekly cyber attacks."

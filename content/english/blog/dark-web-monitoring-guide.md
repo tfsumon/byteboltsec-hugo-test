@@ -4,7 +4,7 @@ title: "What Is Dark Web Monitoring Guide: The Complete Guide."
 image: "images/blog/dark-web-monitoring-guide.png"
 description: "Learn everything about dark web monitoring. Discover what dark web monitoring is, how it works, who needs it and what features to look for." 
 author: "Breachsense"
-tags: ["dark web", "monitoring", "security"]
+tags: ["Dark Web Monitoring", "Best Practices"]
 h1: "The Complete Dark Web Monitoring Guide"
 intro1: "FACT: Billions of sensitive records, including employee credentials and internal company documents, have been leaked to the dark web this year alone."
 intro2: "To make matters worse, the average cost of a data breach has risen to USD 4.45 million, according to the 2023 [IBM Cost of a Data Breach Report](https://www.ibm.com/reports/data-breach)."

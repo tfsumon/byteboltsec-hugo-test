@@ -5,6 +5,7 @@ image: "images/blog/how-to-find-data-breaches.png"
 description: "Discover how to find data breaches and other leaked data. Learn how to check whether your company's sensitive information has been leaked."
 tags: ["How to", "Data Breaches"]
 author: "Breachsense"
+tags: ["Data Breach", "Detection Techniques"]
 h1: "How to Find Data Breaches"
 intro1: "Are you worried that your data might have been leaked in a data breach? Want to check it out but have no idea where to find information about data breaches?"
 intro2: "Data can be leaked in [various ways](https://www.breachsense.com/blog/data-breach-types/), including phishing scams, malware, human error, and exploiting vulnerabilities within an application or server."

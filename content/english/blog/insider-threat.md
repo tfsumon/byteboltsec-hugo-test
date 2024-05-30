@@ -4,6 +4,7 @@ title: "A Quick Guide to Insider Threats."
 image: "images/blog/insider-threat.webp"
 description: "Learn everything about insider threats. Discover the threat indicators and how to respond and prevent attacks caused by insider threats."
 author: "Breachsense"
+tags: ["Insider Threat", "Security Research"]
 h1: "A Quick Guide to Insider Threats"
 intro1: "FACT: Data breaches caused by malicious insiders cost organizations 9.5% more than the [average cost of a data breach](https://www.breachsense.com/blog/cost-of-a-data-breach/)."
 intro2: "To make matters worse, insider threats make up 60% of all data breaches ([ID Watchdog](https://www.idwatchdog.com/insider-threats-and-data-breaches)."

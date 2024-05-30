@@ -4,6 +4,7 @@ title: "Credential Stuffing vs. Password Spraying Explained"
 image: "images/blog/credential-stuffing-password-spraying.webp"
 description: "Discover the differences between credential stuffing and password spraying. Learn how to protect against credential stuffing and password spraying attacks."
 author: "Breachsense"
+tags: ["Authentication", "Cyberattack Trends"]
 h1: "Credential Stuffing vs. Password Spraying"
 intro1: "Passwords are the Achilles heel of cybersecurity."
 intro2: "Threat actors don't need a fancy 0-day when they can simply log in instead."

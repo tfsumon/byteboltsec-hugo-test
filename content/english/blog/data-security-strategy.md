@@ -4,6 +4,7 @@ title: "10 Data Security Strategies Your Organization Needs To Implement"
 image: "images/blog/data-security-strategy.webp"
 description: "Discover how to create a data security strategy. Learn the ten components of a comprehensive data security strategy."
 author: "Breachsense"
+tags: ["Data Security Best Practices", "Strategic Planning"]
 h1: "10 Data Security Strategies You Need To Implement"
 intro1: "Are you worried that your antivirus software won't protect your organization from a data breach? Do you have a cybersecurity risk management plan in place to protect your data?"
 intro2: "FACT: On average, it takes companies 207 days to identify a breach and then another 73 days to contain it ([IBM](https://www.ibm.com/reports/data-breach))."

@@ -4,6 +4,7 @@ title: "Data Breach Mitigation: Five Strategies to Take Right Now"
 image: "images/blog/data-breach-mitigation.png"
 description: "Discover how to mitigate data breach. Learn five strategies that will help you mitigate the risk of a data breach." 
 author: "Breachsense"
+tags: ["Data Breach", "Incident Response"]
 h1: "Data breach mitigation"
 intro1: "Do you have a plan for when your organization suffers a data breach? Looking for advice on what needs to be in your incident response plan?"
 intro2: "According to a study by [IT Governance](https://www.itgovernance.co.uk/blog/list-of-data-breaches-and-cyber-attacks-in-2023), over 8.2 billion records were breached in 2023 just in [third-party data breaches](https://www.breachsense.com/blog/third-party-data-breach/) alone."

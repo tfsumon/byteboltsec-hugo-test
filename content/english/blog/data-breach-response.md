@@ -4,7 +4,7 @@ title: "Develop a Data Breach Response Plan in Five Steps."
 image: "images/blog/data-breach-response.png"
 description: "Discover how to make a data breach response plan. Learn five strategies that will help you make a comprehensive data breach response plan." 
 author: "Breachsense"
-tags: ["incident response", "data breach"]
+tags: ["Data Breach", "Incident Response"]
 h1: "Develop a Data Breach Response Plan in Five Steps"
 intro1: "Do you have a detailed data breach response plan in case of a breach? Wondering what you need to do in case you get hacked?"
 intro2: "According to the IBM [Cost of a Data Breach 2023 Report](https://www.ibm.com/reports/data-breach), only one-third of companies studied discovered the data breach through their own security tools."

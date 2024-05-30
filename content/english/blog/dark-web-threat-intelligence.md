@@ -4,6 +4,7 @@ title: "A quick guide to dark web threat intelligence"
 image: "images/blog/dark-web-threat-intelligence.png"
 description: "Learn everything about the dark web threat intelligence. Discover what dark web threat intelligence is and how to find it on the dark web."
 author: "Breachsense"
+tags: ["Dark Web Monitoring", "Threat Intelligence"]
 h1: "A Quick Guide to Dark Web Threat Intelligence"
 intro1: "FACT: The likelihood of a cybercrime being detected and prosecuted in the U.S. is a mere 0.05%, according to the [World Economic Forum](https://www3.weforum.org/docs/WEF_Global_Risk_Report_2020.pdf)."
 intro2: "Furthermore, a staggering 67% of data breaches are reported by third parties or even the attackers themselves rather than being discovered by the companies' own security teams."

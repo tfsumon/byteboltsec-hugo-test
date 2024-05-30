@@ -4,6 +4,7 @@ title: "Data security audit checklist"
 image: "images/blog/data-security-audit.webp"
 description: "Discover how to perform a data security audit. Learn the components of a comprehensive data security audit."
 author: "Breachsense"
+tags: ["Data Security Best Practices", "Compliance"]
 h1: "Data security audit checklist"
 intro1: "Wondering how to run a security audit? Do you know the 8 steps you should do **before** the audit to maximize its value?"
 intro2: "Data security audits allow you to proactively fix vulnerabilities, mitigate risk, and reduce the likelihood of a data breach."

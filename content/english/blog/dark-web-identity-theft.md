@@ -4,6 +4,7 @@ title: "What to Do if Your Company's Information Is Found on the Dark Web"
 image: "images/blog/dark-web-identity-theft.png"
 description: "Learn everything about what to do if your company's data is found on the dark web. Discover what to do when your company's information is found on the dark web." 
 author: "Breachsense"
+tags: ["Dark Web Monitoring", "Identity Theft"]
 h1: "What to Do if Your Company's Information Is Found on the Dark Web"
 intro1: "**FACT:** On average, it takes organizations 204 days to identify a breach ([IBM](https://www.ibm.com/reports/data-breach))."
 intro2: "There are lots of ways [data breaches happen](https://www.breachsense.com/blog/data-breach-causes/), like leaked credentials, phishing scams, and malware infections."
@@ -63,7 +64,7 @@ If you discover that your company's data has been leaked on the dark web, time i
 
 It is extremely difficult, if not impossible, to get your information completely removed from the dark web once it has been leaked. The dark web is designed to be decentralized and anonymous network, making it very challenging to track down the sources distributing the data or force its removal. However, there are a few steps that you can to mitigate the risks:
 
-1. **Monitor for exposure:** Use dark web monitoring services like Breachsense to continuously scan for your company data on the dark web, forums, and marketplaces.
+1. **Monitor for exposure:** Use [dark web monitoring services](https://www.breachsense.com/blog/dark-web-monitoring-tools-msp/) like Breachsense to continuously scan for your company data on the dark web, forums, and marketplaces.
 2. **Change compromised credentials:** If login credentials like passwords, session tokens or financial information have been exposed, change them immediately across all associated accounts and services.
 3. **Freeze credit/finances:** If financial data or PII (personally identifiable information) have been compromised, freeze your credit with the major credit bureaus and monitor your financial accounts for any fraudulent activity.
 4. **Report illegal activity:** While removal may not be possible, report any illegal sale or distribution of your data to the appropriate authorities and internet providers hosting the content.

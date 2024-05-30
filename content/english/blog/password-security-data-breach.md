@@ -4,6 +4,7 @@ title: "Poor Password Management: How to Create Breach-Resistant Passwords"
 image: "images/blog/password-security-data-breach.png"
 description: "Discover the causes and risks of poor password managment. Learn how to boost password security and create breach-resistant passwords." 
 author: "Breachsense"
+tags: ["Authentication", "Data Breach"]
 h1: "Overcome Poor Password Management: How to Create Breach Resistant Passwords"
 intro1: "FACT: There is no [more common](https://www.verizon.com/business/resources/reports/dbir/2023/incident-classification-patterns-intro/web-application-attacks/) way to breach a company’s systems than by using compromised passwords."
 intro2: "But what’s even worse is that, in some cases, we make that task even simpler for hackers. Often, they just need to guess our ridiculously weak passwords, and that, as studies confirm, is [not as difficult as it may seem](https://www.cnbc.com/2023/11/16/most-common-passwords-70percent-can-be-cracked-in-less-than-a-second.html)." 

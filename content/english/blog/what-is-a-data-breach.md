@@ -4,6 +4,7 @@ title: "What is a Data Breach: Definition, Causes, and Data Breach Process"
 description: "Discover what a data breach is. Learn everything to understand the concept of a data breach, how it happens, and how to protect your business from it." 
 author: "Breachsense"
 image: "images/blog/what-is-a-data-breach.png"
+tags: ["Data Breach", "Educational Content"]
 h1: "What is a Data Breach"
 intro1: "A data breach is a security incident where an unauthorized party gains access to confidential information or sensitive data."
 intro2: "Keep reading to learn more about what a data breach is, how it happens, and the consequences that your company could face."

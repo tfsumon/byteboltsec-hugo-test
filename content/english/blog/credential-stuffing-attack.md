@@ -3,7 +3,7 @@ date: "2024-03-31"
 title: "What Is Credential Stuffing, Real World Examples and How to Prevent It"
 image: "images/blog/credential-stuffing-attack.webp"
 description: "Discover the best practices for preventing credential stuffing. Learn the mechanics of credential stuffing and the best practices for preventing the attack."
-tags: ["credential stuffing", "prevention"]
+tags: ["Authentication", "Cyberattack Trends"]
 author: "Breachsense"
 h1: "What Is Credential Stuffing and How to Prevent It"
 intro1: "The sad truth is that more than 343 billion credentials were leaked last year via malware alone."

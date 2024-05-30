@@ -4,6 +4,7 @@ title: "What to do when your company's passwords are leaked"
 image: "images/blog/password-breach.webp"
 description: "Learn what to do when your organization's passwords get breached. Discover how to respond when your company's passwords get leaked in a breach."
 author: "Breachsense"
+tags: ["Authentication", "Data Breach"]
 h1: "What to do when your company's passwords are exposed in a data breach"
 intro1: "FACT: Last year, there were over 3,400 data breaches publicly exposed."
 intro2: "No matter how secure our own organizations are, we have little control over how third parties store our data."

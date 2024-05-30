@@ -4,6 +4,7 @@ title: "Target Data Breach Case Study: Causes and Lessons Learned"
 image: "images/blog/Target Data Breach - $200+ Million in Losses [Case Study].png"
 description: "Learn everything about the Target data breach. Discover what happened, who was affected, lessons learned and more." 
 author: "Breachsense"
+tags: ["Data Breach", "Case Studies"]
 h1: "Target Data Breach Explained: A Case Study"
 intro1: "The Target data breach was one of the largest in history."
 intro2: "The total cost of the breach was estimated to be around $292 million."

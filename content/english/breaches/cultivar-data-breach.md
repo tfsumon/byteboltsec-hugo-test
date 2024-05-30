@@ -1,19 +1,18 @@
 ---
-Discovered: September 14, 2022
-date: '2022-09-14'
+date: '2024-05-10'
+discovered: May 10, 2024
 title: Cultivar
 image: images/blog/LockBit.png
 author: Breachsense Support
+yearmonths: 2024/may
 draft: false
-yearmonths: 2022/september
 ---
 
-
-| Data Breach Report
-------------:     |:-------------:    | :-----:|
-| Victim      | cultivar.net      | 
+| Data Breach Report           |              | 
+| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Victim      | cultivarnet.com.br      | 
 | Threat Actor      | LockBit      | 
-| Date Discovered      | Sep 14, 2022      | 
-| Description      | Cultivar operates throughout the world the import sector.      | 
-| Leak Size      | N/A      | 
+| Date Discovered      | May 10, 2024      | 
+| Description      | Cultivar offers a wide portfolio in the agriculture and livestock segments, including fertilizers, additives, and more.      | 
+| Leak Size      | Unknown      | 
 

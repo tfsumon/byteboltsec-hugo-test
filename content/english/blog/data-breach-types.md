@@ -4,6 +4,7 @@ title: "7 Most Common Types of Data Breaches Explained"
 image: "images/blog/data-breach-types.png"
 description: "Discover the most common types of data breaches. Learn what types of data breaches you could experience in your company."
 author: "Breachsense"
+tags: ["Data Breach", "Cyberattack Trends"]
 h1: "7 Most Common Types of Data Breaches"
 intro1: "There's no point in sugarcoating it - A data breach may be your business's worst nightmare."
 intro2: "For one, suffering a breach is guaranteed to [ruin your brand reputaion](https://www.journalofadvertisingresearch.com/content/57/1/3.short). A data breach will also negatively affect your revenue. Not to mention that you might face litigation and severe fines."

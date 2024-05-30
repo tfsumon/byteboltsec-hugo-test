@@ -4,6 +4,7 @@ title: "Small Business Data Breaches: Causes, Effects, and Mitigation"
 image: "images/blog/small-business-data-breach.png"
 description: "Discover how small business data breaches happen. Learn what could happen if your data is breached, and how to prevent it. "
 author: "Breachsense"
+tags: ["Small Business", "Data Breach"]
 h1: "Small Business Data Breaches: How Data Threats Impact Small Businesses"
 intro1: "It’s unfortunate but true: Small businesses are often a prime target for cybercriminals, mainly due to their lack of resources and focus on security."
 intro2: "Similarly, a lack of proper training and lax security measures makes it easy for cybercriminals to access data belonging to small businesses." 

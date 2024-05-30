@@ -4,6 +4,7 @@ title: "Insider Data Breaches: Causes, Real-life Examples and Prevention"
 image: "images/blog/insider-data-breach.png"
 description: "Learn everything about insider data breaches. Discover the common causes, real-life examples, and ways to prevent insider data breaches. "
 author: "Breachsense"
+tags: ["Insider Threat", "Data Breach"]
 h1: "Insider Data Breaches: Causes and Real-life Examples"
 intro1: "Did you know that insider threats cause [60% of overall data breaches](https://www.idwatchdog.com/insider-threats-and-data-breaches)?"
 intro2: "It's true." 

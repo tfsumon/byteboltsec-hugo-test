@@ -4,6 +4,7 @@ title: "14 Data Security Best Practices to Protect Your Organization"
 image: "images/blog/data-security-best-practices.png"
 description: "Learn everything about the data security best practices. Discover data security best practices that prevent data breaches." 
 author: "Breachsense"
+tags: ["Data Security Best Practices", "Best Practices"]
 h1: "Data Security Best Practices"
 intro1: "**FACT:** The average cost of a data breach in 2023 was USD 4.45 million, which is a 15% increase over the previous three years. ([IBM](https://www.ibm.com/reports/data-breach))"
 intro2: "Beyond the financial cost, data breaches can have [significant consequences on your business](https://www.breachsense.com/blog/data-breach-consequences/)."

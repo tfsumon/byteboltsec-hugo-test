@@ -4,6 +4,7 @@ title: "A quick guide to data risk management"
 image: "images/blog/data-risk-management.webp"
 description: "Learn everything about the data risk management. Discover everything you need to know about data risk management plus the top risk mitigation strategies."
 author: "Breachsense"
+tags: ["Risk Management", "Data Security Best Practices"]
 h1: "A Guide to Data Risk Management"
 intro1: "FACT: Data is the lifeblood of today's modern business."
 intro2: "Inadequate data protection can significantly impact an organization's ability to function."

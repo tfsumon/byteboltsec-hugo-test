@@ -4,6 +4,7 @@ title: "Home Depot Data Breach Case Study: Causes and Settlement"
 image: "images/blog/Home Depot Data Breach - $179 Million in Losses [Case Study].png"
 description: "Learn everything about the Home Depot data breach. Discover what happened, who was affected, settlement claims and more." 
 author: "Breachsense"
+tags: ["Data Breach", "Case Studies"]
 h1: "Home Depot Data Breach Explained: A Case Study"
 intro1: "FACT: The Home Depot attackers were in their network for five months before being detected." 
 intro2: "The [IBM Cost of a Data Breach report](https://www.ibm.com/reports/data-breach) shows a direct correlation between time to discovery and the impact of a data breach."

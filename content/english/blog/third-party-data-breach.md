@@ -4,7 +4,7 @@ title: "10 Steps to Prevent Third-party Data Breaches At Work"
 image: "images/blog/third-party-data-breach.png"
 description: "Discover how to prevent a third-party data breach. Learn ten ways to reduce the risk of a third-party data breach happening to you."
 author: "Breachsense"
-tags: ["third party risk", "prevention"]
+tags: ["Third-Party Risk", "Data Breach"]
 h1: "How to Prevent Third-party Data Breaches"
 intro1: "Are you worried about experiencing a data breach through a third party? Wondering how to prevent third-party data breaches?"
 intro2: "It’s no surprise. The situation is jaw-droppingly scary, after all."

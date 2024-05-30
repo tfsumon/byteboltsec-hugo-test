@@ -4,6 +4,7 @@ title: "10 Best Dark Leak Prevention Tools Today."
 image: "images/blog/data-leak-protection-software.png"
 description: "Discover the best data leak prevention tools. Learn what tools to use to prevent data leaks and protect your company's data."
 author: "Breachsense"
+tags: ["Data Leak", "Security Tools"]
 h1: "The 10 Best Data Leak Prevention Tools"
 intro1: "Need to create a data leak prevention strategy?"
 intro2: "Wondering where to start and what tools to use?"

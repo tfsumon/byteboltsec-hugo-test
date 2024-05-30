@@ -4,6 +4,7 @@ title: "How to Prevent Data Breaches in Healthcare: 12 Strategies"
 image: "images/blog/prevent-data-breaches-healthcare.png"
 description: "Learn what causes a data breach in healthcare. Discover 14 strategies to prevent data breach in your healthcare organization" 
 author: "Breachsense"
+tags: ["Data Breach", "Healthcare Security"]
 h1: "How to Prevent Data Breaches in Healthcare"
 intro1: "It goes without saying - A [data breach](https://www.breachsense.com/blog/what-is-a-data-breach/) is guaranteed to deliver a devastating blow for any healthcare organization. From compromised patient information and financial losses to irreparable damage to a facility’s reputation, a data breach can truly mean the end of the organization."
 intro2: "Unfortunately, healthcare data breaches are on the rise. More and more healthcare organizations find themselves victims of cyber attacks." 

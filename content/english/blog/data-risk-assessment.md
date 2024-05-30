@@ -4,6 +4,7 @@ title: "A Quick Guide To Performing Data Risk Assessments"
 image: "images/blog/data-risk-assessment.webp"
 description: "Discover how to perform a data risk assessment. Learn the components of a comprehensive data risk assessment."
 author: "Breachsense"
+tags: ["Risk Management", "Data Security Best Practices"]
 h1: "A Quick Guide To Performing A Data Risk Assessment"
 intro1: "FACT: Almost 70% of enterprises can only classify less than half of their sensitive data ([Thales](https://cpl.thalesgroup.com/data-threat-report))."
 intro2: "According to [IBM](https://www.ibm.com/reports/data-breach), in 2023, it took companies an average of 204 days to identify a breach."

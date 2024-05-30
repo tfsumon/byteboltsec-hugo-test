@@ -4,6 +4,7 @@ title: "The Definitive Guide to Email Threats Types"
 image: "images/blog/email-threat-types.webp"
 description: "Discover the best practices for preventing email threats. Learn the most common email threats and how to prevent them."
 author: "Breachsense"
+tags: ["Email Security", "Threat Intelligence"]
 h1: "The Definitive Guide to Email Threats"
 intro1: "FACT: Business Email Compromise attacks cost businesses over USD 2.9 billion last year ([FBI](https://www.ic3.gov/Media/PDF/AnnualReport/2023_IC3Report.pdf))"
 intro2: "According to [Campaign Monitor](https://www.campaignmonitor.com/blog/email-marketing/shocking-truth-about-how-many-emails-sent/), the average employee receives 121 emails every workday."

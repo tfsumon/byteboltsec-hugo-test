@@ -4,6 +4,7 @@ title: "What is a Data Leak: Definition, Causes, and Prevention."
 image: "images/blog/data-leak.png"
 description: "Discover what a data leak is. Learn everything about what a data leak is, how it happens, and how to protect your business from it." 
 author: "Breachsense"
+tags: ["Data Leak", "Data Breach"]
 h1: "What is a Data Leak"
 intro1: "Ever wonder what's the easiest way for hackers to gain access to your network?"
 intro2: "Attackers exploit data leaks to find leaked employee credentials and use those to figuratively walk straight through the front door."

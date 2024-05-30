@@ -4,6 +4,7 @@ title: "Guide to External Threats: Detection and Protection"
 image: "images/blog/external-threats.webp"
 description: "Discover the best practices for preventing external threats. Learn how to detect and prevent external threats."
 author: "Breachsense"
+tags: ["Cyberattack Trends", "Threat Intelligence"]
 h1: "A Quick Guide to External Threats: Detection and Protection"
 intro1: "The global cost of cybercrime is expected to nearly triple from $8.44 trillion in 2022 to $23.84 trillion in 2027 ([World Economic Forum](https://www.weforum.org/agenda/2024/01/cybersecurity-cybercrime-system-safety/))."
 intro2: "With every new technology adapted within an organization, the attack surface for bad actors to exploit increases."

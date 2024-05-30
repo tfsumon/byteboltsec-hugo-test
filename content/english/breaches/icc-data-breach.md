@@ -1,19 +1,18 @@
 ---
-Discovered: August 30, 2022
-date: '2022-08-30'
+date: '2024-05-23'
+discovered: May 23, 2024
 title: ICC
-image: images/blog/BianLian.png
+image: images/blog/Rhysida.png
 author: Breachsense Support
+yearmonths: 2024/may
 draft: false
-yearmonths: 2022/august
 ---
 
-
-| Data Breach Report
-------------:     |:-------------:    | :-----:|
-| Victim      | intlcustomcontrols.com      | 
-| Threat Actor      | BianLian      | 
-| Date Discovered      | Aug 30, 2022      | 
-| Description      | At ICC we aim to provide a full suite of solutions to help reduce the cost and risk associated with the controls package.      | 
-| Leak Size      | N/A      | 
+| Data Breach Report           |              | 
+| :-----------: | :-------------:     |:-------------:    | :-----:|
+| Victim      | icc.com      | 
+| Threat Actor      | Rhysida      | 
+| Date Discovered      | May 23, 2024      | 
+| Description      | ICC is a structured cabling solutions manufacturer of copper & fiber optic connectivity products for commercial & residential applications.      | 
+| Leak Size      | Unknown      | 
 
