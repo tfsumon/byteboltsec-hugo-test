@@ -1,0 +1,61 @@
+{{ define "main" }}
+{{/* Create map where key is the first character and value is a slice of pages. */}}
+{{ $m := dict }}
+{{ range (first 100 (site.GetPage "blog").Pages) }}
+{{ $firstCharacter := lower (substr .Title 0 1) }}
+{{ if findRE "^[a-zA-Z]$" $firstCharacter }}
+{{ $s := slice }}
+{{ with index $m $firstCharacter }}
+{{ $s = . }}
+{{ end }}
+{{ $s = $s | append . }}
+{{ $m = merge $m (dict $firstCharacter $s) }}
+{{ end }}
+{{ end }}
+
+{{/* Slice of lowercase alphabet */}}
+{{ $alphabets := slice "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m" "n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x"
+"y" "z"
+}}
+
+
+<div id="alphabet-nav" class="alphabet-container">
+   <div class="text-center">
+      {{ range $index, $letter := $alphabets }}
+      {{ $firstCharacter := upper $letter }}
+      {{ $pages := index $m $letter }}
+      {{ if $pages }}
+      <a class="mx-2 font-weight-bold text-dark" href="#letter-{{ $letter }}">
+         {{ $firstCharacter }}
+      </a>
+      {{ else }}
+      <p class="mx-2 d-inline">{{ $firstCharacter }}</p>
+      {{ end }}
+      {{ end }}
+   </div>
+</div>
+
+{{/* List pages grouped by the first character. */}}
+{{ range $k, $v := $m }}
+<div id="letter-{{ $k | lower }}" class="mb-5 latter-container">
+   <h2 class="text-center mb-2">{{ $k | upper }}</h2>
+   <div class="container">
+      <div class="row">
+         {{ range $v }}
+         <div class="col-12 col-md-6 col-lg-4">
+            <div class="bg-light latter-container-card shadow-sm p-3 my-2">
+               <h4>
+                  <a href="{{ .RelPermalink }}" class="text-dark">
+                     {{ .Title }}
+                  </a>
+               </h4>
+               <p>{{ .Content | plainify | htmlUnescape | truncate 120 }}</p>
+            </div>
+         </div>
+         {{ end }}
+      </div>
+   </div>
+</div>
+{{ end }}
+
+{{ end }}

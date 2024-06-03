@@ -3,11 +3,14 @@
 <!-- checking blog -->
 {{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq .Section "categories") (eq .Section "tags") }}
 
+
 <!-- strat of blog-details -->
 <section class="section-sm pt-0">
-  <div class="container">
-    <div class="row justify-content-center" data-aos="fade-in">
-      <div class="col-lg-10 mb-5">
+  <div class="container position-relative has-sticky-toc">
+    <div class="row justify-content-end" data-aos="fade-in">
+      
+
+      <div class="col-xl-10 mx-auto mb-5">
         {{ with .Params.image }}
         {{ if fileExists (add `assets/` .) }}
         {{$img:= resources.Get . }}
@@ -17,7 +20,7 @@
         {{end}}
         {{end}}
       </div>
-      <div class="col-lg-8">
+      <div class="col-xl-9 mx-auto">
         <ul class="mb-4 tags">
           {{ if .Params.tags }}
             <li class="list-inline-item">
@@ -80,16 +83,20 @@
           <p> {{ .Params.intro6 | markdownify }} </p>
           <p> {{ .Params.intro7 | markdownify }} </p>
           <p> {{ .Params.intro8 | markdownify }} </p>
+
           <p> <h2>Table of contents:</h2><p>
-          {{ .TableOfContents }}
+            
+          <div class="table-of-contents">
+            {{ .TableOfContents }}
+          </div>
+
           {{.Content}}
         </div>
 
       </div>
 
-
       {{ if .Site.DisqusShortname }}
-      <div class="col-lg-8" data-aos="fade-in">
+      <div class="col-xl-8" data-aos="fade-in">
         <!-- comments -->
         <div class="mt-5">
           {{ template "_internal/disqus.html" . }}

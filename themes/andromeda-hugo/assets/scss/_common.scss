@@ -5,6 +5,7 @@ body {
   font-weight: 400;
   font-size: 1rem;
   line-height: 1.7;
+  scroll-behavior: smooth;
 }
 
 ::selection {
@@ -39,7 +40,7 @@ body {
 }
 
 .container-xxl {
-  max-width: 1440px;
+  max-width: 1600px;
   width: 100%;
   padding-right: 0.9rem;
   padding-left: 0.9rem;

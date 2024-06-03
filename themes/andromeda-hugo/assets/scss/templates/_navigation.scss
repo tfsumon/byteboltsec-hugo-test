@@ -87,7 +87,7 @@ header {
       color: lighten($black, 13.33) !important;
       padding: 0.9rem 1.06rem !important;
 
-      @include desktop-lg {
+      @include desktop-xl {
         font-size: 0.9rem;
         padding: 0.9rem 0.625rem !important;
       }

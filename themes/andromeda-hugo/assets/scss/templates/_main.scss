@@ -248,9 +248,6 @@
   background-color: $white;
   border: 1px solid $border-color;
 
-  img {
-  }
-
   span {
     margin-left: 5px;
     display: inline-block;
@@ -1051,7 +1048,7 @@
 
   .user-image {
     height: 3.2rem;
-    width: 3.2rem;
+    min-width: 3.2rem;
     padding: 0.25rem;
     position: relative;
     border-radius: 50%;
@@ -1375,4 +1372,71 @@ footer.footer {
 // Added to fix blog image issue on mobile
 img {
   max-width: 100%;
+}
+
+.has-sticky-toc {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: calc(1600px  - 250px );
+
+  @media screen and (max-width: 1600px) {
+    max-width: calc(100%  - 250px );  
+  }
+  @media screen and (max-width: 1466px) {
+    max-width: calc(1260px  - 350px );  
+  }
+  @media screen and (max-width: 1320px) {
+    max-width: calc(100%  - 350px );  
+  }
+  @include desktop {
+    max-width: 100%;  
+  }
+}
+.table-of-contents {
+  @media screen and (min-width: 1200px) {
+    margin-bottom: 50px;
+    right: 100%;
+    width: 267px;
+    height: calc(100% - 400px);
+    position: absolute;
+
+    #TableOfContents {
+      padding: 10px;
+      top: 120px;
+      position: sticky;
+      font-size: 0.9em;
+      border-radius: 6px;
+      border: 1px solid rgba($primary-color, 0.1);
+      ul {
+        margin-bottom: 0px;
+      }
+    }
+  }
+  @include desktop-lg {
+    position: unset;
+  }
+}
+.alphabet-container {
+  position: sticky;
+  padding: 20px 0;
+  padding-inline: 10px;
+  top: 86px;
+  z-index: 10;
+  background-color: $white;
+  box-shadow: 0px 5px 5px 5px #00000005;
+  margin-bottom: 25px;
+  @include desktop {
+    top: 54px;
+  }
+}
+
+.latter-container {
+  scroll-margin-top: 180px !important;
+  @include desktop-xl {
+    scroll-margin-top: 150px;
+  }
+  &-card {
+    border-radius: 18px;
+  }
 }
