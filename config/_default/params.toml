@@ -19,6 +19,12 @@ career_form_action = "#" # career form works with https://formspree.io
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= "" 
 
+# Table Of Contents
+[table_of_contents]
+enable = true
+title = "Table of Contents" # set empty string to hide the title
+
+
 # Main Sections
 mainSections= ["blog"]
 breachSections= ["breaches"]

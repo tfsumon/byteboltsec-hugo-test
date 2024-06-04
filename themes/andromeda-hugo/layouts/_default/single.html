@@ -1,40 +1,44 @@
 {{ define "main" }}
 
 <!-- checking blog -->
-{{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq .Section "categories") (eq .Section "tags") }}
+{{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq
+.Section "categories") (eq .Section "tags") }}
 
 
 <!-- strat of blog-details -->
 <section class="section-sm pt-0">
   <div class="container position-relative has-sticky-toc">
     <div class="row justify-content-end" data-aos="fade-in">
-      
+
 
       <div class="col-xl-10 mx-auto mb-5">
         {{ with .Params.image }}
         {{ if fileExists (add `assets/` .) }}
         {{$img:= resources.Get . }}
-          <p align="center">
-          <img loading="lazy" decoding="async" class="rounded-lg" src="{{$img.RelPermalink}}" alt="{{ if $.Params.h1 }}{{$.Params.h1}}{{ else if $.Params.title }}{{$.Params.title}}{{else}}{{print "blog-post"}} {{end}}" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
-          </p>
+        <p align="center">
+          <img loading="lazy" decoding="async" class="rounded-lg" src="{{$img.RelPermalink}}"
+            alt="{{ if $.Params.h1 }}{{$.Params.h1}}{{ else if $.Params.title }}{{$.Params.title}}{{else}}{{print `blog-post`}} {{end}}"
+            onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+        </p>
         {{end}}
         {{end}}
       </div>
       <div class="col-xl-9 mx-auto">
         <ul class="mb-4 tags">
           {{ if .Params.tags }}
-            <li class="list-inline-item">
-              {{ $tags := .Params.tags }}
-              {{ range $i, $ele := $tags }}
-                <a class="tag" href="/tags/{{. | lower | urlize}}">{{ . | title }}
-                </a>
-                {{ if not (eq (sub ($tags | len) 1) $i) }} &nbsp;&nbsp; {{ end }}
-              {{ end }}
-            </li>
+          <li class="list-inline-item">
+            {{ $tags := .Params.tags }}
+            {{ range $i, $ele := $tags }}
+            <a class="tag" href="/tags/{{. | lower | urlize}}">{{ . | title }}
+            </a>
+            {{ if not (eq (sub ($tags | len) 1) $i) }} &nbsp;&nbsp; {{ end }}
+            {{ end }}
+          </li>
           {{ end }}
         </ul>
 
-        <h1 class="mb-2">{{.Params.h1}}</font></h1>
+        <h1 class="mb-2">{{.Params.h1}}</font>
+        </h1>
         <ul class="mb-4 list-inline">
           <li class="list-inline-item">
             {{ $publishDate := .PublishDate.Format "Jan 02, 2006" }}
@@ -46,27 +50,29 @@
                   {{ $img:= resources.Get (.Params.image) }}
                   {{ $img:= $img.Fill "70x70" }}
                   {{ $imgWebp:= $img.Fill "70x70 webp" }}
-                  <img loading="lazy" decoding="async" class="rounded-circle" src="{{ $imgWebp.RelPermalink }}" alt="author image" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+                  <img loading="lazy" decoding="async" class="rounded-circle" src="{{ $imgWebp.RelPermalink }}"
+                    alt="author image" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
                   {{ else if .Params.Email }}
-                  <img loading="lazy" decoding="async" class="rounded-circle" src="https://www.gravatar.com/avatar/{{ md5 . }}?s=70&pg&d=identicon">
+                  <img loading="lazy" decoding="async" class="rounded-circle"
+                    src="https://www.gravatar.com/avatar/{{ md5 . }}?s=70&pg&d=identicon">
                   {{ end }}
                 </a>
               </div>
               <ul class="list-inline">
                 <li class="list-inline-item">
-                <span class="text-black mb-0 h5"><a href="{{.RelPermalink}}">{{ .Title }}</a></span>
+                  <span class="text-black mb-0 h5"><a href="{{.RelPermalink}}">{{ .Title }}</a></span>
                 </li>
                 <li class="list-inline-item">
                   ·
                 </li>
                 <li class="list-inline-item">
-                <span class="tag text-decoration-none mb-0">{{$publishDate}}</span>
+                  <span class="tag text-decoration-none mb-0">{{$publishDate}}</span>
                 </li>
                 <li class="list-inline-item">
                   ·
                 </li>
                 <li class="list-inline-item">
-                <span class="tag text-decoration-none mb-0">{{printf "%d Minute Reading Time" $.ReadingTime}}</span>
+                  <span class="tag text-decoration-none mb-0">{{printf "%d Minute Reading Time" $.ReadingTime}}</span>
                 </li>
               </ul>
             </div>
@@ -84,11 +90,16 @@
           <p> {{ .Params.intro7 | markdownify }} </p>
           <p> {{ .Params.intro8 | markdownify }} </p>
 
-          <p> <h2>Table of contents:</h2><p>
-            
-          <div class="table-of-contents">
-            {{ .TableOfContents }}
+          {{ with site.Params.table_of_contents }}
+          {{ if .enable }}
+          <div class="table-of-contents-wrapper">
+            <div class="table-of-contents">
+            {{with .title}}<h2>{{ . | markdownify }}</h2>{{end}}
+            {{ $.TableOfContents }}
+            </div>
           </div>
+          {{ end }}
+          {{ end }}
 
           {{.Content}}
         </div>
@@ -117,8 +128,9 @@
           <h2 class="title">{{i18n `related_articles`}}</h2>
         </div>
       </div>
-      
-      {{ $related := (where site.RegularPages "Section" "in" site.Params.mainSections) | intersect (where site.RegularPages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) }}
+
+      {{ $related := (where site.RegularPages "Section" "in" site.Params.mainSections) | intersect (where
+      site.RegularPages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) }}
       {{ range first 2 $related }}
       <div class="col-lg-5">
         {{ .Render "article" }}

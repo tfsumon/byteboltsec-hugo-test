@@ -1393,23 +1393,31 @@ img {
     max-width: 100%;  
   }
 }
-.table-of-contents {
-  @media screen and (min-width: 1200px) {
+.table-of-contents-wrapper {
+  @media screen and (min-width: 1201px) {
     margin-bottom: 50px;
     right: 100%;
     width: 267px;
     height: calc(100% - 400px);
     position: absolute;
-
-    #TableOfContents {
+    .table-of-contents {
       padding: 10px;
       top: 120px;
       position: sticky;
       font-size: 0.9em;
-      height: calc(100vh - 200px);
+      max-height: calc(100vh - 200px);
       overflow: auto;
       border-radius: 6px;
       border: 1px solid rgba($primary-color, 0.1);
+      padding: 10px;
+
+      h2 {
+        font-size: 18px;
+        padding-bottom: 10px !important;
+        margin-bottom: 10px !important;
+        border-bottom: 1px solid rgba($primary-color, 0.1);
+      }
+
       ul {
         margin-bottom: 0px;
       }
