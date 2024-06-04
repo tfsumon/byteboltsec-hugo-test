@@ -25,11 +25,11 @@
       {{ $firstCharacter := upper $letter }}
       {{ $pages := index $m $letter }}
       {{ if $pages }}
-      <a class="mx-2 font-weight-bold text-dark" href="#letter-{{ $letter }}">
+      <a class="mx-1 font-weight-bold text-dark" href="#letter-{{ $letter }}">
          {{ $firstCharacter }}
       </a>
       {{ else }}
-      <p class="mx-2 d-inline">{{ $firstCharacter }}</p>
+      <p class="mx-2 d-inline font-weight-bold disabled-character">{{ $firstCharacter }}</p>
       {{ end }}
       {{ end }}
    </div>

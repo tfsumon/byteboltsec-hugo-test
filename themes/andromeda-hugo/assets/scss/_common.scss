@@ -1,11 +1,14 @@
-body {
+html,body {
+  scroll-behavior: smooth;
+}
+
+htmlbody {
   color: lighten($black, 53.33);
   background-color: $white;
   font-family: $font-primary;
   font-weight: 400;
   font-size: 1rem;
   line-height: 1.7;
-  scroll-behavior: smooth;
 }
 
 ::selection {
