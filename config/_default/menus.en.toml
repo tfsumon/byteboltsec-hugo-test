@@ -112,6 +112,12 @@ hasChildren = true
 
   [[main]]
   parent = "Resources"
+  name = "Glossary"
+  url = "glossary/"
+  weight = 7
+
+  [[main]]
+  parent = "Resources"
   name = "Terms & Conditions"
   url = "terms-and-conditions/"
   weight = 10
