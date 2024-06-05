@@ -22,7 +22,7 @@ custom_script= ""
 # Table Of Contents
 [table_of_contents]
 enable = true
-title = "Table of Contents" # set empty string to hide the title
+title = "Contents" # set empty string to hide the title
 
 
 # Main Sections
