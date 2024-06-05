@@ -38,7 +38,9 @@
 {{/* List pages grouped by the first character. */}}
 {{ range $k, $v := $m }}
 <div id="letter-{{ $k | lower }}" class="mb-5 latter-container">
-   <h2 class="text-center mb-2">{{ $k | upper }}</h2>
+   <div class="container">
+      <h2 class="text-center mb-2">{{ $k | upper }}</h2>
+   </div>
    <div class="container">
       <div class="row">
          {{ range $v }}
