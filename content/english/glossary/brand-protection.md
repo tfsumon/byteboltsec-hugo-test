@@ -1,6 +1,6 @@
 ---
 date: "2024-06-03"
-title: "Brand Protection | Breachsense"
+title: "Brand Protection"
 image: "images/blog/after-a-breach.png"
 description: "Discover the different types of brand protection. Learn how to prevent brand impersonation attacks."
 ---

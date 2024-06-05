@@ -1,6 +1,6 @@
 ---
 date: "2024-06-04"
-title: "Information Leakage | Breachsense"
+title: "Information Leakage"
 image: "images/blog/after-a-breach.png"
 description: "Discover the different types of information leakage. Learn how to prevent threat actors from exploiting information leakage."
 ---
