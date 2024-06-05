@@ -1,3 +1,8 @@
+---
+date: "2024-06-02"
+title: "Access Control"
+description: "Discover the different types of access control. Learn how to control easily."
+---
 # Access Control
 
 ## What is Access Control

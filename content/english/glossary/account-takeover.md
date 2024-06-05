@@ -1,11 +1,10 @@
 ---
 date: "2024-06-02"
-title: "Account Takeover (ATO) | Breachsense"
+title: "Account Takeover (ATO)"
 image: "images/blog/after-a-breach.png"
 description: "Discover the different types of account takeover attacks. Learn how to prevent account takeover (ATO) attacks."
 ---
-
-#Account Takeover (ATO)
+# Account Takeover (ATO)
 
 ## What are Account Takeover Attacks
 

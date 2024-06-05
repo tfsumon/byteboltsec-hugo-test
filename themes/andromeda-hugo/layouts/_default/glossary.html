@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{/* Create map where key is the first character and value is a slice of pages. */}}
 {{ $m := dict }}
-{{ range (first 100 (site.GetPage "blog").Pages) }}
+{{ range (first 100 (site.GetPage "glossary").Pages) }}
 {{ $firstCharacter := lower (substr .Title 0 1) }}
 {{ if findRE "^[a-zA-Z]$" $firstCharacter }}
 {{ $s := slice }}
