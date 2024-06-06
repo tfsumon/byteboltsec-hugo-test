@@ -24,11 +24,6 @@ custom_script= ""
 enable = true
 title = "Contents" # set empty string to hide the title
 
-
-# Main Sections
-mainSections= ["blog"]
-breachSections= ["breaches"]
-
 # Change month format for /breaches page sidebar
 [sidebar_breaches]
 month_short_format = false # set it to true if you don't want full format of the month.

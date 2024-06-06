@@ -6,9 +6,9 @@ A hugo powered static website for Breachsense
 
 To contribute effectively, you'll need some prerequisites installed on your machine:
 
-- **Hugo Extended v0.118+**: [[https://gohugo.io/installation/](https://gohugo.io/installation/)]
+- **Hugo Extended v0.125+**: [[https://gohugo.io/installation/](https://gohugo.io/installation/)]
 - **Node v18+**: [[https://nodejs.org/en/download/](https://nodejs.org/en/download/)]
-- **Go v1.20+**: [[https://go.dev/doc/install](https://go.dev/doc/install)]
+- **Go v1.22+**: [[https://go.dev/doc/install](https://go.dev/doc/install)]
 
 ### Install Dependencies
 
