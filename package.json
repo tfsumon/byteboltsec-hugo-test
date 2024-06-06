@@ -8,5 +8,9 @@
     "dev": "hugo server",
     "build": "hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic",
     "preview": "hugo server --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --watch --forceSyncStatic -e production --minify"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5",
+    "prettier-plugin-go-template": "0.0.15"
   }
 }
