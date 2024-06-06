@@ -2,7 +2,7 @@
 Discovered: October 31, 2021
 date: '2021-10-31'
 title: rockportmusic.org
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2021/october

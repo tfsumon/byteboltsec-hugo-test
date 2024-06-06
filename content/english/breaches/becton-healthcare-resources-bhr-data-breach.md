@@ -2,7 +2,7 @@
 date: '2023-04-07'
 discovered: April 07, 2023
 title: Becton Healthcare Resources (BHR)
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/april

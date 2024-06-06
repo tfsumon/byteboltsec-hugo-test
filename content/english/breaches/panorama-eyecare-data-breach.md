@@ -2,7 +2,7 @@
 date: '2023-07-12'
 discovered: July 12, 2023
 title: Panorama Eyecare
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/july

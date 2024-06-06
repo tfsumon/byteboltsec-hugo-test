@@ -2,7 +2,7 @@
 date: '2023-12-14'
 discovered: December 14, 2023
 title: Catholic Charities of the Archdiocese of Miami
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/december

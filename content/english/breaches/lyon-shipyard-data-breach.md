@@ -2,7 +2,7 @@
 date: '2024-01-24'
 discovered: January 24, 2024
 title: Lyon Shipyard
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/january

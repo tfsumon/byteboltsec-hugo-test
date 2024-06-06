@@ -2,7 +2,7 @@
 date: '2024-02-29'
 discovered: February 29, 2024
 title: Eastern Shipbuilding Group
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/february

@@ -2,7 +2,7 @@
 date: '2023-01-17'
 discovered: January 17, 2023
 title: The Automobile and Touring Club of the UAE (ATCUAE)
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/january

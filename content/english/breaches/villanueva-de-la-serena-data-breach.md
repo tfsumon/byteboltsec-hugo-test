@@ -2,7 +2,7 @@
 date: '2023-11-20'
 discovered: November 20, 2023
 title: Villanueva de la Serena
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/november

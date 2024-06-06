@@ -2,7 +2,7 @@
 date: '2024-05-24'
 discovered: May 24, 2024
 title: Valley Land Title
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 yearmonths: 2024/may
 draft: false

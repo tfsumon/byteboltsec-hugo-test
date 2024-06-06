@@ -2,7 +2,7 @@
 Discovered: November 20, 2021
 date: '2021-11-20'
 title: betsaisonparagot.fr
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2021/november

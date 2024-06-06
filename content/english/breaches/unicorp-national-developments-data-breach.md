@@ -2,7 +2,7 @@
 date: '2023-08-02'
 discovered: August 02, 2023
 title: Unicorp National Developments
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/august

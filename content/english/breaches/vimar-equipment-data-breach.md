@@ -2,7 +2,7 @@
 date: '2024-02-07'
 discovered: February 07, 2024
 title: Vimar Equipment
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/february

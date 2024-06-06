@@ -2,7 +2,7 @@
 Discovered: December 15, 2021
 date: '2021-12-15'
 title: g1group.co.uk
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2021/december

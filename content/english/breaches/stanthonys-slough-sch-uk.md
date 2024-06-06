@@ -2,7 +2,7 @@
 Discovered: March 12, 2022
 date: '2022-03-12'
 title: stanthonys.slough.sch.uk
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2022/march

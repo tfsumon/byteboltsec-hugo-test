@@ -2,7 +2,7 @@
 date: '2023-07-27'
 discovered: July 27, 2023
 title: Schoolcraft Memorial Hospital
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/july

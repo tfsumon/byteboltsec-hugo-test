@@ -2,7 +2,7 @@
 date: '2023-12-21'
 discovered: December 21, 2023
 title: Shri Lakshmi
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/december

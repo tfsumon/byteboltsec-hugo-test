@@ -2,7 +2,7 @@
 date: '2024-05-22'
 discovered: May 22, 2024
 title: London Drugs
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 yearmonths: 2024/may
 draft: false

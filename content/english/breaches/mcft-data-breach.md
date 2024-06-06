@@ -2,7 +2,7 @@
 Discovered: December 16, 2022
 date: '2022-12-16'
 title: MCFT
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2022/december

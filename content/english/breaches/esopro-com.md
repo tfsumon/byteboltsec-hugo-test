@@ -2,7 +2,7 @@
 Discovered: September 28, 2021
 date: '2021-09-28'
 title: esopro.com
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2021/september

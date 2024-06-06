@@ -2,7 +2,7 @@
 Discovered: November 27, 2020
 date: '2020-11-27'
 title: tntorello.com
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2020/november

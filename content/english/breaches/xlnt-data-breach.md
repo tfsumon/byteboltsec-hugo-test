@@ -2,7 +2,7 @@
 date: '2023-01-25'
 discovered: January 25, 2023
 title: XLNT
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/january

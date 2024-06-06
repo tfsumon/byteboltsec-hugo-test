@@ -2,7 +2,7 @@
 date: '2023-05-18'
 discovered: May 18, 2023
 title: Plastictecnic
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/may

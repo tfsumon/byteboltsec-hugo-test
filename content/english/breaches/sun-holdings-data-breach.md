@@ -2,7 +2,7 @@
 date: '2024-03-13'
 discovered: March 13, 2024
 title: Sun Holdings
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/march

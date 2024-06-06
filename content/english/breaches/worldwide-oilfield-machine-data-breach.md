@@ -2,7 +2,7 @@
 date: '2023-02-20'
 discovered: February 20, 2023
 title: Worldwide Oilfield Machine
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/february

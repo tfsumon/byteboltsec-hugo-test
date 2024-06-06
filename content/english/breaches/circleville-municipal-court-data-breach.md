@@ -2,7 +2,7 @@
 date: '2023-01-12'
 discovered: January 12, 2023
 title: Circleville Municipal Court
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/january

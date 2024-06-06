@@ -2,7 +2,7 @@
 date: '2023-12-29'
 discovered: December 29, 2023
 title: Coastal Plains
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/december

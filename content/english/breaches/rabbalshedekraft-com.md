@@ -2,7 +2,7 @@
 Discovered: October 05, 2021
 date: '2021-10-05'
 title: rabbalshedekraft.com
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2021/october

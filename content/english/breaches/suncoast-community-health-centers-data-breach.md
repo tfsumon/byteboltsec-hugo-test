@@ -2,7 +2,7 @@
 date: '2023-10-05'
 discovered: October 05, 2023
 title: Suncoast Community Health Centers
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/october

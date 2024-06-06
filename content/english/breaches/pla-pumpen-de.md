@@ -2,7 +2,7 @@
 Discovered: August 29, 2021
 date: '2021-08-29'
 title: pla-pumpen.de
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2021/august

@@ -2,7 +2,7 @@
 date: '2023-11-08'
 discovered: November 08, 2023
 title: Centro Regional Coordination and Development Commission
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/november

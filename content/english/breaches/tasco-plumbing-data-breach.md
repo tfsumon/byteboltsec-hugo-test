@@ -2,7 +2,7 @@
 date: '2024-04-22'
 discovered: April 22, 2024
 title: Tasco Plumbing
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/april

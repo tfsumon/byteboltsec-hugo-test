@@ -2,7 +2,7 @@
 Discovered: September 06, 2022
 date: '2022-09-06'
 title: SBR
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2022/september

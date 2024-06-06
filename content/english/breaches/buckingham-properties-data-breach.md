@@ -2,7 +2,7 @@
 date: '2023-06-01'
 discovered: June 01, 2023
 title: Buckingham Properties
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/june

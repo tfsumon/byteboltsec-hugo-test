@@ -2,7 +2,7 @@
 date: '2024-03-08'
 discovered: March 08, 2024
 title: RMH Franchise
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/march

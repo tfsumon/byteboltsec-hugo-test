@@ -2,7 +2,7 @@
 date: '2023-11-13'
 discovered: November 13, 2023
 title: ATEN
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/november

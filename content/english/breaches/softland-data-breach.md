@@ -2,7 +2,7 @@
 date: '2023-05-22'
 discovered: May 22, 2023
 title: Softland
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/may

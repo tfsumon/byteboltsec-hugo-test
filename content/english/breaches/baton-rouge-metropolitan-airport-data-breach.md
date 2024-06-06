@@ -2,7 +2,7 @@
 date: '2023-06-16'
 discovered: June 16, 2023
 title: Baton Rouge Metropolitan Airport
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/june

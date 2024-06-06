@@ -2,7 +2,7 @@
 date: '2023-07-25'
 discovered: July 25, 2023
 title: Ridgeview Industries
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/july

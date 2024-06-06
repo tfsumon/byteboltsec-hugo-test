@@ -2,7 +2,7 @@
 date: '2023-07-24'
 discovered: July 24, 2023
 title: Champion GSE
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/july

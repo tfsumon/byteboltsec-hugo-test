@@ -2,7 +2,7 @@
 date: '2024-05-02'
 discovered: May 02, 2024
 title: Pease
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 yearmonths: 2024/may
 draft: false

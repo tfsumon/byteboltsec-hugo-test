@@ -2,7 +2,7 @@
 Discovered: January 02, 2023
 date: '2023-01-02'
 title: L'Agenzia delle Entrate or Italian Revenue Agency
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/january

@@ -2,7 +2,7 @@
 Discovered: February 08, 2022
 date: '2022-02-08'
 title: ibasis.net
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2022/february

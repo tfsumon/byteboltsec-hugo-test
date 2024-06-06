@@ -2,7 +2,7 @@
 date: '2023-10-27'
 discovered: October 27, 2023
 title: Camino Real Community Services
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/october

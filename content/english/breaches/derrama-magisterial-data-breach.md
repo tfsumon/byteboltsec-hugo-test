@@ -2,7 +2,7 @@
 date: '2024-02-01'
 discovered: February 01, 2024
 title: Derrama Magisterial
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/february

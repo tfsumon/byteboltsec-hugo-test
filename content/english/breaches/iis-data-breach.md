@@ -2,7 +2,7 @@
 Discovered: July 13, 2022
 date: '2022-07-13'
 title: IIS
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2022/july

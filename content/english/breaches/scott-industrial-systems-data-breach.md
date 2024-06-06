@@ -2,7 +2,7 @@
 Discovered: November 15, 2022
 date: '2022-11-15'
 title: Scott Industrial Systems
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2022/november

@@ -2,7 +2,7 @@
 date: '2024-03-27'
 discovered: March 27, 2024
 title: Polycab
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/march

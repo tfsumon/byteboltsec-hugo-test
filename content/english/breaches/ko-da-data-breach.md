@@ -2,7 +2,7 @@
 Discovered: December 12, 2022
 date: '2022-12-12'
 title: KO DA
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2022/december

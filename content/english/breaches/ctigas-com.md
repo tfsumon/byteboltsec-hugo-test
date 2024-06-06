@@ -2,7 +2,7 @@
 Discovered: March 27, 2022
 date: '2022-03-27'
 title: ctigas.com
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2022/march

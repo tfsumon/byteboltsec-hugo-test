@@ -2,7 +2,7 @@
 date: '2023-04-18'
 discovered: April 18, 2023
 title: PS Energy Group
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/april

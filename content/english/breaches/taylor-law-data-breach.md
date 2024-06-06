@@ -2,7 +2,7 @@
 date: '2024-04-29'
 discovered: April 29, 2024
 title: Taylor Law
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/april

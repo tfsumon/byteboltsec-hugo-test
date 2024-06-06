@@ -2,7 +2,7 @@
 date: '2023-10-20'
 discovered: October 20, 2023
 title: SA Law
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/october

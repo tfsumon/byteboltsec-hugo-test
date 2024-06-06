@@ -2,7 +2,7 @@
 date: '2024-03-12'
 discovered: March 12, 2024
 title: Laser Eye Clinic in London
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/march

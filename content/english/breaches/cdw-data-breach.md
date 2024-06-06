@@ -2,7 +2,7 @@
 date: '2023-09-05'
 discovered: September 05, 2023
 title: CDW
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/september

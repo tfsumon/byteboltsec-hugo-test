@@ -2,7 +2,7 @@
 date: '2024-03-14'
 discovered: March 14, 2024
 title: Teupe & Söhne Gerüstbau
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/march

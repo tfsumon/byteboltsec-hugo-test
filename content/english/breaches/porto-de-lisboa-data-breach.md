@@ -2,7 +2,7 @@
 Discovered: December 29, 2022
 date: '2022-12-29'
 title: Porto de Lisboa
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2022/december

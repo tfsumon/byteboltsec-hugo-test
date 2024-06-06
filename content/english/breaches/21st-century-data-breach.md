@@ -2,7 +2,7 @@
 date: '2024-05-13'
 discovered: May 13, 2024
 title: 21st Century
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 yearmonths: 2024/may
 draft: false

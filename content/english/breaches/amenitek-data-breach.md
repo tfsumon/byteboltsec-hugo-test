@@ -2,7 +2,7 @@
 date: '2024-01-15'
 discovered: January 15, 2024
 title: Amenitek
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/january

@@ -2,7 +2,7 @@
 date: '2024-03-11'
 discovered: March 11, 2024
 title: Redwood Coast Regional Center
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/march

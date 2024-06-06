@@ -2,7 +2,7 @@
 date: '2023-08-21'
 discovered: August 21, 2023
 title: S3 Group
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/august

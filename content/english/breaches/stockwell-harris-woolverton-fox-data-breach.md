@@ -2,7 +2,7 @@
 date: '2023-08-23'
 discovered: August 23, 2023
 title: Stockwell, Harris, Woolverton & Fox
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/august

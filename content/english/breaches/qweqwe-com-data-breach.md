@@ -2,7 +2,7 @@
 date: '2024-05-09'
 discovered: May 09, 2024
 title: qweqwe.com
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 yearmonths: 2024/may
 draft: false

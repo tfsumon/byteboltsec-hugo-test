@@ -2,7 +2,7 @@
 date: '2023-12-26'
 discovered: December 26, 2023
 title: Pickens County South Carolina
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/december

@@ -2,7 +2,7 @@
 date: '2023-04-27'
 discovered: April 27, 2023
 title: Bg2i
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/april

@@ -2,7 +2,7 @@
 date: '2023-09-25'
 discovered: September 25, 2023
 title: Altman Plants
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/september

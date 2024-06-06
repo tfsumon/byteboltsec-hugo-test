@@ -2,7 +2,7 @@
 date: '2023-10-10'
 discovered: October 10, 2023
 title: Atlanta Technical College
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/october

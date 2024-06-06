@@ -2,7 +2,7 @@
 Discovered: September 18, 2022
 date: '2022-09-18'
 title: Kaffee Berlin
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2022/september

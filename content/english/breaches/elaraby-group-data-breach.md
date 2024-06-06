@@ -2,7 +2,7 @@
 date: '2024-05-07'
 discovered: May 07, 2024
 title: Elaraby Group
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 yearmonths: 2024/may
 draft: false

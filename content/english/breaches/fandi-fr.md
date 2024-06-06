@@ -2,7 +2,7 @@
 Discovered: November 16, 2021
 date: '2021-11-16'
 title: fandi.fr
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2021/november

@@ -2,7 +2,7 @@
 date: '2023-08-15'
 discovered: August 15, 2023
 title: Qatar Building Company (QBC)
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/august

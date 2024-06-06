@@ -2,7 +2,7 @@
 Discovered: January 20, 2022
 date: '2022-01-20'
 title: bernheim.org
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2022/january

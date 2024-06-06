@@ -2,7 +2,7 @@
 date: '2023-11-23'
 discovered: November 23, 2023
 title: Merz Elektro
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/november

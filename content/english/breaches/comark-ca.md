@@ -2,7 +2,7 @@
 Discovered: December 08, 2021
 date: '2021-12-08'
 title: comark.ca
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2021/december

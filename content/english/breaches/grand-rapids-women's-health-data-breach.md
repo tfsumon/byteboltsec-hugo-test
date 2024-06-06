@@ -2,7 +2,7 @@
 date: '2023-12-15'
 discovered: December 15, 2023
 title: Grand Rapids Women's Health
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/december

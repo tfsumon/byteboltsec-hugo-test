@@ -2,7 +2,7 @@
 Discovered: October 31, 2022
 date: '2022-10-31'
 title: AA Anchor Bolt
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2022/october

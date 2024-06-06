@@ -2,7 +2,7 @@
 date: '2024-04-16'
 discovered: April 16, 2024
 title: ND Paper
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/april

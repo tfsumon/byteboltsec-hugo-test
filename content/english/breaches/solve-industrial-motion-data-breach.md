@@ -2,7 +2,7 @@
 date: '2023-12-13'
 discovered: December 13, 2023
 title: Solve Industrial Motion
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/december

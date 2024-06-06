@@ -2,7 +2,7 @@
 date: '2024-04-06'
 discovered: April 06, 2024
 title: True Homes
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/april

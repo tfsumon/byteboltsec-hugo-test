@@ -2,7 +2,7 @@
 date: '2023-10-25'
 discovered: October 25, 2023
 title: Link Microtek
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/october

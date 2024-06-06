@@ -2,7 +2,7 @@
 date: '2023-03-21'
 discovered: March 21, 2023
 title: eMotors Direct
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/march

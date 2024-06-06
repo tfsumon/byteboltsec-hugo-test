@@ -2,7 +2,7 @@
 date: '2024-05-27'
 discovered: May 27, 2024
 title: Kharafi Global
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 yearmonths: 2024/may
 draft: false

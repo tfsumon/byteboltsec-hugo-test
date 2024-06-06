@@ -2,7 +2,7 @@
 date: '2023-02-27'
 discovered: February 27, 2023
 title: iSpace
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/february

@@ -2,7 +2,7 @@
 Discovered: August 18, 2022
 date: '2022-08-18'
 title: Porcelanosa
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2022/august

@@ -2,7 +2,7 @@
 date: '2023-12-08'
 discovered: December 08, 2023
 title: Omega Pain Clinic
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/december

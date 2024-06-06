@@ -2,7 +2,7 @@
 Discovered: October 20, 2021
 date: '2021-10-20'
 title: hitrac-engineering.com
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2021/october

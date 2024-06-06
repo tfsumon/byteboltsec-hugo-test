@@ -2,7 +2,7 @@
 date: '2024-01-17'
 discovered: January 17, 2024
 title: Millgate
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/january

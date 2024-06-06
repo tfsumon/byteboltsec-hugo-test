@@ -2,7 +2,7 @@
 date: '2024-01-02'
 discovered: January 02, 2024
 title: Contimade
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/january

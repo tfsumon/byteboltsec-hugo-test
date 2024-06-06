@@ -2,7 +2,7 @@
 date: '2024-01-08'
 discovered: January 08, 2024
 title: IPS Securex
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/january

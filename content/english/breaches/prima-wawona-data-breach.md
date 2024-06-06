@@ -2,7 +2,7 @@
 date: '2024-02-06'
 discovered: February 06, 2024
 title: Prima Wawona
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/february

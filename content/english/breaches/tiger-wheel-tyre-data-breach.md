@@ -2,7 +2,7 @@
 date: '2024-01-11'
 discovered: January 11, 2024
 title: Tiger Wheel & Tyre
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/january

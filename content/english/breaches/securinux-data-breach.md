@@ -2,7 +2,7 @@
 date: '2024-01-29'
 discovered: January 29, 2024
 title: Securinux
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/january

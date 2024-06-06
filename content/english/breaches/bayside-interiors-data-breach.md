@@ -2,7 +2,7 @@
 date: '2023-04-10'
 discovered: April 10, 2023
 title: Bayside Interiors
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/april

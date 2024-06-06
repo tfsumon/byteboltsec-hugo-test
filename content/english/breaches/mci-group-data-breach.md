@@ -2,7 +2,7 @@
 date: '2024-01-09'
 discovered: January 09, 2024
 title: MCI Group
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/january

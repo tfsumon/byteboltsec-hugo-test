@@ -2,7 +2,7 @@
 date: '2024-05-30'
 discovered: May 30, 2024
 title: Heras UK
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 yearmonths: 2024/may
 draft: false

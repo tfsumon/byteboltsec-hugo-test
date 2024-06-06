@@ -2,7 +2,7 @@
 date: '2024-01-23'
 discovered: January 23, 2024
 title: David's Bridal
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/january

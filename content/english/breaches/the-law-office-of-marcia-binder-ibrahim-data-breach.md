@@ -2,7 +2,7 @@
 date: '2023-11-07'
 discovered: November 07, 2023
 title: The Law Office of Marcia Binder Ibrahim
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/november

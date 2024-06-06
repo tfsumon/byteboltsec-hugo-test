@@ -2,7 +2,7 @@
 date: '2024-04-03'
 discovered: April 03, 2024
 title: Lavelle
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/april

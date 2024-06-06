@@ -2,7 +2,7 @@
 date: '2023-05-16'
 discovered: May 16, 2023
 title: mundo-R
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/may

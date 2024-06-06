@@ -2,7 +2,7 @@
 date: '2024-02-02'
 discovered: February 02, 2024
 title: Stemcor
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/february

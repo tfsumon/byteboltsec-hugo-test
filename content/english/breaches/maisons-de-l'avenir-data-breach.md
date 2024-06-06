@@ -2,7 +2,7 @@
 date: '2024-01-16'
 discovered: January 16, 2024
 title: Maisons de l'Avenir
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/january

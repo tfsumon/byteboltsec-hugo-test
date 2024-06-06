@@ -2,7 +2,7 @@
 Discovered: November 07, 2022
 date: '2022-11-07'
 title: The Net Group
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2022/november

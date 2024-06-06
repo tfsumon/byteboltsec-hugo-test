@@ -2,7 +2,7 @@
 date: '2024-02-28'
 discovered: February 28, 2024
 title: Nouvelle Parfumerie Gandour
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/february

@@ -2,7 +2,7 @@
 date: '2023-02-09'
 discovered: February 09, 2023
 title: Phihong
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/february

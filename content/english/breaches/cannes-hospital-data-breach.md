@@ -2,7 +2,7 @@
 date: '2024-04-30'
 discovered: April 30, 2024
 title: Cannes Hospital
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 yearmonths: 2024/april
 draft: false

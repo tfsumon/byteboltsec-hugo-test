@@ -2,7 +2,7 @@
 date: '2023-04-03'
 discovered: April 03, 2023
 title: Ativy
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/april

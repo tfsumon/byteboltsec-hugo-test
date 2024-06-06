@@ -2,7 +2,7 @@
 Discovered: September 09, 2022
 date: '2022-09-09'
 title: Marugo Kiso Kogyo
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2022/september

@@ -2,7 +2,7 @@
 date: '2024-02-20'
 discovered: February 20, 2024
 title: SOCO.be
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/february

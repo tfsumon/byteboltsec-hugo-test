@@ -2,7 +2,7 @@
 date: '2024-05-14'
 discovered: May 14, 2024
 title: JMJ
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 yearmonths: 2024/may
 draft: false

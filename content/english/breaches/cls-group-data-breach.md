@@ -2,7 +2,7 @@
 date: '2023-07-07'
 discovered: July 07, 2023
 title: CLS Group
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/july

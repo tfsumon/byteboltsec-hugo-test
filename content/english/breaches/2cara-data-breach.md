@@ -2,7 +2,7 @@
 date: '2023-01-31'
 discovered: January 31, 2023
 title: 2CARA
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/january

@@ -2,7 +2,7 @@
 date: '2023-08-07'
 discovered: August 07, 2023
 title: Haynes International
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/august

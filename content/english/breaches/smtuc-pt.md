@@ -2,7 +2,7 @@
 Discovered: May 02, 2022
 date: '2022-05-02'
 title: smtuc.pt
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2022/may

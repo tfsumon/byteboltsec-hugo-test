@@ -2,7 +2,7 @@
 date: '2024-02-12'
 discovered: February 12, 2024
 title: American Integrated Security Group
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/february

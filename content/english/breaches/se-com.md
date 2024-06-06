@@ -2,7 +2,7 @@
 Discovered: December 10, 2021
 date: '2021-12-10'
 title: se.com
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2021/december

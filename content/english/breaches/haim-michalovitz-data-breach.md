@@ -2,7 +2,7 @@
 date: '2023-09-18'
 discovered: September 18, 2023
 title: Haim Michalovitz
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/september

@@ -2,7 +2,7 @@
 date: '2023-11-09'
 discovered: November 09, 2023
 title: Fawry
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/november

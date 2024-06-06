@@ -2,7 +2,7 @@
 Discovered: December 13, 2021
 date: '2021-12-13'
 title: caudillseed.com
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2021/december

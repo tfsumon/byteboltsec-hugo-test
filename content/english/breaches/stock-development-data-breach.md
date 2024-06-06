@@ -2,7 +2,7 @@
 date: '2024-03-04'
 discovered: March 04, 2024
 title: Stock Development
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/march

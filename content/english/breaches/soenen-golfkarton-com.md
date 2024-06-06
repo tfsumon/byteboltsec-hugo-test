@@ -2,7 +2,7 @@
 Discovered: September 12, 2021
 date: '2021-09-12'
 title: soenen-golfkarton.com
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2021/september

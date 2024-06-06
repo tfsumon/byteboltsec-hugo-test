@@ -2,7 +2,7 @@
 Discovered: April 25, 2022
 date: '2022-04-25'
 title: schriesheim.de
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2022/april

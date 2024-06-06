@@ -2,7 +2,7 @@
 Discovered: August 31, 2021
 date: '2021-08-31'
 title: abecho.co.jp
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2021/august

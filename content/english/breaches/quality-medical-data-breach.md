@@ -2,7 +2,7 @@
 Discovered: August 14, 2022
 date: '2022-08-14'
 title: Quality Medical
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2022/august

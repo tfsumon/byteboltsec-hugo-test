@@ -2,7 +2,7 @@
 date: '2024-03-15'
 discovered: March 15, 2024
 title: D'Hanis ISD
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/march

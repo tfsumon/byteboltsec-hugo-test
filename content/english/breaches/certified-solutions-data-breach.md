@@ -2,7 +2,7 @@
 date: '2024-03-18'
 discovered: March 18, 2024
 title: Certified Solutions
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/march

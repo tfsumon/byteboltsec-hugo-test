@@ -2,7 +2,7 @@
 Discovered: June 13, 2022
 date: '2022-06-13'
 title: PTG
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2022/june

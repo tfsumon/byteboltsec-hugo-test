@@ -2,7 +2,7 @@
 date: '2024-05-01'
 discovered: May 01, 2024
 title: SBS of Bakersfield
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 yearmonths: 2024/may
 draft: false

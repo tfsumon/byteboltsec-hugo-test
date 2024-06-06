@@ -2,7 +2,7 @@
 date: '2024-05-16'
 discovered: May 16, 2024
 title: Morris Group
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 yearmonths: 2024/may
 draft: false

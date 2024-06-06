@@ -2,7 +2,7 @@
 date: '2024-05-10'
 discovered: May 10, 2024
 title: Ajuntament de Calvià is the local administration of the municipality of Calvià, located in Mallorca.
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 yearmonths: 2024/may
 draft: false

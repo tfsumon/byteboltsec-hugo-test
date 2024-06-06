@@ -2,7 +2,7 @@
 Discovered: March 04, 2022
 date: '2022-03-04'
 title: richmondmonroe.com
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2022/march

@@ -2,7 +2,7 @@
 date: '2024-02-26'
 discovered: February 26, 2024
 title: National Dentex
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/february

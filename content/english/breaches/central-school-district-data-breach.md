@@ -2,7 +2,7 @@
 date: '2024-03-06'
 discovered: March 06, 2024
 title: Central School District
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/march

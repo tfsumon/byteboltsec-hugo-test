@@ -2,7 +2,7 @@
 date: '2023-08-30'
 discovered: August 30, 2023
 title: Carol Fox & Associates
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/august

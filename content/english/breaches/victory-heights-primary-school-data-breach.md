@@ -2,7 +2,7 @@
 date: '2024-02-13'
 discovered: February 13, 2024
 title: Victory Heights Primary School
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/february

@@ -2,7 +2,7 @@
 Discovered: November 08, 2021
 date: '2021-11-08'
 title: immodelaet.be
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2021/november

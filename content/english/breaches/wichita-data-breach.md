@@ -2,7 +2,7 @@
 date: '2024-05-08'
 discovered: May 08, 2024
 title: Wichita
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 yearmonths: 2024/may
 draft: false

@@ -2,7 +2,7 @@
 Discovered: August 03, 2022
 date: '2022-08-03'
 title: Tekinox
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2022/august

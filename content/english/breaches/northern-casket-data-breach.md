@@ -2,7 +2,7 @@
 date: '2024-03-22'
 discovered: March 22, 2024
 title: Northern Casket
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/march

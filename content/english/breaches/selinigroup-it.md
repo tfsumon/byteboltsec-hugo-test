@@ -2,7 +2,7 @@
 Discovered: October 28, 2021
 date: '2021-10-28'
 title: selinigroup.it
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2021/october

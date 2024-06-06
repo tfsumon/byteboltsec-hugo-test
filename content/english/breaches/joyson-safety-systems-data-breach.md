@@ -2,7 +2,7 @@
 date: '2023-05-05'
 discovered: May 05, 2023
 title: Joyson Safety Systems
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/may

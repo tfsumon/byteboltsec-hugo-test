@@ -2,7 +2,7 @@
 date: '2024-02-16'
 discovered: February 16, 2024
 title: Pradiers Granulats
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/february

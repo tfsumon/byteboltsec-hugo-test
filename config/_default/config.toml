@@ -58,10 +58,6 @@ style = 'monokai' # see https://xyproto.github.io/splash/docs/all.html
 [mediaTypes."application/manifest+json"]
 suffixes = ["webmanifest"]
 
-[mediaTypes."text/netlify"]
-delimiter = ""
-suffixes = [""]
-
 ############################ Output Format ###########################
 [outputFormats]
 [outputFormats.WebAppManifest]

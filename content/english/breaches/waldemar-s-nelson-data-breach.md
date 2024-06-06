@@ -2,7 +2,7 @@
 date: '2024-02-14'
 discovered: February 14, 2024
 title: Waldemar S. Nelson
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2024/february

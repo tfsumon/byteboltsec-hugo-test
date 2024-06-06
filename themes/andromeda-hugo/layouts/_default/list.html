@@ -14,20 +14,20 @@
     </div>
   </div>
 </section>
-{{ end }}
 
 <section class="section-sm" data-aos="fade-in">
   <div class="container-xxl">
     <div class="row justify-content-center">
-    {{ $paginator := .Paginate (where site.RegularPages "Section" "in" site.Params.mainSections) }}
+    {{ $paginator := .Paginate (where site.RegularPages "Section" "in" "blog") }}
     {{ range $paginator.Pages }}
-    <div class="col-lg-5">
-      {{ .Render "article" }}
-    </div>
+      <div class="col-lg-5">
+        {{ .Render "article" }}
+      </div>
     {{ end }}
     </div>
   </div>
 </section>
+{{ end }}
 
 <div class="section-sm pt-0">
 <div class="container-xxl">

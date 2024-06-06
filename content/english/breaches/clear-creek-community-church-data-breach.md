@@ -2,7 +2,7 @@
 date: '2023-09-14'
 discovered: September 14, 2023
 title: Clear Creek Community Church
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/september

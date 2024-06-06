@@ -2,7 +2,7 @@
 Discovered: November 24, 2021
 date: '2021-11-24'
 title: parkhotel.mk
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2021/november

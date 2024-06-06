@@ -2,7 +2,7 @@
 date: '2023-05-30'
 discovered: May 30, 2023
 title: Aquidneck Club
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/may

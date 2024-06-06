@@ -2,7 +2,7 @@
 date: '2023-04-06'
 discovered: April 06, 2023
 title: Nest Seekers
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/april

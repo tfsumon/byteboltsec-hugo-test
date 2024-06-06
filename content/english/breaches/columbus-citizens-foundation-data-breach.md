@@ -2,7 +2,7 @@
 date: '2023-05-31'
 discovered: May 31, 2023
 title: Columbus Citizens May 31, 2023ation
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/may

@@ -2,7 +2,7 @@
 Discovered: March 05, 2022
 date: '2022-03-05'
 title: safed.in
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2022/march

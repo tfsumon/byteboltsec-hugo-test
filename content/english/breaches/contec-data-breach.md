@@ -2,7 +2,7 @@
 date: '2023-05-10'
 discovered: May 10, 2023
 title: Contec
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2023/may

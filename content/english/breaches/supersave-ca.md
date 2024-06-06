@@ -2,7 +2,7 @@
 Discovered: January 19, 2022
 date: '2022-01-19'
 title: supersave.ca
-image: images/blog/LockBit.png
+image: images/blog/lockbit.png
 author: Breachsense Support
 draft: false
 yearmonths: 2022/january
